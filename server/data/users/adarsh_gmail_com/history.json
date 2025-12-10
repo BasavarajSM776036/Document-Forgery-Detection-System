@@ -1,0 +1,2074 @@
+[
+  {
+    "type": "upload",
+    "user": "adarsh@gmail.com",
+    "fileName": "1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "storedAs": "1763655197202-1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "hash": "3a49acb67626bfb6c0133c93aa7044c69ec9e62f24e7b34d89b6c7a838f44422",
+    "url": "http://localhost:5000/uploads/adarsh_gmail_com/originals/1763655197202-1-7eb1fd61-d636-4964-b6a7-1de045b266ba%20(1)%20(1).pdf",
+    "date": "2025-11-20T16:13:17.259Z"
+  },
+  {
+    "type": "verify",
+    "user": "adarsh@gmail.com",
+    "fileName": "1-9fbd3cdc-9489-403e-9e65-25c11229af40 (1) (1).pdf",
+    "storedAs": "1763655203003-1-9fbd3cdc-9489-403e-9e65-25c11229af40 (1) (1).pdf",
+    "url": "http://localhost:5000/uploads/adarsh_gmail_com/verify/1763655203003-1-9fbd3cdc-9489-403e-9e65-25c11229af40%20(1)%20(1).pdf",
+    "status": "Fake",
+    "similarity": "53.22%",
+    "matchedOriginal": "http://localhost:5000/uploads/adarsh_gmail_com/originals/1763655197202-1-7eb1fd61-d636-4964-b6a7-1de045b266ba%20(1)%20(1).pdf",
+    "analysis": {
+      "lineAnalysis": [
+        {
+          "originalLine": 1,
+          "originalText": "The certificate is awarded to",
+          "type": "modified",
+          "verifyLine": 1,
+          "verifyText": "The certi\u0000cate is awarded to",
+          "wordDiff": {
+            "added": [
+              "certi\u0000cate"
+            ],
+            "removed": [
+              "certificate"
+            ]
+          }
+        },
+        {
+          "originalLine": 2,
+          "originalText": "Basavaraj Maneppagol",
+          "type": "match",
+          "verifyLine": 2,
+          "verifyText": "Basavaraj Maneppagol"
+        },
+        {
+          "originalLine": 3,
+          "originalText": "for successfully completing the course",
+          "type": "match",
+          "verifyLine": 3,
+          "verifyText": "for successfully completing the course"
+        },
+        {
+          "originalLine": 4,
+          "originalText": "Database and SQL",
+          "type": "modified",
+          "verifyLine": 4,
+          "verifyText": "Data Structures and Algorithms using Java",
+          "wordDiff": {
+            "added": [
+              "Data Structures",
+              "Algorithms using Java"
+            ],
+            "removed": [
+              "Database",
+              "SQL"
+            ]
+          }
+        },
+        {
+          "originalLine": 5,
+          "originalText": "on June 3, 2024",
+          "type": "modified",
+          "verifyLine": 5,
+          "verifyText": "on July 27, 2024",
+          "wordDiff": {
+            "added": [
+              "July 27,"
+            ],
+            "removed": [
+              "June 3,"
+            ]
+          }
+        },
+        {
+          "originalLine": 6,
+          "originalText": "Issued on: Monday, June 3, 2024",
+          "type": "modified",
+          "verifyLine": 6,
+          "verifyText": "Issued on: Saturday, July 27, 2024",
+          "wordDiff": {
+            "added": [
+              "Saturday, July 27,"
+            ],
+            "removed": [
+              "Monday, June 3,"
+            ]
+          }
+        },
+        {
+          "originalLine": 7,
+          "originalText": "To verify, scan the QR code at https://verify.onwingspan.com",
+          "type": "match",
+          "verifyLine": 7,
+          "verifyText": "To verify, scan the QR code at https://verify.onwingspan.com"
+        }
+      ],
+      "model": "tfidf-cosine",
+      "similarity": 53.22,
+      "summary": {
+        "added": 0,
+        "matches": 3,
+        "modified": 4,
+        "removed": 0,
+        "totalOriginalLines": 7,
+        "totalVerifyLines": 7
+      },
+      "textStats": {
+        "originalCharacters": 223,
+        "originalLines": 7,
+        "verifyCharacters": 251,
+        "verifyLines": 7
+      },
+      "truncated": false
+    },
+    "date": "2025-11-20T16:13:23.332Z"
+  },
+  {
+    "type": "upload",
+    "user": "adarsh@gmail.com",
+    "fileName": "online quize.jpg",
+    "storedAs": "1763655277223-online quize.jpg",
+    "hash": "0e64246b68b7ae7a259dcb9055ce6aa02e2e856607a6f1a210ae1c74cc941f73",
+    "url": "http://localhost:5000/uploads/adarsh_gmail_com/originals/1763655277223-online%20quize.jpg",
+    "date": "2025-11-20T16:14:37.341Z"
+  },
+  {
+    "type": "verify",
+    "user": "adarsh@gmail.com",
+    "fileName": "WhatsApp Image 2025-03-20 at 14.17.59_7086d112.jpg",
+    "storedAs": "1763655284457-WhatsApp Image 2025-03-20 at 14.17.59_7086d112.jpg",
+    "url": "http://localhost:5000/uploads/adarsh_gmail_com/verify/1763655284457-WhatsApp%20Image%202025-03-20%20at%2014.17.59_7086d112.jpg",
+    "status": "Fake",
+    "similarity": "21.74%",
+    "matchedOriginal": "http://localhost:5000/uploads/adarsh_gmail_com/originals/1763655277223-online%20quize.jpg",
+    "analysis": {
+      "lineAnalysis": [
+        {
+          "originalLine": 1,
+          "originalText": "\u0000\u0010JFIF\u0000\u0001\u0001\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u0000\u0006\u0006\u0006\u0006\u0007\u0006\u0007\b\b\u0007",
+          "type": "match",
+          "verifyLine": 1,
+          "verifyText": "\u0000\u0010JFIF\u0000\u0001\u0001\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u0000\u0006\u0006\u0006\u0006\u0007\u0006\u0007\b\b\u0007"
+        },
+        {
+          "originalLine": 2,
+          "originalText": "\u000f\u000e \u000e\u000f\u0016\u0010\u0011\u0010\u0011\u0010\u0016\"\u0015\u0019\u0015\u0015\u0019\u0015\" $ $ 6*&&*6>424>LDDL_Z_||\u0001\u0006\u0006\u0006\u0006\u0007\u0006\u0007\b\b\u0007",
+          "type": "match",
+          "verifyLine": 2,
+          "verifyText": "\u000f\u000e \u000e\u000f\u0016\u0010\u0011\u0010\u0011\u0010\u0016\"\u0015\u0019\u0015\u0015\u0019\u0015\" $ $ 6*&&*6>424>LDDL_Z_||\u0001\u0006\u0006\u0006\u0006\u0007\u0006\u0007\b\b\u0007"
+        },
+        {
+          "originalLine": 3,
+          "originalText": "\u000f\u000e \u000e\u000f\u0016\u0010\u0011\u0010\u0011\u0010\u0016\"\u0015\u0019\u0015\u0015\u0019\u0015\" $ $ 6*&&*6>424>LDDL_Z_||\u0000\u0011\b\u0003\u0005x\u0003\u0001\"\u0000\u0002\u0011\u0001\u0003\u0011\u0001\u00002\u0000\u0001\u0000\u0003\u0001\u0001\u0001\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0002\u0003\u0004\u0005\u0006\u0007\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0002\u0003\u0004\u0005\u0000 \u0003\u0001\u0000\u0002\u0010\u0003\u0010\u0000\u0000\u0002TN\u0000\u0000\u0001\u0002@\u0000\u0002 @\u0000\u0001\u0002Q \u0000\u0000@\u0000\u0000@\u0000\u0000\u0010%\u0012\u0000\u0000P$\u0000\u0000@H\u0000\u0000\u0010$\u0000\u0000 H\u0000\u0000\u0010%\u0012\u0000\u0000\u0004 \u0000\u0000\b%\u0012\u0000\u0000\u0004 \u0000\u0000\b%\u0012\u0000\u0000\u0004 D\u0000 \u0000\u0000\b%\u0012\u0000\u0000\u0004 \u0000\u0010\u0000\u00032ԋf5c\bH\u0000A9ґ17ՠ\u0000!\"%\u0004YD4+T\"@\u0000DV[\biVXH\u0000\u0000\u0015e\u00117",
+          "type": "modified",
+          "verifyLine": 3,
+          "verifyText": "\u000f\u000e \u000e\u000f\u0016\u0010\u0011\u0010\u0011\u0010\u0016\"\u0015\u0019\u0015\u0015\u0019\u0015\" $ $ 6*&&*6>424>LDDL_Z_||\u0000\u0011\b\u0002\u0004\u0003\u0003\u0001\"\u0000\u0002\u0011\u0001\u0003\u0011\u0001\u00003\u0000\u0001\u0000\u0002\u0003\u0001\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0002\u0003\u0004\u0005\u0006\u0007\u0001\u0001\u0000\u0003\u0001\u0001\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0002\u0003\u0004\u0005\u0006\u0000 \u0003\u0001\u0000\u0002\u0010\u0003\u0010\u0000\u0000\u0002 H\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\"G1V\u0016vqZhiʋE M\u0005ʋE\u001akn",
+          "wordDiff": {
+            "added": [
+              "6*&&*6>424>LDDL_Z_||\u0000\u0011\b\u0002\u0004\u0003\u0003\u0001\"\u0000\u0002\u0011\u0001\u0003\u0011\u0001\u00003\u0000\u0001\u0000\u0002\u0003\u0001\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0002\u0003\u0004\u0005\u0006\u0007\u0001\u0001\u0000\u0003\u0001\u0001\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0002\u0003\u0004\u0005\u0006\u0000 \u0003\u0001\u0000\u0002\u0010\u0003\u0010\u0000\u0000\u0002 H\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\"G1V\u0016vqZhiʋE M\u0005ʋE\u001akn"
+            ],
+            "removed": [
+              "6*&&*6>424>LDDL_Z_||\u0000\u0011\b\u0003\u0005x\u0003\u0001\"\u0000\u0002\u0011\u0001\u0003\u0011\u0001\u00002\u0000\u0001\u0000\u0003\u0001\u0001\u0001\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0002\u0003\u0004\u0005\u0006\u0007\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0002\u0003\u0004\u0005\u0000 \u0003\u0001\u0000\u0002\u0010\u0003\u0010\u0000\u0000\u0002TN\u0000\u0000\u0001\u0002@\u0000\u0002 @\u0000\u0001\u0002Q \u0000\u0000@\u0000\u0000@\u0000\u0000\u0010%\u0012\u0000\u0000P$\u0000\u0000@H\u0000\u0000\u0010$\u0000\u0000 H\u0000\u0000\u0010%\u0012\u0000\u0000\u0004 \u0000\u0000\b%\u0012\u0000\u0000\u0004 \u0000\u0000\b%\u0012\u0000\u0000\u0004 D\u0000 \u0000\u0000\b%\u0012\u0000\u0000\u0004 \u0000\u0010\u0000\u00032ԋf5c\bH\u0000A9ґ17ՠ\u0000!\"%\u0004YD4+T\"@\u0000DV[\biVXH\u0000\u0000\u0015e\u00117"
+            ]
+          }
+        },
+        {
+          "originalLine": 4,
+          "originalText": "\u0010\u0012\u0000\"3DTٞ\u0000\u0011($Ĳ'4A=u\u0000\u0000\u0004$dZ+l\u0006uԘ\u0012@\u0000̘H\u001aN:U\u0012\u0000\b':̲\"ՠ\u0004H\u0000\"@\u0000U&])\u0019KcUVZaSQfVZͬ-\u0014-9:ZS|6V5&lڭ\u0012,C;k2Se'QHmV-mH)ζ\u0016\"[6g}E)lLNs\u0010st:UEQfTZ%*\u0012N}IWK\"afM\"1dVUԭ%\u001aEt+-loWPlf]m\u0015\u0013+&ڴIh%'9tg.U)E\u0019YhehZrޚu,*mHM\u0000\u0010$\u0000DԾ5J-@>=]\u0014R\"+c.^~k4Ϯ%Y3-uV.fY:Rkd3:iϾ\u0013\u0010^Ĳ)tVk</>յΚsmdd'6ug>Z9:b՜Rٳ>i[Nd3um95m/yyvr4iYƚ kBNF\u0014cQjXkiZsܶ[޹\u0019ũ~cYg \u0015B\u0015V[_\u00194Ǡg] g=DS:SMf9NR1\u0018tg֝)iz=s>m-%\u0000 \"r+h5umΪ",
+          "type": "modified",
+          "verifyLine": 4,
+          "verifyText": "}s՟-1I12Laf\u0018Y\u001912L\u0013(12L\u0013(12L\u0013(&\u0016d0 ,af\u0018Y\u0016d0 ,\u0013(12L 00 , 0^v*#av: ~-^sWY",
+          "wordDiff": {
+            "added": [
+              "}s՟-1I12Laf\u0018Y\u001912L\u0013(12L\u0013(12L\u0013(&\u0016d0 ,af\u0018Y\u0016d0 ,\u0013(12L 00 , 0^v*#av: ~-^sWY"
+            ],
+            "removed": [
+              "\u0010\u0012\u0000\"3DTٞ\u0000\u0011($Ĳ'4A=u\u0000\u0000\u0004$dZ+l\u0006uԘ\u0012@\u0000̘H\u001aN:U\u0012\u0000\b':̲\"ՠ\u0004H\u0000\"@\u0000U&])\u0019KcUVZaSQfVZͬ-\u0014-9:ZS|6V5&lڭ\u0012,C;k2Se'QHmV-mH)ζ\u0016\"[6g}E)lLNs\u0010st:UEQfTZ%*\u0012N}IWK\"afM\"1dVUԭ%\u001aEt+-loWPlf]m\u0015\u0013+&ڴIh%'9tg.U)E\u0019YhehZrޚu,*mHM\u0000\u0010$\u0000DԾ5J-@>=]\u0014R\"+c.^~k4Ϯ%Y3-uV.fY:Rkd3:iϾ\u0013\u0010^Ĳ)tVk</>յΚsmdd'6ug>Z9:b՜Rٳ>i[Nd3um95m/yyvr4iYƚ kBNF\u0014cQjXkiZsܶ[޹\u0019ũ~cYg \u0015B\u0015V[_\u00194Ǡg] g=DS:SMf9NR1\u0018tg֝)iz=s>m-%\u0000 \"r+h5umΪ"
+            ]
+          }
+        },
+        {
+          "originalLine": 5,
+          "originalText": "K\u001aW",
+          "type": "modified",
+          "verifyLine": 5,
+          "verifyText": "\u001aoF\u0006\u0003",
+          "wordDiff": {
+            "added": [
+              "\u001aoF\u0006\u0003"
+            ],
+            "removed": [
+              "K\u001aW"
+            ]
+          }
+        },
+        {
+          "originalLine": 6,
+          "originalText": "LўkZI6zڳZS RQ.,uJ E/]\u001aY[\"]-,7ZtTLTi3u",
+          "type": "modified",
+          "verifyLine": 6,
+          "verifyText": "!3J\u0004J\u0004J\u0004J\u0004J\u0004J\u00047(wsOZik{'5@\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u0002HCSo\u0013}^WWX",
+          "wordDiff": {
+            "added": [
+              "!3J\u0004J\u0004J\u0004J\u0004J\u0004J\u00047(wsOZik{'5@\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u0002HCSo\u0013}^WWX"
+            ],
+            "removed": [
+              "LўkZI6zڳZS RQ.,uJ E/]\u001aY[\"]-,7ZtTLTi3u"
+            ]
+          }
+        },
+        {
+          "originalLine": 7,
+          "originalText": "gk'9yY{fm\u0016fKPꈭ\u0016k.JY>9#MY0MZ.Ec6LV׮u}#Y+\u0005\\km|6v2gVϬ\u0011\u0005vg5sMftb+SN:1]sW\u001bٝw:7z6THtY٦}\u0018K]\u0005FY\u0000\u0000\u0000\u0013NqLvW-(Jq\u0017(ji.i\u001aeӖukSZh-\u0013mfg DU汽񝦹ԫ\u0006Kkq4$̗mNt,Z\"Rx++NyOLc6MNUuuԭ\u0018fl*)L[Lj\u0016[",
+          "type": "modified",
+          "verifyLine": 7,
+          "verifyText": "*rۖ4s\u0019n\"\u0012@L =~G^᭴|\u0019^P%\u0002P%\u0002P%\u0002P%\u0002P%\u0002QI \u0007 {r9[\u0014HҶ\u0000 \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000H\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 \u0000\u0000\u0013\ba$L",
+          "wordDiff": {
+            "added": [
+              "*rۖ4s\u0019n\"\u0012@L =~G^᭴|\u0019^P%\u0002P%\u0002P%\u0002P%\u0002P%\u0002QI \u0007 {r9[\u0014HҶ\u0000 \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000H\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 \u0000\u0000\u0013\ba$L"
+            ],
+            "removed": [
+              "gk'9yY{fm\u0016fKPꈭ\u0016k.JY>9#MY0MZ.Ec6LV׮u}#Y+\u0005\\km|6v2gVϬ\u0011\u0005vg5sMftb+SN:1]sW\u001bٝw:7z6THtY٦}\u0018K]\u0005FY\u0000\u0000\u0000\u0013NqLvW-(Jq\u0017(ji.i\u001aeӖukSZh-\u0013mfg DU汽񝦹ԫ\u0006Kkq4$̗mNt,Z\"Rx++NyOLc6MNUuuԭ\u0018fl*)L[Lj\u0016["
+            ]
+          }
+        },
+        {
+          "originalLine": 8,
+          "originalText": "3eZGK \u0004\"%;ړd^r5z\u000e?^\\u 6/Yhκ'QHc-\u0016Ɩcb=k\u0011ZYxZ͛R#J]WY2ovZ-pRE\b$\u0018Z-ar6\u0017:ޒ祤b&jQ \u0001J\u0013UBUo\u0002\u0004Ml\u0011*VȄL\u0004\"Jb &\u0015DZ\u0004\u0000UfQ\u0000SUDV$\u0016 k1Qb\"\u0010Y5(LV\u0012Ufb\u0002EV\u0013YR\b\u0012EUY\bY \u0013J\"b\u0016Ua E-!Y J!!1\u0015jD׮}%\u0011u9{0ۙOFZ4-\u0002\u0000\u0010Vg*\u0019VK՝LokRVMUaVYs&*\u0010+5UdҥV\u0015k\u0015Ȫ3iR\"­U\u0014MTUEVJXU3k",
+          "type": "modified",
+          "verifyLine": 8,
+          "verifyText": "o\u0011Ny]^U`4gnXҾǡd%(\u0012}\u0014}.lrwv<ꬬXDXUaYYUV\u0011\u0016\u0011\u0016\u0015b}>7wkaozۧ5`\u0001 \u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+          "wordDiff": {
+            "added": [
+              "o\u0011Ny]^U`4gnXҾǡd%(\u0012}\u0014}.lrwv<ꬬXDXUaYYUV\u0011\u0016\u0011\u0016\u0015b}>7wkaozۧ5`\u0001 \u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+            ],
+            "removed": [
+              "3eZGK \u0004\"%;ړd^r5z\u000e?^\\u 6/Yhκ'QHc-\u0016Ɩcb=k\u0011ZYxZ͛R#J]WY2ovZ-pRE\b$\u0018Z-ar6\u0017:ޒ祤b&jQ \u0001J\u0013UBUo\u0002\u0004Ml\u0011*VȄL\u0004\"Jb &\u0015DZ\u0004\u0000UfQ\u0000SUDV$\u0016 k1Qb\"\u0010Y5(LV\u0012Ufb\u0002EV\u0013YR\b\u0012EUY\bY \u0013J\"b\u0016Ua E-!Y J!!1\u0015jD׮}%\u0011u9{0ۙOFZ4-\u0002\u0000\u0010Vg*\u0019VK՝LokRVMUaVYs&*\u0010+5UdҥV\u0015k\u0015Ȫ3iR\"­U\u0014MTUEVJXU3k"
+            ]
+          }
+        },
+        {
+          "originalLine": 9,
+          "originalText": "Ί3\u0015Ъ­&Y\u0015ZmhUaVY,c6*\u0015i5m\u0014ZmhDXUK\"XͶuUUY,c6T,zdUi(֕YU{ي.t,j[ k[r՜IhMNd\u0000\b$\blk",
+          "type": "modified",
+          "verifyLine": 9,
+          "verifyText": "c62# 6X\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001$L&\"H LA}>+ʬ\u0006u9}L\u001aW9lD\u0002bHٿ 9;k^̧Ȫ\"\"\"³\"\"\"",
+          "wordDiff": {
+            "added": [
+              "c62# 6X\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001$L&\"H LA}>+ʬ\u0006u9}L\u001aW9lD\u0002bHٿ 9;k^̧Ȫ\"\"\"³\"\"\""
+            ],
+            "removed": [
+              "Ί3\u0015Ъ­&Y\u0015ZmhUaVY,c6*\u0015i5m\u0014ZmhDXUK\"XͶuUUY,c6T,zdUi(֕YU{ي.t,j[ k[r՜IhMNd\u0000\b$\blk"
+            ]
+          }
+        },
+        {
+          "originalLine": 10,
+          "originalText": "u:㭗V2<ktͳe1!i[K4Q{g\u0016ȖDKJbZrL.A{d5BYT34\u0005픭ً*')JZyYT5\u0005HY*YFK5dfXVDFkZk\u0019Z\"%ՔxK5h5 kf'8T)\u0015PZ̚2U\u0013-٫ZNjeti\u0014iI)V4/DY< ֚5Vl\\\u0019tc͆@\u0000Aji6Ĝ\u00183{Do3#y\u0000\u0004H\u0000A$\u0012\bH\u0000\b\u0000\u0004\u0012\u0000\u0011 \u0000\u0000\u0002$\u0000\u0000\u0011 \u0001\u0004H! \u0002$\"DH\u0000A \u0001\u0012\u0000\"@\u0000\u0000\u0000\"DH\u0000A$\u0012\u0000\u0000\"B$\u0002$\u0004\u0012A D\u0000\u0001͝izBS>|n#M2Ihgy \u0000\u0000D",
+          "type": "modified",
+          "verifyLine": 10,
+          "verifyText": ".v\\^\u0002bvϩ5vpڙ\"i2mI\u0012\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u000e_Sy =NW\\m R)yKH\u0000\u0000\u0000\u0000\u0000\u0000\u0001 \u00041\u00012\u0011\u00013\u0004$Y\u0006+L*lSKrƴ ~[ @L\u0004nim\u0001ٷv@t~kӴ D$VdVm\u0004EEEEu\u001b=n\u0016Q.>~&,\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000rCi{",
+          "wordDiff": {
+            "added": [
+              ".v\\^\u0002bvϩ5vpڙ\"i2mI\u0012\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u000e_Sy =NW\\m R)yKH\u0000\u0000\u0000\u0000\u0000\u0000\u0001 \u00041\u00012\u0011\u00013\u0004$Y\u0006+L*lSKrƴ ~[ @L\u0004nim\u0001ٷv@t~kӴ D$VdVm\u0004EEEEu\u001b=n\u0016Q.>~&,\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000rCi{"
+            ],
+            "removed": [
+              "u:㭗V2<ktͳe1!i[K4Q{g\u0016ȖDKJbZrL.A{d5BYT34\u0005픭ً*')JZyYT5\u0005HY*YFK5dfXVDFkZk\u0019Z\"%ՔxK5h5 kf'8T)\u0015PZ̚2U\u0013-٫ZNjeti\u0014iI)V4/DY< ֚5Vl\\\u0019tc͆@\u0000Aji6Ĝ\u00183{Do3#y\u0000\u0004H\u0000A$\u0012\bH\u0000\b\u0000\u0004\u0012\u0000\u0011 \u0000\u0000\u0002$\u0000\u0000\u0011 \u0001\u0004H! \u0002$\"DH\u0000A \u0001\u0012\u0000\"@\u0000\u0000\u0000\"DH\u0000A$\u0012\u0000\u0000\"B$\u0002$\u0004\u0012A D\u0000\u0001͝izBS>|n#M2Ihgy \u0000\u0000D"
+            ]
+          }
+        },
+        {
+          "originalLine": 11,
+          "originalText": "),/\u00193k\u0014\\:\u0011n^\u0011]Z&\u0000\u0000\u0000\u0000\u0000\u0002$\u0010H\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0011\" !\"\u0012 \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\"@\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001͛f9\u001bmZަliV͔\u0002 \u0004H\b&\u0019esֺ^]jp걎zg\u0013=3\u0019ޒq}z\u0007|a Am{:p\\n\u0013׎",
+          "type": "modified",
+          "verifyLine": 11,
+          "verifyText": "S4y!\"@\u0000\u0000\u0000\u0000\u0000\u0000%$YXL$*L$JL@,jm[Ocoswފk;11\u0004LI\u001a{z[@vm1ޓz\u000fI\u000f/:BddD-\u0004-\u0004,0pz \u0000K:ݬˬ\"b@\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001ljǮ}\u0018vGP6s;\u000ew=.G^`\u0000\u0000\u0000\u0000\u0012 X\u0001a\b\u0005 \u0016\u0011\u00101{+χIV||V~wz\u0013P\u0013\u0013\u0003OsOKh\u000ex>>^\u000f\u0004Z2i>jUV\u0015XUaZi^Ub}~\u0014He9:\u0016& \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001}\u000fG!\u0017N[~)^$]\u001b J",
+          "wordDiff": {
+            "added": [
+              "S4y!\"@\u0000\u0000\u0000\u0000\u0000\u0000%$YXL$*L$JL@,jm[Ocoswފk;11\u0004LI\u001a{z[@vm1ޓz\u000fI\u000f/:BddD-\u0004-\u0004,0pz \u0000K:ݬˬ\"b@\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001ljǮ}\u0018vGP6s;\u000ew=.G^`\u0000\u0000\u0000\u0000\u0012 X\u0001a\b\u0005 \u0016\u0011\u00101{+χIV||V~wz\u0013P\u0013\u0013\u0003OsOKh\u000ex>>^\u000f\u0004Z2i>jUV\u0015XUaZi^Ub}~\u0014He9:\u0016& \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001}\u000fG!\u0017N[~)^$]\u001b J"
+            ],
+            "removed": [
+              "),/\u00193k\u0014\\:\u0011n^\u0011]Z&\u0000\u0000\u0000\u0000\u0000\u0002$\u0010H\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0011\" !\"\u0012 \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\"@\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001͛f9\u001bmZަliV͔\u0002 \u0004H\b&\u0019esֺ^]jp걎zg\u0013=3\u0019ޒq}z\u0007|a Am{:p\\n\u0013׎"
+            ]
+          }
+        },
+        {
+          "originalLine": 12,
+          "originalText": "\u0007w M#y ;@\u0000\b%\u0012\u0001\u0012\u0000\u0010$\b\u0012\u0002 @\u0000\u0001\u0002Q \u0011 \u0002$\u0000 H\u0004H\u0000@\"DH\b%\u0002@\u0000\u0004 D+Ϗ.zr/\u0015;9mm7\u000e7.݈ <ٺ&\bã\u001a[legmF֑ꆤ\u0012\u0000\u0001Q\u00197mmMⰳb0Lo1YWj}\u0019\u0019r׵\\V ?Wt zt\u000eGX6 9z \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002$\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004HVs< g|?Ceӟ\u000fG]8#w7O6n8/vkNRԺM\u0000\u0011 3+&uX\u0017KjRf[=3蘎SL\u000eN>]s\u0011$y\u0019\u0017\u0007uѡ\\{<JA\u0013\b\u0012\u0000\u0010$\u0010\u0000Q\"$B@\u0004 \u0002$DQ \u0010\u0001\u0012\u0011\"$D\u0004 \u0004$\u0000 H\u0010\u0001\u0002@\u0011 H\u0004$\u0000DH ?cYקO\u00137K׫yeqwO׹Ӽstf\u0013$s7{\u0012銼綦QZ",
+          "type": "modified",
+          "verifyLine": 12,
+          "verifyText": "+b\\.<\u0000\u0000\u0002V,*\u0002\u0010",
+          "wordDiff": {
+            "added": [
+              "+b\\.<\u0000\u0000\u0002V,*\u0002\u0010"
+            ],
+            "removed": [
+              "\u0007w M#y ;@\u0000\b%\u0012\u0001\u0012\u0000\u0010$\b\u0012\u0002 @\u0000\u0001\u0002Q \u0011 \u0002$\u0000 H\u0004H\u0000@\"DH\b%\u0002@\u0000\u0004 D+Ϗ.zr/\u0015;9mm7\u000e7.݈ <ٺ&\bã\u001a[legmF֑ꆤ\u0012\u0000\u0001Q\u00197mmMⰳb0Lo1YWj}\u0019\u0019r׵\\V ?Wt zt\u000eGX6 9z \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002$\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004HVs< g|?Ceӟ\u000fG]8#w7O6n8/vkNRԺM\u0000\u0011 3+&uX\u0017KjRf[=3蘎SL\u000eN>]s\u0011$y\u0019\u0017\u0007uѡ\\{<JA\u0013\b\u0012\u0000\u0010$\u0010\u0000Q\"$B@\u0004 \u0002$DQ \u0010\u0001\u0012\u0011\"$D\u0004 \u0004$\u0000 H\u0010\u0001\u0002@\u0011 H\u0004$\u0000DH ?cYקO\u00137K׫yeqwO׹Ӽstf\u0013$s7{\u0012銼綦QZ"
+            ]
+          }
+        },
+        {
+          "originalLine": 13,
+          "originalText": ")Y \u00003",
+          "type": "modified",
+          "verifyLine": 13,
+          "verifyText": "5753-J.Wqvv|w",
+          "wordDiff": {
+            "added": [
+              "5753-J.Wqvv|w"
+            ],
+            "removed": [
+              ")Y \u00003"
+            ]
+          }
+        },
+        {
+          "originalLine": 14,
+          "originalText": "EosoZbtjr|刔NZg/A=1\u0019ޓ]#x=<keW<~+CǎLwʽ^3;c+椛t1=;n\u001a-|8g=3=\u0011\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000@\u0000\u0000\u0000\u0000\u0000\u0000\u0000@\u0000\u0000\u0000\u0000\u0000\u00009i<&m\u0014 \u0015͛= \u0016ٗJlLz)M$X\u0004H\u0001iKm%쭙Zg zg #y\u0017+޹z7g*+\u0016)V.)6\u0019D\\E4\u0015XBE&DL.3\u0004DHD\b\u0012\bH\u0001\u0004@! \u0001\u0004\u0012\"@\u0002\u0004\u0012\u0000\u0010J$DH\u0000 D\u0000\u0000\u0004\u0012\u0004H\u0000\u0015ꨒ\"@A(͛c<u\u001bk6N=2ӝtY/xd\bH\u0000\u0006zPYs\u001a鵉+4L񮉈4^&\u0002DHD\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0012\u0000\u0000\u0000\u0000\u0011 \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0011 \u0004H\u0000\u0000\u0001\u0012\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0012\u0000\u0001\u0012\u000099us5EtޚY(q\u0000\u0000\u0000@uXDffjVLzg/H\b\u0012\b\u0000\b\u0012\u0011 \u0001\u0004\u0000\u0000 H\"B$\u0004\u0012\u001aG MEatbMI2]g\u0019M&u Mo\u0019\u0013fRh",
+          "type": "modified",
+          "verifyLine": 14,
+          "verifyText": "vy]] N?~߫ cj&$N枖 4=?]\u0005)MpLޗlc-vUaUV\u0015XWv|\u0000w2b{yާr'yOE\u0016\u0012\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0005@XT\u0005 \u0016\u0015\u0005A1av`\u0006~>\u0016}NZac+xgՎړ\u0013\u0002bH\u0003Xzy͍W4ϟ\u0017\u0001 .\u0000YUV\u0015[\u0004G2Zޭ\\\u0013j޳am1 \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001+AP\u0012Mf\u0001$\u00012D\u0004a\u0010\u0013)@X_qr~+η\"'/ɓjJBu\u0000\u001a{z[A\u000e\u0018cq:tp \u0017７{n-\u001af\u0007^Xk \u0011 j=\u000eWg..^-ӚbĀ\u0000\u0000\u0000/1ɼii`:\u000f\"wMnfs9Kڇ=K\u0003ݘl\u0011;x<Z=|瘷=ELDu>4{;,ZnɯI15xͫÛ\u00160yZm\u0007O:mmkClWUJS\u0010tJ/Ws\u001b힞\u0019rw\u0013hsm_a5%\u0010\u0012 \u001a{Z[;tcɏ5[V-^?s\u0007V e /\u0016B gO\u001bT#q֝\u000fMLii7$\u0000\u0000\u0000\u0003].ͫ\u0015\u000f/<׷w3EOY_i\u0013>\u000ebz\u001bWfV=}w}kWO?݉~ gZ>Gxg5\u0013\u0016hoF~Ws ە \\g>?Mkr4}& .OFH\u0004\u0012Z\u0010\u0003Wo\u0013{zza6/lCd\u0011) \u0013y1jŭz^c|oC<\u0017ϓ>>cXZ꼮\\9~s~x'c_\u0013||}92V1iH\u0000\u0000\u0000\u0000 \u001bWעka:~ci{.",
+          "wordDiff": {
+            "added": [
+              "vy]] N?~߫ cj&$N枖 4=?]\u0005)MpLޗlc-vUaUV\u0015XWv|\u0000w2b{yާr'yOE\u0016\u0012\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0005@XT\u0005 \u0016\u0015\u0005A1av`\u0006~>\u0016}NZac+xgՎړ\u0013\u0002bH\u0003Xzy͍W4ϟ\u0017\u0001 .\u0000YUV\u0015[\u0004G2Zޭ\\\u0013j޳am1 \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001+AP\u0012Mf\u0001$\u00012D\u0004a\u0010\u0013)@X_qr~+η\"'/ɓjJBu\u0000\u001a{z[A\u000e\u0018cq:tp \u0017７{n-\u001af\u0007^Xk \u0011 j=\u000eWg..^-ӚbĀ\u0000\u0000\u0000/1ɼii`:\u000f\"wMnfs9Kڇ=K\u0003ݘl\u0011;x<Z=|瘷=ELDu>4{;,ZnɯI15xͫÛ\u00160yZm\u0007O:mmkClWUJS\u0010tJ/Ws\u001b힞\u0019rw\u0013hsm_a5%\u0010\u0012 \u001a{Z[;tcɏ5[V-^?s\u0007V e /\u0016B gO\u001bT#q֝\u000fMLii7$\u0000\u0000\u0000\u0003].ͫ\u0015\u000f/<׷w3EOY_i\u0013>\u000ebz\u001bWfV=}w}kWO?݉~ gZ>Gxg5\u0013\u0016hoF~Ws ە \\g>?Mkr4}& .OFH\u0004\u0012Z\u0010\u0003Wo\u0013{zza6/lCd\u0011) \u0013y1jŭz^c|oC<\u0017ϓ>>cXZ꼮\\9~s~x'c_\u0013||}92V1iH\u0000\u0000\u0000\u0000 \u001bWעka:~ci{."
+            ],
+            "removed": [
+              "EosoZbtjr|刔NZg/A=1\u0019ޓ]#x=<keW<~+CǎLwʽ^3;c+椛t1=;n\u001a-|8g=3=\u0011\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000@\u0000\u0000\u0000\u0000\u0000\u0000\u0000@\u0000\u0000\u0000\u0000\u0000\u00009i<&m\u0014 \u0015͛= \u0016ٗJlLz)M$X\u0004H\u0001iKm%쭙Zg zg #y\u0017+޹z7g*+\u0016)V.)6\u0019D\\E4\u0015XBE&DL.3\u0004DHD\b\u0012\bH\u0001\u0004@! \u0001\u0004\u0012\"@\u0002\u0004\u0012\u0000\u0010J$DH\u0000 D\u0000\u0000\u0004\u0012\u0004H\u0000\u0015ꨒ\"@A(͛c<u\u001bk6N=2ӝtY/xd\bH\u0000\u0006zPYs\u001a鵉+4L񮉈4^&\u0002DHD\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0012\u0000\u0000\u0000\u0000\u0011 \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0011 \u0004H\u0000\u0000\u0001\u0012\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0012\u0000\u0001\u0012\u000099us5EtޚY(q\u0000\u0000\u0000@uXDffjVLzg/H\b\u0012\b\u0000\b\u0012\u0011 \u0001\u0004\u0000\u0000 H\"B$\u0004\u0012\u001aG MEatbMI2]g\u0019M&u Mo\u0019\u0013fRh"
+            ]
+          }
+        },
+        {
+          "originalLine": 15,
+          "originalText": "ɫ:FZ8u/,HDلٴd6vbM,$\"@\u0002$\u0000\u0000\u0004\u0012\u0004H\u0000\u0002\u0004$\"@A(͛\u00053M,jޣSY\"@! \u0000\u0000sbQ+=\"ZD目zftB3\u0019霽#x\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 Vpy~gt\\\u001a<{:?۞\u0017~>YREzc /-)_\u001b q>羳/{s\u0017\u0013S/\u000fދCtDYx]}F8ן_y}1 V5?\u0019\u0000\u0019fߕ?T:\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002$\u0000\u0002$\u0011!͛N|g'8о,\u0015㶲\u0000\u0000\"@",
+          "type": "modified",
+          "verifyLine": 15,
+          "verifyText": "l\u0013z)j%ߞ\u0017z WlV\u0017Umo֮+gV)Ǥˇj'#ڵzR]zKoNl6|\u0013&\u0018>7MU+o=Z--E&\u0010\u0013)\u0002M_\u0011MӬ6Pk!10 \u001a[zO<v駱xIkM u>w^|U=/\u0002coV&\u00011c4 ։z\u0000\u0000\u0000\u0000\u00073<m1:[z39<Z4n }0DNm0\u0011</Li7P]~A\u0013Zc\"q}\u0014\u0019B<w`y̞]O0vQ>KU \u0019 f9\\\u0000J4\u0013\u0000Z\u0010\u0001(5|O:gI",
+          "wordDiff": {
+            "added": [
+              "l\u0013z)j%ߞ\u0017z WlV\u0017Umo֮+gV)Ǥˇj'#ڵzR]zKoNl6|\u0013&\u0018>7MU+o=Z--E&\u0010\u0013)\u0002M_\u0011MӬ6Pk!10 \u001a[zO<v駱xIkM u>w^|U=/\u0002coV&\u00011c4 ։z\u0000\u0000\u0000\u0000\u00073<m1:[z39<Z4n }0DNm0\u0011</Li7P]~A\u0013Zc\"q}\u0014\u0019B<w`y̞]O0vQ>KU \u0019 f9\\\u0000J4\u0013\u0000Z\u0010\u0001(5|O:gI"
+            ],
+            "removed": [
+              "ɫ:FZ8u/,HDلٴd6vbM,$\"@\u0002$\u0000\u0000\u0004\u0012\u0004H\u0000\u0002\u0004$\"@A(͛\u00053M,jޣSY\"@! \u0000\u0000sbQ+=\"ZD目zftB3\u0019霽#x\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 Vpy~gt\\\u001a<{:?۞\u0017~>YREzc /-)_\u001b q>羳/{s\u0017\u0013S/\u000fދCtDYx]}F8ן_y}1 V5?\u0019\u0000\u0019fߕ?T:\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002$\u0000\u0002$\u0011!͛N|g'8о,\u0015㶲\u0000\u0000\"@"
+            ]
+          }
+        },
+        {
+          "originalLine": 16,
+          "originalText": "_(&Tuc\\oeiَzgtDe\u0000\b\u0000\u0000D\u0000\u0000\bD\u0000\u0002$\"A{6~o:Ĺm\u0012>\u0013>9zIG\u0000K|\u0000گ`㿗\"\\:y\u001b_\u001b۟鞜glx_z|OKw՗>y G&_М<zay}q]ϳK-OPˎ\u0004HD\u0000\"@\u0011 \u0000\u0000\"@\u0000\u0000\u0004H\u0000\u00037HYż[jEl#:^}5F$\u0000\u0002$1eW6[ \u0014fh^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004E\u0000 ^OFm\u0017:_>4<kx~ɳֿ\u000fW=|?^\u0018~o}'Lzp5_WMNs[ǃsK/\u00007Sџ\u000flz|s7y\u0000Oz>\u000fx [=il1\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001 \u0000\u0000\u0001\u0004\u00077O6ng\u00053+Y(^\u0017ٞ\u0000\"B'2W:qӋӆVo\u0015Kl:\u0011n^\u0000\u0004H\u0000\u0000\b\u0004H\u0000\u0004H\"@\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004H\u0000\u0001H4Xw̴H/HD\u0013SXHP][\u0000\u0000\u0000\u0000\"@\u0000\u0000\u0004H\u0000\u0000\b\u0000\u0000\u0001\u0012\b\u0000\u0000\u0001\u0012\u0000\u0000&9\u001b\u0016/eg2f7EWj5\"Z\u0000A':7n}YF\u0016TLz\"gc;^\u0004H\u0000\u0000\b\u0000\u0000D\u0000\u0000\u0000\u0000\u0000\u0011 \u0000\u0000\u000eN\u0007Sux\u0007Og٬\\k˞9]ɗz%=>wy^y K=*7peF>o~ Q>_ Xo\u0017\u0007 )f\u0002$\u0001\u0012\u0000\u0000\u0002$\u0000\u0000\u0011!\u0012\u0000\u0000\u0000\u0000\u0000\u0011 \u000enl\"бG>-m\b[ZvѝSX\"P,\u0000\u0000#-zIκ9YʺA\\\u001aQzft\u0000\u0004\u0012\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0012\u0000\u0000\u0000\u0000x^Vk[Wpv9דm_N?_i|gb=~.=\\Ǉ泳8}r<C'r]h\u0004H\u0000\u0000\b$\u0000\u0000\u0002 \u0000\u0000D\u0012\u0000\u0000\u0002 \u0000\u00009ytE2 oI\u0019{# .MY\u0000 DZJs5I\u0013L",
+          "type": "modified",
+          "verifyLine": 16,
+          "verifyText": "smm妠?cbP #OsOI<[\u001a\u001bW}Kkޗ?{}^/m緺Q\u00104ăx\u000eN\u0012M\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u001805",
+          "wordDiff": {
+            "added": [
+              "smm妠?cbP #OsOI<[\u001a\u001bW}Kkޗ?{}^/m緺Q\u00104ăx\u000eN\u0012M\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u001805"
+            ],
+            "removed": [
+              "_(&Tuc\\oeiَzgtDe\u0000\b\u0000\u0000D\u0000\u0000\bD\u0000\u0002$\"A{6~o:Ĺm\u0012>\u0013>9zIG\u0000K|\u0000گ`㿗\"\\:y\u001b_\u001b۟鞜glx_z|OKw՗>y G&_М<zay}q]ϳK-OPˎ\u0004HD\u0000\"@\u0011 \u0000\u0000\"@\u0000\u0000\u0004H\u0000\u00037HYż[jEl#:^}5F$\u0000\u0002$1eW6[ \u0014fh^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004E\u0000 ^OFm\u0017:_>4<kx~ɳֿ\u000fW=|?^\u0018~o}'Lzp5_WMNs[ǃsK/\u00007Sџ\u000flz|s7y\u0000Oz>\u000fx [=il1\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001 \u0000\u0000\u0001\u0004\u00077O6ng\u00053+Y(^\u0017ٞ\u0000\"B'2W:qӋӆVo\u0015Kl:\u0011n^\u0000\u0004H\u0000\u0000\b\u0004H\u0000\u0004H\"@\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004H\u0000\u0001H4Xw̴H/HD\u0013SXHP][\u0000\u0000\u0000\u0000\"@\u0000\u0000\u0004H\u0000\u0000\b\u0000\u0000\u0001\u0012\b\u0000\u0000\u0001\u0012\u0000\u0000&9\u001b\u0016/eg2f7EWj5\"Z\u0000A':7n}YF\u0016TLz\"gc;^\u0004H\u0000\u0000\b\u0000\u0000D\u0000\u0000\u0000\u0000\u0000\u0011 \u0000\u0000\u000eN\u0007Sux\u0007Og٬\\k˞9]ɗz%=>wy^y K=*7peF>o~ Q>_ Xo\u0017\u0007 )f\u0002$\u0001\u0012\u0000\u0000\u0002$\u0000\u0000\u0011!\u0012\u0000\u0000\u0000\u0000\u0000\u0011 \u000enl\"бG>-m\b[ZvѝSX\"P,\u0000\u0000#-zIκ9YʺA\\\u001aQzft\u0000\u0004\u0012\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0012\u0000\u0000\u0000\u0000x^Vk[Wpv9דm_N?_i|gb=~.=\\Ǉ泳8}r<C'r]h\u0004H\u0000\u0000\b$\u0000\u0000\u0002 \u0000\u0000D\u0012\u0000\u0000\u0002 \u0000\u00009ytE2 oI\u0019{# .MY\u0000 DZJs5I\u0013L"
+            ]
+          }
+        },
+        {
+          "originalLine": 17,
+          "originalText": "<މSL\u001b\u0011 \u0000\b\u0000\u0000\u0004HD\u0000\"B$\u0000\u0000\u0000\u0000\u0000fS.85f/мRMkA1zmHV#Z&Jsz\u001a3ih",
+          "type": "modified",
+          "verifyLine": 17,
+          "verifyText": "\u0011! \u0000\u0000\u0000\u0000\u0005a\u0002I &-\bIB bЈ$\u00110&, \u0001}=M:I=M)\\Cd&& yj{Nߵ}}'ޗCz\\=\u0019yW=._M}ooK\u0015cdn֋\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000r9^#gu 7.96;/DrvF !r \\mLˍS\u0007Jj\u00045JS\u0010)@\u0004\u0003Wo%|ѥvМ OD>~^k\\&zLLD in:\u0003v+1Wq׽/u-z^c<.x^/Ֆ\u000e'\u0006k\u001b i5-a- \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0007\u0003҆}L#+ebrk\u0018kcK\\\u0006LF,\u001b'?=m:}J\u001b|kZNv|/i4wIIB \u0013\u0012Mf\u00012 \u0004\u0001 \u0000LL\u0000L\u0005l\u0000\bt\u0007mV",
+          "wordDiff": {
+            "added": [
+              "\u0011! \u0000\u0000\u0000\u0000\u0005a\u0002I &-\bIB bЈ$\u00110&, \u0001}=M:I=M)\\Cd&& yj{Nߵ}}'ޗCz\\=\u0019yW=._M}ooK\u0015cdn֋\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000r9^#gu 7.96;/DrvF !r \\mLˍS\u0007Jj\u00045JS\u0010)@\u0004\u0003Wo%|ѥvМ OD>~^k\\&zLLD in:\u0003v+1Wq׽/u-z^c<.x^/Ֆ\u000e'\u0006k\u001b i5-a- \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0007\u0003҆}L#+ebrk\u0018kcK\\\u0006LF,\u001b'?=m:}J\u001b|kZNv|/i4wIIB \u0013\u0012Mf\u00012 \u0004\u0001 \u0000LL\u0000L\u0005l\u0000\bt\u0007mV"
+            ],
+            "removed": [
+              "<މSL\u001b\u0011 \u0000\b\u0000\u0000\u0004HD\u0000\"B$\u0000\u0000\u0000\u0000\u0000fS.85f/мRMkA1zmHV#Z&Jsz\u001a3ih"
+            ]
+          }
+        },
+        {
+          "originalLine": 18,
+          "originalText": "\u0014\u001a3\u001a2\u0000\u0000D\u0000\"B$\u0000\u0000!\u0012\u0000\u0000\b\u0000\u0000B@\u000enlab9 4<:{F\u0012\u0000\u0004H\u0000",
+          "type": "modified",
+          "verifyLine": 18,
+          "verifyText": "t|kj&/1r [_y_Kmy?U\u0006vZcm1m \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000LH\u0000\u0006 Ǣy=\u0013ΏD<O:=\u0013ΏDsO8= o9Z\u0015 -\b@Є -\b@Ѐ \u0012\u0004L\u0011mLs̲ L\u0017Z .{^-y i^̓.{kkm'0\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000$\u0000\u0001ajl۳ϭҦ孋zŏfƴni\u0019qmIkm\u0006WjJյ`\u0012mX ՂbI 1",
+          "wordDiff": {
+            "added": [
+              "t|kj&/1r [_y_Kmy?U\u0006vZcm1m \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000LH\u0000\u0006 Ǣy=\u0013ΏD<O:=\u0013ΏDsO8= o9Z\u0015 -\b@Є -\b@Ѐ \u0012\u0004L\u0011mLs̲ L\u0017Z .{^-y i^̓.{kkm'0\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000$\u0000\u0001ajl۳ϭҦ孋zŏfƴni\u0019qmIkm\u0006WjJյ`\u0012mX ՂbI 1"
+            ],
+            "removed": [
+              "\u0014\u001a3\u001a2\u0000\u0000D\u0000\"B$\u0000\u0000!\u0012\u0000\u0000\b\u0000\u0000B@\u000enlab9 4<:{F\u0012\u0000\u0004H\u0000"
+            ]
+          }
+        },
+        {
+          "originalLine": 19,
+          "originalText": "SjK 9Z6lf鞙Lޑ\u0000\u0000 \u0000\u0000\u0002\u0004\u0000D$\u0000\u0002$\b$\u0000\u0000\u0003-\u0007|$BD\u0000\u0000 @\u0000&\u0001$&\u0000\u0000\u0000\u0002`\u0000\u0007g/wLJ'0\u0000\u0000A1 \u0000\u0011 \u0000\b\u0012\u0000\u0000\u0001\u0004\u0000 <ٺL",
+          "type": "modified",
+          "verifyLine": 19,
+          "verifyText": "==';gUn>r+zLB/]?ץui`ȽxZ~jkqeoI\u0013\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 \u0000\u0000\u0003S_%l՝br\u0019o3",
+          "wordDiff": {
+            "added": [
+              "==';gUn>r+zLB/]?ץui`ȽxZ~jkqeoI\u0013\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 \u0000\u0000\u0003S_%l՝br\u0019o3"
+            ],
+            "removed": [
+              "SjK 9Z6lf鞙Lޑ\u0000\u0000 \u0000\u0000\u0002\u0004\u0000D$\u0000\u0002$\b$\u0000\u0000\u0003-\u0007|$BD\u0000\u0000 @\u0000&\u0001$&\u0000\u0000\u0000\u0002`\u0000\u0007g/wLJ'0\u0000\u0000A1 \u0000\u0011 \u0000\b\u0012\u0000\u0000\u0001\u0004\u0000 <ٺL"
+            ]
+          }
+        },
+        {
+          "originalLine": 20,
+          "originalText": "ύޗDMZNvmZQ\u0000\u0000\u0010+EJV]q\u0017\u001a. zg #y\u0000\u0001\u0012! \u0000\u0004\u0004\u0000\u0004H\u0000\u0001\u0012\"@\u00009N 6VEՖY3AD\u0012M4DBZ!R/\b/T\u0016f /GO\u000fwnA\u0012\u0011 \u0000\b \u0000\u0000\u0004$D\u0000\u0001 \u0000\u0000\u0002$D7I\u00198|KM%Yk6]BV\u0000\u0001\u0012\u0000L[Vk 2=SVڙR=tLGLr\u0000\u0004\u0012\u0000\u0000\u0002\u0004\u0000\u0004\u0012\u0000\u0000\u0002\u0004\u0000\u0000g|י9#9#9\u001bIai0mcŴ5{ Α Α Α۝P\u0000\u0000\b%\u0012\u0000\u0000\u0004 \u0000\u0000\b%\u0012\u0000\u0002$\b%\u0012\u0000\u00037X\u0007>czkk95W\u001ae\u0000 D؉M,O>=3=3\u0019ޒ\u0012\u0000\u0000\u0004H\u0000\u0000\u0002\u0012\"@\u0000\u0011\"\u0012\b\u0000\u0011\"$\u0000\u0000\bH\u0000\u0000\u0011#\u001b_ &\b\u0000& ^P\u0000\u0000\"DH\u0000\u0000\u0010\u0000\u0000!$$\u0000\u0000\u0010\u0012@\u0000\u0010\u0000\u0000\"DH9yt`] /dSJaY\u00115,ymd(\u0002$R&%+ՍusHxm\u0012=r[yzF\u0000\u0004 D\u0000\u0001\u0002@\u0000\u0002 D\u0000\u0001\u0002Q \u0000D \u0000\u0000\u0010%\u0012\u0000\u0017hFZԬmRgWV\u0013]r\u0017\u0000\u0010%\u0012\u0000\u0000P\u0012\u0000\u0000 H\u0000\u0000\u0010$\u0000\u0000 H\u0000\u0000\u0010%\u0012\u0000\u00037Bxi7z",
+          "type": "modified",
+          "verifyLine": 20,
+          "verifyText": "a\u001b\u0018 mS\u0002\u001aS\u0018z\u001a.ǶzdňIB bЈL\u0000$ \u0010\u0002D\u0000\u0000$B@\u0004\u0010\u0006枓 >yZ\u0013]/wZ/jbSyz7k2koo7s\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 \u0000&&\u0004\u0013\u0012ZD\u0004 IhB$\u0013\u0000\u0004\u00010\u0000LI\u0000LI\u0000LH\u0000",
+          "wordDiff": {
+            "added": [
+              "a\u001b\u0018 mS\u0002\u001aS\u0018z\u001a.ǶzdňIB bЈL\u0000$ \u0010\u0002D\u0000\u0000$B@\u0004\u0010\u0006枓 >yZ\u0013]/wZ/jbSyz7k2koo7s\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 \u0000&&\u0004\u0013\u0012ZD\u0004 IhB$\u0013\u0000\u0004\u00010\u0000LI\u0000LI\u0000LH\u0000"
+            ],
+            "removed": [
+              "ύޗDMZNvmZQ\u0000\u0000\u0010+EJV]q\u0017\u001a. zg #y\u0000\u0001\u0012! \u0000\u0004\u0004\u0000\u0004H\u0000\u0001\u0012\"@\u00009N 6VEՖY3AD\u0012M4DBZ!R/\b/T\u0016f /GO\u000fwnA\u0012\u0011 \u0000\b \u0000\u0000\u0004$D\u0000\u0001 \u0000\u0000\u0002$D7I\u00198|KM%Yk6]BV\u0000\u0001\u0012\u0000L[Vk 2=SVڙR=tLGLr\u0000\u0004\u0012\u0000\u0000\u0002\u0004\u0000\u0004\u0012\u0000\u0000\u0002\u0004\u0000\u0000g|י9#9#9\u001bIai0mcŴ5{ Α Α Α۝P\u0000\u0000\b%\u0012\u0000\u0000\u0004 \u0000\u0000\b%\u0012\u0000\u0002$\b%\u0012\u0000\u00037X\u0007>czkk95W\u001ae\u0000 D؉M,O>=3=3\u0019ޒ\u0012\u0000\u0000\u0004H\u0000\u0000\u0002\u0012\"@\u0000\u0011\"\u0012\b\u0000\u0011\"$\u0000\u0000\bH\u0000\u0000\u0011#\u001b_ &\b\u0000& ^P\u0000\u0000\"DH\u0000\u0000\u0010\u0000\u0000!$$\u0000\u0000\u0010\u0012@\u0000\u0010\u0000\u0000\"DH9yt`] /dSJaY\u00115,ymd(\u0002$R&%+ՍusHxm\u0012=r[yzF\u0000\u0004 D\u0000\u0001\u0002@\u0000\u0002 D\u0000\u0001\u0002Q \u0000D \u0000\u0000\u0010%\u0012\u0000\u0017hFZԬmRgWV\u0013]r\u0017\u0000\u0010%\u0012\u0000\u0000P\u0012\u0000\u0000 H\u0000\u0000\u0010$\u0000\u0000 H\u0000\u0000\u0010%\u0012\u0000\u00037Bxi7z"
+            ]
+          }
+        },
+        {
+          "originalLine": 21,
+          "originalText": "k\u0016 Uo\u0015\u0017 H\u0015γ˥[\u0011~CXZy\u0004tr\u0012\u0000\u0000\u0004H\u0000\u0000\u0010H\u0000\u0000\u0000! \u00009<O/4\u0010 $\u0000\u0000\b \u0019閄F\u0013jyߌ S>SC-ID\u0000\u0011 \u0000\u0002 \u0000\u0000\u0002\u0012D\u0000\u0000\u0002 \u0000\u0000B@\u0000\u0000\u0011 &\u0016y9nUo\u0018 R<Y\u001aM@\u0000\u0000crZz Y>z\u001bk7\u0000\"B$\u0000\u0000\b\u0012\u0000\u0000\u0010H\u0000\u0000\u0007\u000foSF _g5 ;ё\u0012\u0000\u0000\u0000\u0006\u0006Z\\eJ 5X{e-|\u0000O_<{sx~%\u0011\"$\u0000\u0004J \u0000\u0001\u0018 >G[\u0000\u0002\u0004\u0000\u0004\u0012 \u0001\u0012\b\u0000\u0001͛L9k(u4Nn\u001aahYj\u0000@\u0000A':ʻn[DTRs=3:\u0011n^7\u0004H\u0000\u0004H\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 | $ =^^Gzo%xj4J{םGשG;(G!o\u0003oL+|v\u0007B~Yz 'a7)>w.Ɲ_9\u0017?L-E4;q< dx\u0010\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004H\u0000\u0004H nl\"t3<n9_+g\u001b#=K\u0013]\u0002\u0000\u0000\u0000#=sf;D\u0017L%,IzF\u0002$\u0011!\u0012\u0000\u0000@\u0000\u0000\u0000 \u0000\u0006~/U~|;#?C Ztևt- Wܧ/sS\u0003<3ajXy;je>Y>{\\O5ig y7rx&<^dg WۣŇyhsiсm/\u0000\u0000 \u0000\u0000\u0000\b\u0012\u0000\u0000DH\u0000\u000enl\"ag61-`hm5y7\u0004\u0012\u0000\u0004\u0012PųgnccZgf򎙜:Hd\u0004H\u0005\u0013\u0014\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000)9a0p^",
+          "type": "modified",
+          "verifyLine": 21,
+          "verifyText": "\u0002Hy|8钁i8~ ^KG\u0013]m.}$M*\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001 \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001 \u0002DL VШЄ H Jk\u0000b\u0000LL\u0000LL\u0000LL\u0000LL\u0000LL\u0000H\u0000\u0002 \u000eםW X+ZvyS ~;qtoՐ\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000<hhC8jClf88ssy{G>8\u0007} w",
+          "wordDiff": {
+            "added": [
+              "\u0002Hy|8钁i8~ ^KG\u0013]m.}$M*\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001 \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001 \u0002DL VШЄ H Jk\u0000b\u0000LL\u0000LL\u0000LL\u0000LL\u0000LL\u0000H\u0000\u0002 \u000eםW X+ZvyS ~;qtoՐ\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000<hhC8jClf88ssy{G>8\u0007} w"
+            ],
+            "removed": [
+              "k\u0016 Uo\u0015\u0017 H\u0015γ˥[\u0011~CXZy\u0004tr\u0012\u0000\u0000\u0004H\u0000\u0000\u0010H\u0000\u0000\u0000! \u00009<O/4\u0010 $\u0000\u0000\b \u0019閄F\u0013jyߌ S>SC-ID\u0000\u0011 \u0000\u0002 \u0000\u0000\u0002\u0012D\u0000\u0000\u0002 \u0000\u0000B@\u0000\u0000\u0011 &\u0016y9nUo\u0018 R<Y\u001aM@\u0000\u0000crZz Y>z\u001bk7\u0000\"B$\u0000\u0000\b\u0012\u0000\u0000\u0010H\u0000\u0000\u0007\u000foSF _g5 ;ё\u0012\u0000\u0000\u0000\u0006\u0006Z\\eJ 5X{e-|\u0000O_<{sx~%\u0011\"$\u0000\u0004J \u0000\u0001\u0018 >G[\u0000\u0002\u0004\u0000\u0004\u0012 \u0001\u0012\b\u0000\u0001͛L9k(u4Nn\u001aahYj\u0000@\u0000A':ʻn[DTRs=3:\u0011n^7\u0004H\u0000\u0004H\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 | $ =^^Gzo%xj4J{םGשG;(G!o\u0003oL+|v\u0007B~Yz 'a7)>w.Ɲ_9\u0017?L-E4;q< dx\u0010\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004H\u0000\u0004H nl\"t3<n9_+g\u001b#=K\u0013]\u0002\u0000\u0000\u0000#=sf;D\u0017L%,IzF\u0002$\u0011!\u0012\u0000\u0000@\u0000\u0000\u0000 \u0000\u0006~/U~|;#?C Ztևt- Wܧ/sS\u0003<3ajXy;je>Y>{\\O5ig y7rx&<^dg WۣŇyhsiсm/\u0000\u0000 \u0000\u0000\u0000\b\u0012\u0000\u0000DH\u0000\u000enl\"ag61-`hm5y7\u0004\u0012\u0000\u0004\u0012PųgnccZgf򎙜:Hd\u0004H\u0005\u0013\u0014\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000)9a0p^"
+            ]
+          }
+        },
+        {
+          "originalLine": 22,
+          "originalText": "W\u0019,\u0011E ;2\u001b\"@ 9.#O/\u0000D\u0014?\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001z\b\"@ <ٺ^o7|^5h c}K\u0000\u0000A gR/\\:F5rz]\u0013Y阦7\u0000\"@\u0000\u0000A \u0000\u0000\bA \u0000\u0000\b\u0000\u0004\u0012\u0000\u0000\u0000\u0000\u0013Y+ja\u0004^\u0010ZkhL\u0016$\"֥\u0002$\u0000\u0001\u0004\u0000\u0000\u0000\u0000\u0001\u0004\u0000\u0000\u0001\u0004\u0000\u0000\"@\u0000stf \u0015,oMf<nLvˑ5\u0004\u0012\u0000\u0004\u0014_6+\u0015ζ7՘BVzg\u0013=1\u0019ޓ]$o\u0012\u0002$\u0000\u0000\u0000\u0000\u0000\u0000\"@\u0000\u0010H\u0000\u0000\u0002$\u0000\u0000\u0005K2Η\u000fYq(\u0019H/ɍ%,ZJ\u0011h!5]+H6ڶ\u0000\bA,l]J\u0001\u0012\u0000\u0000H%Njc\u0004Ha\u0004\u0000 \u0000\u0000\u0004H nl%\u0005q͓\u001aybuWK\u001ac\u0000\u0010Nzg\b%&7;sjrmYo[=3yLzg #y\u0000\u0000\u0000\u0000\b\u0012\u0002$stVc WρyK_*pc^Wsy Z͉8,c\u000fFO;N7~\bֽ ǩ\u000f ?\\}w)m\u000fJ Q[:}O k=n\u000ez|μ ;{<zzy0?\u001bk\\kN3]Z:v&f^*WZ×bpY 5x1΋H\u0000\u0000\u0000\u0000\u0000\u0000bJc8/(.Lg:F;Y(gB5$\u0000\b2S5[DD=y&+,y\u0013\u0011*i#x\u0000\u0011 \u0000\u0004\u0012\b\u0003~NkSGj93'WU?A T9k39F",
+          "type": "modified",
+          "verifyLine": 22,
+          "verifyText": ">sx/DVsOB\\Hp񞊸8gpvή \u0007Lɻ}\u00110\u0002H\u0000\u0000$@ \u0010\u0002DL\u0002@\u0000D\u0000\u0006\u0011>o&9ifky ?+ajmkI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0007~|˭\u001b۩uyƑ8NO8 6wqm:;8̸uE=_#\u000eȜچW[mp} lj\u0017s",
+          "wordDiff": {
+            "added": [
+              ">sx/DVsOB\\Hp񞊸8gpvή \u0007Lɻ}\u00110\u0002H\u0000\u0000$@ \u0010\u0002DL\u0002@\u0000D\u0000\u0006\u0011>o&9ifky ?+ajmkI\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0007~|˭\u001b۩uyƑ8NO8 6wqm:;8̸uE=_#\u000eȜچW[mp} lj\u0017s"
+            ],
+            "removed": [
+              "W\u0019,\u0011E ;2\u001b\"@ 9.#O/\u0000D\u0014?\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001z\b\"@ <ٺ^o7|^5h c}K\u0000\u0000A gR/\\:F5rz]\u0013Y阦7\u0000\"@\u0000\u0000A \u0000\u0000\bA \u0000\u0000\b\u0000\u0004\u0012\u0000\u0000\u0000\u0000\u0013Y+ja\u0004^\u0010ZkhL\u0016$\"֥\u0002$\u0000\u0001\u0004\u0000\u0000\u0000\u0000\u0001\u0004\u0000\u0000\u0001\u0004\u0000\u0000\"@\u0000stf \u0015,oMf<nLvˑ5\u0004\u0012\u0000\u0004\u0014_6+\u0015ζ7՘BVzg\u0013=1\u0019ޓ]$o\u0012\u0002$\u0000\u0000\u0000\u0000\u0000\u0000\"@\u0000\u0010H\u0000\u0000\u0002$\u0000\u0000\u0005K2Η\u000fYq(\u0019H/ɍ%,ZJ\u0011h!5]+H6ڶ\u0000\bA,l]J\u0001\u0012\u0000\u0000H%Njc\u0004Ha\u0004\u0000 \u0000\u0000\u0004H nl%\u0005q͓\u001aybuWK\u001ac\u0000\u0010Nzg\b%&7;sjrmYo[=3yLzg #y\u0000\u0000\u0000\u0000\b\u0012\u0002$stVc WρyK_*pc^Wsy Z͉8,c\u000fFO;N7~\bֽ ǩ\u000f ?\\}w)m\u000fJ Q[:}O k=n\u000ez|μ ;{<zzy0?\u001bk\\kN3]Z:v&f^*WZ×bpY 5x1΋H\u0000\u0000\u0000\u0000\u0000\u0000bJc8/(.Lg:F;Y(gB5$\u0000\b2S5[DD=y&+,y\u0013\u0011*i#x\u0000\u0011 \u0000\u0004\u0012\b\u0003~NkSGj93'WU?A T9k39F"
+            ]
+          }
+        },
+        {
+          "originalLine": 23,
+          "originalText": "&>` 9]2y\u000e<\u0011^Z]ǟ^~N\\\u001au\u0007\u0007|3Gc{`ɗ8\u00112,wr;m\\nyuIɗ|]v ~pnc 7nyv\u000f;\u00112\u0012\u0002 \u0000\b\u0001\u0012\u0000В9\u001b6Jr:\u00131z3\u0001-Ƞ\u0000\u0006zg*կǮ0LyOLFwH\u0000\u0000\u0001\u0004\u0000\u0000\"@\u0000\u0000\u0000\u0000\u0010H\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000(\u0012(\u00111SD D @\bkZ\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0004\u0001\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00077O6n)G>7{}J^٦\u0015~}YjD\u0011 2kFze7zf\u0010\u00197\u0004\u0012\u0000\u0010I\u0004\u0012\u0000\"B$D\u0010I\u0004\u0012\u0000 J$\u0002$\u0000\"@\u0011 \bLb\"b₭YCL)\bBbb 5\u0002$\u0000 H\u0004H\u0000|WD$DH$\u0010\u0001\u0012\u0011\"$D@\u0002$\u0000 H&xk7|]5YM\u0015\u001aE\bH\u0000\u0000\"rՊ˦zg \u0004tr\u0000\u0000\u0010H\u0000\u0000\u0000\u0000D\u0000\u0000\u0001\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0002,!\"",
+          "type": "modified",
+          "verifyLine": 23,
+          "verifyText": "ˉ>e#OSc\"::?;h&$&$&$&$&$$\u0000\u0002\"`\u0012A\u0004ii ?EB=3ץl9gqwɱջxFR$\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002@\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002@\u0000\u00010&-XjWvxV D9=؄H\u0000\u0000\u0013\u0000\u0013\u0013\u0000\u0013\u0013\u0000\u0012@\u0000\u0004\u0010\u0004V\u001a{z4\u0012y8w޽/wůK<[t=??wfOiON@\u0000\u0000\u0000\b%\u0013Au\u0005\u0017RKM\u0005Ԓʋ*,%\u0002PL@\u0000\u0000 @ TY\u0010*NJ [ %b M$D\u00169,]A+\u0005\u0019\"dc$R d&\u0010$D\u0000\u0001[T\u0002b`\u0007;{\u0017禙8_Ck}\u0017/1kWV[_p56;1}\"\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002@\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001 \u0000\u0000\u0000\u0005jjب(DĈ\u0016 \u0013\u0013\u0000\u0013\u0013\u0000\u0000\u0000\u0000$\u0000\u0000\b\u0012DMA ׮Zh\u000f[ =\u0017\u0016} /zZb>翱.un\u0000\u0000\u0000\u0000\u0003l0\\\u0006vkͦ",
+          "wordDiff": {
+            "added": [
+              "ˉ>e#OSc\"::?;h&$&$&$&$&$$\u0000\u0002\"`\u0012A\u0004ii ?EB=3ץl9gqwɱջxFR$\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002@\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002@\u0000\u00010&-XjWvxV D9=؄H\u0000\u0000\u0013\u0000\u0013\u0013\u0000\u0013\u0013\u0000\u0012@\u0000\u0004\u0010\u0004V\u001a{z4\u0012y8w޽/wůK<[t=??wfOiON@\u0000\u0000\u0000\b%\u0013Au\u0005\u0017RKM\u0005Ԓʋ*,%\u0002PL@\u0000\u0000 @ TY\u0010*NJ [ %b M$D\u00169,]A+\u0005\u0019\"dc$R d&\u0010$D\u0000\u0001[T\u0002b`\u0007;{\u0017禙8_Ck}\u0017/1kWV[_p56;1}\"\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002@\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001 \u0000\u0000\u0000\u0005jjب(DĈ\u0016 \u0013\u0013\u0000\u0013\u0013\u0000\u0000\u0000\u0000$\u0000\u0000\b\u0012DMA ׮Zh\u000f[ =\u0017\u0016} /zZb>翱.un\u0000\u0000\u0000\u0000\u0003l0\\\u0006vkͦ"
+            ],
+            "removed": [
+              "&>` 9]2y\u000e<\u0011^Z]ǟ^~N\\\u001au\u0007\u0007|3Gc{`ɗ8\u00112,wr;m\\nyuIɗ|]v ~pnc 7nyv\u000f;\u00112\u0012\u0002 \u0000\b\u0001\u0012\u0000В9\u001b6Jr:\u00131z3\u0001-Ƞ\u0000\u0006zg*կǮ0LyOLFwH\u0000\u0000\u0001\u0004\u0000\u0000\"@\u0000\u0000\u0000\u0000\u0010H\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000(\u0012(\u00111SD D @\bkZ\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0004\u0001\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00077O6n)G>7{}J^٦\u0015~}YjD\u0011 2kFze7zf\u0010\u00197\u0004\u0012\u0000\u0010I\u0004\u0012\u0000\"B$D\u0010I\u0004\u0012\u0000 J$\u0002$\u0000\"@\u0011 \bLb\"b₭YCL)\bBbb 5\u0002$\u0000 H\u0004H\u0000|WD$DH$\u0010\u0001\u0012\u0011\"$D@\u0002$\u0000 H&xk7|]5YM\u0015\u001aE\bH\u0000\u0000\"rՊ˦zg \u0004tr\u0000\u0000\u0010H\u0000\u0000\u0000\u0000D\u0000\u0000\u0001\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0002,!\""
+            ]
+          }
+        },
+        {
+          "originalLine": 24,
+          "originalText": "̅.\u0015D+2)6\u0000\u0000\u0000\u0000\u0000\u0003",
+          "type": "modified",
+          "verifyLine": 24,
+          "verifyText": ",xM=sqfWHsv f\u0006#qW9w3]M\u0013Ys+W!^\u001bӯt31\u000etZשoG\u001bl0ICnpTk ՃiI\u0006f @\u0000\u0000D\u00010\"&\u0006 6ot\u0007O9<Vk6g:~\u0007͗Ξfdڀ\u0000\u0000\u0000\u0000\u0007'\u0017lhc9xC\u0007\"X<S)Îz \u0013&bN|tG",
+          "wordDiff": {
+            "added": [
+              ",xM=sqfWHsv f\u0006#qW9w3]M\u0013Ys+W!^\u001bӯt31\u000etZשoG\u001bl0ICnpTk ՃiI\u0006f @\u0000\u0000D\u00010\"&\u0006 6ot\u0007O9<Vk6g:~\u0007͗Ξfdڀ\u0000\u0000\u0000\u0000\u0007'\u0017lhc9xC\u0007\"X<S)Îz \u0013&bN|tG"
+            ],
+            "removed": [
+              "̅.\u0015D+2)6\u0000\u0000\u0000\u0000\u0000\u0003"
+            ]
+          }
+        },
+        {
+          "originalLine": 25,
+          "originalText": "} ]>\u0000 H\u0000\u0000\u0000\u0000\u0001\u0012\u0000\u0000\u0002 \u0000\u0000\u0000Ѕ}ŹEֱ)6S=b[o \u0000\u0004H\b%\u00193\u0019Fl",
+          "type": "modified",
+          "verifyLine": 25,
+          "verifyText": "CKK\u00129Zr+ -<sX'8{㍏<\u0019?X޸y^Z#G\u000f+5`Zy>Ty<Ž,O_v8Sx잻Q>wG3K\u0000\u0000\u0000V`\u0002bj@N",
+          "wordDiff": {
+            "added": [
+              "CKK\u00129Zr+ -<sX'8{㍏<\u0019?X޸y^Z#G\u000f+5`Zy>Ty<Ž,O_v8Sx잻Q>wG3K\u0000\u0000\u0000V`\u0002bj@N"
+            ],
+            "removed": [
+              "} ]>\u0000 H\u0000\u0000\u0000\u0000\u0001\u0012\u0000\u0000\u0002 \u0000\u0000\u0000Ѕ}ŹEֱ)6S=b[o \u0000\u0004H\b%\u00193\u0019Fl"
+            ]
+          }
+        },
+        {
+          "originalLine": 26,
+          "originalText": "J+˽,^\u0010$\b\u0012\u0002 DB@\u0004 D\u0012\u0000\u0010$\u0010\u0000Q\"$B@\u0004 \u0002$DQ \u0010\u0001\u0002Q\"$D\u0004 \u0004$\u0000 H\u0004$\u0001?K^\u000f\"Q\u0013J\u001bD\u0015ڗ! \u0002\u0004DH\u0000\b\u0012\bH\u0000A(͛\u00053+Zst;k1q\u0016H! \u0000\u0019)mTf[YY\"XB-17\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u000f3=O]{.H&G\u000e\u0017Qw^h\u0000\u0000\u0000\u0011 \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0012<F+=~= )] \u0004\u0000\u0000\u0000\"@\u0000\u0000\u0000\u0000\u0000\u0000\u000enl\"t3<nUibu疻\u0005jl@\u0002$\u0005",
+          "type": "modified",
+          "verifyLine": 26,
+          "verifyText": "\u0006.:[]\u000eo[W mz]\u0017ucy\u0000e3f];ud\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002@\u0000y~\u000fTɳzN~\u0018nv58['uzo1wsv v= :c?ׁ';Q=.n ]",
+          "wordDiff": {
+            "added": [
+              "\u0006.:[]\u000eo[W mz]\u0017ucy\u0000e3f];ud\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002@\u0000y~\u000fTɳzN~\u0018nv58['uzo1wsv v= :c?ׁ';Q=.n ]"
+            ],
+            "removed": [
+              "J+˽,^\u0010$\b\u0012\u0002 DB@\u0004 D\u0012\u0000\u0010$\u0010\u0000Q\"$B@\u0004 \u0002$DQ \u0010\u0001\u0002Q\"$D\u0004 \u0004$\u0000 H\u0004$\u0001?K^\u000f\"Q\u0013J\u001bD\u0015ڗ! \u0002\u0004DH\u0000\b\u0012\bH\u0000A(͛\u00053+Zst;k1q\u0016H! \u0000\u0019)mTf[YY\"XB-17\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u000f3=O]{.H&G\u000e\u0017Qw^h\u0000\u0000\u0000\u0011 \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0012<F+=~= )] \u0004\u0000\u0000\u0000\"@\u0000\u0000\u0000\u0000\u0000\u0000\u000enl\"t3<nUibu疻\u0005jl@\u0002$\u0005"
+            ]
+          }
+        },
+        {
+          "originalLine": 27,
+          "originalText": "LNtk\\z\u001a2oDKY霽#x H!\"$\u0004\u0012\u0007-/<z/8z/8z/8z1B|ks UfCZh_%z\u000f=ǡ>p\\]e\u0002\u0012\u0000 J$D\u0000.Ll x' yyy^r=\u0017=\u0018z^r\u0017E\u000fE\u000fAE\u000fE\u000fE\u000fF<O% H!\"$\u0004\u0012 <ٺD?G>mαzMZug:ݖFRH\u0001+Unzb7V{]\u0019-8\u001bk҉\u0000\u0010H\u0000\u0000\u0019jwA9s:G3s\u0007;s:G3sO@q^-t9\u00039NgHtw@t 7\u0014 \u0000\u0000\u0000\u0000\u0000\u0000 kг9\u00039#9\u0003:G3Ǯ)\u0006Is:Q=\u00039s:G3s\u0007=\u0001(\u0011 \u0000\u0000\u0000L{$&mg7]oXіԈY\u0000\u00002ilb]+Lh\u0017\u00131M3o\u0000\u0001 \u0011 \u0001\u0012\"B$\u0000 \"@\u0000\u0011 dMO\"D!\u0012! \u0002\u0004$\"@\u0002$DH\u0000A DH\u0000\u0000\b\u0000xŒ#]k^tzW<\u0003\b\"e3l\b$\b\u0000\u0011 \u0011!\u0012\u0002 Dnl\"lW\\ޓe",
+          "type": "modified",
+          "verifyLine": 27,
+          "verifyText": "OI_=zxMCGzv8T=\u00150rߔ:}Y\u0000 1\"\u0001 \u0000\u0000\b \u0002HwG{;4t <c mXKam]*tz> \u0000\u0000\u0000\u0000\u0000i X]L&ʵ25\u0017TYl.&F;\u0016F",
+          "wordDiff": {
+            "added": [
+              "OI_=zxMCGzv8T=\u00150rߔ:}Y\u0000 1\"\u0001 \u0000\u0000\b \u0002HwG{;4t <c mXKam]*tz> \u0000\u0000\u0000\u0000\u0000i X]L&ʵ25\u0017TYl.&F;\u0016F"
+            ],
+            "removed": [
+              "LNtk\\z\u001a2oDKY霽#x H!\"$\u0004\u0012\u0007-/<z/8z/8z/8z1B|ks UfCZh_%z\u000f=ǡ>p\\]e\u0002\u0012\u0000 J$D\u0000.Ll x' yyy^r=\u0017=\u0018z^r\u0017E\u000fE\u000fAE\u000fE\u000fE\u000fF<O% H!\"$\u0004\u0012 <ٺD?G>mαzMZug:ݖFRH\u0001+Unzb7V{]\u0019-8\u001bk҉\u0000\u0010H\u0000\u0000\u0019jwA9s:G3s\u0007;s:G3sO@q^-t9\u00039NgHtw@t 7\u0014 \u0000\u0000\u0000\u0000\u0000\u0000 kг9\u00039#9\u0003:G3Ǯ)\u0006Is:Q=\u00039s:G3s\u0007=\u0001(\u0011 \u0000\u0000\u0000L{$&mg7]oXіԈY\u0000\u00002ilb]+Lh\u0017\u00131M3o\u0000\u0001 \u0011 \u0001\u0012\"B$\u0000 \"@\u0000\u0011 dMO\"D!\u0012! \u0002\u0004$\"@\u0002$DH\u0000A DH\u0000\u0000\b\u0000xŒ#]k^tzW<\u0003\b\"e3l\b$\b\u0000\u0011 \u0011!\u0012\u0002 Dnl\"lW\\ޓe"
+            ]
+          }
+        },
+        {
+          "originalLine": 28,
+          "originalText": "+n[:,: B@\u000038Rɮ~c\u001arR3<k&zf3%o\u0000D\u0000D\u0000\u0000\u0000\u0000\u0000\u0000\u0000D\u0002\u0004$\u0011 \b\u0004H\u0000\u0004H\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\b\u0012\u0018yޤי~zz2Ǻ#'ѩ_A^}<w\u000e><JB ;\u0002P\u0000\u0000\u0000\"@\u0000\"A\u0012 <ٺ&\bã\u001a\\Vllc:t\u001a\u0000\u0000\u0001j-2m9i\\j陼g=3\u0004HD\u0000\"@\u0000\u0000\u0000\b\u0000\u0000\u0001\u0012\u0000\u0000\b\u0000\u0000DH\u0000\u0002$\u0001\u0012\u0000\u0000\b\u0000\u0000\u0001\u0012\u0000\u0000\u000eNK\u0013lX uuqc^z;6\u0018 @\u0000\u0000\u0011 \u0000\u0000\b\u0000\u00077O6n\u0012gwJŴͩuVP6H\u0000\u0000\u0000\u0001X\u001aFnqrYf힙\u0013WL)s]1-\b\u0012\u0000\u0000D\u0000\u0000\u0000\u0000\u0001\u0012\u0000\u0000\u0000\"A\u0012\u0000\u0001\u0012\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0012\u0000\u0000\u0000\"A\u0012\u0000\u0001\u0012\u0000\u0000\u0000\u0001\u0012\u0000\u0000\b\u0000\u0000\u0011 \u0000\u0000\u0002$\u0011!͛$}e\u001bNnEkfzk \u0000\u0002$\u0000 k|k:FӟJ?Us<=3\u0019b& +!\u0002P-\u0010%\u0002ЂP&k!\u0002@ B @@ 1\u0002fH%\u0002f +!\u0002P-\u0010%\u0002ЂP&j%\u0002f\u0010%\u0002ȂP-\u0010%\u0002fL@ @%\u0002f\u0010%\u0002\u0002P-\b%\u0002f\u0010&j%\u0002P,%\u0002\u0002P%\u0012L@^U0] {13\"\u0019t蹮NH\u0000\u0004HC(ֹiќfX\u00195\u0013 3sl+\u0002 'C -`CI!H/1\u001aED5\u0015 gm tFI! m teCQYs̺#aKP[9̻9!\u0015\u0005fa\u001aKP_6V )\u0004NM3jekвD)j6V 3\bRՂ2YH\"u\u0014jiC9҅I)j6s 3\u0006V9\u001bK㝛dSe\u0016עhN\u0000\"@\u0019+lHn첔R=59g t\u000ew@;s9\u0003\b ;w@;s\u0006\u00119\u0003\u00069q t\u000ew@:\u0007;s9\u0003\b t\u000ew@;s9\u0003\b ;w@;s\u0006\u00119\u00039\u0003w 0t #s\u0006\u00119\u0003w ;w@t #s\u0007<9\u0003w \u0018G@t\u000ei\u001b\u0016/9e8Ӗm`\u0000\u0001auenkԭ-\u0011K\u0014c=\u0019V\u0011cToJB2ZKbZ}t9bэ#Xl{k\u001bV1\u0013U^s뭬K\u001ak)i\\o<֒]\\׹K*΢ֲaiKzmDI,Zr,.6mhf̣εnV zu8ީuK&ugW)\u0011k\u001aЍsD\u0019SX1\u0015ϦlΝ\\RmV6̮暑f\u00159pћ\u0014g&VQiƨ:JMLJ˖mTMiQ4i{j\u00116\u0000\u0000\u0015j\\͵iUz\u0016z%M\u00151FZ\u0017ζkZhaev-Z[μfV!08I9u",
+          "type": "modified",
+          "verifyLine": 28,
+          "verifyText": "N:\u0005D`6T#_)tAxXl56ȶ*\u0019K)Iz\u0019&F\u00186\"0\u001b\u0013Z#XڝM\u0014\\\u0000\u0000\u0010\u0002`KͯBN--E\u0010辰 jŭ\u0013z NWy}\u000ew OO4[9\u0013\u0000\u0000\u0000\u0000\u0000\u0003Or\u000e}:cz\u001bd<^Ç2f\u000e\u0016Z\u000e\u0006cܬ4u;u< 3J8;=h9i \u000eNsw0nfAwzp)8])<&C'",
+          "wordDiff": {
+            "added": [
+              "N:\u0005D`6T#_)tAxXl56ȶ*\u0019K)Iz\u0019&F\u00186\"0\u001b\u0013Z#XڝM\u0014\\\u0000\u0000\u0010\u0002`KͯBN--E\u0010辰 jŭ\u0013z NWy}\u000ew OO4[9\u0013\u0000\u0000\u0000\u0000\u0000\u0003Or\u000e}:cz\u001bd<^Ç2f\u000e\u0016Z\u000e\u0006cܬ4u;u< 3J8;=h9i \u000eNsw0nfAwzp)8])<&C'"
+            ],
+            "removed": [
+              "+n[:,: B@\u000038Rɮ~c\u001arR3<k&zf3%o\u0000D\u0000D\u0000\u0000\u0000\u0000\u0000\u0000\u0000D\u0002\u0004$\u0011 \b\u0004H\u0000\u0004H\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\b\u0012\u0018yޤי~zz2Ǻ#'ѩ_A^}<w\u000e><JB ;\u0002P\u0000\u0000\u0000\"@\u0000\"A\u0012 <ٺ&\bã\u001a\\Vllc:t\u001a\u0000\u0000\u0001j-2m9i\\j陼g=3\u0004HD\u0000\"@\u0000\u0000\u0000\b\u0000\u0000\u0001\u0012\u0000\u0000\b\u0000\u0000DH\u0000\u0002$\u0001\u0012\u0000\u0000\b\u0000\u0000\u0001\u0012\u0000\u0000\u000eNK\u0013lX uuqc^z;6\u0018 @\u0000\u0000\u0011 \u0000\u0000\b\u0000\u00077O6n\u0012gwJŴͩuVP6H\u0000\u0000\u0000\u0001X\u001aFnqrYf힙\u0013WL)s]1-\b\u0012\u0000\u0000D\u0000\u0000\u0000\u0000\u0001\u0012\u0000\u0000\u0000\"A\u0012\u0000\u0001\u0012\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0012\u0000\u0000\u0000\"A\u0012\u0000\u0001\u0012\u0000\u0000\u0000\u0001\u0012\u0000\u0000\b\u0000\u0000\u0011 \u0000\u0000\u0002$\u0011!͛$}e\u001bNnEkfzk \u0000\u0002$\u0000 k|k:FӟJ?Us<=3\u0019b& +!\u0002P-\u0010%\u0002ЂP&k!\u0002@ B @@ 1\u0002fH%\u0002f +!\u0002P-\u0010%\u0002ЂP&j%\u0002f\u0010%\u0002ȂP-\u0010%\u0002fL@ @%\u0002f\u0010%\u0002\u0002P-\b%\u0002f\u0010&j%\u0002P,%\u0002\u0002P%\u0012L@^U0] {13\"\u0019t蹮NH\u0000\u0004HC(ֹiќfX\u00195\u0013 3sl+\u0002 'C -`CI!H/1\u001aED5\u0015 gm tFI! m teCQYs̺#aKP[9̻9!\u0015\u0005fa\u001aKP_6V )\u0004NM3jekвD)j6V 3\bRՂ2YH\"u\u0014jiC9҅I)j6s 3\u0006V9\u001bK㝛dSe\u0016עhN\u0000\"@\u0019+lHn첔R=59g t\u000ew@;s9\u0003\b ;w@;s\u0006\u00119\u0003\u00069q t\u000ew@:\u0007;s9\u0003\b t\u000ew@;s9\u0003\b ;w@;s\u0006\u00119\u00039\u0003w 0t #s\u0006\u00119\u0003w ;w@t #s\u0007<9\u0003w \u0018G@t\u000ei\u001b\u0016/9e8Ӗm`\u0000\u0001auenkԭ-\u0011K\u0014c=\u0019V\u0011cToJB2ZKbZ}t9bэ#Xl{k\u001bV1\u0013U^s뭬K\u001ak)i\\o<֒]\\׹K*΢ֲaiKzmDI,Zr,.6mhf̣εnV zu8ީuK&ugW)\u0011k\u001aЍsD\u0019SX1\u0015ϦlΝ\\RmV6̮暑f\u00159pћ\u0014g&VQiƨ:JMLJ˖mTMiQ4i{j\u00116\u0000\u0000\u0015j\\͵iUz\u0016z%M\u00151FZ\u0017ζkZhaev-Z[μfV!08I9u"
+            ]
+          }
+        },
+        {
+          "originalLine": 29,
+          "originalText": "cMbyl+Y5inN2°_-^Xٽ3Y\u001bR*LVq]6&y",
+          "type": "modified",
+          "verifyLine": 29,
+          "verifyText": "+v\u0013\u0007 zwjqݩ0hS\u0007/KA {'\u0003?VǞX\u0000\u0001\u0010\u0002Ef\u0018s\u0007NXxzxk\u000fgc~uby~&߯us7Dd\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000LH\u0000\u0000\u0000\u0000\u0000\u0000\u0000 Va\u0016L\u0013\u0013\u0004&$LL \u0012@$\u0000\u0000\u0000\u0001\u0013P\u0004\u0012ﻳ\u0013\u0015O2i~M\u000f<_ m3ή>=mg>$kP\u0000\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000$\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0013\u0012LLBb`&$Dđ1$\u0002b`LI\u0000\u0013\u0012\u0000\u0000\u0000\u0001\u0010\u0002EfL",
+          "wordDiff": {
+            "added": [
+              "+v\u0013\u0007 zwjqݩ0hS\u0007/KA {'\u0003?VǞX\u0000\u0001\u0010\u0002Ef\u0018s\u0007NXxzxk\u000fgc~uby~&߯us7Dd\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000LH\u0000\u0000\u0000\u0000\u0000\u0000\u0000 Va\u0016L\u0013\u0013\u0004&$LL \u0012@$\u0000\u0000\u0000\u0001\u0013P\u0004\u0012ﻳ\u0013\u0015O2i~M\u000f<_ m3ή>=mg>$kP\u0000\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000$\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0013\u0012LLBb`&$Dđ1$\u0002b`LI\u0000\u0013\u0012\u0000\u0000\u0000\u0001\u0010\u0002EfL"
+            ],
+            "removed": [
+              "cMbyl+Y5inN2°_-^Xٽ3Y\u001bR*LVq]6&y"
+            ]
+          }
+        },
+        {
+          "originalLine": 30,
+          "originalText": "i\u0018jNF\u0016z+nM&lS9սue\u0013˨D4򳯓0\u0016SIpJN\u0012W42:)el-+͋E3ljX3ͮ\u0011\u0019]mH/g^Qraj\u0004 \u0002$+a|k*gMrNtfU]\u0014C\u001aJ[y-ќDN;ůXȩKƭzk4;S\u000eeҵzU6Y;8z1ȬŖ|q\u0012M'Y\u0016,k1lne[=2-s+\u0015c[z6n^UsƯ9kKY/C (ƵӟyWBb77ZIt:R",
+          "type": "modified",
+          "verifyLine": 30,
+          "verifyText": "FKK\u000e.\u0017x/[d A|y1~>WO׋Oͩ=EmkuG^ \u0000\u0000\u0000\u0000\u0000 \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\"\u0002D$H&$ \u0013\u0013\u0002B&$@H\u0000\u0000\u0000\u0004\u0010\u0004*`ӿ$xiھ_\\^ޙ\u0007q_ L1nJ';^(]=GC;g \u0019\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000H\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 \b&$ \u0013\u0013\u0004&$\u0000\u0000\u0000\u0000\u0015\u0004BA\u0014˓\\'; m^\u000e/ӞA W\u0000^ɥ+jnF\u00013NWc_",
+          "wordDiff": {
+            "added": [
+              "FKK\u000e.\u0017x/[d A|y1~>WO׋Oͩ=EmkuG^ \u0000\u0000\u0000\u0000\u0000 \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\"\u0002D$H&$ \u0013\u0013\u0002B&$@H\u0000\u0000\u0000\u0004\u0010\u0004*`ӿ$xiھ_\\^ޙ\u0007q_ L1nJ';^(]=GC;g \u0019\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000H\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 \b&$ \u0013\u0013\u0004&$\u0000\u0000\u0000\u0000\u0015\u0004BA\u0014˓\\'; m^\u000e/ӞA W\u0000^ɥ+jnF\u00013NWc_"
+            ],
+            "removed": [
+              "i\u0018jNF\u0016z+nM&lS9սue\u0013˨D4򳯓0\u0016SIpJN\u0012W42:)el-+͋E3ljX3ͮ\u0011\u0019]mH/g^Qraj\u0004 \u0002$+a|k*gMrNtfU]\u0014C\u001aJ[y-ќDN;ůXȩKƭzk4;S\u000eeҵzU6Y;8z1ȬŖ|q\u0012M'Y\u0016,k1lne[=2-s+\u0015c[z6n^UsƯ9kKY/C (ƵӟyWBb77ZIt:R"
+            ]
+          }
+        },
+        {
+          "originalLine": 31,
+          "originalText": "sgVۛRs$\u0005\u0019v.՘bձu;aQҔ\u0005)o[k9ޚ\u00183έ\u001a&w#ZR6L 1tM3,\\v0mZç3k",
+          "type": "modified",
+          "verifyLine": 31,
+          "verifyText": "3[ԵCZ\u0000\u0000\u0000\u0000\u0000\u0000\u0014.\u0000\u0000\u0000$\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000$\b\u0000\u0004A\u0004$\"B\u0013\u000410$\u0000\u0000\u0000\u0000\u0010@ B'\u0005g[_g+\u0006tֶ:E~\u000f᧜s|{OsH:WRpo[w\u0016\u0016/^\u0006~\u0000\u0000&$\u0000 SIǳgɭNƙ\u0006*d",
+          "wordDiff": {
+            "added": [
+              "3[ԵCZ\u0000\u0000\u0000\u0000\u0000\u0000\u0014.\u0000\u0000\u0000$\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000$\b\u0000\u0004A\u0004$\"B\u0013\u000410$\u0000\u0000\u0000\u0000\u0010@ B'\u0005g[_g+\u0006tֶ:E~\u000f᧜s|{OsH:WRpo[w\u0016\u0016/^\u0006~\u0000\u0000&$\u0000 SIǳgɭNƙ\u0006*d"
+            ],
+            "removed": [
+              "sgVۛRs$\u0005\u0019v.՘bձu;aQҔ\u0005)o[k9ޚ\u00183έ\u001a&w#ZR6L 1tM3,\\v0mZç3k"
+            ]
+          }
+        },
+        {
+          "originalLine": 32,
+          "originalText": "%\u0000\u0000\u0000\u0006Mrk\u0016͈\u0015lۚo-Jk2SjTRmJ\u0013|f\u001b4\u0010ELk\u0016R\u0016ͤ\u0011Q_Z[yJ\u0004l\u0013-\u001a",
+          "type": "modified",
+          "verifyLine": 32,
+          "verifyText": "L\u0001 \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000$\u0000\u0000\u0004HD10H\u00110LL\u0012\u0000\u0000\u0000\u0000\u0015\u0013\u0004\u0001",
+          "wordDiff": {
+            "added": [
+              "L\u0001 \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000$\u0000\u0000\u0004HD10H\u00110LL\u0012\u0000\u0000\u0000\u0000\u0015\u0013\u0004\u0001"
+            ],
+            "removed": [
+              "%\u0000\u0000\u0000\u0006Mrk\u0016͈\u0015lۚo-Jk2SjTRmJ\u0013|f\u001b4\u0010ELk\u0016R\u0016ͤ\u0011Q_Z[yJ\u0004l\u0013-\u001a"
+            ]
+          }
+        },
+        {
+          "originalLine": 33,
+          "originalText": "FZfƚMJk)uE\"*-k2c1FdDA\u0012S\u001bM\"\u0012zɆ:k5gyc7̈.sj34/K[Yց",
+          "type": "modified",
+          "verifyLine": 33,
+          "verifyText": "-<lXތ9RZڱ1ze8|\u00007pO^'M8 G.ͭm;VrTצ:\u0000\u0001 \u0000\u0001c\u0011Zot ءS=$3 \u0000\u0012\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 \u0000\u0000\u0000\u0012\u0000\u0011 A \u0000\u0000\u0000\u0000\u0000\u0000H(@N|\u001bX\\:3\u001bCzֵbY~{<\u000fy\u000fz/6wC\"!1\u0010\u001a\u001b=Y Y56ԝ-~7 9\u0000\u0002ȭ Ɍ\u0019. FP\u0018\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 \u0000\u0000\u0000\u0002b@K\u0006~z7c\u0007f4s\u0016Rvjm I",
+          "wordDiff": {
+            "added": [
+              "-<lXތ9RZڱ1ze8|\u00007pO^'M8 G.ͭm;VrTצ:\u0000\u0001 \u0000\u0001c\u0011Zot ءS=$3 \u0000\u0012\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 \u0000\u0000\u0000\u0012\u0000\u0011 A \u0000\u0000\u0000\u0000\u0000\u0000H(@N|\u001bX\\:3\u001bCzֵbY~{<\u000fy\u000fz/6wC\"!1\u0010\u001a\u001b=Y Y56ԝ-~7 9\u0000\u0002ȭ Ɍ\u0019. FP\u0018\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 \u0000\u0000\u0000\u0002b@K\u0006~z7c\u0007f4s\u0016Rvjm I"
+            ],
+            "removed": [
+              "FZfƚMJk)uE\"*-k2c1FdDA\u0012S\u001bM\"\u0012zɆ:k5gyc7̈.sj34/K[Yց"
+            ]
+          }
+        },
+        {
+          "originalLine": 34,
+          "originalText": ",e֡\u0014y֔KY*kM/9#= [F\u0013pM6Q #=-\u0011i!\u0002u@\u0000 \u0002\u0012\b)6s+ed驜`\u0010Z3rDY\"\u0017\u001a,B\u0019ƩreЪD\u0000g5F6VT]*",
+          "type": "modified",
+          "verifyLine": 34,
+          "verifyText": "--#Oz,<\u0007z8\u0015=\u000emDNޒ2a֜΋+tjU\u0013Z[W(Cgcv\\oK\"8&\"!1\u0010V\u000e $mHty;)h\u0000\u0000ix!OCSv9ݽ 󁟡+Զ| \u0012\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0000\u0000%\u0016LV]F)0 g\u00180Ø53\u001a50Sf\u0012\u0014õTk\u00181<,Z;Zy6mXŝ\u0015ӝGvo\u0000R1\u0010LB\u0004A9Os ƾ->m7Z;P/\u0000\u00004>GtSi\u0004767\u0018\"[",
+          "wordDiff": {
+            "added": [
+              "--#Oz,<\u0007z8\u0015=\u000emDNޒ2a֜΋+tjU\u0013Z[W(Cgcv\\oK\"8&\"!1\u0010V\u000e $mHty;)h\u0000\u0000ix!OCSv9ݽ 󁟡+Զ| \u0012\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0000\u0000%\u0016LV]F)0 g\u00180Ø53\u001a50Sf\u0012\u0014õTk\u00181<,Z;Zy6mXŝ\u0015ӝGvo\u0000R1\u0010LB\u0004A9Os ƾ->m7Z;P/\u0000\u00004>GtSi\u0004767\u0018\"["
+            ],
+            "removed": [
+              ",e֡\u0014y֔KY*kM/9#= [F\u0013pM6Q #=-\u0011i!\u0002u@\u0000 \u0002\u0012\b)6s+ed驜`\u0010Z3rDY\"\u0017\u001a,B\u0019ƩreЪD\u0000g5F6VT]*"
+            ]
+          }
+        },
+        {
+          "originalLine": 35,
+          "originalText": "h+`",
+          "type": "modified",
+          "verifyLine": 35,
+          "verifyText": "h6\u0000\u0000\u0000\u0000\u0000\u0000\u0000 \u0000\u0000\u0000\u0000\u0000\u0002bI&\u0000\b\u0000\u0000\u0000\u0000\u0001\u0004\u0004D@\u0000gfZ4/N-\u0016-Z\"rZ՘oN= N>ߕ ?J/-(LD&b Ӹ bRN.\u0005mӐH\u0006Ѿ5o:!ɺ9& \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0012\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002&\u0010\u0000\u0000\u0000\u0000",
+          "wordDiff": {
+            "added": [
+              "h6\u0000\u0000\u0000\u0000\u0000\u0000\u0000 \u0000\u0000\u0000\u0000\u0000\u0002bI&\u0000\b\u0000\u0000\u0000\u0000\u0001\u0004\u0004D@\u0000gfZ4/N-\u0016-Z\"rZ՘oN= N>ߕ ?J/-(LD&b Ӹ bRN.\u0005mӐH\u0006Ѿ5o:!ɺ9& \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0012\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002&\u0010\u0000\u0000\u0000\u0000"
+            ],
+            "removed": [
+              "h+`"
+            ]
+          }
+        },
+        {
+          "originalLine": 36,
+          "originalText": "\\f\u0018\u0016`Zfsu\u0011aDc:,-fj-7͡\u0002tFMrYZ]XL驛B\u0005\u0001\u0019F٪iiuI5LU@f\u0019j-alZbR\u0016VeQ q2Zʩm",
+          "type": "modified",
+          "verifyLine": 36,
+          "verifyText": "%1(D\u0000\u00025<fLbýbMoLⶪ\"M*= ot 4incՈDLA1\u0011 v|G 2l/:s\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002H\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002`X\u0000B`\u0000\u0000\u0000\u0010@L+0\u00000Vur- 9Zڸ+jsDJ \u0003G\u0016\u0011\u0010ŭ\u0016\u0011\u0015\u0000&Gck9\u000e[ɥ\u0013a\u0000\u0000\u0000\u0000\u0012\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00000$\u0000@\u0000\u0000\u0005f\u0012\u0002\b\u0000\u000ef;^5j\u0015\bț՘mZOw4\u001995ݍ7=+MqDf\u0018g((|I]Yw\u0011enֽ\u0004w\u0011pGy \u0004w;\u0000\u0003\u000e;\u0000\u0003\u000e;\u0000\u0003\u000f@<\u000f>=\u0003Ϗ@<\u000f>=\u0003Ϗ@<\u000f>=\u0003ϏBмO:=\u0013ΏBм/<= \u000fA \u0001 |z",
+          "wordDiff": {
+            "added": [
+              "%1(D\u0000\u00025<fLbýbMoLⶪ\"M*= ot 4incՈDLA1\u0011 v|G 2l/:s\u0000\u0000\u0000\u0000\u0000\u0012\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002H\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002`X\u0000B`\u0000\u0000\u0000\u0010@L+0\u00000Vur- 9Zڸ+jsDJ \u0003G\u0016\u0011\u0010ŭ\u0016\u0011\u0015\u0000&Gck9\u000e[ɥ\u0013a\u0000\u0000\u0000\u0000\u0012\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00000$\u0000@\u0000\u0000\u0005f\u0012\u0002\b\u0000\u000ef;^5j\u0015\bț՘mZOw4\u001995ݍ7=+MqDf\u0018g((|I]Yw\u0011enֽ\u0004w\u0011pGy \u0004w;\u0000\u0003\u000e;\u0000\u0003\u000e;\u0000\u0003\u000f@<\u000f>=\u0003Ϗ@<\u000f>=\u0003Ϗ@<\u000f>=\u0003ϏBмO:=\u0013ΏBм/<= \u000fA \u0001 |z"
+            ],
+            "removed": [
+              "\\f\u0018\u0016`Zfsu\u0011aDc:,-fj-7͡\u0002tFMrYZ]XL驛B\u0005\u0001\u0019F٪iiuI5LU@f\u0019j-alZbR\u0016VeQ q2Zʩm"
+            ]
+          }
+        },
+        {
+          "originalLine": 37,
+          "originalText": ",dIHI \u0000\u0000D\u0000\u0001\u0002@\u0000\u0011(%\u0002@\u0000\u0004 ͢\"J\u0000 \u0000\u0005m\u0005\u0017\u0001\u0012\b\u0012\u0000DH*@\u0000\u0002 Df\u0019Q\u0002@\u0000\u0002 D\u0006w\u0001\u0002Q \u0000DR\u0000\u0000A(\u0000\" \"@\u0000\u0002 D3f\u0004*Q \u0000\b%\u0002@\u0000\u0002 D\u0000\u0001\u0002@ \u0000\u0000\u0001\u0000\u0000HD\u0001H\"@\u0000\u0000DH\u0000\u0000\b \u0000\u0000D\u0002@\u0002\u0001!\u0012\u0000\u0000\u0000\u0000\u0011 \u0000\u0000\u0000\u0000\u0004HD\u0000 \u0012\u0011 \u0000\b \u0000\u0000\u0005D\u0000P@\b \u0000\u0000D\u0002@\u0002\u0001 \u0000\u0001H\"`$\u0000\u0000\u0002\u0000 \u0003\u0001\u0000\u0002\u0000\u0003\u0000\u0000\u0000!(x \u001a ₈'H%",
+          "type": "modified",
+          "verifyLine": 37,
+          "verifyText": "Gy \u0004ms\u0019_FuY_b0 \u001aCo\u0016\u0016;q @\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0013\u0000\u0002\u0000 \u0003\u0001\u0000\u0002\u0000\u0003\u0000\u0000\u0000!\u0004\u0010A\u0004\u0010A\u0004\u0010A\u0004\u0010A\u0004\u0010A\u0004\u0010A\u0004\u0010A\u0004\u0010A\u0004\u0010A\u0004\u0010A\u0004\u0010A\u0004\u0010A\u0004\u0010A\u0004\u0010A\u0004\u0010A\u0004\u0010A\u0000\u0019PH(ᄖ%q\u0010A\u0014M4M5 s3=<<-{\b!C, 0/1PIJ[\b\u0000\u0000\u0013<<A\u0000\u0000\u0001\u0004\u0015}A\u0004\u0003C\u0017\u0003\u0007ʒE\u0010`$f `\u0018\u0019\b \u0000\u0001<<\u0001\u0004\u0000\u0000\u0004\u0011}A\u0004Ӭ\\ cx2\u0003\u000e[h륖{(\b \u0000\u0000O<9I\u0004\u0000\u0000\u0004\u0010]A\u00053nk\u0001pa \u0007]VZiJ;B/\b \u0000O<=Hoۄ\u0010\u0000\u0004\u0010UA|0ݸW@3G~H㮙;. \u0000\u0007<<]\\\u0010\u0000\u0000\u0010Ea9 \u000eU.\\\u0003졇\u0014\u0012\bP8 \u0000\u0001<<KN7\u0010Awc<O*f|S >\u0003 \u0010<<HY \u0000\u0000<<",
+          "wordDiff": {
+            "added": [
+              "Gy \u0004ms\u0019_FuY_b0 \u001aCo\u0016\u0016;q @\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0013\u0000\u0002\u0000 \u0003\u0001\u0000\u0002\u0000\u0003\u0000\u0000\u0000!\u0004\u0010A\u0004\u0010A\u0004\u0010A\u0004\u0010A\u0004\u0010A\u0004\u0010A\u0004\u0010A\u0004\u0010A\u0004\u0010A\u0004\u0010A\u0004\u0010A\u0004\u0010A\u0004\u0010A\u0004\u0010A\u0004\u0010A\u0004\u0010A\u0000\u0019PH(ᄖ%q\u0010A\u0014M4M5 s3=<<-{\b!C, 0/1PIJ[\b\u0000\u0000\u0013<<A\u0000\u0000\u0001\u0004\u0015}A\u0004\u0003C\u0017\u0003\u0007ʒE\u0010`$f `\u0018\u0019\b \u0000\u0001<<\u0001\u0004\u0000\u0000\u0004\u0011}A\u0004Ӭ\\ cx2\u0003\u000e[h륖{(\b \u0000\u0000O<9I\u0004\u0000\u0000\u0004\u0010]A\u00053nk\u0001pa \u0007]VZiJ;B/\b \u0000O<=Hoۄ\u0010\u0000\u0004\u0010UA|0ݸW@3G~H㮙;. \u0000\u0007<<]\\\u0010\u0000\u0000\u0010Ea9 \u000eU.\\\u0003졇\u0014\u0012\bP8 \u0000\u0001<<KN7\u0010Awc<O*f|S >\u0003 \u0010<<HY \u0000\u0000<<"
+            ],
+            "removed": [
+              ",dIHI \u0000\u0000D\u0000\u0001\u0002@\u0000\u0011(%\u0002@\u0000\u0004 ͢\"J\u0000 \u0000\u0005m\u0005\u0017\u0001\u0012\b\u0012\u0000DH*@\u0000\u0002 Df\u0019Q\u0002@\u0000\u0002 D\u0006w\u0001\u0002Q \u0000DR\u0000\u0000A(\u0000\" \"@\u0000\u0002 D3f\u0004*Q \u0000\b%\u0002@\u0000\u0002 D\u0000\u0001\u0002@ \u0000\u0000\u0001\u0000\u0000HD\u0001H\"@\u0000\u0000DH\u0000\u0000\b \u0000\u0000D\u0002@\u0002\u0001!\u0012\u0000\u0000\u0000\u0000\u0011 \u0000\u0000\u0000\u0000\u0004HD\u0000 \u0012\u0011 \u0000\b \u0000\u0000\u0005D\u0000P@\b \u0000\u0000D\u0002@\u0002\u0001 \u0000\u0001H\"`$\u0000\u0000\u0002\u0000 \u0003\u0001\u0000\u0002\u0000\u0003\u0000\u0000\u0000!(x \u001a ₈'H%"
+            ]
+          }
+        },
+        {
+          "originalLine": 38,
+          "originalText": "( 8 j# \b (($Z Hk\b!",
+          "type": "modified",
+          "verifyLine": 38,
+          "verifyText": "0Y͐A\u0017{l",
+          "wordDiff": {
+            "added": [
+              "0Y͐A\u0017{l"
+            ],
+            "removed": [
+              "( 8 j# \b (($Z Hk\b!"
+            ]
+          }
+        },
+        {
+          "originalLine": 39,
+          "originalText": "\b,\bD\u0004 \b I eq\" )S$l\b#\u0007,\u0000 \\J`[O\u0000 [\u0014\b!+ ! \u0000K (\"lg*\u0005\u000e`F}Bo,,\b#ĭ!E\"gs t@9 eLLP:$\u0014 \b(\u0019\u0003 RaRceF)K_BV\"2/BK`BCr0r",
+          "type": "modified",
+          "verifyLine": 39,
+          "verifyText": "%nt9 \u0007T\b!QbZ \u0000\u0000 <<\u0010@\u0000\u0000A\u0017{",
+          "wordDiff": {
+            "added": [
+              "%nt9 \u0007T\b!QbZ \u0000\u0000 <<\u0010@\u0000\u0000A\u0017{"
+            ],
+            "removed": [
+              "\b,\bD\u0004 \b I eq\" )S$l\b#\u0007,\u0000 \\J`[O\u0000 [\u0014\b!+ ! \u0000K (\"lg*\u0005\u000e`F}Bo,,\b#ĭ!E\"gs t@9 eLLP:$\u0014 \b(\u0019\u0003 RaRceF)K_BV\"2/BK`BCr0r"
+            ]
+          }
+        },
+        {
+          "originalLine": 40,
+          "originalText": ")W h H\u0019zH\u0017Y8\u0018\u0006 \u0018\"Wz/8",
+          "type": "modified",
+          "verifyLine": 40,
+          "verifyText": "6",
+          "wordDiff": {
+            "added": [
+              "6"
+            ],
+            "removed": [
+              ")W h H\u0019zH\u0017Y8\u0018\u0006 \u0018\"Wz/8"
+            ]
+          }
+        },
+        {
+          "originalLine": 41,
+          "originalText": "FO9\u0011ޡ%h*茚",
+          "type": "modified",
+          "verifyLine": 41,
+          "verifyText": "~¡4b4\u0000/>\u0005<\u000e\u0018\u0000\u0000\u0004<<\u0010@\u0000\u0000A\u0005c,t,R/uFp\u0014\u0000LS X8~`\b\u0000\u0005SZV\u0013kP q> }H 9",
+          "wordDiff": {
+            "added": [
+              "~¡4b4\u0000/>\u0005<\u000e\u0018\u0000\u0000\u0004<<\u0010@\u0000\u0000A\u0005c,t,R/uFp\u0014\u0000LS X8~`\b\u0000\u0005SZV\u0013kP q> }H 9"
+            ],
+            "removed": [
+              "FO9\u0011ޡ%h*茚"
+            ]
+          }
+        },
+        {
+          "originalLine": 42,
+          "originalText": "\u0006a)\u0007\u00154$7aFm` Yk\u001a\u0016T\u0010 \b)\u0010\u0014]wܢ\u0006\u0005H1 7\u0015z8/\u00187\b \u000f\u0001\b(\u0007",
+          "type": "modified",
+          "verifyLine": 42,
+          "verifyText": ":#M<\u0000v g9\"\b\u0000\u0000c?\"Q\u0000",
+          "wordDiff": {
+            "added": [
+              ":#M<\u0000v g9\"\b\u0000\u0000c?\"Q\u0000"
+            ],
+            "removed": [
+              "\u0006a)\u0007\u00154$7aFm` Yk\u001a\u0016T\u0010 \b)\u0010\u0014]wܢ\u0006\u0005H1 7\u0015z8/\u00187\b \u000f\u0001\b(\u0007"
+            ]
+          }
+        },
+        {
+          "originalLine": 43,
+          "originalText": "b\u0004il0v(Pl׏\u0001.\u0001\u0016",
+          "type": "modified",
+          "verifyLine": 43,
+          "verifyText": "X\u0018\u0010`7\u0006Yݜ2h`9,\u0000q|e~0\b\u0000\u0000\u0012:ֈ'E\u0000\u0000\u0019\u0001cЬ۞GW\u0000\u00045'\u0007$Id\u000eW'j\b \u0000\u0003ˎ z\u0011 @\u0011~E\u0004Ea\u0004\u0000\u0016\u0002\u0016߮?k?hB\b \u0000\u0001O<<A\u0014@\u0000\u0004\u0010uxW[$?i֐ \u00060\u000fkpAI ŬTUjH \u0000\u0000O<<c\u0019\u0015:L8ǜ\u0015O<;ڜ\u0010\u0015_\u00005\u0006 \u0018 \u0000\u0007<<3\u0011}_7s\u000e\u0000K 1m\u001a)8:\u0000_(\u0000\u0005<<(\u0004\u0010\u0003 0 A\u0004k\u0006k\u0000o 0 N.ZO\"\u0000\u0001<<<\u0004\u0010\u0001\u0014YkVLT_ 0L4_z=\u0004\u0000)\u0002\u0000\u0000 <<\u0010@- \u0000 aV0MN4LM j\u0000\u0000 <<\u0010@\u0000\u0000A\u0007}ZG\u00048O\u0006o",
+          "wordDiff": {
+            "added": [
+              "X\u0018\u0010`7\u0006Yݜ2h`9,\u0000q|e~0\b\u0000\u0000\u0012:ֈ'E\u0000\u0000\u0019\u0001cЬ۞GW\u0000\u00045'\u0007$Id\u000eW'j\b \u0000\u0003ˎ z\u0011 @\u0011~E\u0004Ea\u0004\u0000\u0016\u0002\u0016߮?k?hB\b \u0000\u0001O<<A\u0014@\u0000\u0004\u0010uxW[$?i֐ \u00060\u000fkpAI ŬTUjH \u0000\u0000O<<c\u0019\u0015:L8ǜ\u0015O<;ڜ\u0010\u0015_\u00005\u0006 \u0018 \u0000\u0007<<3\u0011}_7s\u000e\u0000K 1m\u001a)8:\u0000_(\u0000\u0005<<(\u0004\u0010\u0003 0 A\u0004k\u0006k\u0000o 0 N.ZO\"\u0000\u0001<<<\u0004\u0010\u0001\u0014YkVLT_ 0L4_z=\u0004\u0000)\u0002\u0000\u0000 <<\u0010@- \u0000 aV0MN4LM j\u0000\u0000 <<\u0010@\u0000\u0000A\u0007}ZG\u00048O\u0006o"
+            ],
+            "removed": [
+              "b\u0004il0v(Pl׏\u0001.\u0001\u0016"
+            ]
+          }
+        },
+        {
+          "originalLine": 44,
+          "originalText": "\u0019. \u0003\u0000C\u0004\u001bD=׍8[0ל43<ӄ\u001b-@L7\u001b\u0015N4On\u00006q \bc\u0003 A,B~&\u0010\be\u0013I\u0000*X(pAҋ1\u0007ۢO\u0002=,\u0006;\"N\"x\u000e)' -3uKO`\u0018 #P\u0002BA",
+          "type": "modified",
+          "verifyLine": 44,
+          "verifyText": "7f:\u0000Q Z\u0000\u0004<<\u0010@\u0000\u0000A\u0005}\u0014A\u000e\u0019- 0 0O\u0000 2ހL\u0015kb(\u0000\u0000s<<$C 8s s > LM0B{\u000e<\u0000\u0000\u0013<<߮7M=7h \u0000p߿\u0000\u000e\u001a\u00063p\u0000\u0003<<A\u0000\u0000\u0001\u0004\u0015}A\u0004XEro<=L5\u0000>8p\u001a\u0002\u0000\u0001<4\b\u0000A00\u0000\u00000W\u000e(p \u0010M$V70\u000f~7x @\u0001O<<\u0001\u0004\u0000\u0000\u0004\u0010}A\u0004\u0010\u0001\\;[\u0000x p,9\u0000",
+          "wordDiff": {
+            "added": [
+              "7f:\u0000Q Z\u0000\u0004<<\u0010@\u0000\u0000A\u0005}\u0014A\u000e\u0019- 0 0O\u0000 2ހL\u0015kb(\u0000\u0000s<<$C 8s s > LM0B{\u000e<\u0000\u0000\u0013<<߮7M=7h \u0000p߿\u0000\u000e\u001a\u00063p\u0000\u0003<<A\u0000\u0000\u0001\u0004\u0015}A\u0004XEro<=L5\u0000>8p\u001a\u0002\u0000\u0001<4\b\u0000A00\u0000\u00000W\u000e(p \u0010M$V70\u000f~7x @\u0001O<<\u0001\u0004\u0000\u0000\u0004\u0010}A\u0004\u0010\u0001\\;[\u0000x p,9\u0000"
+            ],
+            "removed": [
+              "\u0019. \u0003\u0000C\u0004\u001bD=׍8[0ל43<ӄ\u001b-@L7\u001b\u0015N4On\u00006q \bc\u0003 A,B~&\u0010\be\u0013I\u0000*X(pAҋ1\u0007ۢO\u0002=,\u0006;\"N\"x\u000e)' -3uKO`\u0018 #P\u0002BA"
+            ]
+          }
+        },
+        {
+          "originalLine": 45,
+          "originalText": "+k5~<y\\ҏe&4SX\u001b^lz[ɍZ#\u0007C\u001ab!\b`Z(\u0002 \u0018,(\u0018 \b H! ) \b$( \b\"\ba\b\"",
+          "type": "modified",
+          "verifyLine": 45,
+          "verifyText": "7\u0000?Eh\u0000\u000f<1M$PI\u0014\u0011Y E$\u0011I6۟q w 1۟|l7\u0000>O\u0002yZ\u0007<<5AE&\u0010ŽÌt8\u0000\u0000w<W~\u000e?S?~\u001aU\u0001<<8\u0004 A_ ;ü6^",
+          "wordDiff": {
+            "added": [
+              "7\u0000?Eh\u0000\u000f<1M$PI\u0014\u0011Y E$\u0011I6۟q w 1۟|l7\u0000>O\u0002yZ\u0007<<5AE&\u0010ŽÌt8\u0000\u0000w<W~\u000e?S?~\u001aU\u0001<<8\u0004 A_ ;ü6^"
+            ],
+            "removed": [
+              "+k5~<y\\ҏe&4SX\u001b^lz[ɍZ#\u0007C\u001ab!\b`Z(\u0002 \u0018,(\u0018 \b H! ) \b$( \b\"\ba\b\""
+            ]
+          }
+        },
+        {
+          "originalLine": 46,
+          "originalText": "! \b\u0007",
+          "type": "modified",
+          "verifyLine": 46,
+          "verifyText": "p\u0000@\u0000әX\u0000<<|4\u0010I0I\u0015}eP\u0005\u0011Awmp L6?b\u0010\u0000j\u0015 <}'YǎεÌ2~x~",
+          "wordDiff": {
+            "added": [
+              "p\u0000@\u0000әX\u0000<<|4\u0010I0I\u0015}eP\u0005\u0011Awmp L6?b\u0010\u0000j\u0015 <}'YǎεÌ2~x~"
+            ],
+            "removed": [
+              "! \b\u0007"
+            ]
+          }
+        },
+        {
+          "originalLine": 47,
+          "originalText": "`",
+          "type": "modified",
+          "verifyLine": 47,
+          "verifyText": "G7\u0000\u0004<<\u0010@\u0000\u0000A\u0005}\u0010A\u0000\u0010A\u0005o0:\u000fp z_V<<\u0010A\u0000\u0000\u0001\u0005_}\u0010A\u0000\u0010A\u0005_}Op \u0000\u00006ì?z\u0001\u0011jS<<A\u0000\u0000\u0001\u0004_}\u0010A\u0004\u0010A\u0004_}=íx}^2\u0000%\u001b2_<<A\u0000\u0000\u0001\u0004\u0017}\u0010A\u0004\u0000A\u0004\u0017}7.\u0000Ǿ:\u000f\u0005ϗ󀆇\u0013<A\u0004\u0000\u0004$\u0011}A\u0004\u0000A\u0004\u0015}\u000fώ=\u00001x\u0000j\u0012V\\\u0015\u0001\u0000_o=\u0001\u0006\u0017m\u0014TA\u0004\u0010A\u0004\u0010} 4_z >\"!`\u000f W\u0000\u0001\u0004\u0002aiA\u0004\u0010\u0001\u0004\u0010] 0Ý 0\u001a S\u0003A ޡ\u0001O?!\u0004\u0011D$\u0013uA\u0004\u0010\u0001\u0004\u0010UC 0\u000f;ZNO\u000f6]@ (\u0004\u00107l8篿\u0004\u0010A\u0004\u0010Ec 0 0]\u0000\u00001E\u0014\u0010/;C\u0000;,\u0010\u0000\u0014Mou\u0004\u0010@\u0004\u0010Awk 0 0\u000f^￲R@?k\u0004+B\u0000\u0010A\u0004\u0010@\u0004\u0010A\u0017y 0 0_\u0000\u0000\u0000֭\u0010A\u0001?W<$\b\u0010\u0000\u0000A\u0007}\u0010A\u0004\u0010A\u0007}0 0 \u0000\u0004 \u0000\u0000\u0010A\u000f\u0006?\u0000\u0006>!\u0000#bA\\A\u0005}\u0010A\u0000\u0010A\u0005}0 0",
+          "wordDiff": {
+            "added": [
+              "G7\u0000\u0004<<\u0010@\u0000\u0000A\u0005}\u0010A\u0000\u0010A\u0005o0:\u000fp z_V<<\u0010A\u0000\u0000\u0001\u0005_}\u0010A\u0000\u0010A\u0005_}Op \u0000\u00006ì?z\u0001\u0011jS<<A\u0000\u0000\u0001\u0004_}\u0010A\u0004\u0010A\u0004_}=íx}^2\u0000%\u001b2_<<A\u0000\u0000\u0001\u0004\u0017}\u0010A\u0004\u0000A\u0004\u0017}7.\u0000Ǿ:\u000f\u0005ϗ󀆇\u0013<A\u0004\u0000\u0004$\u0011}A\u0004\u0000A\u0004\u0015}\u000fώ=\u00001x\u0000j\u0012V\\\u0015\u0001\u0000_o=\u0001\u0006\u0017m\u0014TA\u0004\u0010A\u0004\u0010} 4_z >\"!`\u000f W\u0000\u0001\u0004\u0002aiA\u0004\u0010\u0001\u0004\u0010] 0Ý 0\u001a S\u0003A ޡ\u0001O?!\u0004\u0011D$\u0013uA\u0004\u0010\u0001\u0004\u0010UC 0\u000f;ZNO\u000f6]@ (\u0004\u00107l8篿\u0004\u0010A\u0004\u0010Ec 0 0]\u0000\u00001E\u0014\u0010/;C\u0000;,\u0010\u0000\u0014Mou\u0004\u0010@\u0004\u0010Awk 0 0\u000f^￲R@?k\u0004+B\u0000\u0010A\u0004\u0010@\u0004\u0010A\u0017y 0 0_\u0000\u0000\u0000֭\u0010A\u0001?W<$\b\u0010\u0000\u0000A\u0007}\u0010A\u0004\u0010A\u0007}0 0 \u0000\u0004 \u0000\u0000\u0010A\u000f\u0006?\u0000\u0006>!\u0000#bA\\A\u0005}\u0010A\u0000\u0010A\u0005}0 0"
+            ],
+            "removed": [
+              "`"
+            ]
+          }
+        },
+        {
+          "originalLine": 48,
+          "originalText": "*kB\b \b\"\b \b \b \b &I\b \b \b \b \b\b \b \b\u0016+\u0000!c@_ )\":\bh/(`\bb#J!\b ((8$\u0018\bc\b#\bg!\u0006h(\u0010G= \b \"\u000ej\u0003\u0011!D\b\u0001\u0004\u0010B\u0000\b \b \b \b \b \b \b ( \b \b &m/ \b 8\u0010 \u0014;.(+!hȧ\u0000\b\bb#J! )(8,\u0018\bb\" \u0015\u0000\b BN(\u0012 \u0010\bS77j\u0007 `k\u0012B\u0002",
+          "type": "modified",
+          "verifyLine": 48,
+          "verifyText": "\u0000\u0000pC\u0000z1A ``8\b40L\u0004A\u00143\b \b, \b \b, \b ,\u0000\u0000\u0007 A\u0005\u0010\u0010\u0000\u0004\u0002\u0018\u0012 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0\u0000\u0002\u0000 \u0003\u0001\u0000\u0002\u0000\u0003\u0000\u0000\u0000\u0010N-}_lr8C s<<S?\u0000\u00000S@,\u0011\u0001\\\u000e?}\u0000\u0000C\u0000 ?\u0000\u0000\u0000\u0000\u0000\u0000\u0000 \u0000}A\u0013+ I xmzV \u0000 \u0017\u0000\u0000\u0000\u0000\u0000\u0000 \u0000\u0000]A\u0005lX9u\u0000\u0003\u0001\bbB\u0005\\  \u0011\u0000\u0000\u0000\u0000\u0000n \u0000uA7}:*",
+          "wordDiff": {
+            "added": [
+              "\u0000\u0000pC\u0000z1A ``8\b40L\u0004A\u00143\b \b,",
+              "\b,",
+              ",\u0000\u0000\u0007 A\u0005\u0010\u0010\u0000\u0004\u0002\u0018\u0012 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0\u0000\u0002\u0000 \u0003\u0001\u0000\u0002\u0000\u0003\u0000\u0000\u0000\u0010N-}_lr8C s<<S?\u0000\u00000S@,\u0011\u0001\\\u000e?}\u0000\u0000C\u0000 ?\u0000\u0000\u0000\u0000\u0000\u0000\u0000 \u0000}A\u0013+ I xmzV \u0000 \u0017\u0000\u0000\u0000\u0000\u0000\u0000 \u0000\u0000]A\u0005lX9u\u0000\u0003\u0001\bbB\u0005\\  \u0011\u0000\u0000\u0000\u0000\u0000n \u0000uA7}:*"
+            ],
+            "removed": [
+              "*kB\b \b\"\b",
+              "\b &I\b \b \b \b \b\b \b \b\u0016+\u0000!c@_ )\":\bh/(`\bb#J!\b ((8$\u0018\bc\b#\bg!\u0006h(\u0010G= \b \"\u000ej\u0003\u0011!D\b\u0001\u0004\u0010B\u0000\b \b \b \b \b \b \b ( \b \b &m/ \b 8\u0010 \u0014;.(+!hȧ\u0000\b\bb#J! )(8,\u0018\bb\" \u0015\u0000\b BN(\u0012 \u0010\bS77j\u0007 `k\u0012B\u0002"
+            ]
+          }
+        },
+        {
+          "originalLine": 49,
+          "originalText": "( \b \b \b \b \b \b`\b \b \u0018 \b \b! \u0000\b ;ΌЂ+zj 00\bj X HbH#! (8,\u0018\b\"!J ((\u0013Vp\b T\u0015jĒ\u001ah\b \b \b \b ) \b(\b \b \b \b\"(",
+          "type": "modified",
+          "verifyLine": 49,
+          "verifyText": "`hZ\u00130r,M5 0\u0000\u0000\u0000\u0000K̈́o\u0000mE}/>Ȩ]y\u0013/Te\u001bBz\u0001\u00000_\u0000\u0000\u0000\u0000\u0000\u0002| '\u0000\u0000ywe}M0Ͽ Qy] n>\u0012\b\u00000G\u0000\u0000\u0000\u0000\u0000\u0000g5\u0011X}{|}\u0000w dW\"\u0004",
+          "wordDiff": {
+            "added": [
+              "`hZ\u00130r,M5 0\u0000\u0000\u0000\u0000K̈́o\u0000mE}/>Ȩ]y\u0013/Te\u001bBz\u0001\u00000_\u0000\u0000\u0000\u0000\u0000\u0002| '\u0000\u0000ywe}M0Ͽ Qy] n>\u0012\b\u00000G\u0000\u0000\u0000\u0000\u0000\u0000g5\u0011X}{|}\u0000w dW\"\u0004"
+            ],
+            "removed": [
+              "( \b \b \b \b \b \b`\b \b \u0018 \b \b! \u0000\b ;ΌЂ+zj 00\bj X HbH#! (8,\u0018\b\"!J ((\u0013Vp\b T\u0015jĒ\u001ah\b \b \b \b ) \b(\b \b \b \b\"("
+            ]
+          }
+        },
+        {
+          "originalLine": 50,
+          "originalText": "\b \b \bC { \b# |p\u0000",
+          "type": "modified",
+          "verifyLine": 50,
+          "verifyText": "5B\u0002S0\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u000e2P\u000e}c",
+          "wordDiff": {
+            "added": [
+              "5B\u0002S0\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u000e2P\u000e}c"
+            ],
+            "removed": [
+              "\b \b \bC { \b# |p\u0000"
+            ]
+          }
+        },
+        {
+          "originalLine": 51,
+          "originalText": "()$\u0018 \b࢈b`\u0012@ \u0001\u0010E\u0004\u0014\u0006 \bP\u0004 \"\b!H",
+          "type": "modified",
+          "verifyLine": 51,
+          "verifyText": "5\u0000\u0000\u0011p㑨/=\\\u0004zk 0\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000=clƚ}\u0000S=i$\b>_95\u000e \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0007\u0000\u0000_sMt[]Q1\u000f\u0019\u000e\u0003Z\u0019A^\u0005\u0000 1,78ûI5L\u0010פ\u0012\b[o蟅y )E,#8\u0005\u0000\u0000\u000ei\u0002\u0004\u0005Y cd8+\u0007\u0000^?:(}jE1 \u0000ދu0\u0004  >[%O[?\u0010B 1Cy,(\u0018pa \u0017\u00001 <: ՠ0\u000f]>",
+          "wordDiff": {
+            "added": [
+              "5\u0000\u0000\u0011p㑨/=\\\u0004zk 0\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000=clƚ}\u0000S=i$\b>_95\u000e \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0007\u0000\u0000_sMt[]Q1\u000f\u0019\u000e\u0003Z\u0019A^\u0005\u0000 1,78ûI5L\u0010פ\u0012\b[o蟅y )E,#8\u0005\u0000\u0000\u000ei\u0002\u0004\u0005Y cd8+\u0007\u0000^?:(}jE1 \u0000ދu0\u0004  >[%O[?\u0010B 1Cy,(\u0018pa \u0017\u00001 <: ՠ0\u000f]>"
+            ],
+            "removed": [
+              "()$\u0018 \b࢈b`\u0012@ \u0001\u0010E\u0004\u0014\u0006 \bP\u0004 \"\b!H"
+            ]
+          }
+        },
+        {
+          "originalLine": 52,
+          "originalText": "((\u0013\u0004\b (*\b \b \b \b(\bT \u0006L\u0014&\u0010Pȁ咚 \b \b \b H >\u0004 H!",
+          "type": "modified",
+          "verifyLine": 52,
+          "verifyText": "C",
+          "wordDiff": {
+            "added": [
+              "C"
+            ],
+            "removed": [
+              "((\u0013\u0004\b (*\b \b \b \b(\bT \u0006L\u0014&\u0010Pȁ咚 \b \b \b H >\u0004 H!"
+            ]
+          }
+        },
+        {
+          "originalLine": 53,
+          "originalText": "j`",
+          "type": "modified",
+          "verifyLine": 53,
+          "verifyText": "\u0002\u000f \u0015\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0019\u0000]Oo'I֒A\bl:pJ |\u0011\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0013\\ uWTsoOdc׋W",
+          "wordDiff": {
+            "added": [
+              "\u0002\u000f \u0015\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0019\u0000]Oo'I֒A\bl:pJ |\u0011\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0013\\ uWTsoOdc׋W"
+            ],
+            "removed": [
+              "j`"
+            ]
+          }
+        },
+        {
+          "originalLine": 54,
+          "originalText": "( \b(\b aJ*\b\u0000H0<\b*H\" \u0014",
+          "type": "modified",
+          "verifyLine": 54,
+          "verifyText": "FR\u0000*aD00_\u0000\u0000\u0000\u0000\u0000\u0000\u0000lN\u0012_\u0000YuKEZa\u0016\u000f\u0000_C81ְ*pW\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000$p qO<>v?Gw?u",
+          "wordDiff": {
+            "added": [
+              "FR\u0000*aD00_\u0000\u0000\u0000\u0000\u0000\u0000\u0000lN\u0012_\u0000YuKEZa\u0016\u000f\u0000_C81ְ*pW\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000$p qO<>v?Gw?u"
+            ],
+            "removed": [
+              "( \b(\b aJ*\b\u0000H0<\b*H\" \u0014"
+            ]
+          }
+        },
+        {
+          "originalLine": 55,
+          "originalText": "\b(\b\u001a\u0003 $ %N;S\u0000\b \b \b \b",
+          "type": "modified",
+          "verifyLine": 55,
+          "verifyText": "\u0000_\u0000Ln郥IG\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001u;l_7?7w\u0000\u0004\u0000\u0002\u0011\u0002yɚ\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010^<s ;c~T\u0011}ZW\u0000 5;\u001a^p \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000O<\b c\u0000 Vۨ*\u0013ap\u0011g\u0000\u0000\u0000\u0000\u0000 \u0007\u0000\u0000_}\u0014lY,:F\u00004}d<;LB\u0016R\u0000\u0000\u0000\u0000\u0000\u0000\u0000\"Sϻϸr\u0000^ h_U",
+          "wordDiff": {
+            "added": [
+              "\u0000_\u0000Ln郥IG\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001u;l_7?7w\u0000\u0004\u0000\u0002\u0011\u0002yɚ\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010^<s ;c~T\u0011}ZW\u0000 5;\u001a^p \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000O<\b c\u0000 Vۨ*\u0013ap\u0011g\u0000\u0000\u0000\u0000\u0000 \u0007\u0000\u0000_}\u0014lY,:F\u00004}d<;LB\u0016R\u0000\u0000\u0000\u0000\u0000\u0000\u0000\"Sϻϸr\u0000^ h_U"
+            ],
+            "removed": [
+              "\b(\b\u001a\u0003 $ %N;S\u0000\b \b \b \b"
+            ]
+          }
+        },
+        {
+          "originalLine": 56,
+          "originalText": "\u00068a\u0000\u0012\"\\{\u0002 @ zP\b \b \b&\b!\b G%P\u0000H\u0011\u0013\u0000\u0000",
+          "type": "modified",
+          "verifyLine": 56,
+          "verifyText": "d\u0000\u0000\u0000\u0000\u0000\u0000\u0000q-Y7u8x\u0017R\u0000X[_\u0000W\u0010\u0000\u0004",
+          "wordDiff": {
+            "added": [
+              "d\u0000\u0000\u0000\u0000\u0000\u0000\u0000q-Y7u8x\u0017R\u0000X[_\u0000W\u0010\u0000\u0004"
+            ],
+            "removed": [
+              "\u00068a\u0000\u0012\"\\{\u0002 @ zP\b \b \b&\b!\b G%P\u0000H\u0011\u0013\u0000\u0000"
+            ]
+          }
+        },
+        {
+          "originalLine": 57,
+          "originalText": "\b(\b \b \b X蔈\b \b$\b \b \b \b(\b\u0019ȓ",
+          "type": "modified",
+          "verifyLine": 57,
+          "verifyText": "/,\u0000\u0000\u0000\u0000\u0000\u0000\u0000 \u0000}wA\u00129O,Cw\u0016C\u0007W\u0000\u0004p.(m\u0000\u0000|ۨ\u0019\u0000Ӎ \u0000\u00001[72_S\u0004,(0 .u\u0012v?\u0000\u0000\u0000\u0000\u0000\u0000 \u0000UA\u0005O}[\u0000Ce/yV\u0000\u000eC*",
+          "wordDiff": {
+            "added": [
+              "/,\u0000\u0000\u0000\u0000\u0000\u0000\u0000 \u0000}wA\u00129O,Cw\u0016C\u0007W\u0000\u0004p.(m\u0000\u0000|ۨ\u0019\u0000Ӎ \u0000\u00001[72_S\u0004,(0 .u\u0012v?\u0000\u0000\u0000\u0000\u0000\u0000 \u0000UA\u0005O}[\u0000Ce/yV\u0000\u000eC*"
+            ],
+            "removed": [
+              "\b(\b \b \b X蔈\b \b$\b \b \b \b(\b\u0019ȓ"
+            ]
+          }
+        },
+        {
+          "originalLine": 58,
+          "originalText": "4 %5 \u0003 H H",
+          "type": "modified",
+          "verifyLine": 58,
+          "verifyText": "J\u0000\u0000\u0000\u0000\u0014/^a I\u0004]4żϾ9.\\uczC\u0005\u0000~\u0000\u000e*\u000f\u0000\u0000\u0000\u0000\u0000#\u00008\u00137wL\u0014Y W}w|A _\\.\u001b\u0000\u0000\u0000\u0000\u0000\u0000\u0000!\u0000]qg\u0019EwL{a \u0000?\"\u0000\u0000\u0000\u0000\bEUeZ1syU>\u0016qg [y\u00049\u0015\u0002\u000e\u000f\u0000\u0000\u0000\u0000\u0000a c\u0005ϼLv\u0000}eTQVQI[UPuL002 \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000_}\u0010T}_RYVmy$\u0010\u0000:[\u0000_\u0000\u0000\u0000\u0000\u0000 B\u0000\u0000}\u0010D}}QID} մ0W\u0000yr-_CF}\u0000\u0000\u0000\u0000\u0000\u0002\u0000}\u0010As}}<]\u001aimQ͵\u0000c\u0000\u0000\u0016\u0002m\u0000\u0000\u0000\u0000\u0000\u0000 \u0000}\u0010AS}}&Xem8A}t\u000f`\u0004\u0000\u0010\u0005e\u0000\u0000\u0000\u0000 \u0000\u0000}A\u0013=} E ]Va6\u0000BUM\u0000hݿ\u0000\u0000 \u0012A\u0005=]",
+          "wordDiff": {
+            "added": [
+              "J\u0000\u0000\u0000\u0000\u0014/^a I\u0004]4żϾ9.\\uczC\u0005\u0000~\u0000\u000e*\u000f\u0000\u0000\u0000\u0000\u0000#\u00008\u00137wL\u0014Y W}w|A _\\.\u001b\u0000\u0000\u0000\u0000\u0000\u0000\u0000!\u0000]qg\u0019EwL{a \u0000?\"\u0000\u0000\u0000\u0000\bEUeZ1syU>\u0016qg [y\u00049\u0015\u0002\u000e\u000f\u0000\u0000\u0000\u0000\u0000a c\u0005ϼLv\u0000}eTQVQI[UPuL002 \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000_}\u0010T}_RYVmy$\u0010\u0000:[\u0000_\u0000\u0000\u0000\u0000\u0000 B\u0000\u0000}\u0010D}}QID} մ0W\u0000yr-_CF}\u0000\u0000\u0000\u0000\u0000\u0002\u0000}\u0010As}}<]\u001aimQ͵\u0000c\u0000\u0000\u0016\u0002m\u0000\u0000\u0000\u0000\u0000\u0000 \u0000}\u0010AS}}&Xem8A}t\u000f`\u0004\u0000\u0010\u0005e\u0000\u0000\u0000\u0000 \u0000\u0000}A\u0013=} E ]Va6\u0000BUM\u0000hݿ\u0000\u0000 \u0012A\u0005=]"
+            ],
+            "removed": [
+              "4 %5 \u0003 H H"
+            ]
+          }
+        },
+        {
+          "originalLine": 59,
+          "originalText": "$ $\u0006Wf\u0012A%C/Li H(\b$\b(\b$\b H #N ?\u0010\b$\u0002\u0018fKJP\b`\b#\b \b \b ( \u0014 D@!ȡ3 \b \b \u0018 \b`\b \u0010 $@\u0015VK H I \b \b hhbi: \"B\b( $\bh\b$\b \b\u00129ғM H \b`\b!\b(\b$\b 40N$\u0010A\u0014\u0010A\u0004PA\u0004\u0010A\u0004\u0011\b H : \b`\b\u0018B*$ - b\b K (\b`P|Qd\u0019X\u0001 \u001a",
+          "type": "modified",
+          "verifyLine": 59,
+          "verifyText": "I\u0005\u0017iMU}v# o\u0000 +\u0000\u0000u, ;QA\u0005O|e o\u0000\u0018E\u001ba%\u001b_%#\u001a \\",
+          "wordDiff": {
+            "added": [
+              "I\u0005\u0017iMU}v# o\u0000 +\u0000\u0000u, ;QA\u0005O|e o\u0000\u0018E\u001ba%\u001b_%#\u001a \\"
+            ],
+            "removed": [
+              "$ $\u0006Wf\u0012A%C/Li H(\b$\b(\b$\b H #N ?\u0010\b$\u0002\u0018fKJP\b`\b#\b \b \b ( \u0014 D@!ȡ3 \b \b \u0018 \b`\b \u0010 $@\u0015VK H I \b \b hhbi: \"B\b( $\bh\b$\b \b\u00129ғM H \b`\b!\b(\b$\b 40N$\u0010A\u0014\u0010A\u0004PA\u0004\u0010A\u0004\u0011\b H : \b`\b\u0018B*$ - b\b K (\b`P|Qd\u0019X\u0001 \u001a"
+            ]
+          }
+        },
+        {
+          "originalLine": 60,
+          "originalText": "( ,\b,\b \b \u001a4S ( ,#\u0003\u0000\bb\b#\b!\b \b <s 2 0,0 <N\b ( 8 \u0018Hb\b\u0010B0\u0002 !T#\b K (\b,\b$\u0003\u00028N0H J \b,\b \b \u0018",
+          "type": "modified",
+          "verifyLine": 60,
+          "verifyText": "f#7W\u0000\u0004/iA\u0004\u000f|iC /\u0005mOEP:at:?\u0005\u0004+\u0000'Kqŕ\u0004\u0017<ywc 7\u0000\u0000\u0015]d\u0014e 1@\u0005\u0012 \u0000(\u0011\u0000}>}\u0004\u0011=}k 1\u0000\u0000\u0000E# qZ|0Y\u0017s#Gs7ҿIfۄ\u0010}}y 1\u0000\u0000\u0000\u0004TQe^0׆0pCS{1\u0004V\u0000\u0000=_}\u0010\\}}0\u0000\u0000\u0000\u0000\u0000M{2ǰ]\u0001\u0000\u0003s? ko_}\u0010D}_}0\u0000\u0000\u0000\u0000\u0000_\u0010v^U\u000fUC41 P<\u0010A\u0006\u0010AG q\u0010AD\u0010AG q\u0010A\u00040 O42\u0004Ҁ \u0001\u0004\u0010A\u0004\u0010A\u0004\u0010A\u0004\u0010A\u0004\u0010A\u0004\u0010A\u0004\u0010A\u0004\u0010A\u0004\u0010A\u0004\u0010A\u0004\u0010A\u0004\u0010A\u0004\u0010A\u0004\u0010A\u0004\u0010A\u0004\u0010@\u0000L\u0011\u0000\u0001\u0003\u0002\u0002\u0004\b",
+          "wordDiff": {
+            "added": [
+              "f#7W\u0000\u0004/iA\u0004\u000f|iC /\u0005mOEP:at:?\u0005\u0004+\u0000'Kqŕ\u0004\u0017<ywc 7\u0000\u0000\u0015]d\u0014e 1@\u0005\u0012 \u0000(\u0011\u0000}>}\u0004\u0011=}k 1\u0000\u0000\u0000E# qZ|0Y\u0017s#Gs7ҿIfۄ\u0010}}y 1\u0000\u0000\u0000\u0004TQe^0׆0pCS{1\u0004V\u0000\u0000=_}\u0010\\}}0\u0000\u0000\u0000\u0000\u0000M{2ǰ]\u0001\u0000\u0003s? ko_}\u0010D}_}0\u0000\u0000\u0000\u0000\u0000_\u0010v^U\u000fUC41 P<\u0010A\u0006\u0010AG q\u0010AD\u0010AG q\u0010A\u00040 O42\u0004Ҁ \u0001\u0004\u0010A\u0004\u0010A\u0004\u0010A\u0004\u0010A\u0004\u0010A\u0004\u0010A\u0004\u0010A\u0004\u0010A\u0004\u0010A\u0004\u0010A\u0004\u0010A\u0004\u0010A\u0004\u0010A\u0004\u0010A\u0004\u0010A\u0004\u0010@\u0000L\u0011\u0000\u0001\u0003\u0002\u0002\u0004\b"
+            ],
+            "removed": [
+              "( ,\b,\b \b \u001a4S ( ,#\u0003\u0000\bb\b#\b!\b \b <s 2 0,0 <N\b ( 8 \u0018Hb\b\u0010B0\u0002 !T#\b K (\b,\b$\u0003\u00028N0H J \b,\b \b \u0018"
+            ]
+          }
+        },
+        {
+          "originalLine": 61,
+          "originalText": "\u0019(4@\u0017",
+          "type": "modified",
+          "verifyLine": 61,
+          "verifyText": "\u0006\b\u0005\u0004\u0003\u0001\u0000\u0000\u0001\u0000\u0002\u0003\u0004\u0011\u0005!\u0010\u00121q\u0006\u0013\u0014\"2AQT\u0015 4@RSa\u0016#0BP\u00173ers$6\u0007%t5`\u0000\b\u0001\u0002\u0001\u0001?\u0000|W\"Ac\u0018\u0016\u0013\u000eλB1CS\u0006u\u0006mb_Q\u0000W1^\u0000QW|exc\u0015 \u0019^\u0019{GWq^\u0000QW|exc\u0015 \u0019^\u0018{GWq^\u0000QW|eaոed0",
+          "wordDiff": {
+            "added": [
+              "\u0006\b\u0005\u0004\u0003\u0001\u0000\u0000\u0001\u0000\u0002\u0003\u0004\u0011\u0005!\u0010\u00121q\u0006\u0013\u0014\"2AQT\u0015 4@RSa\u0016#0BP\u00173ers$6\u0007%t5`\u0000\b\u0001\u0002\u0001\u0001?\u0000|W\"Ac\u0018\u0016\u0013\u000eλB1CS\u0006u\u0006mb_Q\u0000W1^\u0000QW|exc\u0015 \u0019^\u0019{GWq^\u0000QW|exc\u0015 \u0019^\u0018{GWq^\u0000QW|eaոed0"
+            ],
+            "removed": [
+              "\u0019(4@\u0017"
+            ]
+          }
+        },
+        {
+          "originalLine": 62,
+          "originalText": "\u0000\b\b#\b!\b ( 8 8꤄\"\b#\b! ( 8 \u0018\b\b\u0018!s\u00020",
+          "type": "modified",
+          "verifyLine": 62,
+          "verifyText": "s睉\u0000 c \u0012s\u0013kaA$q\u0013T l5\u0012\u0012\u001a\u0001%r\\\u0000z5 \u0000\u0011\\?+zEr\\\u0000SQ\u0015j=s\"MGW)5 \u0000\u0011\\?+zEr\\\u0000SQ\u0015j=s\"MGW)5 \u0000\u0011\\?+zE",
+          "wordDiff": {
+            "added": [
+              "s睉\u0000 c \u0012s\u0013kaA$q\u0013T l5\u0012\u0012\u001a\u0001%r\\\u0000z5 \u0000\u0011\\?+zEr\\\u0000SQ\u0015j=s\"MGW)5 \u0000\u0011\\?+zEr\\\u0000SQ\u0015j=s\"MGW)5 \u0000\u0011\\?+zE"
+            ],
+            "removed": [
+              "\u0000\b\b#\b!\b ( 8 8꤄\"\b#\b! ( 8 \u0018\b\b\u0018!s\u00020"
+            ]
+          }
+        },
+        {
+          "originalLine": 63,
+          "originalText": "\u0001\b \b \"\u0001\u0000\bl\b$\u0018#!\u0007\"蠂J \u0019 \b$\b \b \u0003V\u0012\u0000\b$r K\u0000\b\b#\b!\b \u0018 \b `0.(\"\b)\b X 8 \u0018H\b D \b$#( \b H \b \u0000!&\b,8cH\"؆\u0019oI",
+          "type": "modified",
+          "verifyLine": 63,
+          "verifyText": "\\\u0000SQ\u0015j=s\"MGW)5 \u0000\u0011\\?+zEr\\\u0000SQ\u0015j=s\"MGW)5 \u0000\u0011\\?+zES9i9Z-P2K qz{mDl6m:oXz}MF}\"MG*,B3\u000ej\u0014r\u0018\u001a\u0000:q B\u0010w]?\u000e\u0010epfofeQ\u000e]Rsd\\~ uKvIڿ\u0000]чIva W{6F[ \u000f,7,9ݣ!K l\u0017s\u0000TT̥\u0006c@D\u0012",
+          "wordDiff": {
+            "added": [
+              "\\\u0000SQ\u0015j=s\"MGW)5 \u0000\u0011\\?+zEr\\\u0000SQ\u0015j=s\"MGW)5 \u0000\u0011\\?+zES9i9Z-P2K qz{mDl6m:oXz}MF}\"MG*,B3\u000ej\u0014r\u0018\u001a\u0000:q B\u0010w]?\u000e\u0010epfofeQ\u000e]Rsd\\~ uKvIڿ\u0000]чIva W{6F[ \u000f,7,9ݣ!K l\u0017s\u0000TT̥\u0006c@D\u0012"
+            ],
+            "removed": [
+              "\u0001\b \b \"\u0001\u0000\bl\b$\u0018#!\u0007\"蠂J \u0019 \b$\b \b \u0003V\u0012\u0000\b$r K\u0000\b\b#\b!\b \u0018 \b `0.(\"\b)\b X 8 \u0018H\b D \b$#( \b H \b \u0000!&\b,8cH\"؆\u0019oI"
+            ]
+          }
+        },
+        {
+          "originalLine": 64,
+          "originalText": "\b \b ( \u0018\u001a1_D \b \u0000H\b`\b \b \u001a\"2\u0019I@(H Kc\u0002\u001b e \b \bh\b\b \u0001\u0010eJ\b!\b`ڕB(-\u0000\u0003C8\u0001\u000f<\u0005<\u0000<\u0010\"\b+\"\u0010(h\u0005,r\u000043\u0010\u0000R\u0000\b\u001a3\" \u0018 #\u0002\b\b`\b\"\b ( \b ('\u0000)\u0000\b! \b \b\b`\b\"\b\u0012( 5 !\b&bY+\u0004( \b \b\u0018 \b\b`O\b(\u000e \u001a ,(\"\b\"\ba$\"\b!\b \u0018\u0010b\u0017t\u0000\u0018sd#\u0013볐\b",
+          "type": "modified",
+          "verifyLine": 64,
+          "verifyText": "$ |֬*Q9ǜ+]R~4Wta3?=\u0012tݿd-`p ]\u0013k",
+          "wordDiff": {
+            "added": [
+              "$ |֬*Q9ǜ+]R~4Wta3?=\u0012tݿd-`p ]\u0013k"
+            ],
+            "removed": [
+              "\b \b ( \u0018\u001a1_D \b \u0000H\b`\b \b \u001a\"2\u0019I@(H Kc\u0002\u001b e \b \bh\b\b \u0001\u0010eJ\b!\b`ڕB(-\u0000\u0003C8\u0001\u000f<\u0005<\u0000<\u0010\"\b+\"\u0010(h\u0005,r\u000043\u0010\u0000R\u0000\b\u001a3\" \u0018 #\u0002\b\b`\b\"\b ( \b ('\u0000)\u0000\b! \b \b\b`\b\"\b\u0012( 5 !\b&bY+\u0004( \b \b\u0018 \b\b`O\b(\u000e \u001a ,(\"\b\"\ba$\"\b!\b \u0018\u0010b\u0017t\u0000\u0018sd#\u0013볐\b"
+            ]
+          }
+        },
+        {
+          "originalLine": 65,
+          "originalText": "`X!@'<\"\u0002\u0004ژvTV.$\u0001$1B9 \u0001\"( \b \b 1N\bfP\u0004S) \u0018(#r\u0003 L\u001a{0HD 4 )8̢M0>",
+          "type": "modified",
+          "verifyLine": 65,
+          "verifyText": "g#l \u0007 X\u000elC/:* f۵O;\u0017-Û\u0002ڲ 2\u001a)z.ީ?[W_\u001a+0\u0000\u0019:n|L7a-< d<tM\u000f\" \u0005YYYYYYYY\u0006E B(EF#T!YO\u0019,\u0012\u0007N\u0000nv.",
+          "wordDiff": {
+            "added": [
+              "g#l \u0007 X\u000elC/:* f۵O;\u0017-Û\u0002ڲ 2\u001a)z.ީ?[W_\u001a+0\u0000\u0019:n|L7a-< d<tM\u000f\" \u0005YYYYYYYY\u0006E B(EF#T!YO\u0019,\u0012\u0007N\u0000nv."
+            ],
+            "removed": [
+              "`X!@'<\"\u0002\u0004ژvTV.$\u0001$1B9 \u0001\"( \b \b 1N\bfP\u0004S) \u0018(#r\u0003 L\u001a{0HD 4 )8̢M0>"
+            ]
+          }
+        },
+        {
+          "originalLine": 66,
+          "originalText": "! \b\u001aJdPQH",
+          "type": "modified",
+          "verifyLine": 66,
+          "verifyText": "\u0019@Y][NM;'\u00006>1+u\u0017U\u0015\u0010NR5ڳ\u001bo'ML7at58In5pO<\u000eڬ",
+          "wordDiff": {
+            "added": [
+              "\u0019@Y][NM;'\u00006>1+u\u0017U\u0015\u0010NR5ڳ\u001bo'ML7at58In5pO<\u000eڬ"
+            ],
+            "removed": [
+              "! \b\u001aJdPQH"
+            ]
+          }
+        },
+        {
+          "originalLine": 67,
+          "originalText": "+ƀ\b!\b \b \b!\b \b \b\"\b-( \b \b \u0018 \b\b \b \b\u0018B (a\u0015+\b \u0018,(\u0018`\b₈\"H$2,.(F\"$\u0018\b\u0002a\"J! (\u0016\u0002+F0`\b [K+\u0000\b!\b \b!\b \b \bh H \b \b\u001a \b ( \u0018 \b\u001b\u001bs c@\u0006* @ ((,8\b\bb#J! )(8,\u0018",
+          "type": "modified",
+          "verifyLine": 67,
+          "verifyText": "Wqv3gjYgY\u00181h \u000f0J3V\u0000kF\u001aPq",
+          "wordDiff": {
+            "added": [
+              "Wqv3gjYgY\u00181h \u000f0J3V\u0000kF\u001aPq"
+            ],
+            "removed": [
+              "+ƀ\b!\b \b \b!\b \b \b\"\b-( \b \b \u0018 \b\b \b \b\u0018B (a\u0015+\b \u0018,(\u0018`\b₈\"H$2,.(F\"$\u0018\b\u0002a\"J! (\u0016\u0002+F0`\b [K+\u0000\b!\b \b!\b \b \bh H \b \b\u001a \b ( \u0018 \b\u001b\u001bs c@\u0006* @ ((,8\b\bb#J! )(8,\u0018"
+            ]
+          }
+        },
+        {
+          "originalLine": 68,
+          "originalText": "\u0012\u0002#J (\u0017\u0014\b\"\u0006۵C\b \b \b \u0000A 1\u0000\b \b(\b \b \b \b (N\b \b \b \b\u001a/\u0000L%J_0\u0000 (( \b'\u0001s J )(8\u0000\b' ! z ((\u0013\u0005P \u0014\u000f3+ \u0018 \b\u000000c<",
+          "type": "modified",
+          "verifyLine": 68,
+          "verifyText": "MuL>\u0000m9E1<3+oi$,\\(0\u0014ְk8|L7at1ŎC\u00188]XN6\u0017\u0000+h\u000f'\\9U\u0012rhXK QQQXfG;\"]u!%Y\u0012\u00124\u00006A\u0013Zd.`y⯰\u0001ֱ ZIql`\u001b\\f{r\u001aIBIb}\u0005270\u001af= ᨚ &'ah0-y+..\u0014O4讣6=VRKI;f 6 Ja nrc\u001a5\u0016\u0000X'Un\u0016ޜSG\u0010\u0019\u00103VV[%c㒀D4dP \u0015tB@!U`f\\ƷߙT\"QzԨ(i)]\u0006as{Pp1X=Đ֝QJb\u0000*Dڪ9$\u0007\u0010O4[\u000eؿ)`AJSp~ۣ\u001b]\u0006\u0007ְsOo9-p\u00070)EfTᷚ\u0015/\u0007Y&(\u0004J\u0001\u0012(h\bM)K{lުjpnfgk \u0014C\u0013 \u0001`Xm=k`2C!*\u0017K[\u0003G \u0015{5q_2Hߐ0-y\u0014A+%sMXV%\u0016#J )\u0007 \u0016\u0013{\u0001+",
+          "wordDiff": {
+            "added": [
+              "MuL>\u0000m9E1<3+oi$,\\(0\u0014ְk8|L7at1ŎC\u00188]XN6\u0017\u0000+h\u000f'\\9U\u0012rhXK QQQXfG;\"]u!%Y\u0012\u00124\u00006A\u0013Zd.`y⯰\u0001ֱ ZIql`\u001b\\f{r\u001aIBIb}\u0005270\u001af= ᨚ &'ah0-y+..\u0014O4讣6=VRKI;f 6 Ja nrc\u001a5\u0016\u0000X'Un\u0016ޜSG\u0010\u0019\u00103VV[%c㒀D4dP \u0015tB@!U`f\\ƷߙT\"QzԨ(i)]\u0006as{Pp1X=Đ֝QJb\u0000*Dڪ9$\u0007\u0010O4[\u000eؿ)`AJSp~ۣ\u001b]\u0006\u0007ְsOo9-p\u00070)EfTᷚ\u0015/\u0007Y&(\u0004J\u0001\u0012(h\bM)K{lުjpnfgk \u0014C\u0013 \u0001`Xm=k`2C!*\u0017K[\u0003G \u0015{5q_2Hߐ0-y\u0014A+%sMXV%\u0016#J )\u0007 \u0016\u0013{\u0001+"
+            ],
+            "removed": [
+              "\u0012\u0002#J (\u0017\u0014\b\"\u0006۵C\b \b \b \u0000A 1\u0000\b \b(\b \b \b \b (N\b \b \b \b\u001a/\u0000L%J_0\u0000 (( \b'\u0001s J )(8\u0000\b' ! z ((\u0013\u0005P \u0014\u000f3+ \u0018 \b\u000000c<"
+            ]
+          }
+        },
+        {
+          "originalLine": 69,
+          "originalText": "8\u0002\b \b",
+          "type": "modified",
+          "verifyLine": 69,
+          "verifyText": "\u0010edm\u0017.p\u0001QӶ([\u0001^\u0017i}a4E\u001b.9 <%\u0000\b4",
+          "wordDiff": {
+            "added": [
+              "\u0010edm\u0017.p\u0001QӶ([\u0001^\u0017i}a4E\u001b.9 <%\u0000\b4"
+            ],
+            "removed": [
+              "8\u0002\b \b"
+            ]
+          }
+        },
+        {
+          "originalLine": 70,
+          "originalText": "\u00100O\u000eA!",
+          "type": "modified",
+          "verifyLine": 70,
+          "verifyText": "\u0003@N\u0000\u0011uF Heak c=Y)q퇍ШfY\u0012pu\u0003Y \u0011U\u0015 X|/Ws{\u0002lTO<[RC| b2U6Vv=C,Ut7]\u0017\u00054ݚ(A\u0017\u0004,o",
+          "wordDiff": {
+            "added": [
+              "\u0003@N\u0000\u0011uF Heak c=Y)q퇍ШfY\u0012pu\u0003Y \u0011U\u0015 X|/Ws{\u0002lTO<[RC| b2U6Vv=C,Ut7]\u0017\u00054ݚ(A\u0017\u0004,o"
+            ],
+            "removed": [
+              "\u00100O\u000eA!"
+            ]
+          }
+        },
+        {
+          "originalLine": 71,
+          "originalText": "< \u0010 \b!\u000f!p\b\"\u0000X8+R ()$\u0018$\b@@# I $((\b2 \u0010\u00022\u0010!I",
+          "type": "modified",
+          "verifyLine": 71,
+          "verifyText": "4s}S^ج3E:w\u000elc-D-ګO-\u0019<ހ\u0017n_V:E-$\u0013pk^ln\u00123O",
+          "wordDiff": {
+            "added": [
+              "4s}S^ج3E:w\u000elc-D-ګO-\u0019<ހ\u0017n_V:E-$\u0013pk^ln\u00123O"
+            ],
+            "removed": [
+              "< \u0010 \b!\u000f!p\b\"\u0000X8+R ()$\u0018$\b@@# I $((\b2 \u0010\u00022\u0010!I"
+            ]
+          }
+        },
+        {
+          "originalLine": 72,
+          "originalText": "(( \u000f\b \u0000\u0002Ă \b \b \b(\u001a$ \b(\b \b \b &\u0018\u0002ꪊ0\b H\u0018CXo, H T\u0010",
+          "type": "modified",
+          "verifyLine": 72,
+          "verifyText": "\u0001cNy&mNik)1as#",
+          "wordDiff": {
+            "added": [
+              "\u0001cNy&mNik)1as#"
+            ],
+            "removed": [
+              "(( \u000f\b \u0000\u0002Ă \b \b \b(\u001a$ \b(\b \b \b &\u0018\u0002ꪊ0\b H\u0018CXo, H T\u0010"
+            ]
+          }
+        },
+        {
+          "originalLine": 73,
+          "originalText": "( \b \b H H( $\b \b$M",
+          "type": "modified",
+          "verifyLine": 73,
+          "verifyText": "\u000e4Z[{\u001b\u0018Ny.m\u001b'26s\u0001\u0019\u0006׽Mk͍AMY^.¤ \u0000\u0016\u0001> _mL\u001a\u0017V=t\u001aE#\u000f4DMGo-\u0013+)nqm\b!GQW",
+          "wordDiff": {
+            "added": [
+              "\u000e4Z[{\u001b\u0018Ny.m\u001b'26s\u0001\u0019\u0006׽Mk͍AMY^.¤ \u0000\u0016\u0001> _mL\u001a\u0017V=t\u001aE#\u000f4DMGo-\u0013+)nqm\b!GQW"
+            ],
+            "removed": [
+              "( \b \b H H( $\b \b$M"
+            ]
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 74,
+          "verifyText": "L'ݫ\u0006hн>36˔qXC\u000f' ʇ G3q\u0010\u0016\u0000'9a]\u000e8;\u001a9\u0012^~\u0012`{C}SM\u0015T\u000fAv*)( \u0013\u0010\u0017+\b\u001410q\u001atWT(吜\u0016 %JW}=a\u001b",
+          "wordDiff": {
+            "added": [
+              "L'ݫ\u0006hн>36˔qXC\u000f' ʇ G3q\u0010\u0016\u0000'9a]\u000e8;\u001a9\u0012^~\u0012`{C}SM\u0015T\u000fAv*)( \u0013\u0010\u0017+\b\u001410q\u001atWT(吜\u0016 %JW}=a\u001b"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 75,
+          "verifyText": ",79\u0000v'ꘂ\u000fis\u0019n\u0016\u0012\u0000$syާUF\u001bn~: d)cr=;QE/E \u0018\u0000\u0010\u0010<Fm6̪b:q\u001b\u001aFMD7o0-y\u0001pk\u0018X)&w<\u000ea h",
+          "wordDiff": {
+            "added": [
+              ",79\u0000v'ꘂ\u000fis\u0019n\u0016\u0012\u0000$syާUF\u001bn~: d)cr=;QE/E \u0018\u0000\u0010\u0010<Fm6̪b:q\u001b\u001aFMD7o0-y\u0001pk\u0018X)&w<\u000ea h"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 76,
+          "verifyText": ").,vŰWSF°z\u0007ˉ\u0006H\u0004F\u001bHV\u0012 ,Qk (lQ\u00194\u0000>s4\u0000M=4g\u0017A'miSZ4?L\u000fE%G\\\u000eG' aּ\"N|9\u0000&A\u0019\u0005P,A i0:Cr @\u0013kv \u0012\u0010)z.ް\u0000(?\u0000\u0011\u0014S蓦&\u001b:8EYyD-ǢQAE#{^Cn",
+          "wordDiff": {
+            "added": [
+              ").,vŰWSF°z\u0007ˉ\u0006H\u0004F\u001bHV\u0012 ,Qk (lQ\u00194\u0000>s4\u0000M=4g\u0017A'miSZ4?L\u000fE%G\\\u000eG' aּ\"N|9\u0000&A\u0019\u0005P,A i0:Cr @\u0013kv \u0012\u0010)z.ް\u0000(?\u0000\u0011\u0014S蓦&\u001b:8EYyD-ǢQAE#{^Cn"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 77,
+          "verifyText": "6b\u0014q\u0016xR0\u001bÛD_#X\u0003mcm\u00152\u0001rl\u0007Ub Zn",
+          "wordDiff": {
+            "added": [
+              "6b\u0014q\u0016xR0\u001bÛD_#X\u0003mcm\u00152\u0001rl\u0007Ub Zn"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 78,
+          "verifyText": "\u0001Ќ\u0000\u0000L`\b9 \u0000)h\u0001\u0013OXfІE\u0019I\u0016-\u001a\u001b)h\u0001k :Rbѡ\u0016l\u00019\u00015n 6\u0004 }qڢ\u001b\u0014e.\u0016-\u0016MvNkB $[TY -\u0013|Z^?1\u000f\u0000h:\u00141z va[\u000eX#7`l6\\>ѻ6 Ђ",
+          "wordDiff": {
+            "added": [
+              "\u0001Ќ\u0000\u0000L`\b9 \u0000)h\u0001\u0013OXfІE\u0019I\u0016-\u001a\u001b)h\u0001k :Rbѡ\u0016l\u00019\u00015n 6\u0004 }qڢ\u001b\u0014e.\u0016-\u0016MvNkB $[TY -\u0013|Z^?1\u000f\u0000h:\u00141z va[\u000eX#7`l6\\>ѻ6 Ђ"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 79,
+          "verifyText": "Z*M\u0019ٴvM<5̕p\u0014 zi\u000e\u0017\u001a @i+ 1\u00164:PS",
+          "wordDiff": {
+            "added": [
+              "Z*M\u0019ٴvM<5̕p\u0014 zi\u000e\u0017\u001a @i+ 1\u00164:PS"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 80,
+          "verifyText": "jHgAt \u0007AA \u0012\u000fC\u0000 kv)cIv\u0000\u0013",
+          "wordDiff": {
+            "added": [
+              "jHgAt \u0007AA \u0012\u000fC\u0000 kv)cIv\u0000\u0013"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 81,
+          "verifyText": "w \u0018,><F>F)g#l\u0010\u000f\u00154S<S;{SX \u000eW\u0005DcEC",
+          "wordDiff": {
+            "added": [
+              "w \u0018,><F>F)g#l\u0010\u000f\u00154S<S;{SX \u000eW\u0005DcEC"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 82,
+          "verifyText": "C~2NfІҎخj6 /_N@c=j-hdp k\u000ff@\"I9#\u0004ٯk :na]\u000eQa'69!p \u0015r[\u0019ЬF9l'SPJjie뵛\u0016H ϓ|aVA + ZVڳ]E\u0015b]V]J\boCc] VS=\u0014Xuϼ\u0017 0~%\u0006[<\u000e&8",
+          "wordDiff": {
+            "added": [
+              "C~2NfІҎخj6 /_N@c=j-hdp k\u000ff@\"I9#\u0004ٯk :na]\u000eQa'69!p \u0015r[\u0019ЬF9l'SPJjie뵛\u0016H ϓ|aVA + ZVڳ]E\u0015b]V]J\boCc] VS=\u0014Xuϼ\u0017 0~%\u0006[<\u000e&8"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 83,
+          "verifyText": "X&(5 ~;Gj=G\\l+\u0011\u0015Ύpͧڰ׼:aibx dq2v.&NIظ;\u0017\u0011'b$\\Dq\u0012v.\"NI،2\u0001uXgC{IlCVF&8m \u001b ]\u0013 o\u0016X\u0016>nͅ\u0004\u00155Th͜ҩm]$r lUD)$qɠJmeO;ql1\u0017_dג{JpkJ\u000e%_k;UξS",
+          "wordDiff": {
+            "added": [
+              "X&(5 ~;Gj=G\\l+\u0011\u0015Ύpͧڰ׼:aibx dq2v.&NIظ;\u0017\u0011'b$\\Dq\u0012v.\"NI،2\u0001uXgC{IlCVF&8m \u001b ]\u0013 o\u0016X\u0016>nͅ\u0004\u00155Th͜ҩm]$r lUD)$qɠJmeO;ql1\u0017_dג{JpkJ\u000e%_k;UξS"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 84,
+          "verifyText": "$\u0015s\u001btIp=E?h\u001a\u0006\u0018güoջS\u0000Xq\u0004\u0000`[#",
+          "wordDiff": {
+            "added": [
+              "$\u0015s\u001btIp=E?h\u001a\u0006\u0018güoջS\u0000Xq\u0004\u0000`[#"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 85,
+          "verifyText": "OX*YM{g\u0010T4\u0018Gv{a5\u0000\u0002fs4J}\b[ 1ݍh e\u0001\u0001>KHՙqUb-뺳=.\u0019e{mUe{ZF:@u7Qٍ#>cyt;΋V(sc\b}[NaU",
+          "wordDiff": {
+            "added": [
+              "OX*YM{g\u0010T4\u0018Gv{a5\u0000\u0002fs4J}\b[ 1ݍh e\u0001\u0001>KHՙqUb-뺳=.\u0019e{mUe{ZF:@u7Qٍ#>cyt;΋V(sc\b}[NaU"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 86,
+          "verifyText": "XdkyõM3I^yq%\u0004\u0017\u0005$pj_аkq)Ayt z: w\u000f\u001a\u001b>Nn\u000eil(\u0016S\\C q\u0004\u0010Q1H4\\\u0015,",
+          "wordDiff": {
+            "added": [
+              "XdkyõM3I^yq%\u0004\u0017\u0005$pj_аkq)Ayt z: w\u000f\u001a\u001b>Nn\u000eil(\u0016S\\C q\u0004\u0010Q1H4\\\u0015,"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 87,
+          "verifyText": "!\u001b\u001b0Ѽ\u0003ϐꅆRj8nq\u0017vG^5< C skMjӳTWy:nXan7pA\u0005>:͈|TcTlpfw*\\+p\u0015¸Wup\u0015\u0005\u0012\u0015W",
+          "wordDiff": {
+            "added": [
+              "!\u001b\u001b0Ѽ\u0003ϐꅆRj8nq\u0017vG^5< C skMjӳTWy:nXan7pA\u0005>:͈|TcTlpfw*\\+p\u0015¸Wup\u0015\u0005\u0012\u0015W"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 88,
+          "verifyText": "+Xgü{u-9\u0002\u0019b7\u001aR\u0000Y'4nC@X%\u0018\u0004Y\u001aXXiPztg:wڻgH",
+          "wordDiff": {
+            "added": [
+              "+Xgü{u-9\u0002\u0019b7\u001aR\u0000Y'4nC@X%\u0018\u0004Y\u001aXXiPztg:wڻgH"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 89,
+          "verifyText": ",Z+ Vk =Eu GWa]\u000e}[~N\u0005\\\u0017 +V ݑ",
+          "wordDiff": {
+            "added": [
+              ",Z+ Vk =Eu GWa]\u000e}[~N\u0005\\\u0017 +V ݑ"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 90,
+          "verifyText": "P\u00169:\u0014eZ j)Xvg5cZ`\u0005t",
+          "wordDiff": {
+            "added": [
+              "P\u00169:\u0014eZ j)Xvg5cZ`\u0005t"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 91,
+          "verifyText": "\u0016G0.y diXw\"<\\Ng2 TÝ)pUS5q\u0015\u0015\u00155 'Y9Wo^oAy\u0006\u001bWo^_Ey}\u0016[Wo^_Ey}\u0016[Wo^OD{[Wo^_Ey}\u0016[Wo^_Ey}\u00162-e[Wo^[\u001bD7ށo\u00137zރ}z",
+          "wordDiff": {
+            "added": [
+              "\u0016G0.y diXw\"<\\Ng2 TÝ)pUS5q\u0015\u0015\u00155 'Y9Wo^oAy\u0006\u001bWo^_Ey}\u0016[Wo^_Ey}\u0016[Wo^OD{[Wo^_Ey}\u0016[Wo^_Ey}\u00162-e[Wo^[\u001bD7ށo\u00137zރ}z"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 92,
+          "verifyText": "7ޯ7zރ~%y\u0006\u001b+7M.8\u0000}骵q: ]",
+          "wordDiff": {
+            "added": [
+              "7ޯ7zރ~%y\u0006\u001b+7M.8\u0000}骵q: ]"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 93,
+          "verifyText": "\u000f\u001a\\\u0017 Jp\u0004\u0015 ;jb^\u0013Z k\u001a,\u001a\u0002\\\u0019NΜηTt![\u0000>\bE\u0004|4\u0012v\u0005k1V;\u0016D\"ҞI'\u0005U;*%^PApRY8dkUCb\u0000 182n\u0000鿘uDQ9N\\\u001a\u0014Ϥkue,p47?4\u0004Ɨ9\u0002\u0005S6(ۻyXg&绚` ,--ȄB",
+          "wordDiff": {
+            "added": [
+              "\u000f\u001a\\\u0017 Jp\u0004\u0015 ;jb^\u0013Z k\u001a,\u001a\u0002\\\u0019NΜηTt![\u0000>\bE\u0004|4\u0012v\u0005k1V;\u0016D\"ҞI'\u0005U;*%^PApRY8dkUCb\u0000 182n\u0000鿘uDQ9N\\\u001a\u0014Ϥkue,p47?4\u0004Ɨ9\u0002\u0005S6(ۻyXg&绚` ,--ȄB"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 94,
+          "verifyText": "٫++h++}\u0000cv\u0015?氿.yьU^\u00064\u0005.Q^$pE;C\u0003Uq5\u00146Ez\u0002튺%]]]_E΋tUܠQ*h>c",
+          "wordDiff": {
+            "added": [
+              "٫++h++}\u0000cv\u0015?氿.yьU^\u00064\u0005.Q^$pE;C\u0003Uq5\u00146Ez\u0002튺%]]]_E΋tUܠQ*h>c"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 95,
+          "verifyText": "ZId뵛",
+          "wordDiff": {
+            "added": [
+              "ZId뵛"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 96,
+          "verifyText": "I;)+ w\u000e\u0017\u0007h. 8Ysl1M35\u000f rtq~\u0002\u0017Z>kY_ODވ:Mhk@\u001b\u0000T3<Fk@hv\"W\u0015\u0005) 4n >3\u0005۔16\u0018\u001bv5\u000f++++i+h++h~/_\u000f i[\u0014O&J\"tg#n\u0014\u0015| h\u0007\u0019pv \u0012ԂJ lTH.I94,%\u0011wD V~\u0004| őR+*h[\u0004\u0011ݍh",
+          "wordDiff": {
+            "added": [
+              "I;)+ w\u000e\u0017\u0007h. 8Ysl1M35\u000f rtq~\u0002\u0017Z>kY_ODވ:Mhk@\u001b\u0000T3<Fk@hv\"W\u0015\u0005) 4n >3\u0005۔16\u0018\u001bv5\u000f++++i+h++h~/_\u000f i[\u0014O&J\"tg#n\u0014\u0015| h\u0007\u0019pv \u0012ԂJ lTH.I94,%\u0011wD V~\u0004| őR+*h[\u0004\u0011ݍh"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 97,
+          "verifyText": "SR)n[\u0004]:'\u0013{hr L\u0019(!m5,q0d\u0000ŇT\u001b",
+          "wordDiff": {
+            "added": [
+              "SR)n[\u0004]:'\u0013{hr L\u0019(!m5,q0d\u0000ŇT\u001b"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 98,
+          "verifyText": "\",>\u0000\b-#TCT 58KWwGLӳ",
+          "wordDiff": {
+            "added": [
+              "\",>\u0000\b-#TCT 58KWwGLӳ"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 99,
+          "verifyText": "\u000f C\u0004xʙ*\\2Y|\u0001֪飒75*Idk",
+          "wordDiff": {
+            "added": [
+              "\u000f C\u0004xʙ*\\2Y|\u0001֪飒75*Idk"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 100,
+          "verifyText": ",Ę$<v~/\u0014o?ՆRj8G8󝼩$lqIUsI]\\\u0011\u00000\u0010I\u0000,&QaFG:SsN@֝b41Ӻ7dOaX=t΢Vdŧ\u0000 -Û",
+          "wordDiff": {
+            "added": [
+              ",Ę$<v~/\u0014o?ՆRj8G8󝼩$lqIUsI]\\\u0011\u00000\u0010I\u0000,&QaFG:SsN@֝b41Ӻ7dOaX=t΢Vdŧ\u0000 -Û"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 101,
+          "verifyText": "_\u0015J!iHs4pGCрQrAd|_f\u0019 \u0019j0 \u0018+[S\u0006SGX \u001bY\u0000')\u001bszy%=C-\u0005,?)^Hyp",
+          "wordDiff": {
+            "added": [
+              "_\u0015J!iHs4pGCрQrAd|_f\u0019 \u0019j0 \u0018+[S\u0006SGX \u001bY\u0000')\u001bszy%=C-\u0005,?)^Hyp"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 102,
+          "verifyText": "\u000f G\u0006=\u000f\u001aΔ)_UuG#e{TRSN\u001awЩ玢&ÑшSɇ",
+          "wordDiff": {
+            "added": [
+              "\u000f G\u0006=\u000f\u001aΔ)_UuG#e{TRSN\u001awЩ玢&ÑшSɇ"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 103,
+          "verifyText": "q'\u001a#n >\u00118TSѰ7zc\u0003\u0018ց`\u0005Ū5\u0014\u0007kwtpCC!lQjXZ&4᫄bJSb\u0019:0@\u001an9\u0010 A)k8\\\u0011b\u0014n~\u0011[ŸM) A\u0000 ~\u00121& QQXf\u0005W\u001bR\"\u0007\u0018yGG\u0004\u0007墡u\u0010T?c\u001al ss*\u0003ĶSJ?: \u0013V\u0015W$\u0012\u001ag7{GW]^5_F(yps.\"d4ѱ\u0003UL킞IOj{ˉ%\u0014\u0005\u0000?Cљ>ҸMT\"\u001aF9CH ؅b\" W `ъrđ33iXV!ʢ~R'\u000f\u0014\u0015@\u000exY</\bX<9k'\u0011UYiv:\u0004\u0000\u0014?-\u0010\u0001^EĪUY4aw7p}42SLc6 :l;vã\u0013a]L3 j\u0006J÷h>-K",
+          "wordDiff": {
+            "added": [
+              "q'\u001a#n >\u00118TSѰ7zc\u0003\u0018ց`\u0005Ū5\u0014\u0007kwtpCC!lQjXZ&4᫄bJSb\u0019:0@\u001an9\u0010 A)k8\\\u0011b\u0014n~\u0011[ŸM) A\u0000 ~\u00121& QQXf\u0005W\u001bR\"\u0007\u0018yGG\u0004\u0007墡u\u0010T?c\u001al ss*\u0003ĶSJ?: \u0013V\u0015W$\u0012\u001ag7{GW]^5_F(yps.\"d4ѱ\u0003UL킞IOj{ˉ%\u0014\u0005\u0000?Cљ>ҸMT\"\u001aF9CH ؅b\" W `ъrđ33iXV!ʢ~R'\u000f\u0014\u0015@\u000exY</\bX<9k'\u0011UYiv:\u0004\u0000\u0014?-\u0010\u0001^EĪUY4aw7p}42SLc6 :l;vã\u0013a]L3 j\u0006J÷h>-K"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 104,
+          "verifyText": "\u0014 nE5\u0010.ȑ[Pj*eh( \u0005?\u0005\u000f F3Sp@lHo.IU\u0000xݓc57i\u0017\u00058\u0007\u0002\b)Ef ״9Y[Z1Hl7,ryeg@\u0010Qow 5",
+          "wordDiff": {
+            "added": [
+              "\u0014 nE5\u0010.ȑ[Pj*eh( \u0005?\u0005\u000f F3Sp@lHo.IU\u0000xݓc57i\u0017\u00058\u0007\u0002\b)Ef ״9Y[Z1Hl7,ryeg@\u0010Qow 5"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 105,
+          "verifyText": "<CƋ1^-gsO@ \u0015\u0014B2+\u000f n6f\u0004c[uB*Jq?c\u0015\\}cy Xh\u000e +pDVn",
+          "wordDiff": {
+            "added": [
+              "<CƋ1^-gsO@ \u0015\u0014B2+\u000f n6f\u0004c[uB*Jq?c\u0015\\}cy Xh\u000e +pDVn"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 106,
+          "verifyText": "MC3)]Ns}\u000f j |.&C \u0010щ",
+          "wordDiff": {
+            "added": [
+              "MC3)]Ns}\u000f j |.&C \u0010щ"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 107,
+          "verifyText": "rF°L M Gf5+^]VJ*\u0003uZI\u0002\u0015՘@\u0016 [а: :*hFM\u0019ۡ\u000e\u0004\u0010\b;B8\u001bոt/>x \u0011 _omO_~i\u0000Kѷ?u6/\u0000A+%f)g4\u0000 \u0007|eK*\"6/u\u0003>U\u0003>U\u0003>U\u0003>U\u0003>U\u0003>U\u0003>U\u0003>U\u0003>U\u0003>U\u0003>U\u0003>U\u0003>U\u0003>U\u0003>U\u0003~U\u0003~U\u0003~U|} =_GyW~U|} =_GyW~U|} =_GyW~U|} =_G~_\u0000u|} =_GyW~U|} =_GyW>U|E*[HFEb<\u000f}hcyvoV__uK\u000fuGRp \u000e$ΈTԔ\bu\u0001o\u0000B\u0011\u0000\u0001\u0003\u0002\u0002\u0005\b\u0006 \u0003\u0005\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0002\u0003\u0004\u0011!1\u0005\u0010\u0012\u0013A\u0014\"2Qcq 3@PRS#04Bars\u0016d\u0006\u0015$bCD`\u0000\b\u0001\u0003\u0001\u0001?\u0000뫫 J \u0001l\u0016[#l:[!l:Us6I\u000f\u0001z5DQTU>F'T%Gŭ J}D{y\u0017=k}/wM |x1+}7wM |x1+}/wM x1+}/wK x1+}/wK |x1+}/wM |x1+}7wK x1+}/wK x1+}/wK |x1*9\u000e5M@d6r\u0000\u0012j }AW**91 xUN'AX\u000e˰v\u0007\u00039ڨx\u00051R!>鷹OЃjOv[?()&21Pd Y# n{hU3:y‹\u0000*\u0018\u0001{\u0007\u0006UTɜx \u0007:mS ݪ/V=",
+          "wordDiff": {
+            "added": [
+              "rF°L M Gf5+^]VJ*\u0003uZI\u0002\u0015՘@\u0016 [а: :*hFM\u0019ۡ\u000e\u0004\u0010\b;B8\u001bոt/>x \u0011 _omO_~i\u0000Kѷ?u6/\u0000A+%f)g4\u0000 \u0007|eK*\"6/u\u0003>U\u0003>U\u0003>U\u0003>U\u0003>U\u0003>U\u0003>U\u0003>U\u0003>U\u0003>U\u0003>U\u0003>U\u0003>U\u0003>U\u0003>U\u0003~U\u0003~U\u0003~U|} =_GyW~U|} =_GyW~U|} =_GyW~U|} =_G~_\u0000u|} =_GyW~U|} =_GyW>U|E*[HFEb<\u000f}hcyvoV__uK\u000fuGRp \u000e$ΈTԔ\bu\u0001o\u0000B\u0011\u0000\u0001\u0003\u0002\u0002\u0005\b\u0006 \u0003\u0005\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0002\u0003\u0004\u0011!1\u0005\u0010\u0012\u0013A\u0014\"2Qcq 3@PRS#04Bars\u0016d\u0006\u0015$bCD`\u0000\b\u0001\u0003\u0001\u0001?\u0000뫫 J \u0001l\u0016[#l:[!l:Us6I\u000f\u0001z5DQTU>F'T%Gŭ J}D{y\u0017=k}/wM |x1+}7wM |x1+}/wM x1+}/wK x1+}/wK |x1+}/wM |x1+}7wK x1+}/wK x1+}/wK |x1*9\u000e5M@d6r\u0000\u0012j }AW**91 xUN'AX\u000e˰v\u0007\u00039ڨx\u00051R!>鷹OЃjOv[?()&21Pd Y# n{hU3:y‹\u0000*\u0018\u0001{\u0007\u0006UTɜx \u0007:mS ݪ/V="
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 108,
+          "verifyText": "7Z`:ƪ:׷.#(dѵ7\u0004+\u0017WWWWZzwNؚq~}U$wyqw4w~^鷹OЃjOv[?()}{5O&|",
+          "wordDiff": {
+            "added": [
+              "7Z`:ƪ:׷.#(dѵ7\u0004+\u0017WWWWZzwNؚq~}U$wyqw4w~^鷹OЃjOv[?()}{5O&|"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 109,
+          "verifyText": "!]]]]_U\\-%S*u\u0006",
+          "wordDiff": {
+            "added": [
+              "!]]]]_U\\-%S*u\u0006"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 110,
+          "verifyText": "Tpu w >.+ Yor\u0007F`Ƽv]Q,N~\bn\"lЦ斛 Z\"h\b$8)S}9Ѫ\u0006m:\u0001|\"I$`",
+          "wordDiff": {
+            "added": [
+              "Tpu w >.+ Yor\u0007F`Ƽv]Q,N~\bn\"lЦ斛 Z\"h\b$8)S}9Ѫ\u0006m:\u0001|\"I$`"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 111,
+          "verifyText": "CU8f $f\u0011 \u0018H\u0018.SZ6A\u0003",
+          "wordDiff": {
+            "added": [
+              "CU8f $f\u0011 \u0018H\u0018.SZ6A\u0003"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 112,
+          "verifyText": "r\u001b\u0007~ae%,u/sl[e \u0011z\u0014޹`\b&؅ELX\u001aN` k0Qvol\\UA c\" lը\u0000\u0004\u0000UcmZ6r쉁 * Aw\u0012\u0002k\u0018\u0010UU)s^Ή>\u0005Igǵ",
+          "wordDiff": {
+            "added": [
+              "r\u001b\u0007~ae%,u/sl[e \u0011z\u0014޹`\b&؅ELX\u001aN` k0Qvol\\UA c\" lը\u0000\u0004\u0000UcmZ6r쉁 * Aw\u0012\u0002k\u0018\u0010UU)s^Ή>\u0005Igǵ"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 113,
+          "verifyText": "ZPIvNJx\u001a O0u\u0004&ÁWW}US C`\u0017 Li{U ckhy{a",
+          "wordDiff": {
+            "added": [
+              "ZPIvNJx\u001a O0u\u0004&ÁWW}US C`\u0017 Li{U ckhy{a"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 114,
+          "verifyText": "~,0i;s\u0015^F\u0015ZgZ\\h 6ţ2B0i\u0001U6َf B\u000f\\ZRr\u00070\u0015\u0004Cd榋`duhO%y\u0007\u0002\u0001\u0019 BM]̄ vFf\u0000'\u00150o\u0017{L\u001b*g\btHY \u0007HlAU\u0012\b'᷊k3`\u0007\u0007nF\u00188\\",
+          "wordDiff": {
+            "added": [
+              "~,0i;s\u0015^F\u0015ZgZ\\h 6ţ2B0i\u0001U6َf B\u000f\\ZRr\u00070\u0015\u0004Cd榋`duhO%y\u0007\u0002\u0001\u0019 BM]̄ vFf\u0000'\u00150o\u0017{L\u001b*g\btHY \u0007HlAU\u0012\b'᷊k3`\u0007\u0007nF\u00188\\"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 115,
+          "verifyText": "} 9R0բh$?꺺{\u0018 WM3<J\u0002Qw1\u0006%Tɷ)\u0018\u000ft\u0005Tּ6F\u001b4m\u000e=:4\u001b&Ė\u0002{#\u0011Ɉ\u001700k[ jR5 p",
+          "wordDiff": {
+            "added": [
+              "} 9R0բh$?꺺{\u0018 WM3<J\u0002Qw1\u0006%Tɷ)\u0018\u000ft\u0005Tּ6F\u001b4m\u000e=:4\u001b&Ė\u0002{#\u0011Ɉ\u001700k[ jR5 p"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 116,
+          "verifyText": "}\"6>z\u0010zjeT\u00056$p\u0006'D\u0010H(\u0012",
+          "wordDiff": {
+            "added": [
+              "}\"6>z\u0010zjeT\u00056$p\u0006'D\u0010H(\u0012"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 117,
+          "verifyText": "x\\yWWZ^b\u0011\u00108>\u001536(qv\u0003 \u0001})\u0002\u000e<\u0002\u0005`\u001b\u0001L/%{\\\u0006\u0018\u0019Z/LpsA Wc_#[\b:@ k\u0015#\u0006\u0018u\u0017L|q\u0018`\u0011{ZWɅ\u0002Sl\\K\u0013 \\ \u0006\u001a1/Hi*lߚ|\u0004^K\u0012Hd,8\u0005C!P&\u000e\u0002m){c/\u0017\u0014",
+          "wordDiff": {
+            "added": [
+              "x\\yWWZ^b\u0011\u00108>\u001536(qv\u0003 \u0001})\u0002\u000e<\u0002\u0005`\u001b\u0001L/%{\\\u0006\u0018\u0019Z/LpsA Wc_#[\b:@ k\u0015#\u0006\u0018u\u0017L|q\u0018`\u0011{ZWɅ\u0002Sl\\K\u0013 \\ \u0006\u001a1/Hi*lߚ|\u0004^K\u0012Hd,8\u0005C!P&\u000e\u0002m){c/\u0017\u0014"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 118,
+          "verifyText": "\u0000\" m\u0014{#[76",
+          "wordDiff": {
+            "added": [
+              "\u0000\" m\u0014{#[76"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 119,
+          "verifyText": "Z^hv\u0018 1z\u0010j\u0019--@'x !C)cNJxT2)\u001aB u U \u0003\u0000ٍ .M P9ӟk ɸTI\u001a|J,\u0003T~MSt\u001b_%^ \u0002~`ܩq̝r*Flf\b \u0014r*{\\6w\u0013Ԅϰ:mU, m\u0007~Qz~QC\u001b\"\u0006Ìi\u0005O5SŲvGU S9]R\u0019J\\\u0016\u001af܀*F50Nqs<O d9 EYOM\u0000w!af",
+          "wordDiff": {
+            "added": [
+              "Z^hv\u0018 1z\u0010j\u0019--@'x !C)cNJxT2)\u001aB u U \u0003\u0000ٍ .M P9ӟk ɸTI\u001a|J,\u0003T~MSt\u001b_%^ \u0002~`ܩq̝r*Flf\b \u0014r*{\\6w\u0013Ԅϰ:mU, m\u0007~Qz~QC\u001b\"\u0006Ìi\u0005O5SŲvGU S9]R\u0019J\\\u0016\u001af܀*F50Nqs<O d9 EYOM\u0000w!af"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 120,
+          "verifyText": "_Y z\u0007 c\u000ekMҏT>N/uQq`P9Vڲ3)\u0002\bP:-<\u0013*{7\u000eD \u0003p\u000fYor4_\u0000V\u000f\u0000\u001aLЋ",
+          "wordDiff": {
+            "added": [
+              "_Y z\u0007 c\u000ekMҏT>N/uQq`P9Vڲ3)\u0002\bP:-<\u0013*{7\u000eD \u0003p\u000fYor4_\u0000V\u000f\u0000\u001aLЋ"
+            ],
+            "removed": []
+          }
+        }
+      ],
+      "model": "tfidf-cosine",
+      "similarity": 21.74,
+      "summary": {
+        "added": 0,
+        "matches": 4,
+        "modified": 1756,
+        "removed": 0,
+        "totalOriginalLines": 1560,
+        "totalVerifyLines": 580
+      },
+      "textStats": {
+        "originalCharacters": 113620,
+        "originalLines": 1560,
+        "verifyCharacters": 41378,
+        "verifyLines": 580
+      },
+      "truncated": true
+    },
+    "date": "2025-11-20T16:14:45.725Z"
+  },
+  {
+    "type": "upload",
+    "user": "adarsh@gmail.com",
+    "fileName": "1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "storedAs": "1763655318095-1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "hash": "3a49acb67626bfb6c0133c93aa7044c69ec9e62f24e7b34d89b6c7a838f44422",
+    "url": "http://localhost:5000/uploads/adarsh_gmail_com/originals/1763655318095-1-7eb1fd61-d636-4964-b6a7-1de045b266ba%20(1)%20(1).pdf",
+    "date": "2025-11-20T16:15:18.158Z"
+  },
+  {
+    "type": "verify",
+    "user": "adarsh@gmail.com",
+    "fileName": "1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "storedAs": "1763655323368-1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "url": "http://localhost:5000/uploads/adarsh_gmail_com/verify/1763655323368-1-7eb1fd61-d636-4964-b6a7-1de045b266ba%20(1)%20(1).pdf",
+    "status": "Original",
+    "similarity": "100.00%",
+    "matchedOriginal": "http://localhost:5000/uploads/adarsh_gmail_com/originals/1763655197202-1-7eb1fd61-d636-4964-b6a7-1de045b266ba%20(1)%20(1).pdf",
+    "analysis": {
+      "lineAnalysis": [
+        {
+          "originalLine": 1,
+          "originalText": "The certificate is awarded to",
+          "type": "match",
+          "verifyLine": 1,
+          "verifyText": "The certificate is awarded to"
+        },
+        {
+          "originalLine": 2,
+          "originalText": "Basavaraj Maneppagol",
+          "type": "match",
+          "verifyLine": 2,
+          "verifyText": "Basavaraj Maneppagol"
+        },
+        {
+          "originalLine": 3,
+          "originalText": "for successfully completing the course",
+          "type": "match",
+          "verifyLine": 3,
+          "verifyText": "for successfully completing the course"
+        },
+        {
+          "originalLine": 4,
+          "originalText": "Database and SQL",
+          "type": "match",
+          "verifyLine": 4,
+          "verifyText": "Database and SQL"
+        },
+        {
+          "originalLine": 5,
+          "originalText": "on June 3, 2024",
+          "type": "match",
+          "verifyLine": 5,
+          "verifyText": "on June 3, 2024"
+        },
+        {
+          "originalLine": 6,
+          "originalText": "Issued on: Monday, June 3, 2024",
+          "type": "match",
+          "verifyLine": 6,
+          "verifyText": "Issued on: Monday, June 3, 2024"
+        },
+        {
+          "originalLine": 7,
+          "originalText": "To verify, scan the QR code at https://verify.onwingspan.com",
+          "type": "match",
+          "verifyLine": 7,
+          "verifyText": "To verify, scan the QR code at https://verify.onwingspan.com"
+        }
+      ],
+      "model": "tfidf-cosine",
+      "similarity": 100,
+      "summary": {
+        "added": 0,
+        "matches": 7,
+        "modified": 0,
+        "removed": 0,
+        "totalOriginalLines": 7,
+        "totalVerifyLines": 7
+      },
+      "textStats": {
+        "originalCharacters": 223,
+        "originalLines": 7,
+        "verifyCharacters": 223,
+        "verifyLines": 7
+      },
+      "truncated": false
+    },
+    "date": "2025-11-20T16:15:23.595Z"
+  },
+  {
+    "type": "upload",
+    "user": "adarsh@gmail.com",
+    "fileName": "1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "storedAs": "1763801835476-1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "hash": "3a49acb67626bfb6c0133c93aa7044c69ec9e62f24e7b34d89b6c7a838f44422",
+    "url": "http://localhost:5000/uploads/adarsh_gmail_com/originals/1763801835476-1-7eb1fd61-d636-4964-b6a7-1de045b266ba%20(1)%20(1).pdf",
+    "date": "2025-11-22T08:57:15.539Z"
+  },
+  {
+    "type": "verify",
+    "user": "adarsh@gmail.com",
+    "fileName": "1-9fbd3cdc-9489-403e-9e65-25c11229af40 (1) (1).pdf",
+    "storedAs": "1763801844941-1-9fbd3cdc-9489-403e-9e65-25c11229af40 (1) (1).pdf",
+    "url": "http://localhost:5000/uploads/adarsh_gmail_com/verify/1763801844941-1-9fbd3cdc-9489-403e-9e65-25c11229af40%20(1)%20(1).pdf",
+    "status": "Fake",
+    "similarity": "53.22%",
+    "matchedOriginal": "http://localhost:5000/uploads/adarsh_gmail_com/originals/1763655197202-1-7eb1fd61-d636-4964-b6a7-1de045b266ba%20(1)%20(1).pdf",
+    "analysis": {
+      "lineAnalysis": [
+        {
+          "originalLine": 1,
+          "originalText": "The certificate is awarded to",
+          "type": "modified",
+          "verifyLine": 1,
+          "verifyText": "The certi\u0000cate is awarded to",
+          "wordDiff": {
+            "added": [
+              "certi\u0000cate"
+            ],
+            "removed": [
+              "certificate"
+            ]
+          }
+        },
+        {
+          "originalLine": 2,
+          "originalText": "Basavaraj Maneppagol",
+          "type": "match",
+          "verifyLine": 2,
+          "verifyText": "Basavaraj Maneppagol"
+        },
+        {
+          "originalLine": 3,
+          "originalText": "for successfully completing the course",
+          "type": "match",
+          "verifyLine": 3,
+          "verifyText": "for successfully completing the course"
+        },
+        {
+          "originalLine": 4,
+          "originalText": "Database and SQL",
+          "type": "modified",
+          "verifyLine": 4,
+          "verifyText": "Data Structures and Algorithms using Java",
+          "wordDiff": {
+            "added": [
+              "Data Structures",
+              "Algorithms using Java"
+            ],
+            "removed": [
+              "Database",
+              "SQL"
+            ]
+          }
+        },
+        {
+          "originalLine": 5,
+          "originalText": "on June 3, 2024",
+          "type": "modified",
+          "verifyLine": 5,
+          "verifyText": "on July 27, 2024",
+          "wordDiff": {
+            "added": [
+              "July 27,"
+            ],
+            "removed": [
+              "June 3,"
+            ]
+          }
+        },
+        {
+          "originalLine": 6,
+          "originalText": "Issued on: Monday, June 3, 2024",
+          "type": "modified",
+          "verifyLine": 6,
+          "verifyText": "Issued on: Saturday, July 27, 2024",
+          "wordDiff": {
+            "added": [
+              "Saturday, July 27,"
+            ],
+            "removed": [
+              "Monday, June 3,"
+            ]
+          }
+        },
+        {
+          "originalLine": 7,
+          "originalText": "To verify, scan the QR code at https://verify.onwingspan.com",
+          "type": "match",
+          "verifyLine": 7,
+          "verifyText": "To verify, scan the QR code at https://verify.onwingspan.com"
+        }
+      ],
+      "model": "tfidf-cosine",
+      "similarity": 53.22,
+      "summary": {
+        "added": 0,
+        "matches": 3,
+        "modified": 4,
+        "removed": 0,
+        "totalOriginalLines": 7,
+        "totalVerifyLines": 7
+      },
+      "textStats": {
+        "originalCharacters": 223,
+        "originalLines": 7,
+        "verifyCharacters": 251,
+        "verifyLines": 7
+      },
+      "truncated": false
+    },
+    "date": "2025-11-22T08:57:26.563Z"
+  }
+]

@@ -1,0 +1,72 @@
+.navbar {
+  background: linear-gradient(90deg, #e63946, #d62828);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 40px;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);
+}
+
+/* Left Section */
+.logo {
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: white;
+  text-decoration: none;
+}
+.logo span {
+  color: #ffe066;
+}
+
+/* Center Links */
+.navbar-links a {
+  color: white;
+  text-decoration: none;
+  margin: 0 14px;
+  font-weight: 500;
+  transition: color 0.3s, transform 0.2s;
+}
+.navbar-links a:hover {
+  color: #ffe066;
+  transform: translateY(-2px);
+}
+
+/* Right Section */
+.user-info {
+  margin-right: 15px;
+  font-weight: 500;
+  font-size: 0.95rem;
+}
+
+/* Buttons */
+.logout-btn,
+.login-btn {
+  background: white;
+  color: #d62828;
+  border: none;
+  padding: 6px 14px;
+  border-radius: 8px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+.logout-btn:hover,
+.login-btn:hover {
+  background: #ffe066;
+  color: #000;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .navbar {
+    flex-direction: column;
+    padding: 10px 20px;
+  }
+  .navbar-links {
+    margin-top: 10px;
+  }
+}

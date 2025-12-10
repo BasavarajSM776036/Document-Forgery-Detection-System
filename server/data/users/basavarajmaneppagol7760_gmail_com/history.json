@@ -1,0 +1,207 @@
+[
+  {
+    "type": "upload",
+    "user": "basavarajmaneppagol7760@gmail.com",
+    "fileName": "Database And SQL.pdf",
+    "storedAs": "1765380065925-Database And SQL.pdf",
+    "hash": "3a49acb67626bfb6c0133c93aa7044c69ec9e62f24e7b34d89b6c7a838f44422",
+    "url": "http://localhost:5000/uploads/basavarajmaneppagol7760_gmail_com/originals/1765380065925-Database%20And%20SQL.pdf",
+    "date": "2025-12-10T15:21:06.071Z"
+  },
+  {
+    "type": "verify",
+    "user": "basavarajmaneppagol7760@gmail.com",
+    "fileName": "Database And SQL.pdf",
+    "storedAs": "1765380170797-Database And SQL.pdf",
+    "url": "http://localhost:5000/uploads/basavarajmaneppagol7760_gmail_com/verify/1765380170797-Database%20And%20SQL.pdf",
+    "status": "Original",
+    "similarity": "100.00%",
+    "matchedOriginal": "http://localhost:5000/uploads/basavarajmaneppagol7760_gmail_com/originals/1765380065925-Database%20And%20SQL.pdf",
+    "analysis": {
+      "lineAnalysis": [
+        {
+          "originalLine": 1,
+          "originalText": "The certificate is awarded to",
+          "type": "match",
+          "verifyLine": 1,
+          "verifyText": "The certificate is awarded to"
+        },
+        {
+          "originalLine": 2,
+          "originalText": "Basavaraj Maneppagol",
+          "type": "match",
+          "verifyLine": 2,
+          "verifyText": "Basavaraj Maneppagol"
+        },
+        {
+          "originalLine": 3,
+          "originalText": "for successfully completing the course",
+          "type": "match",
+          "verifyLine": 3,
+          "verifyText": "for successfully completing the course"
+        },
+        {
+          "originalLine": 4,
+          "originalText": "Database and SQL",
+          "type": "match",
+          "verifyLine": 4,
+          "verifyText": "Database and SQL"
+        },
+        {
+          "originalLine": 5,
+          "originalText": "on June 3, 2024",
+          "type": "match",
+          "verifyLine": 5,
+          "verifyText": "on June 3, 2024"
+        },
+        {
+          "originalLine": 6,
+          "originalText": "Issued on: Monday, June 3, 2024",
+          "type": "match",
+          "verifyLine": 6,
+          "verifyText": "Issued on: Monday, June 3, 2024"
+        },
+        {
+          "originalLine": 7,
+          "originalText": "To verify, scan the QR code at https://verify.onwingspan.com",
+          "type": "match",
+          "verifyLine": 7,
+          "verifyText": "To verify, scan the QR code at https://verify.onwingspan.com"
+        }
+      ],
+      "model": "tfidf-cosine",
+      "similarity": 100,
+      "summary": {
+        "added": 0,
+        "matches": 7,
+        "modified": 0,
+        "removed": 0,
+        "totalOriginalLines": 7,
+        "totalVerifyLines": 7
+      },
+      "textStats": {
+        "originalCharacters": 223,
+        "originalLines": 7,
+        "verifyCharacters": 223,
+        "verifyLines": 7
+      },
+      "truncated": false
+    },
+    "date": "2025-12-10T15:22:52.072Z"
+  },
+  {
+    "type": "verify",
+    "user": "basavarajmaneppagol7760@gmail.com",
+    "fileName": "DataStructure and Algorithm.pdf",
+    "storedAs": "1765380448270-DataStructure and Algorithm.pdf",
+    "url": "http://localhost:5000/uploads/basavarajmaneppagol7760_gmail_com/verify/1765380448270-DataStructure%20and%20Algorithm.pdf",
+    "status": "Fake",
+    "similarity": "53.22%",
+    "matchedOriginal": "http://localhost:5000/uploads/basavarajmaneppagol7760_gmail_com/originals/1765380065925-Database%20And%20SQL.pdf",
+    "analysis": {
+      "lineAnalysis": [
+        {
+          "originalLine": 1,
+          "originalText": "The certificate is awarded to",
+          "type": "modified",
+          "verifyLine": 1,
+          "verifyText": "The certi\u0000cate is awarded to",
+          "wordDiff": {
+            "added": [
+              "certi\u0000cate"
+            ],
+            "removed": [
+              "certificate"
+            ]
+          }
+        },
+        {
+          "originalLine": 2,
+          "originalText": "Basavaraj Maneppagol",
+          "type": "match",
+          "verifyLine": 2,
+          "verifyText": "Basavaraj Maneppagol"
+        },
+        {
+          "originalLine": 3,
+          "originalText": "for successfully completing the course",
+          "type": "match",
+          "verifyLine": 3,
+          "verifyText": "for successfully completing the course"
+        },
+        {
+          "originalLine": 4,
+          "originalText": "Database and SQL",
+          "type": "modified",
+          "verifyLine": 4,
+          "verifyText": "Data Structures and Algorithms using Java",
+          "wordDiff": {
+            "added": [
+              "Data Structures",
+              "Algorithms using Java"
+            ],
+            "removed": [
+              "Database",
+              "SQL"
+            ]
+          }
+        },
+        {
+          "originalLine": 5,
+          "originalText": "on June 3, 2024",
+          "type": "modified",
+          "verifyLine": 5,
+          "verifyText": "on July 27, 2024",
+          "wordDiff": {
+            "added": [
+              "July 27,"
+            ],
+            "removed": [
+              "June 3,"
+            ]
+          }
+        },
+        {
+          "originalLine": 6,
+          "originalText": "Issued on: Monday, June 3, 2024",
+          "type": "modified",
+          "verifyLine": 6,
+          "verifyText": "Issued on: Saturday, July 27, 2024",
+          "wordDiff": {
+            "added": [
+              "Saturday, July 27,"
+            ],
+            "removed": [
+              "Monday, June 3,"
+            ]
+          }
+        },
+        {
+          "originalLine": 7,
+          "originalText": "To verify, scan the QR code at https://verify.onwingspan.com",
+          "type": "match",
+          "verifyLine": 7,
+          "verifyText": "To verify, scan the QR code at https://verify.onwingspan.com"
+        }
+      ],
+      "model": "tfidf-cosine",
+      "similarity": 53.22,
+      "summary": {
+        "added": 0,
+        "matches": 3,
+        "modified": 4,
+        "removed": 0,
+        "totalOriginalLines": 7,
+        "totalVerifyLines": 7
+      },
+      "textStats": {
+        "originalCharacters": 223,
+        "originalLines": 7,
+        "verifyCharacters": 251,
+        "verifyLines": 7
+      },
+      "truncated": false
+    },
+    "date": "2025-12-10T15:27:28.729Z"
+  }
+]

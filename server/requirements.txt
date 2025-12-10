@@ -1,0 +1,6 @@
+Flask
+pytesseract
+pdfminer.six
+Pillow
+scikit-learn
+

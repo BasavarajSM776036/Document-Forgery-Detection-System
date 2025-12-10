@@ -1,0 +1,755 @@
+[
+  {
+    "type": "upload",
+    "user": "basu2004@gmail.com",
+    "fileName": "WhatsApp Image 2025-03-20 at 13.40.25_76679c3d.jpg",
+    "storedAs": "1761727947441-WhatsApp Image 2025-03-20 at 13.40.25_76679c3d.jpg",
+    "hash": "0e64246b68b7ae7a259dcb9055ce6aa02e2e856607a6f1a210ae1c74cc941f73",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1761727947441-WhatsApp%20Image%202025-03-20%20at%2013.40.25_76679c3d.jpg",
+    "date": "2025-10-29T08:52:27.480Z"
+  },
+  {
+    "type": "verify",
+    "user": "basu2004@gmail.com",
+    "fileName": "WhatsApp Image 2025-03-20 at 14.17.59_7086d112.jpg",
+    "storedAs": "1761727955985-WhatsApp Image 2025-03-20 at 14.17.59_7086d112.jpg",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/verify/1761727955985-WhatsApp%20Image%202025-03-20%20at%2014.17.59_7086d112.jpg",
+    "status": "Fake",
+    "similarity": "0%",
+    "matchedOriginal": null,
+    "date": "2025-10-29T08:52:36.011Z"
+  },
+  {
+    "type": "upload",
+    "user": "basu2004@gmail.com",
+    "fileName": "WhatsApp Image 2025-03-20 at 13.40.25_76679c3d.jpg",
+    "storedAs": "1761727990147-WhatsApp Image 2025-03-20 at 13.40.25_76679c3d.jpg",
+    "hash": "0e64246b68b7ae7a259dcb9055ce6aa02e2e856607a6f1a210ae1c74cc941f73",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1761727990147-WhatsApp%20Image%202025-03-20%20at%2013.40.25_76679c3d.jpg",
+    "date": "2025-10-29T08:53:10.176Z"
+  },
+  {
+    "type": "verify",
+    "user": "basu2004@gmail.com",
+    "fileName": "WhatsApp Image 2025-03-20 at 14.17.59_7086d112.jpg",
+    "storedAs": "1761728002377-WhatsApp Image 2025-03-20 at 14.17.59_7086d112.jpg",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/verify/1761728002377-WhatsApp%20Image%202025-03-20%20at%2014.17.59_7086d112.jpg",
+    "status": "Fake",
+    "similarity": "0%",
+    "matchedOriginal": null,
+    "date": "2025-10-29T08:53:22.402Z"
+  },
+  {
+    "type": "upload",
+    "user": "basu2004@gmail.com",
+    "fileName": "1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "storedAs": "1761728037822-1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "hash": "3a49acb67626bfb6c0133c93aa7044c69ec9e62f24e7b34d89b6c7a838f44422",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1761728037822-1-7eb1fd61-d636-4964-b6a7-1de045b266ba%20(1)%20(1).pdf",
+    "date": "2025-10-29T08:53:57.876Z"
+  },
+  {
+    "type": "verify",
+    "user": "basu2004@gmail.com",
+    "fileName": "1-9fbd3cdc-9489-403e-9e65-25c11229af40 (1) (1).pdf",
+    "storedAs": "1761728049450-1-9fbd3cdc-9489-403e-9e65-25c11229af40 (1) (1).pdf",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/verify/1761728049450-1-9fbd3cdc-9489-403e-9e65-25c11229af40%20(1)%20(1).pdf",
+    "status": "Fake",
+    "similarity": "0%",
+    "matchedOriginal": null,
+    "date": "2025-10-29T08:54:09.484Z"
+  },
+  {
+    "type": "upload",
+    "user": "basu2004@gmail.com",
+    "fileName": "WhatsApp Image 2025-03-20 at 13.40.25_76679c3d.jpg",
+    "storedAs": "1761730110836-WhatsApp Image 2025-03-20 at 13.40.25_76679c3d.jpg",
+    "hash": "0e64246b68b7ae7a259dcb9055ce6aa02e2e856607a6f1a210ae1c74cc941f73",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1761730110836-WhatsApp%20Image%202025-03-20%20at%2013.40.25_76679c3d.jpg",
+    "date": "2025-10-29T09:28:30.874Z"
+  },
+  {
+    "type": "upload",
+    "user": "basu2004@gmail.com",
+    "fileName": "WhatsApp Image 2025-03-20 at 13.40.25_76679c3d.jpg",
+    "storedAs": "1761730560147-WhatsApp Image 2025-03-20 at 13.40.25_76679c3d.jpg",
+    "hash": "0e64246b68b7ae7a259dcb9055ce6aa02e2e856607a6f1a210ae1c74cc941f73",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1761730560147-WhatsApp%20Image%202025-03-20%20at%2013.40.25_76679c3d.jpg",
+    "date": "2025-10-29T09:36:00.182Z"
+  },
+  {
+    "type": "verify",
+    "user": "basu2004@gmail.com",
+    "fileName": "WhatsApp Image 2025-03-20 at 14.17.59_7086d112.jpg",
+    "storedAs": "1761730568789-WhatsApp Image 2025-03-20 at 14.17.59_7086d112.jpg",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/verify/1761730568789-WhatsApp%20Image%202025-03-20%20at%2014.17.59_7086d112.jpg",
+    "status": "Fake",
+    "similarity": "0%",
+    "matchedOriginal": null,
+    "date": "2025-10-29T09:36:08.812Z"
+  },
+  {
+    "type": "upload",
+    "user": "basu2004@gmail.com",
+    "fileName": "1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "storedAs": "1761730579657-1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "hash": "3a49acb67626bfb6c0133c93aa7044c69ec9e62f24e7b34d89b6c7a838f44422",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1761730579657-1-7eb1fd61-d636-4964-b6a7-1de045b266ba%20(1)%20(1).pdf",
+    "date": "2025-10-29T09:36:19.700Z"
+  },
+  {
+    "type": "verify",
+    "user": "basu2004@gmail.com",
+    "fileName": "1-9fbd3cdc-9489-403e-9e65-25c11229af40 (1) (1).pdf",
+    "storedAs": "1761730605938-1-9fbd3cdc-9489-403e-9e65-25c11229af40 (1) (1).pdf",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/verify/1761730605938-1-9fbd3cdc-9489-403e-9e65-25c11229af40%20(1)%20(1).pdf",
+    "status": "Fake",
+    "similarity": "0%",
+    "matchedOriginal": null,
+    "date": "2025-10-29T09:36:45.971Z"
+  },
+  {
+    "type": "upload",
+    "user": "basu2004@gmail.com",
+    "fileName": "1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "storedAs": "1761731064624-1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "hash": "3a49acb67626bfb6c0133c93aa7044c69ec9e62f24e7b34d89b6c7a838f44422",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1761731064624-1-7eb1fd61-d636-4964-b6a7-1de045b266ba%20(1)%20(1).pdf",
+    "date": "2025-10-29T09:44:24.696Z"
+  },
+  {
+    "type": "upload",
+    "user": "basu2004@gmail.com",
+    "fileName": "1-9fbd3cdc-9489-403e-9e65-25c11229af40 (1) (1).pdf",
+    "storedAs": "1761731902461-1-9fbd3cdc-9489-403e-9e65-25c11229af40 (1) (1).pdf",
+    "hash": "0ef1b9fe330317c91fbbdf8de23d1f790008144a81e554b427bb158382e53ba1",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1761731902461-1-9fbd3cdc-9489-403e-9e65-25c11229af40%20(1)%20(1).pdf",
+    "date": "2025-10-29T09:58:22.567Z"
+  },
+  {
+    "type": "upload",
+    "user": "basu2004@gmail.com",
+    "fileName": "1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "storedAs": "1761732402031-1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "hash": "3a49acb67626bfb6c0133c93aa7044c69ec9e62f24e7b34d89b6c7a838f44422",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1761732402031-1-7eb1fd61-d636-4964-b6a7-1de045b266ba%20(1)%20(1).pdf",
+    "date": "2025-10-29T10:06:42.068Z"
+  },
+  {
+    "type": "upload",
+    "user": "basu2004@gmail.com",
+    "fileName": "WhatsApp Image 2025-03-20 at 13.40.25_76679c3d.jpg",
+    "storedAs": "1761732410151-WhatsApp Image 2025-03-20 at 13.40.25_76679c3d.jpg",
+    "hash": "0e64246b68b7ae7a259dcb9055ce6aa02e2e856607a6f1a210ae1c74cc941f73",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1761732410151-WhatsApp%20Image%202025-03-20%20at%2013.40.25_76679c3d.jpg",
+    "date": "2025-10-29T10:06:50.266Z"
+  },
+  {
+    "type": "upload",
+    "user": "basu2004@gmail.com",
+    "fileName": "WhatsApp Image 2025-03-20 at 13.40.25_76679c3d.jpg",
+    "storedAs": "1761732990470-WhatsApp Image 2025-03-20 at 13.40.25_76679c3d.jpg",
+    "hash": "0e64246b68b7ae7a259dcb9055ce6aa02e2e856607a6f1a210ae1c74cc941f73",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1761732990470-WhatsApp%20Image%202025-03-20%20at%2013.40.25_76679c3d.jpg",
+    "date": "2025-10-29T10:16:30.565Z"
+  },
+  {
+    "type": "verify",
+    "user": "basu2004@gmail.com",
+    "fileName": "1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "storedAs": "1761733008437-1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/verify/1761733008437-1-7eb1fd61-d636-4964-b6a7-1de045b266ba%20(1)%20(1).pdf",
+    "status": "Original",
+    "similarity": "100%",
+    "matchedOriginal": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1761728037822-1-7eb1fd61-d636-4964-b6a7-1de045b266ba%20(1)%20(1).pdf",
+    "date": "2025-10-29T10:16:48.486Z"
+  },
+  {
+    "type": "upload",
+    "user": "basu2004@gmail.com",
+    "fileName": "1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "storedAs": "1761733633291-1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "hash": "3a49acb67626bfb6c0133c93aa7044c69ec9e62f24e7b34d89b6c7a838f44422",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1761733633291-1-7eb1fd61-d636-4964-b6a7-1de045b266ba%20(1)%20(1).pdf",
+    "date": "2025-10-29T10:27:13.359Z"
+  },
+  {
+    "type": "upload",
+    "user": "basu2004@gmail.com",
+    "fileName": "WhatsApp Image 2025-03-20 at 13.40.25_76679c3d.jpg",
+    "storedAs": "1761733658129-WhatsApp Image 2025-03-20 at 13.40.25_76679c3d.jpg",
+    "hash": "0e64246b68b7ae7a259dcb9055ce6aa02e2e856607a6f1a210ae1c74cc941f73",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1761733658129-WhatsApp%20Image%202025-03-20%20at%2013.40.25_76679c3d.jpg",
+    "date": "2025-10-29T10:27:38.213Z"
+  },
+  {
+    "type": "verify",
+    "user": "basu2004@gmail.com",
+    "fileName": "WhatsApp Image 2025-03-20 at 14.17.59_7086d112.jpg",
+    "storedAs": "1761733669074-WhatsApp Image 2025-03-20 at 14.17.59_7086d112.jpg",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/verify/1761733669074-WhatsApp%20Image%202025-03-20%20at%2014.17.59_7086d112.jpg",
+    "status": "Fake",
+    "similarity": "0%",
+    "matchedOriginal": null,
+    "date": "2025-10-29T10:27:49.117Z"
+  },
+  {
+    "type": "upload",
+    "user": "basu2004@gmail.com",
+    "fileName": "WhatsApp Image 2025-03-20 at 13.40.25_76679c3d.jpg",
+    "storedAs": "1761744930665-WhatsApp Image 2025-03-20 at 13.40.25_76679c3d.jpg",
+    "hash": "0e64246b68b7ae7a259dcb9055ce6aa02e2e856607a6f1a210ae1c74cc941f73",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1761744930665-WhatsApp%20Image%202025-03-20%20at%2013.40.25_76679c3d.jpg",
+    "date": "2025-10-29T13:35:30.720Z"
+  },
+  {
+    "type": "verify",
+    "user": "basu2004@gmail.com",
+    "fileName": "WhatsApp Image 2025-03-20 at 14.17.59_7086d112.jpg",
+    "storedAs": "1761744944813-WhatsApp Image 2025-03-20 at 14.17.59_7086d112.jpg",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/verify/1761744944813-WhatsApp%20Image%202025-03-20%20at%2014.17.59_7086d112.jpg",
+    "status": "Fake",
+    "similarity": "0%",
+    "matchedOriginal": null,
+    "date": "2025-10-29T13:35:44.842Z"
+  },
+  {
+    "type": "upload",
+    "user": "basu2004@gmail.com",
+    "fileName": "WhatsApp Image 2025-03-20 at 13.40.25_76679c3d.jpg",
+    "storedAs": "1761750184640-WhatsApp_Image_2025-03-20_at_13.40.25_76679c3d.jpg",
+    "hash": "0e64246b68b7ae7a259dcb9055ce6aa02e2e856607a6f1a210ae1c74cc941f73",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1761750184640-WhatsApp_Image_2025-03-20_at_13.40.25_76679c3d.jpg",
+    "date": "2025-10-29T15:03:04.694Z"
+  },
+  {
+    "type": "upload",
+    "user": "basu2004@gmail.com",
+    "fileName": "1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "storedAs": "1761750199340-1-7eb1fd61-d636-4964-b6a7-1de045b266ba_(1)_(1).pdf",
+    "hash": "3a49acb67626bfb6c0133c93aa7044c69ec9e62f24e7b34d89b6c7a838f44422",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1761750199340-1-7eb1fd61-d636-4964-b6a7-1de045b266ba_(1)_(1).pdf",
+    "date": "2025-10-29T15:03:19.379Z"
+  },
+  {
+    "type": "upload",
+    "user": "basu2004@gmail.com",
+    "fileName": "WhatsApp Image 2025-03-20 at 13.40.25_76679c3d.jpg",
+    "storedAs": "1761752951960-WhatsApp_Image_2025-03-20_at_13.40.25_76679c3d.jpg",
+    "hash": "0e64246b68b7ae7a259dcb9055ce6aa02e2e856607a6f1a210ae1c74cc941f73",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1761752951960-WhatsApp_Image_2025-03-20_at_13.40.25_76679c3d.jpg",
+    "date": "2025-10-29T15:49:12.106Z"
+  },
+  {
+    "type": "verify",
+    "user": "basu2004@gmail.com",
+    "fileName": "WhatsApp Image 2025-03-20 at 14.17.59_7086d112.jpg",
+    "storedAs": "1761752965558-WhatsApp_Image_2025-03-20_at_14.17.59_7086d112.jpg",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/verify/1761752965558-WhatsApp_Image_2025-03-20_at_14.17.59_7086d112.jpg",
+    "status": "Fake",
+    "similarity": "0",
+    "matchedOriginal": null,
+    "date": "2025-10-29T15:49:25.583Z"
+  },
+  {
+    "type": "upload",
+    "user": "basu2004@gmail.com",
+    "fileName": "1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "storedAs": "1761752978723-1-7eb1fd61-d636-4964-b6a7-1de045b266ba_(1)_(1).pdf",
+    "hash": "3a49acb67626bfb6c0133c93aa7044c69ec9e62f24e7b34d89b6c7a838f44422",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1761752978723-1-7eb1fd61-d636-4964-b6a7-1de045b266ba_(1)_(1).pdf",
+    "date": "2025-10-29T15:49:38.757Z"
+  },
+  {
+    "type": "verify",
+    "user": "basu2004@gmail.com",
+    "fileName": "1-9fbd3cdc-9489-403e-9e65-25c11229af40 (1) (1).pdf",
+    "storedAs": "1761753007845-1-9fbd3cdc-9489-403e-9e65-25c11229af40_(1)_(1).pdf",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/verify/1761753007845-1-9fbd3cdc-9489-403e-9e65-25c11229af40_(1)_(1).pdf",
+    "status": "Original",
+    "similarity": "100",
+    "matchedOriginal": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1761731902461-1-9fbd3cdc-9489-403e-9e65-25c11229af40%20(1)%20(1).pdf",
+    "date": "2025-10-29T15:50:07.879Z"
+  },
+  {
+    "type": "upload",
+    "user": "basu2004@gmail.com",
+    "fileName": "1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "storedAs": "1761754119718-1-7eb1fd61-d636-4964-b6a7-1de045b266ba_(1)_(1).pdf",
+    "hash": "3a49acb67626bfb6c0133c93aa7044c69ec9e62f24e7b34d89b6c7a838f44422",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1761754119718-1-7eb1fd61-d636-4964-b6a7-1de045b266ba_(1)_(1).pdf",
+    "date": "2025-10-29T16:08:39.769Z"
+  },
+  {
+    "type": "verify",
+    "user": "basu2004@gmail.com",
+    "fileName": "1-9fbd3cdc-9489-403e-9e65-25c11229af40 (1) (1).pdf",
+    "storedAs": "1761754128468-1-9fbd3cdc-9489-403e-9e65-25c11229af40_(1)_(1).pdf",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/verify/1761754128468-1-9fbd3cdc-9489-403e-9e65-25c11229af40_(1)_(1).pdf",
+    "status": "Original",
+    "similarity": "100",
+    "matchedOriginal": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1761731902461-1-9fbd3cdc-9489-403e-9e65-25c11229af40%20(1)%20(1).pdf",
+    "date": "2025-10-29T16:08:48.502Z"
+  },
+  {
+    "type": "verify",
+    "user": "basu2004@gmail.com",
+    "fileName": "1-d788da1e-bc23-4b08-9353-84431964312f (1).pdf",
+    "storedAs": "1761754135291-1-d788da1e-bc23-4b08-9353-84431964312f_(1).pdf",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/verify/1761754135291-1-d788da1e-bc23-4b08-9353-84431964312f_(1).pdf",
+    "status": "Fake",
+    "similarity": "0",
+    "matchedOriginal": null,
+    "date": "2025-10-29T16:08:55.344Z"
+  },
+  {
+    "type": "verify",
+    "user": "basu2004@gmail.com",
+    "fileName": "1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "storedAs": "1761754142693-1-7eb1fd61-d636-4964-b6a7-1de045b266ba_(1)_(1).pdf",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/verify/1761754142693-1-7eb1fd61-d636-4964-b6a7-1de045b266ba_(1)_(1).pdf",
+    "status": "Original",
+    "similarity": "100",
+    "matchedOriginal": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1761728037822-1-7eb1fd61-d636-4964-b6a7-1de045b266ba%20(1)%20(1).pdf",
+    "date": "2025-10-29T16:09:02.736Z"
+  },
+  {
+    "type": "verify",
+    "user": "basu2004@gmail.com",
+    "fileName": "1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "storedAs": "1761754155432-1-7eb1fd61-d636-4964-b6a7-1de045b266ba_(1)_(1).pdf",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/verify/1761754155432-1-7eb1fd61-d636-4964-b6a7-1de045b266ba_(1)_(1).pdf",
+    "status": "Original",
+    "similarity": "100",
+    "matchedOriginal": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1761728037822-1-7eb1fd61-d636-4964-b6a7-1de045b266ba%20(1)%20(1).pdf",
+    "date": "2025-10-29T16:09:15.461Z"
+  },
+  {
+    "type": "verify",
+    "user": "basu2004@gmail.com",
+    "fileName": "1-9fbd3cdc-9489-403e-9e65-25c11229af40 (1) (1).pdf",
+    "storedAs": "1761754163219-1-9fbd3cdc-9489-403e-9e65-25c11229af40_(1)_(1).pdf",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/verify/1761754163219-1-9fbd3cdc-9489-403e-9e65-25c11229af40_(1)_(1).pdf",
+    "status": "Original",
+    "similarity": "100",
+    "matchedOriginal": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1761731902461-1-9fbd3cdc-9489-403e-9e65-25c11229af40%20(1)%20(1).pdf",
+    "date": "2025-10-29T16:09:23.292Z"
+  },
+  {
+    "type": "verify",
+    "user": "basu2004@gmail.com",
+    "fileName": "1-d788da1e-bc23-4b08-9353-84431964312f (1).pdf",
+    "storedAs": "1761754168433-1-d788da1e-bc23-4b08-9353-84431964312f_(1).pdf",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/verify/1761754168433-1-d788da1e-bc23-4b08-9353-84431964312f_(1).pdf",
+    "status": "Fake",
+    "similarity": "0",
+    "matchedOriginal": null,
+    "date": "2025-10-29T16:09:28.467Z"
+  },
+  {
+    "type": "verify",
+    "user": "basu2004@gmail.com",
+    "fileName": "WhatsApp Image 2025-03-20 at 13.40.25_76679c3d.jpg",
+    "storedAs": "1761754175629-WhatsApp_Image_2025-03-20_at_13.40.25_76679c3d.jpg",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/verify/1761754175629-WhatsApp_Image_2025-03-20_at_13.40.25_76679c3d.jpg",
+    "status": "Original",
+    "similarity": "100",
+    "matchedOriginal": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1761727947441-WhatsApp%20Image%202025-03-20%20at%2013.40.25_76679c3d.jpg",
+    "date": "2025-10-29T16:09:35.658Z"
+  },
+  {
+    "type": "upload",
+    "user": "basu2004@gmail.com",
+    "fileName": "1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "storedAs": "1761755526668-1-7eb1fd61-d636-4964-b6a7-1de045b266ba_(1)_(1).pdf",
+    "hash": "3a49acb67626bfb6c0133c93aa7044c69ec9e62f24e7b34d89b6c7a838f44422",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1761755526668-1-7eb1fd61-d636-4964-b6a7-1de045b266ba_(1)_(1).pdf",
+    "date": "2025-10-29T16:32:06.738Z"
+  },
+  {
+    "type": "verify",
+    "user": "basu2004@gmail.com",
+    "fileName": "1-9fbd3cdc-9489-403e-9e65-25c11229af40 (1) (1).pdf",
+    "storedAs": "1761755536888-1-9fbd3cdc-9489-403e-9e65-25c11229af40_(1)_(1).pdf",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/verify/1761755536888-1-9fbd3cdc-9489-403e-9e65-25c11229af40_(1)_(1).pdf",
+    "status": "Original",
+    "similarity": "100",
+    "matchedOriginal": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1761731902461-1-9fbd3cdc-9489-403e-9e65-25c11229af40%20(1)%20(1).pdf",
+    "date": "2025-10-29T16:32:16.952Z"
+  },
+  {
+    "type": "verify",
+    "user": "basu2004@gmail.com",
+    "fileName": "WhatsApp Image 2025-03-20 at 13.40.25_76679c3d.jpg",
+    "storedAs": "1761755545824-WhatsApp_Image_2025-03-20_at_13.40.25_76679c3d.jpg",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/verify/1761755545824-WhatsApp_Image_2025-03-20_at_13.40.25_76679c3d.jpg",
+    "status": "Original",
+    "similarity": "100",
+    "matchedOriginal": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1761727947441-WhatsApp%20Image%202025-03-20%20at%2013.40.25_76679c3d.jpg",
+    "date": "2025-10-29T16:32:25.895Z"
+  },
+  {
+    "type": "upload",
+    "user": "basu2004@gmail.com",
+    "fileName": "1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "storedAs": "1761755601453-1-7eb1fd61-d636-4964-b6a7-1de045b266ba_(1)_(1).pdf",
+    "hash": "3a49acb67626bfb6c0133c93aa7044c69ec9e62f24e7b34d89b6c7a838f44422",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1761755601453-1-7eb1fd61-d636-4964-b6a7-1de045b266ba_(1)_(1).pdf",
+    "date": "2025-10-29T16:33:21.491Z"
+  },
+  {
+    "type": "verify",
+    "user": "basu2004@gmail.com",
+    "fileName": "WhatsApp Image 2025-03-20 at 13.40.25_76679c3d.jpg",
+    "storedAs": "1761755607903-WhatsApp_Image_2025-03-20_at_13.40.25_76679c3d.jpg",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/verify/1761755607903-WhatsApp_Image_2025-03-20_at_13.40.25_76679c3d.jpg",
+    "status": "Original",
+    "similarity": "100",
+    "matchedOriginal": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1761727947441-WhatsApp%20Image%202025-03-20%20at%2013.40.25_76679c3d.jpg",
+    "date": "2025-10-29T16:33:27.934Z"
+  },
+  {
+    "type": "upload",
+    "user": "basu2004@gmail.com",
+    "fileName": "WhatsApp Image 2025-03-20 at 13.40.25_76679c3d.jpg",
+    "storedAs": "1761755627089-WhatsApp_Image_2025-03-20_at_13.40.25_76679c3d.jpg",
+    "hash": "0e64246b68b7ae7a259dcb9055ce6aa02e2e856607a6f1a210ae1c74cc941f73",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1761755627089-WhatsApp_Image_2025-03-20_at_13.40.25_76679c3d.jpg",
+    "date": "2025-10-29T16:33:47.118Z"
+  },
+  {
+    "type": "verify",
+    "user": "basu2004@gmail.com",
+    "fileName": "WhatsApp Image 2025-03-20 at 14.17.59_7086d112.jpg",
+    "storedAs": "1761755632847-WhatsApp_Image_2025-03-20_at_14.17.59_7086d112.jpg",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/verify/1761755632847-WhatsApp_Image_2025-03-20_at_14.17.59_7086d112.jpg",
+    "status": "Fake",
+    "similarity": "0",
+    "matchedOriginal": null,
+    "date": "2025-10-29T16:33:52.873Z"
+  },
+  {
+    "type": "upload",
+    "user": "basu2004@gmail.com",
+    "fileName": "1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "storedAs": "1761755639998-1-7eb1fd61-d636-4964-b6a7-1de045b266ba_(1)_(1).pdf",
+    "hash": "3a49acb67626bfb6c0133c93aa7044c69ec9e62f24e7b34d89b6c7a838f44422",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1761755639998-1-7eb1fd61-d636-4964-b6a7-1de045b266ba_(1)_(1).pdf",
+    "date": "2025-10-29T16:34:00.036Z"
+  },
+  {
+    "type": "verify",
+    "user": "basu2004@gmail.com",
+    "fileName": "WhatsApp Image 2025-03-20 at 14.17.59_7086d112.jpg",
+    "storedAs": "1761755642799-WhatsApp_Image_2025-03-20_at_14.17.59_7086d112.jpg",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/verify/1761755642799-WhatsApp_Image_2025-03-20_at_14.17.59_7086d112.jpg",
+    "status": "Fake",
+    "similarity": "0",
+    "matchedOriginal": null,
+    "date": "2025-10-29T16:34:02.866Z"
+  },
+  {
+    "type": "verify",
+    "user": "basu2004@gmail.com",
+    "fileName": "1-9fbd3cdc-9489-403e-9e65-25c11229af40 (1) (1).pdf",
+    "storedAs": "1761755650586-1-9fbd3cdc-9489-403e-9e65-25c11229af40_(1)_(1).pdf",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/verify/1761755650586-1-9fbd3cdc-9489-403e-9e65-25c11229af40_(1)_(1).pdf",
+    "status": "Original",
+    "similarity": "100",
+    "matchedOriginal": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1761731902461-1-9fbd3cdc-9489-403e-9e65-25c11229af40%20(1)%20(1).pdf",
+    "date": "2025-10-29T16:34:10.663Z"
+  },
+  {
+    "type": "verify",
+    "user": "basu2004@gmail.com",
+    "fileName": "1-d788da1e-bc23-4b08-9353-84431964312f (1).pdf",
+    "storedAs": "1761755658174-1-d788da1e-bc23-4b08-9353-84431964312f_(1).pdf",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/verify/1761755658174-1-d788da1e-bc23-4b08-9353-84431964312f_(1).pdf",
+    "status": "Fake",
+    "similarity": "0",
+    "matchedOriginal": null,
+    "date": "2025-10-29T16:34:18.214Z"
+  },
+  {
+    "type": "verify",
+    "user": "basu2004@gmail.com",
+    "fileName": "WhatsApp Image 2025-03-20 at 13.40.25_76679c3d.jpg",
+    "storedAs": "1761755665137-WhatsApp_Image_2025-03-20_at_13.40.25_76679c3d.jpg",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/verify/1761755665137-WhatsApp_Image_2025-03-20_at_13.40.25_76679c3d.jpg",
+    "status": "Original",
+    "similarity": "100",
+    "matchedOriginal": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1761727947441-WhatsApp%20Image%202025-03-20%20at%2013.40.25_76679c3d.jpg",
+    "date": "2025-10-29T16:34:25.166Z"
+  },
+  {
+    "type": "upload",
+    "user": "basu2004@gmail.com",
+    "fileName": "1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "storedAs": "1761843879280-1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "hash": "3a49acb67626bfb6c0133c93aa7044c69ec9e62f24e7b34d89b6c7a838f44422",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1761843879280-1-7eb1fd61-d636-4964-b6a7-1de045b266ba%20(1)%20(1).pdf",
+    "date": "2025-10-30T17:04:39.355Z"
+  },
+  {
+    "type": "verify",
+    "user": "basu2004@gmail.com",
+    "fileName": "1-d788da1e-bc23-4b08-9353-84431964312f (1).pdf",
+    "storedAs": "1761843893447-1-d788da1e-bc23-4b08-9353-84431964312f (1).pdf",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/verify/1761843893447-1-d788da1e-bc23-4b08-9353-84431964312f%20(1).pdf",
+    "status": "Fake",
+    "similarity": "0%",
+    "matchedOriginal": null,
+    "date": "2025-10-30T17:04:53.482Z"
+  },
+  {
+    "type": "verify",
+    "user": "basu2004@gmail.com",
+    "fileName": "WhatsApp Image 2025-03-20 at 13.40.25_76679c3d.jpg",
+    "storedAs": "1761843900867-WhatsApp Image 2025-03-20 at 13.40.25_76679c3d.jpg",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/verify/1761843900867-WhatsApp%20Image%202025-03-20%20at%2013.40.25_76679c3d.jpg",
+    "status": "Original",
+    "similarity": "100%",
+    "matchedOriginal": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1761727947441-WhatsApp%20Image%202025-03-20%20at%2013.40.25_76679c3d.jpg",
+    "date": "2025-10-30T17:05:00.895Z"
+  },
+  {
+    "type": "upload",
+    "user": "basu2004@gmail.com",
+    "fileName": "1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "storedAs": "1761974755497-1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "hash": "3a49acb67626bfb6c0133c93aa7044c69ec9e62f24e7b34d89b6c7a838f44422",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1761974755497-1-7eb1fd61-d636-4964-b6a7-1de045b266ba%20(1)%20(1).pdf",
+    "date": "2025-11-01T05:25:55.551Z"
+  },
+  {
+    "type": "verify",
+    "user": "basu2004@gmail.com",
+    "fileName": "WhatsApp Image 2025-03-20 at 13.40.25_76679c3d.jpg",
+    "storedAs": "1761974767521-WhatsApp Image 2025-03-20 at 13.40.25_76679c3d.jpg",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/verify/1761974767521-WhatsApp%20Image%202025-03-20%20at%2013.40.25_76679c3d.jpg",
+    "status": "Original",
+    "similarity": "100%",
+    "matchedOriginal": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1761727947441-WhatsApp%20Image%202025-03-20%20at%2013.40.25_76679c3d.jpg",
+    "date": "2025-11-01T05:26:07.556Z"
+  },
+  {
+    "type": "upload",
+    "user": "basu2004@gmail.com",
+    "fileName": "1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "storedAs": "1761975410177-1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "hash": "3a49acb67626bfb6c0133c93aa7044c69ec9e62f24e7b34d89b6c7a838f44422",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1761975410177-1-7eb1fd61-d636-4964-b6a7-1de045b266ba%20(1)%20(1).pdf",
+    "date": "2025-11-01T05:36:50.211Z"
+  },
+  {
+    "type": "verify",
+    "user": "basu2004@gmail.com",
+    "fileName": "WhatsApp Image 2025-03-20 at 13.40.25_76679c3d.jpg",
+    "storedAs": "1761975417142-WhatsApp Image 2025-03-20 at 13.40.25_76679c3d.jpg",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/verify/1761975417142-WhatsApp%20Image%202025-03-20%20at%2013.40.25_76679c3d.jpg",
+    "status": "Original",
+    "similarity": "100%",
+    "matchedOriginal": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1761727947441-WhatsApp%20Image%202025-03-20%20at%2013.40.25_76679c3d.jpg",
+    "date": "2025-11-01T05:36:57.168Z"
+  },
+  {
+    "type": "upload",
+    "user": "basu2004@gmail.com",
+    "fileName": "1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "storedAs": "1761975493833-1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "hash": "3a49acb67626bfb6c0133c93aa7044c69ec9e62f24e7b34d89b6c7a838f44422",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1761975493833-1-7eb1fd61-d636-4964-b6a7-1de045b266ba%20(1)%20(1).pdf",
+    "date": "2025-11-01T05:38:13.892Z"
+  },
+  {
+    "type": "verify",
+    "user": "basu2004@gmail.com",
+    "fileName": "WhatsApp Image 2025-03-20 at 14.17.59_7086d112.jpg",
+    "storedAs": "1761975524605-WhatsApp Image 2025-03-20 at 14.17.59_7086d112.jpg",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/verify/1761975524605-WhatsApp%20Image%202025-03-20%20at%2014.17.59_7086d112.jpg",
+    "status": "Fake",
+    "similarity": "0%",
+    "matchedOriginal": null,
+    "date": "2025-11-01T05:38:44.731Z"
+  },
+  {
+    "type": "upload",
+    "user": "basu2004@gmail.com",
+    "fileName": "WhatsApp Image 2025-03-20 at 14.17.59_7086d112.jpg",
+    "storedAs": "1761975590348-WhatsApp Image 2025-03-20 at 14.17.59_7086d112.jpg",
+    "hash": "cf07eb20588180ac1961b44753b863eeeaa6cf26a28a3c785116cf4571766977",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1761975590348-WhatsApp%20Image%202025-03-20%20at%2014.17.59_7086d112.jpg",
+    "date": "2025-11-01T05:39:50.375Z"
+  },
+  {
+    "type": "verify",
+    "user": "basu2004@gmail.com",
+    "fileName": "WhatsApp Image 2025-03-20 at 14.17.59_7086d112.jpg",
+    "storedAs": "1761975614712-WhatsApp Image 2025-03-20 at 14.17.59_7086d112.jpg",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/verify/1761975614712-WhatsApp%20Image%202025-03-20%20at%2014.17.59_7086d112.jpg",
+    "status": "Original",
+    "similarity": "100%",
+    "matchedOriginal": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1761975590348-WhatsApp%20Image%202025-03-20%20at%2014.17.59_7086d112.jpg",
+    "date": "2025-11-01T05:40:14.739Z"
+  },
+  {
+    "type": "upload",
+    "user": "basu2004@gmail.com",
+    "fileName": "1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "storedAs": "1761976408665-1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "hash": "3a49acb67626bfb6c0133c93aa7044c69ec9e62f24e7b34d89b6c7a838f44422",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1761976408665-1-7eb1fd61-d636-4964-b6a7-1de045b266ba%20(1)%20(1).pdf",
+    "date": "2025-11-01T05:53:28.717Z"
+  },
+  {
+    "type": "verify",
+    "user": "basu2004@gmail.com",
+    "fileName": "WhatsApp Image 2025-03-20 at 13.40.25_76679c3d.jpg",
+    "storedAs": "1761976425938-WhatsApp Image 2025-03-20 at 13.40.25_76679c3d.jpg",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/verify/1761976425938-WhatsApp%20Image%202025-03-20%20at%2013.40.25_76679c3d.jpg",
+    "status": "Original",
+    "similarity": "100%",
+    "matchedOriginal": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1761727947441-WhatsApp%20Image%202025-03-20%20at%2013.40.25_76679c3d.jpg",
+    "date": "2025-11-01T05:53:46.024Z"
+  },
+  {
+    "type": "upload",
+    "user": "basu2004@gmail.com",
+    "fileName": "1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "storedAs": "1761979857729-1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "hash": "3a49acb67626bfb6c0133c93aa7044c69ec9e62f24e7b34d89b6c7a838f44422",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1761979857729-1-7eb1fd61-d636-4964-b6a7-1de045b266ba%20(1)%20(1).pdf",
+    "date": "2025-11-01T06:50:57.779Z"
+  },
+  {
+    "type": "verify",
+    "user": "basu2004@gmail.com",
+    "fileName": "WhatsApp Image 2025-03-20 at 13.40.25_76679c3d.jpg",
+    "storedAs": "1761979872138-WhatsApp Image 2025-03-20 at 13.40.25_76679c3d.jpg",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/verify/1761979872138-WhatsApp%20Image%202025-03-20%20at%2013.40.25_76679c3d.jpg",
+    "status": "Original",
+    "similarity": "100%",
+    "matchedOriginal": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1761727947441-WhatsApp%20Image%202025-03-20%20at%2013.40.25_76679c3d.jpg",
+    "date": "2025-11-01T06:51:12.171Z"
+  },
+  {
+    "type": "upload",
+    "user": "basu2004@gmail.com",
+    "fileName": "WhatsApp Image 2025-03-20 at 13.40.25_76679c3d.jpg",
+    "storedAs": "1762522426134-WhatsApp Image 2025-03-20 at 13.40.25_76679c3d.jpg",
+    "hash": "0e64246b68b7ae7a259dcb9055ce6aa02e2e856607a6f1a210ae1c74cc941f73",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1762522426134-WhatsApp%20Image%202025-03-20%20at%2013.40.25_76679c3d.jpg",
+    "date": "2025-11-07T13:33:46.184Z"
+  },
+  {
+    "type": "verify",
+    "user": "basu2004@gmail.com",
+    "fileName": "WhatsApp Image 2025-03-20 at 14.17.59_7086d112.jpg",
+    "storedAs": "1762522443072-WhatsApp Image 2025-03-20 at 14.17.59_7086d112.jpg",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/verify/1762522443072-WhatsApp%20Image%202025-03-20%20at%2014.17.59_7086d112.jpg",
+    "status": "Original",
+    "similarity": "100%",
+    "matchedOriginal": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1761975590348-WhatsApp%20Image%202025-03-20%20at%2014.17.59_7086d112.jpg",
+    "date": "2025-11-07T13:34:03.093Z"
+  },
+  {
+    "type": "upload",
+    "user": "basu2004@gmail.com",
+    "fileName": "WhatsApp Image 2025-03-20 at 13.40.25_76679c3d.jpg",
+    "storedAs": "1762531597140-WhatsApp Image 2025-03-20 at 13.40.25_76679c3d.jpg",
+    "hash": "0e64246b68b7ae7a259dcb9055ce6aa02e2e856607a6f1a210ae1c74cc941f73",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1762531597140-WhatsApp%20Image%202025-03-20%20at%2013.40.25_76679c3d.jpg",
+    "date": "2025-11-07T16:06:37.190Z"
+  },
+  {
+    "type": "verify",
+    "user": "basu2004@gmail.com",
+    "fileName": "WhatsApp Image 2025-03-20 at 14.17.59_7086d112.jpg",
+    "storedAs": "1762531605711-WhatsApp Image 2025-03-20 at 14.17.59_7086d112.jpg",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/verify/1762531605711-WhatsApp%20Image%202025-03-20%20at%2014.17.59_7086d112.jpg",
+    "status": "Original",
+    "similarity": "100%",
+    "matchedOriginal": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1761975590348-WhatsApp%20Image%202025-03-20%20at%2014.17.59_7086d112.jpg",
+    "date": "2025-11-07T16:06:45.740Z"
+  },
+  {
+    "type": "upload",
+    "user": "basu2004@gmail.com",
+    "fileName": "WhatsApp Image 2025-03-20 at 13.40.25_76679c3d.jpg",
+    "storedAs": "1762575349149-WhatsApp Image 2025-03-20 at 13.40.25_76679c3d.jpg",
+    "hash": "0e64246b68b7ae7a259dcb9055ce6aa02e2e856607a6f1a210ae1c74cc941f73",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1762575349149-WhatsApp%20Image%202025-03-20%20at%2013.40.25_76679c3d.jpg",
+    "date": "2025-11-08T04:15:49.207Z"
+  },
+  {
+    "type": "verify",
+    "user": "basu2004@gmail.com",
+    "fileName": "1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "storedAs": "1762575359767-1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/verify/1762575359767-1-7eb1fd61-d636-4964-b6a7-1de045b266ba%20(1)%20(1).pdf",
+    "status": "Original",
+    "similarity": "100.00%",
+    "matchedOriginal": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1761728037822-1-7eb1fd61-d636-4964-b6a7-1de045b266ba%20(1)%20(1).pdf",
+    "date": "2025-11-08T04:15:59.807Z"
+  },
+  {
+    "type": "upload",
+    "user": "basu2004@gmail.com",
+    "fileName": "1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "storedAs": "1762608083851-1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "hash": "3a49acb67626bfb6c0133c93aa7044c69ec9e62f24e7b34d89b6c7a838f44422",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1762608083851-1-7eb1fd61-d636-4964-b6a7-1de045b266ba%20(1)%20(1).pdf",
+    "date": "2025-11-08T13:21:23.912Z"
+  },
+  {
+    "type": "upload",
+    "user": "basu2004@gmail.com",
+    "fileName": "online quize.jpg",
+    "storedAs": "1762608097743-online quize.jpg",
+    "hash": "0e64246b68b7ae7a259dcb9055ce6aa02e2e856607a6f1a210ae1c74cc941f73",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1762608097743-online%20quize.jpg",
+    "date": "2025-11-08T13:21:37.775Z"
+  },
+  {
+    "type": "verify",
+    "user": "basu2004@gmail.com",
+    "fileName": "WhatsApp Image 2025-03-20 at 14.17.59_7086d112.jpg",
+    "storedAs": "1762608105403-WhatsApp Image 2025-03-20 at 14.17.59_7086d112.jpg",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/verify/1762608105403-WhatsApp%20Image%202025-03-20%20at%2014.17.59_7086d112.jpg",
+    "status": "Original",
+    "similarity": "100.00%",
+    "matchedOriginal": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1761975590348-WhatsApp%20Image%202025-03-20%20at%2014.17.59_7086d112.jpg",
+    "date": "2025-11-08T13:21:45.458Z"
+  },
+  {
+    "type": "upload",
+    "user": "basu2004@gmail.com",
+    "fileName": "1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "storedAs": "1762608126412-1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "hash": "3a49acb67626bfb6c0133c93aa7044c69ec9e62f24e7b34d89b6c7a838f44422",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1762608126412-1-7eb1fd61-d636-4964-b6a7-1de045b266ba%20(1)%20(1).pdf",
+    "date": "2025-11-08T13:22:06.447Z"
+  },
+  {
+    "type": "verify",
+    "user": "basu2004@gmail.com",
+    "fileName": "1-d788da1e-bc23-4b08-9353-84431964312f (1).pdf",
+    "storedAs": "1762608133665-1-d788da1e-bc23-4b08-9353-84431964312f (1).pdf",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/verify/1762608133665-1-d788da1e-bc23-4b08-9353-84431964312f%20(1).pdf",
+    "status": "Fake",
+    "similarity": "0.00%",
+    "matchedOriginal": null,
+    "date": "2025-11-08T13:22:14.207Z"
+  },
+  {
+    "type": "verify",
+    "user": "basu2004@gmail.com",
+    "fileName": "WhatsApp Image 2025-03-20 at 14.17.59_7086d112.jpg",
+    "storedAs": "1762608149664-WhatsApp Image 2025-03-20 at 14.17.59_7086d112.jpg",
+    "url": "http://localhost:5000/uploads/basu2004_gmail_com/verify/1762608149664-WhatsApp%20Image%202025-03-20%20at%2014.17.59_7086d112.jpg",
+    "status": "Original",
+    "similarity": "100.00%",
+    "matchedOriginal": "http://localhost:5000/uploads/basu2004_gmail_com/originals/1761975590348-WhatsApp%20Image%202025-03-20%20at%2014.17.59_7086d112.jpg",
+    "date": "2025-11-08T13:22:29.690Z"
+  }
+]

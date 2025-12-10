@@ -1,0 +1,138 @@
+[
+  {
+    "type": "upload",
+    "user": "basavaraj@gmail.com",
+    "fileName": "1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "storedAs": "1760631848326-1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "hash": "3a49acb67626bfb6c0133c93aa7044c69ec9e62f24e7b34d89b6c7a838f44422",
+    "url": "/uploads/basavaraj_gmail_com/originals/1760631848326-1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "date": "2025-10-16T16:24:08.351Z"
+  },
+  {
+    "type": "verify",
+    "user": "basavaraj@gmail.com",
+    "fileName": "1-9fbd3cdc-9489-403e-9e65-25c11229af40 (1) (1).pdf",
+    "storedAs": "1760631858792-1-9fbd3cdc-9489-403e-9e65-25c11229af40 (1) (1).pdf",
+    "url": "/uploads/basavaraj_gmail_com/verify/1760631858792-1-9fbd3cdc-9489-403e-9e65-25c11229af40 (1) (1).pdf",
+    "status": "Fake",
+    "similarity": "0%",
+    "matchedOriginal": null,
+    "date": "2025-10-16T16:24:18.821Z"
+  },
+  {
+    "type": "upload",
+    "user": "basavaraj@gmail.com",
+    "fileName": "1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "storedAs": "1760633225235-1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "hash": "3a49acb67626bfb6c0133c93aa7044c69ec9e62f24e7b34d89b6c7a838f44422",
+    "url": "/uploads/basavaraj_gmail_com/originals/1760633225235-1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "date": "2025-10-16T16:47:05.270Z"
+  },
+  {
+    "type": "upload",
+    "user": "basavaraj@gmail.com",
+    "fileName": "1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "storedAs": "1760633345630-1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "hash": "3a49acb67626bfb6c0133c93aa7044c69ec9e62f24e7b34d89b6c7a838f44422",
+    "url": "http://localhost:5000/uploads/basavaraj_gmail_com/originals/1760633345630-1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "date": "2025-10-16T16:49:05.676Z"
+  },
+  {
+    "type": "verify",
+    "user": "basavaraj@gmail.com",
+    "fileName": "1-d788da1e-bc23-4b08-9353-84431964312f (1).pdf",
+    "storedAs": "1760633372920-1-d788da1e-bc23-4b08-9353-84431964312f (1).pdf",
+    "url": "http://localhost:5000/uploads/basavaraj_gmail_com/verify/1760633372920-1-d788da1e-bc23-4b08-9353-84431964312f (1).pdf",
+    "status": "Fake",
+    "similarity": "0%",
+    "matchedOriginal": null,
+    "date": "2025-10-16T16:49:32.982Z"
+  },
+  {
+    "type": "upload",
+    "user": "basavaraj@gmail.com",
+    "fileName": "1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "storedAs": "1760634357345-1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "hash": "3a49acb67626bfb6c0133c93aa7044c69ec9e62f24e7b34d89b6c7a838f44422",
+    "url": "http://localhost:5000/uploads/basavaraj_gmail_com/originals/1760634357345-1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "date": "2025-10-16T17:05:57.397Z"
+  },
+  {
+    "type": "upload",
+    "user": "basavaraj@gmail.com",
+    "fileName": "1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "storedAs": "1760635158310-1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "hash": "3a49acb67626bfb6c0133c93aa7044c69ec9e62f24e7b34d89b6c7a838f44422",
+    "url": "http://localhost:5000/uploads/basavaraj_gmail_com/originals/1760635158310-1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "date": "2025-10-16T17:19:18.342Z"
+  },
+  {
+    "type": "upload",
+    "user": "basavaraj@gmail.com",
+    "fileName": "1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "storedAs": "1760635227113-1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "hash": "3a49acb67626bfb6c0133c93aa7044c69ec9e62f24e7b34d89b6c7a838f44422",
+    "url": "http://localhost:5000/uploads/basavaraj_gmail_com/originals/1760635227113-1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "date": "2025-10-16T17:20:27.231Z"
+  },
+  {
+    "type": "verify",
+    "user": "basavaraj@gmail.com",
+    "fileName": "1-d788da1e-bc23-4b08-9353-84431964312f (1).pdf",
+    "storedAs": "1760635282514-1-d788da1e-bc23-4b08-9353-84431964312f (1).pdf",
+    "url": "http://localhost:5000/uploads/basavaraj_gmail_com/verify/1760635282514-1-d788da1e-bc23-4b08-9353-84431964312f (1).pdf",
+    "status": "Fake",
+    "similarity": "0%",
+    "matchedOriginal": null,
+    "date": "2025-10-16T17:21:22.541Z"
+  },
+  {
+    "type": "upload",
+    "user": "basavaraj@gmail.com",
+    "fileName": "1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "storedAs": "1760636199994-1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "hash": "3a49acb67626bfb6c0133c93aa7044c69ec9e62f24e7b34d89b6c7a838f44422",
+    "url": "http://localhost:5000/uploads/basavaraj_gmail_com/originals/1760636199994-1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "date": "2025-10-16T17:36:40.032Z"
+  },
+  {
+    "type": "verify",
+    "user": "basavaraj@gmail.com",
+    "fileName": "1-d788da1e-bc23-4b08-9353-84431964312f (1).pdf",
+    "storedAs": "1760636211335-1-d788da1e-bc23-4b08-9353-84431964312f (1).pdf",
+    "url": "http://localhost:5000/uploads/basavaraj_gmail_com/verify/1760636211335-1-d788da1e-bc23-4b08-9353-84431964312f (1).pdf",
+    "status": "Fake",
+    "similarity": "0%",
+    "matchedOriginal": null,
+    "date": "2025-10-16T17:36:51.373Z"
+  },
+  {
+    "type": "upload",
+    "user": "basavaraj@gmail.com",
+    "fileName": "1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "storedAs": "1760636231175-1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "hash": "3a49acb67626bfb6c0133c93aa7044c69ec9e62f24e7b34d89b6c7a838f44422",
+    "url": "http://localhost:5000/uploads/basavaraj_gmail_com/originals/1760636231175-1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "date": "2025-10-16T17:37:11.209Z"
+  },
+  {
+    "type": "upload",
+    "user": "basavaraj@gmail.com",
+    "fileName": "1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "storedAs": "1760636632690-1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "hash": "3a49acb67626bfb6c0133c93aa7044c69ec9e62f24e7b34d89b6c7a838f44422",
+    "url": "http://localhost:5000/uploads/basavaraj_gmail_com/originals/1760636632690-1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "date": "2025-10-16T17:43:52.717Z"
+  },
+  {
+    "type": "verify",
+    "user": "basavaraj@gmail.com",
+    "fileName": "1-d788da1e-bc23-4b08-9353-84431964312f (1).pdf",
+    "storedAs": "1760636644525-1-d788da1e-bc23-4b08-9353-84431964312f (1).pdf",
+    "url": "http://localhost:5000/uploads/basavaraj_gmail_com/verify/1760636644525-1-d788da1e-bc23-4b08-9353-84431964312f (1).pdf",
+    "status": "Fake",
+    "similarity": "0%",
+    "matchedOriginal": null,
+    "date": "2025-10-16T17:44:04.552Z"
+  }
+]

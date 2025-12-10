@@ -1,0 +1,226 @@
+[
+  {
+    "type": "verify",
+    "user": "hemanth",
+    "fileName": "1-9fbd3cdc-9489-403e-9e65-25c11229af40 (1) (1).pdf",
+    "storedAs": "1763802153204-1-9fbd3cdc-9489-403e-9e65-25c11229af40 (1) (1).pdf",
+    "url": "http://localhost:5000/uploads/hemanth/verify/1763802153204-1-9fbd3cdc-9489-403e-9e65-25c11229af40%20(1)%20(1).pdf",
+    "status": "Fake",
+    "similarity": "0.00%",
+    "matchedOriginal": null,
+    "analysis": null,
+    "date": "2025-11-22T09:02:33.242Z"
+  },
+  {
+    "type": "upload",
+    "user": "hemanth",
+    "fileName": "1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "storedAs": "1763802197392-1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "hash": "3a49acb67626bfb6c0133c93aa7044c69ec9e62f24e7b34d89b6c7a838f44422",
+    "url": "http://localhost:5000/uploads/hemanth/originals/1763802197392-1-7eb1fd61-d636-4964-b6a7-1de045b266ba%20(1)%20(1).pdf",
+    "date": "2025-11-22T09:03:17.435Z"
+  },
+  {
+    "type": "verify",
+    "user": "hemanth",
+    "fileName": "1-d788da1e-bc23-4b08-9353-84431964312f (1).pdf",
+    "storedAs": "1763802204381-1-d788da1e-bc23-4b08-9353-84431964312f (1).pdf",
+    "url": "http://localhost:5000/uploads/hemanth/verify/1763802204381-1-d788da1e-bc23-4b08-9353-84431964312f%20(1).pdf",
+    "status": "Fake",
+    "similarity": "52.75%",
+    "matchedOriginal": "http://localhost:5000/uploads/hemanth/originals/1763802197392-1-7eb1fd61-d636-4964-b6a7-1de045b266ba%20(1)%20(1).pdf",
+    "analysis": {
+      "lineAnalysis": [
+        {
+          "originalLine": 1,
+          "originalText": "The certificate is awarded to",
+          "type": "modified",
+          "verifyLine": 1,
+          "verifyText": "The certi\u0000cate is awarded to",
+          "wordDiff": {
+            "added": [
+              "certi\u0000cate"
+            ],
+            "removed": [
+              "certificate"
+            ]
+          }
+        },
+        {
+          "originalLine": 2,
+          "originalText": "Basavaraj Maneppagol",
+          "type": "match",
+          "verifyLine": 2,
+          "verifyText": "Basavaraj Maneppagol"
+        },
+        {
+          "originalLine": 3,
+          "originalText": "for successfully completing the course",
+          "type": "match",
+          "verifyLine": 3,
+          "verifyText": "for successfully completing the course"
+        },
+        {
+          "originalLine": 4,
+          "originalText": "Database and SQL",
+          "type": "modified",
+          "verifyLine": 4,
+          "verifyText": "The Complete Web Development Training Courses | Web Design Courses",
+          "wordDiff": {
+            "added": [
+              "The Complete Web Development Training Courses | Web Design Courses"
+            ],
+            "removed": [
+              "Database and SQL"
+            ]
+          }
+        },
+        {
+          "originalLine": 5,
+          "originalText": "on June 3, 2024",
+          "type": "modified",
+          "verifyLine": 5,
+          "verifyText": "on December 4, 2024",
+          "wordDiff": {
+            "added": [
+              "December 4,"
+            ],
+            "removed": [
+              "June 3,"
+            ]
+          }
+        },
+        {
+          "originalLine": 6,
+          "originalText": "Issued on: Monday, June 3, 2024",
+          "type": "modified",
+          "verifyLine": 6,
+          "verifyText": "Issued on: Friday, December 6, 2024",
+          "wordDiff": {
+            "added": [
+              "Friday, December 6,"
+            ],
+            "removed": [
+              "Monday, June 3,"
+            ]
+          }
+        },
+        {
+          "originalLine": 7,
+          "originalText": "To verify, scan the QR code at https://verify.onwingspan.com",
+          "type": "match",
+          "verifyLine": 7,
+          "verifyText": "To verify, scan the QR code at https://verify.onwingspan.com"
+        }
+      ],
+      "model": "tfidf-cosine",
+      "similarity": 52.75,
+      "summary": {
+        "added": 0,
+        "matches": 3,
+        "modified": 4,
+        "removed": 0,
+        "totalOriginalLines": 7,
+        "totalVerifyLines": 7
+      },
+      "textStats": {
+        "originalCharacters": 223,
+        "originalLines": 7,
+        "verifyCharacters": 280,
+        "verifyLines": 7
+      },
+      "truncated": false
+    },
+    "date": "2025-11-22T09:03:24.677Z"
+  },
+  {
+    "type": "upload",
+    "user": "hemanth",
+    "fileName": "1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "storedAs": "1763802229540-1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "hash": "3a49acb67626bfb6c0133c93aa7044c69ec9e62f24e7b34d89b6c7a838f44422",
+    "url": "http://localhost:5000/uploads/hemanth/originals/1763802229540-1-7eb1fd61-d636-4964-b6a7-1de045b266ba%20(1)%20(1).pdf",
+    "date": "2025-11-22T09:03:49.614Z"
+  },
+  {
+    "type": "verify",
+    "user": "hemanth",
+    "fileName": "1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "storedAs": "1763802236177-1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "url": "http://localhost:5000/uploads/hemanth/verify/1763802236177-1-7eb1fd61-d636-4964-b6a7-1de045b266ba%20(1)%20(1).pdf",
+    "status": "Original",
+    "similarity": "100.00%",
+    "matchedOriginal": "http://localhost:5000/uploads/hemanth/originals/1763802197392-1-7eb1fd61-d636-4964-b6a7-1de045b266ba%20(1)%20(1).pdf",
+    "analysis": {
+      "lineAnalysis": [
+        {
+          "originalLine": 1,
+          "originalText": "The certificate is awarded to",
+          "type": "match",
+          "verifyLine": 1,
+          "verifyText": "The certificate is awarded to"
+        },
+        {
+          "originalLine": 2,
+          "originalText": "Basavaraj Maneppagol",
+          "type": "match",
+          "verifyLine": 2,
+          "verifyText": "Basavaraj Maneppagol"
+        },
+        {
+          "originalLine": 3,
+          "originalText": "for successfully completing the course",
+          "type": "match",
+          "verifyLine": 3,
+          "verifyText": "for successfully completing the course"
+        },
+        {
+          "originalLine": 4,
+          "originalText": "Database and SQL",
+          "type": "match",
+          "verifyLine": 4,
+          "verifyText": "Database and SQL"
+        },
+        {
+          "originalLine": 5,
+          "originalText": "on June 3, 2024",
+          "type": "match",
+          "verifyLine": 5,
+          "verifyText": "on June 3, 2024"
+        },
+        {
+          "originalLine": 6,
+          "originalText": "Issued on: Monday, June 3, 2024",
+          "type": "match",
+          "verifyLine": 6,
+          "verifyText": "Issued on: Monday, June 3, 2024"
+        },
+        {
+          "originalLine": 7,
+          "originalText": "To verify, scan the QR code at https://verify.onwingspan.com",
+          "type": "match",
+          "verifyLine": 7,
+          "verifyText": "To verify, scan the QR code at https://verify.onwingspan.com"
+        }
+      ],
+      "model": "tfidf-cosine",
+      "similarity": 100,
+      "summary": {
+        "added": 0,
+        "matches": 7,
+        "modified": 0,
+        "removed": 0,
+        "totalOriginalLines": 7,
+        "totalVerifyLines": 7
+      },
+      "textStats": {
+        "originalCharacters": 223,
+        "originalLines": 7,
+        "verifyCharacters": 223,
+        "verifyLines": 7
+      },
+      "truncated": false
+    },
+    "date": "2025-11-22T09:03:56.492Z"
+  }
+]

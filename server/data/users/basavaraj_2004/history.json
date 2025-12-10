@@ -1,0 +1,2624 @@
+[
+  {
+    "type": "upload",
+    "user": "basavaraj@2004",
+    "fileName": "1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "storedAs": "1763644732551-1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "hash": "3a49acb67626bfb6c0133c93aa7044c69ec9e62f24e7b34d89b6c7a838f44422",
+    "url": "http://localhost:5000/uploads/basavaraj_2004/originals/1763644732551-1-7eb1fd61-d636-4964-b6a7-1de045b266ba%20(1)%20(1).pdf",
+    "date": "2025-11-20T13:18:52.598Z"
+  },
+  {
+    "type": "verify",
+    "user": "basavaraj@2004",
+    "fileName": "1-9fbd3cdc-9489-403e-9e65-25c11229af40 (1) (1).pdf",
+    "storedAs": "1763644737225-1-9fbd3cdc-9489-403e-9e65-25c11229af40 (1) (1).pdf",
+    "url": "http://localhost:5000/uploads/basavaraj_2004/verify/1763644737225-1-9fbd3cdc-9489-403e-9e65-25c11229af40%20(1)%20(1).pdf",
+    "status": "Fake",
+    "similarity": "53.22%",
+    "matchedOriginal": "http://localhost:5000/uploads/basavaraj_2004/originals/1763644732551-1-7eb1fd61-d636-4964-b6a7-1de045b266ba%20(1)%20(1).pdf",
+    "analysis": {
+      "lineAnalysis": [
+        {
+          "originalLine": 1,
+          "originalText": "The certificate is awarded to",
+          "type": "modified",
+          "verifyLine": 1,
+          "verifyText": "The certi\u0000cate is awarded to",
+          "wordDiff": {
+            "added": [
+              "certi\u0000cate"
+            ],
+            "removed": [
+              "certificate"
+            ]
+          }
+        },
+        {
+          "originalLine": 2,
+          "originalText": "Basavaraj Maneppagol",
+          "type": "match",
+          "verifyLine": 2,
+          "verifyText": "Basavaraj Maneppagol"
+        },
+        {
+          "originalLine": 3,
+          "originalText": "for successfully completing the course",
+          "type": "match",
+          "verifyLine": 3,
+          "verifyText": "for successfully completing the course"
+        },
+        {
+          "originalLine": 4,
+          "originalText": "Database and SQL",
+          "type": "modified",
+          "verifyLine": 4,
+          "verifyText": "Data Structures and Algorithms using Java",
+          "wordDiff": {
+            "added": [
+              "Data Structures",
+              "Algorithms using Java"
+            ],
+            "removed": [
+              "Database",
+              "SQL"
+            ]
+          }
+        },
+        {
+          "originalLine": 5,
+          "originalText": "on June 3, 2024",
+          "type": "modified",
+          "verifyLine": 5,
+          "verifyText": "on July 27, 2024",
+          "wordDiff": {
+            "added": [
+              "July 27,"
+            ],
+            "removed": [
+              "June 3,"
+            ]
+          }
+        },
+        {
+          "originalLine": 6,
+          "originalText": "Issued on: Monday, June 3, 2024",
+          "type": "modified",
+          "verifyLine": 6,
+          "verifyText": "Issued on: Saturday, July 27, 2024",
+          "wordDiff": {
+            "added": [
+              "Saturday, July 27,"
+            ],
+            "removed": [
+              "Monday, June 3,"
+            ]
+          }
+        },
+        {
+          "originalLine": 7,
+          "originalText": "To verify, scan the QR code at https://verify.onwingspan.com",
+          "type": "match",
+          "verifyLine": 7,
+          "verifyText": "To verify, scan the QR code at https://verify.onwingspan.com"
+        }
+      ],
+      "model": "tfidf-cosine",
+      "similarity": 53.22,
+      "summary": {
+        "added": 0,
+        "matches": 3,
+        "modified": 4,
+        "removed": 0,
+        "totalOriginalLines": 7,
+        "totalVerifyLines": 7
+      },
+      "textStats": {
+        "originalCharacters": 223,
+        "originalLines": 7,
+        "verifyCharacters": 251,
+        "verifyLines": 7
+      },
+      "truncated": false
+    },
+    "date": "2025-11-20T13:18:57.421Z"
+  },
+  {
+    "type": "upload",
+    "user": "basavaraj@2004",
+    "fileName": "1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "storedAs": "1763644762218-1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "hash": "3a49acb67626bfb6c0133c93aa7044c69ec9e62f24e7b34d89b6c7a838f44422",
+    "url": "http://localhost:5000/uploads/basavaraj_2004/originals/1763644762218-1-7eb1fd61-d636-4964-b6a7-1de045b266ba%20(1)%20(1).pdf",
+    "date": "2025-11-20T13:19:22.247Z"
+  },
+  {
+    "type": "verify",
+    "user": "basavaraj@2004",
+    "fileName": "BAD601-module-1-pdf.pdf",
+    "storedAs": "1763644781101-BAD601-module-1-pdf.pdf",
+    "url": "http://localhost:5000/uploads/basavaraj_2004/verify/1763644781101-BAD601-module-1-pdf.pdf",
+    "status": "Fake",
+    "similarity": "17.62%",
+    "matchedOriginal": "http://localhost:5000/uploads/basavaraj_2004/originals/1763644732551-1-7eb1fd61-d636-4964-b6a7-1de045b266ba%20(1)%20(1).pdf",
+    "analysis": {
+      "lineAnalysis": [
+        {
+          "originalLine": 1,
+          "originalText": "The certificate is awarded to",
+          "type": "modified",
+          "verifyLine": 1,
+          "verifyText": "Big Data Analytics-BAD601-Module 1",
+          "wordDiff": {
+            "added": [
+              "Big Data Analytics-BAD601-Module 1"
+            ],
+            "removed": [
+              "The certificate is awarded to"
+            ]
+          }
+        },
+        {
+          "originalLine": 2,
+          "originalText": "Basavaraj Maneppagol",
+          "type": "modified",
+          "verifyLine": 2,
+          "verifyText": "Classification of data, Characteristics, Evolution and definition of Big",
+          "wordDiff": {
+            "added": [
+              "Classification of data, Characteristics, Evolution and definition of Big"
+            ],
+            "removed": [
+              "Basavaraj Maneppagol"
+            ]
+          }
+        },
+        {
+          "originalLine": 3,
+          "originalText": "for successfully completing the course",
+          "type": "modified",
+          "verifyLine": 3,
+          "verifyText": "data, What is Big data, Why Big data, Traditional Business Intelligence Vs",
+          "wordDiff": {
+            "added": [
+              "data, What is Big data, Why Big data, Traditional Business Intelligence Vs"
+            ],
+            "removed": [
+              "for successfully completing the course"
+            ]
+          }
+        },
+        {
+          "originalLine": 4,
+          "originalText": "Database and SQL",
+          "type": "modified",
+          "verifyLine": 4,
+          "verifyText": "Big Data,Typical data warehouse and Hadoop environment. Big Data",
+          "wordDiff": {
+            "added": [
+              "Big Data,Typical data warehouse",
+              "Hadoop environment. Big Data"
+            ],
+            "removed": [
+              "Database",
+              "SQL"
+            ]
+          }
+        },
+        {
+          "originalLine": 5,
+          "originalText": "on June 3, 2024",
+          "type": "modified",
+          "verifyLine": 5,
+          "verifyText": "Analytics: What is Big data Analytics, Classification of Analytics,",
+          "wordDiff": {
+            "added": [
+              "Analytics: What is Big data Analytics, Classification of Analytics,"
+            ],
+            "removed": [
+              "on June 3, 2024"
+            ]
+          }
+        },
+        {
+          "originalLine": 6,
+          "originalText": "Issued on: Monday, June 3, 2024",
+          "type": "modified",
+          "verifyLine": 6,
+          "verifyText": "Importance of Big Data Analytics, Technologies used in Big data",
+          "wordDiff": {
+            "added": [
+              "Importance of Big Data Analytics, Technologies used in Big data"
+            ],
+            "removed": [
+              "Issued on: Monday, June 3, 2024"
+            ]
+          }
+        },
+        {
+          "originalLine": 7,
+          "originalText": "To verify, scan the QR code at https://verify.onwingspan.com",
+          "type": "modified",
+          "verifyLine": 7,
+          "verifyText": "Environments, Few Top Analytical Tools , NoSQL, Hadoop.",
+          "wordDiff": {
+            "added": [
+              "Environments, Few Top Analytical Tools , NoSQL, Hadoop."
+            ],
+            "removed": [
+              "To verify, scan the QR code at https://verify.onwingspan.com"
+            ]
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 8,
+          "verifyText": "What is DATA?",
+          "wordDiff": {
+            "added": [
+              "What is DATA?"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 9,
+          "verifyText": "Data is a raw fact and is defined as individual facts, such as numbers, words,",
+          "wordDiff": {
+            "added": [
+              "Data is a raw fact and is defined as individual facts, such as numbers, words,"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 10,
+          "verifyText": "measurements, observations or just descriptions of things.",
+          "wordDiff": {
+            "added": [
+              "measurements, observations or just descriptions of things."
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 11,
+          "verifyText": "For example, data might include individual prices, weights, addresses, ages,",
+          "wordDiff": {
+            "added": [
+              "For example, data might include individual prices, weights, addresses, ages,"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 12,
+          "verifyText": "names, temperatures, dates, or distances.",
+          "wordDiff": {
+            "added": [
+              "names, temperatures, dates, or distances."
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 13,
+          "verifyText": "There are two main types of data:",
+          "wordDiff": {
+            "added": [
+              "There are two main types of data:"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 14,
+          "verifyText": "1. Quantitative data is provided in numerical form, like the weight,",
+          "wordDiff": {
+            "added": [
+              "1. Quantitative data is provided in numerical form, like the weight,"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 15,
+          "verifyText": "volume, or cost of an item.",
+          "wordDiff": {
+            "added": [
+              "volume, or cost of an item."
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 16,
+          "verifyText": "2. Qualitative data is descriptive, but non-numerical, like the name,",
+          "wordDiff": {
+            "added": [
+              "2. Qualitative data is descriptive, but non-numerical, like the name,"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 17,
+          "verifyText": "gender, or eye color of a person.",
+          "wordDiff": {
+            "added": [
+              "gender, or eye color of a person."
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 18,
+          "verifyText": "Characteristics of Data",
+          "wordDiff": {
+            "added": [
+              "Characteristics of Data"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 19,
+          "verifyText": "The key characteristics of the data are:",
+          "wordDiff": {
+            "added": [
+              "The key characteristics of the data are:"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 20,
+          "verifyText": "1. Composition: The composition of data deals with the structure of data,",
+          "wordDiff": {
+            "added": [
+              "1. Composition: The composition of data deals with the structure of data,"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 21,
+          "verifyText": "that is, the sources of data, the granularity, the types, and the nature of",
+          "wordDiff": {
+            "added": [
+              "that is, the sources of data, the granularity, the types, and the nature of"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 22,
+          "verifyText": "data as to whether it is static or real-time streaming.",
+          "wordDiff": {
+            "added": [
+              "data as to whether it is static or real-time streaming."
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 23,
+          "verifyText": "2. Condition: The condition of data deals with the state of data, that is,",
+          "wordDiff": {
+            "added": [
+              "2. Condition: The condition of data deals with the state of data, that is,"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 24,
+          "verifyText": "\"Can one use this data as is for analysis?\" or \"Does it require cleansing",
+          "wordDiff": {
+            "added": [
+              "\"Can one use this data as is for analysis?\" or \"Does it require cleansing"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 25,
+          "verifyText": "for further enhancement and enrichment?“",
+          "wordDiff": {
+            "added": [
+              "for further enhancement and enrichment?“"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 26,
+          "verifyText": "Vtucircle.com",
+          "wordDiff": {
+            "added": [
+              "Vtucircle.com"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 27,
+          "verifyText": "Page 1",
+          "wordDiff": {
+            "added": [
+              "Page 1"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 28,
+          "verifyText": "Big Data Analytics-BAD601-Module 1",
+          "wordDiff": {
+            "added": [
+              "Big Data Analytics-BAD601-Module 1"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 29,
+          "verifyText": "3. Context: The context of data deals with \"Where has this data been",
+          "wordDiff": {
+            "added": [
+              "3. Context: The context of data deals with \"Where has this data been"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 30,
+          "verifyText": "generated?\" \"Why was this data generated?\" \"How sensitive is this data?\"",
+          "wordDiff": {
+            "added": [
+              "generated?\" \"Why was this data generated?\" \"How sensitive is this data?\""
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 31,
+          "verifyText": "\"What are the events associated with this data?\" and so on.",
+          "wordDiff": {
+            "added": [
+              "\"What are the events associated with this data?\" and so on."
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 32,
+          "verifyText": "The other following are six other characteristics of data which are discussed",
+          "wordDiff": {
+            "added": [
+              "The other following are six other characteristics of data which are discussed"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 33,
+          "verifyText": "below:",
+          "wordDiff": {
+            "added": [
+              "below:"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 34,
+          "verifyText": "1. Accuracy",
+          "wordDiff": {
+            "added": [
+              "1. Accuracy"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 35,
+          "verifyText": "2. Validity",
+          "wordDiff": {
+            "added": [
+              "2. Validity"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 36,
+          "verifyText": "3. Reliability",
+          "wordDiff": {
+            "added": [
+              "3. Reliability"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 37,
+          "verifyText": "4. Timeliness",
+          "wordDiff": {
+            "added": [
+              "4. Timeliness"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 38,
+          "verifyText": "5. Relevance",
+          "wordDiff": {
+            "added": [
+              "5. Relevance"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 39,
+          "verifyText": "6. Completeness",
+          "wordDiff": {
+            "added": [
+              "6. Completeness"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 40,
+          "verifyText": "1. Accuracy",
+          "wordDiff": {
+            "added": [
+              "1. Accuracy"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 41,
+          "verifyText": "Data should be sufficiently accurate for the intended use and should be",
+          "wordDiff": {
+            "added": [
+              "Data should be sufficiently accurate for the intended use and should be"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 42,
+          "verifyText": "captured only once, although it may have multiple uses. Data should be",
+          "wordDiff": {
+            "added": [
+              "captured only once, although it may have multiple uses. Data should be"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 43,
+          "verifyText": "captured at the point of activity .",
+          "wordDiff": {
+            "added": [
+              "captured at the point of activity ."
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 44,
+          "verifyText": "2. Validity",
+          "wordDiff": {
+            "added": [
+              "2. Validity"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 45,
+          "verifyText": "Data should be recorded and used in compliance with relevant requirements,",
+          "wordDiff": {
+            "added": [
+              "Data should be recorded and used in compliance with relevant requirements,"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 46,
+          "verifyText": "including the correct application of any rules or definitions. This will ensure",
+          "wordDiff": {
+            "added": [
+              "including the correct application of any rules or definitions. This will ensure"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 47,
+          "verifyText": "consistency between periods and with similar organizations, measuring what is",
+          "wordDiff": {
+            "added": [
+              "consistency between periods and with similar organizations, measuring what is"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 48,
+          "verifyText": "intended to be measured.",
+          "wordDiff": {
+            "added": [
+              "intended to be measured."
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 49,
+          "verifyText": "3. Reliability",
+          "wordDiff": {
+            "added": [
+              "3. Reliability"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 50,
+          "verifyText": "Data should reflect stable and consistent data collection processes across",
+          "wordDiff": {
+            "added": [
+              "Data should reflect stable and consistent data collection processes across"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 51,
+          "verifyText": "collection points and over time. Progress toward performance targets should",
+          "wordDiff": {
+            "added": [
+              "collection points and over time. Progress toward performance targets should"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 52,
+          "verifyText": "Vtucircle.com",
+          "wordDiff": {
+            "added": [
+              "Vtucircle.com"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 53,
+          "verifyText": "Page 2",
+          "wordDiff": {
+            "added": [
+              "Page 2"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 54,
+          "verifyText": "Big Data Analytics-BAD601-Module 1",
+          "wordDiff": {
+            "added": [
+              "Big Data Analytics-BAD601-Module 1"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 55,
+          "verifyText": "reflect real changes rather than variations in data collection approaches or",
+          "wordDiff": {
+            "added": [
+              "reflect real changes rather than variations in data collection approaches or"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 56,
+          "verifyText": "methods. Source data is clearly identified and readily available from manual,",
+          "wordDiff": {
+            "added": [
+              "methods. Source data is clearly identified and readily available from manual,"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 57,
+          "verifyText": "automated, or other systems and records.",
+          "wordDiff": {
+            "added": [
+              "automated, or other systems and records."
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 58,
+          "verifyText": "4. Timeliness",
+          "wordDiff": {
+            "added": [
+              "4. Timeliness"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 59,
+          "verifyText": "Data should be captured as quickly as possible after the event or activity and",
+          "wordDiff": {
+            "added": [
+              "Data should be captured as quickly as possible after the event or activity and"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 60,
+          "verifyText": "must be available for the intended use within a reasonable time period. Data",
+          "wordDiff": {
+            "added": [
+              "must be available for the intended use within a reasonable time period. Data"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 61,
+          "verifyText": "must be available quickly and frequently enough to support information needs",
+          "wordDiff": {
+            "added": [
+              "must be available quickly and frequently enough to support information needs"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 62,
+          "verifyText": "and to influence service or management decisions.",
+          "wordDiff": {
+            "added": [
+              "and to influence service or management decisions."
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 63,
+          "verifyText": "5. Relevance",
+          "wordDiff": {
+            "added": [
+              "5. Relevance"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 64,
+          "verifyText": "Data captured should be relevant to the purposes for which it is to be used.",
+          "wordDiff": {
+            "added": [
+              "Data captured should be relevant to the purposes for which it is to be used."
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 65,
+          "verifyText": "This will require a periodic review of requirements to reflect changing needs.",
+          "wordDiff": {
+            "added": [
+              "This will require a periodic review of requirements to reflect changing needs."
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 66,
+          "verifyText": "6. Completeness",
+          "wordDiff": {
+            "added": [
+              "6. Completeness"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 67,
+          "verifyText": "Data requirements should be clearly specified based on the information needs",
+          "wordDiff": {
+            "added": [
+              "Data requirements should be clearly specified based on the information needs"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 68,
+          "verifyText": "of the organization and data collection processes matched to these",
+          "wordDiff": {
+            "added": [
+              "of the organization and data collection processes matched to these"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 69,
+          "verifyText": "requirements.",
+          "wordDiff": {
+            "added": [
+              "requirements."
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 70,
+          "verifyText": "Classification of data",
+          "wordDiff": {
+            "added": [
+              "Classification of data"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 71,
+          "verifyText": "Vtucircle.com",
+          "wordDiff": {
+            "added": [
+              "Vtucircle.com"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 72,
+          "verifyText": "Page 3",
+          "wordDiff": {
+            "added": [
+              "Page 3"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 73,
+          "verifyText": "Big Data Analytics-BAD601-Module 1",
+          "wordDiff": {
+            "added": [
+              "Big Data Analytics-BAD601-Module 1"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 74,
+          "verifyText": "1. Structured Data:",
+          "wordDiff": {
+            "added": [
+              "1. Structured Data:"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 75,
+          "verifyText": "• Structured data refers to any data that resides in a fixed field within a",
+          "wordDiff": {
+            "added": [
+              "• Structured data refers to any data that resides in a fixed field within a"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 76,
+          "verifyText": "record or file.",
+          "wordDiff": {
+            "added": [
+              "record or file."
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 77,
+          "verifyText": "• Having a particular Data Model.",
+          "wordDiff": {
+            "added": [
+              "• Having a particular Data Model."
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 78,
+          "verifyText": "• Meaningful data.",
+          "wordDiff": {
+            "added": [
+              "• Meaningful data."
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 79,
+          "verifyText": "• Data arranged in a row and column.",
+          "wordDiff": {
+            "added": [
+              "• Data arranged in a row and column."
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 80,
+          "verifyText": "• Structured data has the advantage of being easily entered, stored,",
+          "wordDiff": {
+            "added": [
+              "• Structured data has the advantage of being easily entered, stored,"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 81,
+          "verifyText": "queried and analysed.",
+          "wordDiff": {
+            "added": [
+              "queried and analysed."
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 82,
+          "verifyText": "• E.g.: Relational Data Base, Spread sheets.",
+          "wordDiff": {
+            "added": [
+              "• E.g.: Relational Data Base, Spread sheets."
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 83,
+          "verifyText": "• Structured data is often managed using Structured Query Language",
+          "wordDiff": {
+            "added": [
+              "• Structured data is often managed using Structured Query Language"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 84,
+          "verifyText": "(SQL)",
+          "wordDiff": {
+            "added": [
+              "(SQL)"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 85,
+          "verifyText": "Sources of Structured Data:",
+          "wordDiff": {
+            "added": [
+              "Sources of Structured Data:"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 86,
+          "verifyText": "• SQL Databases",
+          "wordDiff": {
+            "added": [
+              "• SQL Databases"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 87,
+          "verifyText": "• Spreadsheets such as Excel",
+          "wordDiff": {
+            "added": [
+              "• Spreadsheets such as Excel"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 88,
+          "verifyText": "• OLTP Systems",
+          "wordDiff": {
+            "added": [
+              "• OLTP Systems"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 89,
+          "verifyText": "• Online forms",
+          "wordDiff": {
+            "added": [
+              "• Online forms"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 90,
+          "verifyText": "• Sensors such as GPS or RFID tags",
+          "wordDiff": {
+            "added": [
+              "• Sensors such as GPS or RFID tags"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 91,
+          "verifyText": "• Network and Web server logs",
+          "wordDiff": {
+            "added": [
+              "• Network and Web server logs"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 92,
+          "verifyText": "• Medical devices",
+          "wordDiff": {
+            "added": [
+              "• Medical devices"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 93,
+          "verifyText": "Ease of working with structured data:",
+          "wordDiff": {
+            "added": [
+              "Ease of working with structured data:"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 94,
+          "verifyText": "Vtucircle.com",
+          "wordDiff": {
+            "added": [
+              "Vtucircle.com"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 95,
+          "verifyText": "Page 4",
+          "wordDiff": {
+            "added": [
+              "Page 4"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 96,
+          "verifyText": "Big Data Analytics-BAD601-Module 1",
+          "wordDiff": {
+            "added": [
+              "Big Data Analytics-BAD601-Module 1"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 97,
+          "verifyText": "1. Insert/update/delete: The Data Manipulation Language",
+          "wordDiff": {
+            "added": [
+              "1. Insert/update/delete: The Data Manipulation Language"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 98,
+          "verifyText": "(DML)",
+          "wordDiff": {
+            "added": [
+              "(DML)"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 99,
+          "verifyText": "operations provide the required ease with data input, storage, access,",
+          "wordDiff": {
+            "added": [
+              "operations provide the required ease with data input, storage, access,"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 100,
+          "verifyText": "process, analysis, etc.",
+          "wordDiff": {
+            "added": [
+              "process, analysis, etc."
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 101,
+          "verifyText": "2. Security: Information security is ensured through strong encryption and",
+          "wordDiff": {
+            "added": [
+              "2. Security: Information security is ensured through strong encryption and"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 102,
+          "verifyText": "tokenization, protecting data throughout its lifecycle. Access control",
+          "wordDiff": {
+            "added": [
+              "tokenization, protecting data throughout its lifecycle. Access control"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 103,
+          "verifyText": "measures ensure only authorized individuals can decrypt and view",
+          "wordDiff": {
+            "added": [
+              "measures ensure only authorized individuals can decrypt and view"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 104,
+          "verifyText": "sensitive information, maintaining compliance.",
+          "wordDiff": {
+            "added": [
+              "sensitive information, maintaining compliance."
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 105,
+          "verifyText": "3. Indexing: An index is a data structure that speeds up the data retrieval",
+          "wordDiff": {
+            "added": [
+              "3. Indexing: An index is a data structure that speeds up the data retrieval"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 106,
+          "verifyText": "operations (primarily the SELECT DML statement) at the cost of",
+          "wordDiff": {
+            "added": [
+              "operations (primarily the SELECT DML statement) at the cost of"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 107,
+          "verifyText": "additional writes and storage space, but the benefits that ensue in",
+          "wordDiff": {
+            "added": [
+              "additional writes and storage space, but the benefits that ensue in"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 108,
+          "verifyText": "search operation are worth the additional writes and storage space.",
+          "wordDiff": {
+            "added": [
+              "search operation are worth the additional writes and storage space."
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 109,
+          "verifyText": "4. Scalability: The storage and processing capabilities of the traditional",
+          "wordDiff": {
+            "added": [
+              "4. Scalability: The storage and processing capabilities of the traditional"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 110,
+          "verifyText": "RDBMS can be easily scaled up by increasing the horsepower of the",
+          "wordDiff": {
+            "added": [
+              "RDBMS can be easily scaled up by increasing the horsepower of the"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 111,
+          "verifyText": "database server (increasing the primary and secondary or peripheral",
+          "wordDiff": {
+            "added": [
+              "database server (increasing the primary and secondary or peripheral"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 112,
+          "verifyText": "storage capacity, processing capacity of the processor, etc.).",
+          "wordDiff": {
+            "added": [
+              "storage capacity, processing capacity of the processor, etc.)."
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 113,
+          "verifyText": "5. Transaction processing: RDBMS",
+          "wordDiff": {
+            "added": [
+              "5. Transaction processing: RDBMS"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 114,
+          "verifyText": "has",
+          "wordDiff": {
+            "added": [
+              "has"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 115,
+          "verifyText": "support",
+          "wordDiff": {
+            "added": [
+              "support"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 116,
+          "verifyText": "for Atomicity,",
+          "wordDiff": {
+            "added": [
+              "for Atomicity,"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 117,
+          "verifyText": "Consistency, Isolation, and Durability (ACID) properties of transaction.",
+          "wordDiff": {
+            "added": [
+              "Consistency, Isolation, and Durability (ACID) properties of transaction."
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 118,
+          "verifyText": "Atomicity: A transaction is atomic, means that either it happens in its",
+          "wordDiff": {
+            "added": [
+              "Atomicity: A transaction is atomic, means that either it happens in its"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 119,
+          "verifyText": "entirety or none of it at all.",
+          "wordDiff": {
+            "added": [
+              "entirety or none of it at all."
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 120,
+          "verifyText": "Consistency: The database moves from one consistent state to another",
+          "wordDiff": {
+            "added": [
+              "Consistency: The database moves from one consistent state to another"
+            ],
+            "removed": []
+          }
+        }
+      ],
+      "model": "tfidf-cosine",
+      "similarity": 17.62,
+      "summary": {
+        "added": 0,
+        "matches": 0,
+        "modified": 1582,
+        "removed": 0,
+        "totalOriginalLines": 7,
+        "totalVerifyLines": 1582
+      },
+      "textStats": {
+        "originalCharacters": 223,
+        "originalLines": 7,
+        "verifyCharacters": 81947,
+        "verifyLines": 1582
+      },
+      "truncated": true
+    },
+    "date": "2025-11-20T13:19:57.714Z"
+  },
+  {
+    "type": "upload",
+    "user": "basavaraj@2004",
+    "fileName": "BAD601-module-1-pdf.pdf",
+    "storedAs": "1763644855192-BAD601-module-1-pdf.pdf",
+    "hash": "0804b14100a239bc1eba1381ea062a9a0a412859aeb72c796bf83612865764b9",
+    "url": "http://localhost:5000/uploads/basavaraj_2004/originals/1763644855192-BAD601-module-1-pdf.pdf",
+    "date": "2025-11-20T13:20:55.264Z"
+  },
+  {
+    "type": "verify",
+    "user": "basavaraj@2004",
+    "fileName": "BAD601-module-1-pdf.pdf",
+    "storedAs": "1763644863068-BAD601-module-1-pdf.pdf",
+    "url": "http://localhost:5000/uploads/basavaraj_2004/verify/1763644863068-BAD601-module-1-pdf.pdf",
+    "status": "Original",
+    "similarity": "100.00%",
+    "matchedOriginal": "http://localhost:5000/uploads/basavaraj_2004/originals/1763644855192-BAD601-module-1-pdf.pdf",
+    "analysis": {
+      "lineAnalysis": [
+        {
+          "originalLine": 1,
+          "originalText": "Big Data Analytics-BAD601-Module 1",
+          "type": "match",
+          "verifyLine": 1,
+          "verifyText": "Big Data Analytics-BAD601-Module 1"
+        },
+        {
+          "originalLine": 2,
+          "originalText": "Classification of data, Characteristics, Evolution and definition of Big",
+          "type": "match",
+          "verifyLine": 2,
+          "verifyText": "Classification of data, Characteristics, Evolution and definition of Big"
+        },
+        {
+          "originalLine": 3,
+          "originalText": "data, What is Big data, Why Big data, Traditional Business Intelligence Vs",
+          "type": "match",
+          "verifyLine": 3,
+          "verifyText": "data, What is Big data, Why Big data, Traditional Business Intelligence Vs"
+        },
+        {
+          "originalLine": 4,
+          "originalText": "Big Data,Typical data warehouse and Hadoop environment. Big Data",
+          "type": "match",
+          "verifyLine": 4,
+          "verifyText": "Big Data,Typical data warehouse and Hadoop environment. Big Data"
+        },
+        {
+          "originalLine": 5,
+          "originalText": "Analytics: What is Big data Analytics, Classification of Analytics,",
+          "type": "match",
+          "verifyLine": 5,
+          "verifyText": "Analytics: What is Big data Analytics, Classification of Analytics,"
+        },
+        {
+          "originalLine": 6,
+          "originalText": "Importance of Big Data Analytics, Technologies used in Big data",
+          "type": "match",
+          "verifyLine": 6,
+          "verifyText": "Importance of Big Data Analytics, Technologies used in Big data"
+        },
+        {
+          "originalLine": 7,
+          "originalText": "Environments, Few Top Analytical Tools , NoSQL, Hadoop.",
+          "type": "match",
+          "verifyLine": 7,
+          "verifyText": "Environments, Few Top Analytical Tools , NoSQL, Hadoop."
+        },
+        {
+          "originalLine": 8,
+          "originalText": "What is DATA?",
+          "type": "match",
+          "verifyLine": 8,
+          "verifyText": "What is DATA?"
+        },
+        {
+          "originalLine": 9,
+          "originalText": "Data is a raw fact and is defined as individual facts, such as numbers, words,",
+          "type": "match",
+          "verifyLine": 9,
+          "verifyText": "Data is a raw fact and is defined as individual facts, such as numbers, words,"
+        },
+        {
+          "originalLine": 10,
+          "originalText": "measurements, observations or just descriptions of things.",
+          "type": "match",
+          "verifyLine": 10,
+          "verifyText": "measurements, observations or just descriptions of things."
+        },
+        {
+          "originalLine": 11,
+          "originalText": "For example, data might include individual prices, weights, addresses, ages,",
+          "type": "match",
+          "verifyLine": 11,
+          "verifyText": "For example, data might include individual prices, weights, addresses, ages,"
+        },
+        {
+          "originalLine": 12,
+          "originalText": "names, temperatures, dates, or distances.",
+          "type": "match",
+          "verifyLine": 12,
+          "verifyText": "names, temperatures, dates, or distances."
+        },
+        {
+          "originalLine": 13,
+          "originalText": "There are two main types of data:",
+          "type": "match",
+          "verifyLine": 13,
+          "verifyText": "There are two main types of data:"
+        },
+        {
+          "originalLine": 14,
+          "originalText": "1. Quantitative data is provided in numerical form, like the weight,",
+          "type": "match",
+          "verifyLine": 14,
+          "verifyText": "1. Quantitative data is provided in numerical form, like the weight,"
+        },
+        {
+          "originalLine": 15,
+          "originalText": "volume, or cost of an item.",
+          "type": "match",
+          "verifyLine": 15,
+          "verifyText": "volume, or cost of an item."
+        },
+        {
+          "originalLine": 16,
+          "originalText": "2. Qualitative data is descriptive, but non-numerical, like the name,",
+          "type": "match",
+          "verifyLine": 16,
+          "verifyText": "2. Qualitative data is descriptive, but non-numerical, like the name,"
+        },
+        {
+          "originalLine": 17,
+          "originalText": "gender, or eye color of a person.",
+          "type": "match",
+          "verifyLine": 17,
+          "verifyText": "gender, or eye color of a person."
+        },
+        {
+          "originalLine": 18,
+          "originalText": "Characteristics of Data",
+          "type": "match",
+          "verifyLine": 18,
+          "verifyText": "Characteristics of Data"
+        },
+        {
+          "originalLine": 19,
+          "originalText": "The key characteristics of the data are:",
+          "type": "match",
+          "verifyLine": 19,
+          "verifyText": "The key characteristics of the data are:"
+        },
+        {
+          "originalLine": 20,
+          "originalText": "1. Composition: The composition of data deals with the structure of data,",
+          "type": "match",
+          "verifyLine": 20,
+          "verifyText": "1. Composition: The composition of data deals with the structure of data,"
+        },
+        {
+          "originalLine": 21,
+          "originalText": "that is, the sources of data, the granularity, the types, and the nature of",
+          "type": "match",
+          "verifyLine": 21,
+          "verifyText": "that is, the sources of data, the granularity, the types, and the nature of"
+        },
+        {
+          "originalLine": 22,
+          "originalText": "data as to whether it is static or real-time streaming.",
+          "type": "match",
+          "verifyLine": 22,
+          "verifyText": "data as to whether it is static or real-time streaming."
+        },
+        {
+          "originalLine": 23,
+          "originalText": "2. Condition: The condition of data deals with the state of data, that is,",
+          "type": "match",
+          "verifyLine": 23,
+          "verifyText": "2. Condition: The condition of data deals with the state of data, that is,"
+        },
+        {
+          "originalLine": 24,
+          "originalText": "\"Can one use this data as is for analysis?\" or \"Does it require cleansing",
+          "type": "match",
+          "verifyLine": 24,
+          "verifyText": "\"Can one use this data as is for analysis?\" or \"Does it require cleansing"
+        },
+        {
+          "originalLine": 25,
+          "originalText": "for further enhancement and enrichment?“",
+          "type": "match",
+          "verifyLine": 25,
+          "verifyText": "for further enhancement and enrichment?“"
+        },
+        {
+          "originalLine": 26,
+          "originalText": "Vtucircle.com",
+          "type": "match",
+          "verifyLine": 26,
+          "verifyText": "Vtucircle.com"
+        },
+        {
+          "originalLine": 27,
+          "originalText": "Page 1",
+          "type": "match",
+          "verifyLine": 27,
+          "verifyText": "Page 1"
+        },
+        {
+          "originalLine": 28,
+          "originalText": "Big Data Analytics-BAD601-Module 1",
+          "type": "match",
+          "verifyLine": 28,
+          "verifyText": "Big Data Analytics-BAD601-Module 1"
+        },
+        {
+          "originalLine": 29,
+          "originalText": "3. Context: The context of data deals with \"Where has this data been",
+          "type": "match",
+          "verifyLine": 29,
+          "verifyText": "3. Context: The context of data deals with \"Where has this data been"
+        },
+        {
+          "originalLine": 30,
+          "originalText": "generated?\" \"Why was this data generated?\" \"How sensitive is this data?\"",
+          "type": "match",
+          "verifyLine": 30,
+          "verifyText": "generated?\" \"Why was this data generated?\" \"How sensitive is this data?\""
+        },
+        {
+          "originalLine": 31,
+          "originalText": "\"What are the events associated with this data?\" and so on.",
+          "type": "match",
+          "verifyLine": 31,
+          "verifyText": "\"What are the events associated with this data?\" and so on."
+        },
+        {
+          "originalLine": 32,
+          "originalText": "The other following are six other characteristics of data which are discussed",
+          "type": "match",
+          "verifyLine": 32,
+          "verifyText": "The other following are six other characteristics of data which are discussed"
+        },
+        {
+          "originalLine": 33,
+          "originalText": "below:",
+          "type": "match",
+          "verifyLine": 33,
+          "verifyText": "below:"
+        },
+        {
+          "originalLine": 34,
+          "originalText": "1. Accuracy",
+          "type": "match",
+          "verifyLine": 34,
+          "verifyText": "1. Accuracy"
+        },
+        {
+          "originalLine": 35,
+          "originalText": "2. Validity",
+          "type": "match",
+          "verifyLine": 35,
+          "verifyText": "2. Validity"
+        },
+        {
+          "originalLine": 36,
+          "originalText": "3. Reliability",
+          "type": "match",
+          "verifyLine": 36,
+          "verifyText": "3. Reliability"
+        },
+        {
+          "originalLine": 37,
+          "originalText": "4. Timeliness",
+          "type": "match",
+          "verifyLine": 37,
+          "verifyText": "4. Timeliness"
+        },
+        {
+          "originalLine": 38,
+          "originalText": "5. Relevance",
+          "type": "match",
+          "verifyLine": 38,
+          "verifyText": "5. Relevance"
+        },
+        {
+          "originalLine": 39,
+          "originalText": "6. Completeness",
+          "type": "match",
+          "verifyLine": 39,
+          "verifyText": "6. Completeness"
+        },
+        {
+          "originalLine": 40,
+          "originalText": "1. Accuracy",
+          "type": "match",
+          "verifyLine": 40,
+          "verifyText": "1. Accuracy"
+        },
+        {
+          "originalLine": 41,
+          "originalText": "Data should be sufficiently accurate for the intended use and should be",
+          "type": "match",
+          "verifyLine": 41,
+          "verifyText": "Data should be sufficiently accurate for the intended use and should be"
+        },
+        {
+          "originalLine": 42,
+          "originalText": "captured only once, although it may have multiple uses. Data should be",
+          "type": "match",
+          "verifyLine": 42,
+          "verifyText": "captured only once, although it may have multiple uses. Data should be"
+        },
+        {
+          "originalLine": 43,
+          "originalText": "captured at the point of activity .",
+          "type": "match",
+          "verifyLine": 43,
+          "verifyText": "captured at the point of activity ."
+        },
+        {
+          "originalLine": 44,
+          "originalText": "2. Validity",
+          "type": "match",
+          "verifyLine": 44,
+          "verifyText": "2. Validity"
+        },
+        {
+          "originalLine": 45,
+          "originalText": "Data should be recorded and used in compliance with relevant requirements,",
+          "type": "match",
+          "verifyLine": 45,
+          "verifyText": "Data should be recorded and used in compliance with relevant requirements,"
+        },
+        {
+          "originalLine": 46,
+          "originalText": "including the correct application of any rules or definitions. This will ensure",
+          "type": "match",
+          "verifyLine": 46,
+          "verifyText": "including the correct application of any rules or definitions. This will ensure"
+        },
+        {
+          "originalLine": 47,
+          "originalText": "consistency between periods and with similar organizations, measuring what is",
+          "type": "match",
+          "verifyLine": 47,
+          "verifyText": "consistency between periods and with similar organizations, measuring what is"
+        },
+        {
+          "originalLine": 48,
+          "originalText": "intended to be measured.",
+          "type": "match",
+          "verifyLine": 48,
+          "verifyText": "intended to be measured."
+        },
+        {
+          "originalLine": 49,
+          "originalText": "3. Reliability",
+          "type": "match",
+          "verifyLine": 49,
+          "verifyText": "3. Reliability"
+        },
+        {
+          "originalLine": 50,
+          "originalText": "Data should reflect stable and consistent data collection processes across",
+          "type": "match",
+          "verifyLine": 50,
+          "verifyText": "Data should reflect stable and consistent data collection processes across"
+        },
+        {
+          "originalLine": 51,
+          "originalText": "collection points and over time. Progress toward performance targets should",
+          "type": "match",
+          "verifyLine": 51,
+          "verifyText": "collection points and over time. Progress toward performance targets should"
+        },
+        {
+          "originalLine": 52,
+          "originalText": "Vtucircle.com",
+          "type": "match",
+          "verifyLine": 52,
+          "verifyText": "Vtucircle.com"
+        },
+        {
+          "originalLine": 53,
+          "originalText": "Page 2",
+          "type": "match",
+          "verifyLine": 53,
+          "verifyText": "Page 2"
+        },
+        {
+          "originalLine": 54,
+          "originalText": "Big Data Analytics-BAD601-Module 1",
+          "type": "match",
+          "verifyLine": 54,
+          "verifyText": "Big Data Analytics-BAD601-Module 1"
+        },
+        {
+          "originalLine": 55,
+          "originalText": "reflect real changes rather than variations in data collection approaches or",
+          "type": "match",
+          "verifyLine": 55,
+          "verifyText": "reflect real changes rather than variations in data collection approaches or"
+        },
+        {
+          "originalLine": 56,
+          "originalText": "methods. Source data is clearly identified and readily available from manual,",
+          "type": "match",
+          "verifyLine": 56,
+          "verifyText": "methods. Source data is clearly identified and readily available from manual,"
+        },
+        {
+          "originalLine": 57,
+          "originalText": "automated, or other systems and records.",
+          "type": "match",
+          "verifyLine": 57,
+          "verifyText": "automated, or other systems and records."
+        },
+        {
+          "originalLine": 58,
+          "originalText": "4. Timeliness",
+          "type": "match",
+          "verifyLine": 58,
+          "verifyText": "4. Timeliness"
+        },
+        {
+          "originalLine": 59,
+          "originalText": "Data should be captured as quickly as possible after the event or activity and",
+          "type": "match",
+          "verifyLine": 59,
+          "verifyText": "Data should be captured as quickly as possible after the event or activity and"
+        },
+        {
+          "originalLine": 60,
+          "originalText": "must be available for the intended use within a reasonable time period. Data",
+          "type": "match",
+          "verifyLine": 60,
+          "verifyText": "must be available for the intended use within a reasonable time period. Data"
+        },
+        {
+          "originalLine": 61,
+          "originalText": "must be available quickly and frequently enough to support information needs",
+          "type": "match",
+          "verifyLine": 61,
+          "verifyText": "must be available quickly and frequently enough to support information needs"
+        },
+        {
+          "originalLine": 62,
+          "originalText": "and to influence service or management decisions.",
+          "type": "match",
+          "verifyLine": 62,
+          "verifyText": "and to influence service or management decisions."
+        },
+        {
+          "originalLine": 63,
+          "originalText": "5. Relevance",
+          "type": "match",
+          "verifyLine": 63,
+          "verifyText": "5. Relevance"
+        },
+        {
+          "originalLine": 64,
+          "originalText": "Data captured should be relevant to the purposes for which it is to be used.",
+          "type": "match",
+          "verifyLine": 64,
+          "verifyText": "Data captured should be relevant to the purposes for which it is to be used."
+        },
+        {
+          "originalLine": 65,
+          "originalText": "This will require a periodic review of requirements to reflect changing needs.",
+          "type": "match",
+          "verifyLine": 65,
+          "verifyText": "This will require a periodic review of requirements to reflect changing needs."
+        },
+        {
+          "originalLine": 66,
+          "originalText": "6. Completeness",
+          "type": "match",
+          "verifyLine": 66,
+          "verifyText": "6. Completeness"
+        },
+        {
+          "originalLine": 67,
+          "originalText": "Data requirements should be clearly specified based on the information needs",
+          "type": "match",
+          "verifyLine": 67,
+          "verifyText": "Data requirements should be clearly specified based on the information needs"
+        },
+        {
+          "originalLine": 68,
+          "originalText": "of the organization and data collection processes matched to these",
+          "type": "match",
+          "verifyLine": 68,
+          "verifyText": "of the organization and data collection processes matched to these"
+        },
+        {
+          "originalLine": 69,
+          "originalText": "requirements.",
+          "type": "match",
+          "verifyLine": 69,
+          "verifyText": "requirements."
+        },
+        {
+          "originalLine": 70,
+          "originalText": "Classification of data",
+          "type": "match",
+          "verifyLine": 70,
+          "verifyText": "Classification of data"
+        },
+        {
+          "originalLine": 71,
+          "originalText": "Vtucircle.com",
+          "type": "match",
+          "verifyLine": 71,
+          "verifyText": "Vtucircle.com"
+        },
+        {
+          "originalLine": 72,
+          "originalText": "Page 3",
+          "type": "match",
+          "verifyLine": 72,
+          "verifyText": "Page 3"
+        },
+        {
+          "originalLine": 73,
+          "originalText": "Big Data Analytics-BAD601-Module 1",
+          "type": "match",
+          "verifyLine": 73,
+          "verifyText": "Big Data Analytics-BAD601-Module 1"
+        },
+        {
+          "originalLine": 74,
+          "originalText": "1. Structured Data:",
+          "type": "match",
+          "verifyLine": 74,
+          "verifyText": "1. Structured Data:"
+        },
+        {
+          "originalLine": 75,
+          "originalText": "• Structured data refers to any data that resides in a fixed field within a",
+          "type": "match",
+          "verifyLine": 75,
+          "verifyText": "• Structured data refers to any data that resides in a fixed field within a"
+        },
+        {
+          "originalLine": 76,
+          "originalText": "record or file.",
+          "type": "match",
+          "verifyLine": 76,
+          "verifyText": "record or file."
+        },
+        {
+          "originalLine": 77,
+          "originalText": "• Having a particular Data Model.",
+          "type": "match",
+          "verifyLine": 77,
+          "verifyText": "• Having a particular Data Model."
+        },
+        {
+          "originalLine": 78,
+          "originalText": "• Meaningful data.",
+          "type": "match",
+          "verifyLine": 78,
+          "verifyText": "• Meaningful data."
+        },
+        {
+          "originalLine": 79,
+          "originalText": "• Data arranged in a row and column.",
+          "type": "match",
+          "verifyLine": 79,
+          "verifyText": "• Data arranged in a row and column."
+        },
+        {
+          "originalLine": 80,
+          "originalText": "• Structured data has the advantage of being easily entered, stored,",
+          "type": "match",
+          "verifyLine": 80,
+          "verifyText": "• Structured data has the advantage of being easily entered, stored,"
+        },
+        {
+          "originalLine": 81,
+          "originalText": "queried and analysed.",
+          "type": "match",
+          "verifyLine": 81,
+          "verifyText": "queried and analysed."
+        },
+        {
+          "originalLine": 82,
+          "originalText": "• E.g.: Relational Data Base, Spread sheets.",
+          "type": "match",
+          "verifyLine": 82,
+          "verifyText": "• E.g.: Relational Data Base, Spread sheets."
+        },
+        {
+          "originalLine": 83,
+          "originalText": "• Structured data is often managed using Structured Query Language",
+          "type": "match",
+          "verifyLine": 83,
+          "verifyText": "• Structured data is often managed using Structured Query Language"
+        },
+        {
+          "originalLine": 84,
+          "originalText": "(SQL)",
+          "type": "match",
+          "verifyLine": 84,
+          "verifyText": "(SQL)"
+        },
+        {
+          "originalLine": 85,
+          "originalText": "Sources of Structured Data:",
+          "type": "match",
+          "verifyLine": 85,
+          "verifyText": "Sources of Structured Data:"
+        },
+        {
+          "originalLine": 86,
+          "originalText": "• SQL Databases",
+          "type": "match",
+          "verifyLine": 86,
+          "verifyText": "• SQL Databases"
+        },
+        {
+          "originalLine": 87,
+          "originalText": "• Spreadsheets such as Excel",
+          "type": "match",
+          "verifyLine": 87,
+          "verifyText": "• Spreadsheets such as Excel"
+        },
+        {
+          "originalLine": 88,
+          "originalText": "• OLTP Systems",
+          "type": "match",
+          "verifyLine": 88,
+          "verifyText": "• OLTP Systems"
+        },
+        {
+          "originalLine": 89,
+          "originalText": "• Online forms",
+          "type": "match",
+          "verifyLine": 89,
+          "verifyText": "• Online forms"
+        },
+        {
+          "originalLine": 90,
+          "originalText": "• Sensors such as GPS or RFID tags",
+          "type": "match",
+          "verifyLine": 90,
+          "verifyText": "• Sensors such as GPS or RFID tags"
+        },
+        {
+          "originalLine": 91,
+          "originalText": "• Network and Web server logs",
+          "type": "match",
+          "verifyLine": 91,
+          "verifyText": "• Network and Web server logs"
+        },
+        {
+          "originalLine": 92,
+          "originalText": "• Medical devices",
+          "type": "match",
+          "verifyLine": 92,
+          "verifyText": "• Medical devices"
+        },
+        {
+          "originalLine": 93,
+          "originalText": "Ease of working with structured data:",
+          "type": "match",
+          "verifyLine": 93,
+          "verifyText": "Ease of working with structured data:"
+        },
+        {
+          "originalLine": 94,
+          "originalText": "Vtucircle.com",
+          "type": "match",
+          "verifyLine": 94,
+          "verifyText": "Vtucircle.com"
+        },
+        {
+          "originalLine": 95,
+          "originalText": "Page 4",
+          "type": "match",
+          "verifyLine": 95,
+          "verifyText": "Page 4"
+        },
+        {
+          "originalLine": 96,
+          "originalText": "Big Data Analytics-BAD601-Module 1",
+          "type": "match",
+          "verifyLine": 96,
+          "verifyText": "Big Data Analytics-BAD601-Module 1"
+        },
+        {
+          "originalLine": 97,
+          "originalText": "1. Insert/update/delete: The Data Manipulation Language",
+          "type": "match",
+          "verifyLine": 97,
+          "verifyText": "1. Insert/update/delete: The Data Manipulation Language"
+        },
+        {
+          "originalLine": 98,
+          "originalText": "(DML)",
+          "type": "match",
+          "verifyLine": 98,
+          "verifyText": "(DML)"
+        },
+        {
+          "originalLine": 99,
+          "originalText": "operations provide the required ease with data input, storage, access,",
+          "type": "match",
+          "verifyLine": 99,
+          "verifyText": "operations provide the required ease with data input, storage, access,"
+        },
+        {
+          "originalLine": 100,
+          "originalText": "process, analysis, etc.",
+          "type": "match",
+          "verifyLine": 100,
+          "verifyText": "process, analysis, etc."
+        },
+        {
+          "originalLine": 101,
+          "originalText": "2. Security: Information security is ensured through strong encryption and",
+          "type": "match",
+          "verifyLine": 101,
+          "verifyText": "2. Security: Information security is ensured through strong encryption and"
+        },
+        {
+          "originalLine": 102,
+          "originalText": "tokenization, protecting data throughout its lifecycle. Access control",
+          "type": "match",
+          "verifyLine": 102,
+          "verifyText": "tokenization, protecting data throughout its lifecycle. Access control"
+        },
+        {
+          "originalLine": 103,
+          "originalText": "measures ensure only authorized individuals can decrypt and view",
+          "type": "match",
+          "verifyLine": 103,
+          "verifyText": "measures ensure only authorized individuals can decrypt and view"
+        },
+        {
+          "originalLine": 104,
+          "originalText": "sensitive information, maintaining compliance.",
+          "type": "match",
+          "verifyLine": 104,
+          "verifyText": "sensitive information, maintaining compliance."
+        },
+        {
+          "originalLine": 105,
+          "originalText": "3. Indexing: An index is a data structure that speeds up the data retrieval",
+          "type": "match",
+          "verifyLine": 105,
+          "verifyText": "3. Indexing: An index is a data structure that speeds up the data retrieval"
+        },
+        {
+          "originalLine": 106,
+          "originalText": "operations (primarily the SELECT DML statement) at the cost of",
+          "type": "match",
+          "verifyLine": 106,
+          "verifyText": "operations (primarily the SELECT DML statement) at the cost of"
+        },
+        {
+          "originalLine": 107,
+          "originalText": "additional writes and storage space, but the benefits that ensue in",
+          "type": "match",
+          "verifyLine": 107,
+          "verifyText": "additional writes and storage space, but the benefits that ensue in"
+        },
+        {
+          "originalLine": 108,
+          "originalText": "search operation are worth the additional writes and storage space.",
+          "type": "match",
+          "verifyLine": 108,
+          "verifyText": "search operation are worth the additional writes and storage space."
+        },
+        {
+          "originalLine": 109,
+          "originalText": "4. Scalability: The storage and processing capabilities of the traditional",
+          "type": "match",
+          "verifyLine": 109,
+          "verifyText": "4. Scalability: The storage and processing capabilities of the traditional"
+        },
+        {
+          "originalLine": 110,
+          "originalText": "RDBMS can be easily scaled up by increasing the horsepower of the",
+          "type": "match",
+          "verifyLine": 110,
+          "verifyText": "RDBMS can be easily scaled up by increasing the horsepower of the"
+        },
+        {
+          "originalLine": 111,
+          "originalText": "database server (increasing the primary and secondary or peripheral",
+          "type": "match",
+          "verifyLine": 111,
+          "verifyText": "database server (increasing the primary and secondary or peripheral"
+        },
+        {
+          "originalLine": 112,
+          "originalText": "storage capacity, processing capacity of the processor, etc.).",
+          "type": "match",
+          "verifyLine": 112,
+          "verifyText": "storage capacity, processing capacity of the processor, etc.)."
+        },
+        {
+          "originalLine": 113,
+          "originalText": "5. Transaction processing: RDBMS",
+          "type": "match",
+          "verifyLine": 113,
+          "verifyText": "5. Transaction processing: RDBMS"
+        },
+        {
+          "originalLine": 114,
+          "originalText": "has",
+          "type": "match",
+          "verifyLine": 114,
+          "verifyText": "has"
+        },
+        {
+          "originalLine": 115,
+          "originalText": "support",
+          "type": "match",
+          "verifyLine": 115,
+          "verifyText": "support"
+        },
+        {
+          "originalLine": 116,
+          "originalText": "for Atomicity,",
+          "type": "match",
+          "verifyLine": 116,
+          "verifyText": "for Atomicity,"
+        },
+        {
+          "originalLine": 117,
+          "originalText": "Consistency, Isolation, and Durability (ACID) properties of transaction.",
+          "type": "match",
+          "verifyLine": 117,
+          "verifyText": "Consistency, Isolation, and Durability (ACID) properties of transaction."
+        },
+        {
+          "originalLine": 118,
+          "originalText": "Atomicity: A transaction is atomic, means that either it happens in its",
+          "type": "match",
+          "verifyLine": 118,
+          "verifyText": "Atomicity: A transaction is atomic, means that either it happens in its"
+        },
+        {
+          "originalLine": 119,
+          "originalText": "entirety or none of it at all.",
+          "type": "match",
+          "verifyLine": 119,
+          "verifyText": "entirety or none of it at all."
+        },
+        {
+          "originalLine": 120,
+          "originalText": "Consistency: The database moves from one consistent state to another",
+          "type": "match",
+          "verifyLine": 120,
+          "verifyText": "Consistency: The database moves from one consistent state to another"
+        }
+      ],
+      "model": "tfidf-cosine",
+      "similarity": 100,
+      "summary": {
+        "added": 0,
+        "matches": 1582,
+        "modified": 0,
+        "removed": 0,
+        "totalOriginalLines": 1582,
+        "totalVerifyLines": 1582
+      },
+      "textStats": {
+        "originalCharacters": 81947,
+        "originalLines": 1582,
+        "verifyCharacters": 81947,
+        "verifyLines": 1582
+      },
+      "truncated": true
+    },
+    "date": "2025-11-20T13:21:26.037Z"
+  }
+]

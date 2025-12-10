@@ -1,0 +1,22 @@
+[
+  {
+    "type": "upload",
+    "user": "takraw2005@gmail.com",
+    "fileName": "BlockChain_QuestionBank3.pdf",
+    "storedAs": "1760553260102-BlockChain_QuestionBank3.pdf",
+    "hash": "726a02f729e3c364661c295579e616ea3cd19acea8bf5b096b39e0c14fe00673",
+    "url": "http://localhost:5000/uploads/originals/1760553260102-BlockChain_QuestionBank3.pdf",
+    "date": "2025-10-15T18:34:20.224Z"
+  },
+  {
+    "type": "verify",
+    "user": "takraw2005@gmail.com",
+    "fileName": "BlockChain_Module4.pdf",
+    "storedAs": "1760553264415-BlockChain_Module4.pdf",
+    "url": "http://localhost:5000/uploads/verify/1760553264415-BlockChain_Module4.pdf",
+    "status": "Fake",
+    "similarity": "0%",
+    "matchedOriginal": null,
+    "date": "2025-10-15T18:34:24.490Z"
+  }
+]

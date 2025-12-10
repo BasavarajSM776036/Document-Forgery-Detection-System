@@ -1,0 +1,322 @@
+[
+  {
+    "type": "upload",
+    "user": "guest",
+    "fileName": "BDA_QB_1st IA.pdf",
+    "storedAs": "1760544734365-BDA_QB_1st IA.pdf",
+    "hash": "2da151792b97c6d825b5d1ee441c465fe68be810251b342610de9bf495432e93",
+    "url": "http://localhost:5000/uploads/originals/1760544734365-BDA_QB_1st IA.pdf",
+    "date": "2025-10-15T16:12:14.460Z"
+  },
+  {
+    "type": "verify",
+    "user": "guest",
+    "fileName": "BCS714D-Assignment Questions.pdf",
+    "storedAs": "1760544741167-BCS714D-Assignment Questions.pdf",
+    "url": "http://localhost:5000/uploads/verify/1760544741167-BCS714D-Assignment Questions.pdf",
+    "status": "Fake",
+    "similarity": "0%",
+    "matchedOriginal": null,
+    "date": "2025-10-15T16:12:21.214Z"
+  },
+  {
+    "type": "upload",
+    "user": "guest",
+    "fileName": "BAD601-module-1-pdf.pdf",
+    "storedAs": "1760544819531-BAD601-module-1-pdf.pdf",
+    "hash": "0804b14100a239bc1eba1381ea062a9a0a412859aeb72c796bf83612865764b9",
+    "url": "http://localhost:5000/uploads/originals/1760544819531-BAD601-module-1-pdf.pdf",
+    "date": "2025-10-15T16:13:39.664Z"
+  },
+  {
+    "type": "upload",
+    "user": "guest",
+    "fileName": "BDA_QB_1st IA.pdf",
+    "storedAs": "1760545385260-BDA_QB_1st IA.pdf",
+    "hash": "2da151792b97c6d825b5d1ee441c465fe68be810251b342610de9bf495432e93",
+    "url": "http://localhost:5000/uploads/originals/1760545385260-BDA_QB_1st IA.pdf",
+    "date": "2025-10-15T16:23:05.353Z"
+  },
+  {
+    "type": "verify",
+    "user": "guest",
+    "fileName": "BAD601-module-1-pdf.pdf",
+    "storedAs": "1760545391826-BAD601-module-1-pdf.pdf",
+    "url": "http://localhost:5000/uploads/verify/1760545391826-BAD601-module-1-pdf.pdf",
+    "status": "Original",
+    "similarity": "100%",
+    "matchedOriginal": "http://localhost:5000/uploads/originals/1760544819531-BAD601-module-1-pdf.pdf",
+    "date": "2025-10-15T16:23:11.896Z"
+  },
+  {
+    "type": "upload",
+    "user": "guest",
+    "fileName": "1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "storedAs": "1760545445982-1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "hash": "3a49acb67626bfb6c0133c93aa7044c69ec9e62f24e7b34d89b6c7a838f44422",
+    "url": "http://localhost:5000/uploads/originals/1760545445982-1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "date": "2025-10-15T16:24:06.012Z"
+  },
+  {
+    "type": "verify",
+    "user": "guest",
+    "fileName": "1-d788da1e-bc23-4b08-9353-84431964312f (1).pdf",
+    "storedAs": "1760545458340-1-d788da1e-bc23-4b08-9353-84431964312f (1).pdf",
+    "url": "http://localhost:5000/uploads/verify/1760545458340-1-d788da1e-bc23-4b08-9353-84431964312f (1).pdf",
+    "status": "Fake",
+    "similarity": "0%",
+    "matchedOriginal": null,
+    "date": "2025-10-15T16:24:18.369Z"
+  },
+  {
+    "type": "upload",
+    "user": "guest",
+    "fileName": "WhatsApp Image 2025-03-20 at 14.17.59_7086d112.jpg",
+    "storedAs": "1760547682141-WhatsApp Image 2025-03-20 at 14.17.59_7086d112.jpg",
+    "hash": "cf07eb20588180ac1961b44753b863eeeaa6cf26a28a3c785116cf4571766977",
+    "url": "http://localhost:5000/uploads/originals/1760547682141-WhatsApp Image 2025-03-20 at 14.17.59_7086d112.jpg",
+    "date": "2025-10-15T17:01:22.237Z"
+  },
+  {
+    "type": "verify",
+    "user": "guest",
+    "fileName": "1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "storedAs": "1760547688515-1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "url": "http://localhost:5000/uploads/verify/1760547688515-1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "status": "Original",
+    "similarity": "100%",
+    "matchedOriginal": "http://localhost:5000/uploads/originals/1760545445982-1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "date": "2025-10-15T17:01:28.552Z"
+  },
+  {
+    "type": "upload",
+    "user": "guest",
+    "fileName": "WhatsApp Image 2025-03-20 at 14.17.59_7086d112.jpg",
+    "storedAs": "1760549956566-WhatsApp Image 2025-03-20 at 14.17.59_7086d112.jpg",
+    "hash": "cf07eb20588180ac1961b44753b863eeeaa6cf26a28a3c785116cf4571766977",
+    "url": "http://localhost:5000/uploads/originals/1760549956566-WhatsApp Image 2025-03-20 at 14.17.59_7086d112.jpg",
+    "date": "2025-10-15T17:39:16.595Z"
+  },
+  {
+    "type": "upload",
+    "user": "guest",
+    "fileName": "WhatsApp Image 2025-03-20 at 14.17.59_7086d112.jpg",
+    "storedAs": "1760549969093-WhatsApp Image 2025-03-20 at 14.17.59_7086d112.jpg",
+    "hash": "cf07eb20588180ac1961b44753b863eeeaa6cf26a28a3c785116cf4571766977",
+    "url": "http://localhost:5000/uploads/originals/1760549969093-WhatsApp Image 2025-03-20 at 14.17.59_7086d112.jpg",
+    "date": "2025-10-15T17:39:29.142Z"
+  },
+  {
+    "type": "verify",
+    "user": "guest",
+    "fileName": "WhatsApp Image 2025-03-20 at 14.17.59_7086d112.jpg",
+    "storedAs": "1760549974498-WhatsApp Image 2025-03-20 at 14.17.59_7086d112.jpg",
+    "url": "http://localhost:5000/uploads/verify/1760549974498-WhatsApp Image 2025-03-20 at 14.17.59_7086d112.jpg",
+    "status": "Original",
+    "similarity": "100%",
+    "matchedOriginal": "http://localhost:5000/uploads/originals/1760547682141-WhatsApp Image 2025-03-20 at 14.17.59_7086d112.jpg",
+    "date": "2025-10-15T17:39:34.568Z"
+  },
+  {
+    "type": "upload",
+    "user": "guest",
+    "fileName": "BlockChain_QuestionBank3.pdf",
+    "storedAs": "1760550198127-BlockChain_QuestionBank3.pdf",
+    "hash": "726a02f729e3c364661c295579e616ea3cd19acea8bf5b096b39e0c14fe00673",
+    "url": "http://localhost:5000/uploads/originals/1760550198127-BlockChain_QuestionBank3.pdf",
+    "date": "2025-10-15T17:43:18.288Z"
+  },
+  {
+    "type": "verify",
+    "user": "guest",
+    "fileName": "BlockChain_Module5[1].pdf",
+    "storedAs": "1760550203791-BlockChain_Module5[1].pdf",
+    "url": "http://localhost:5000/uploads/verify/1760550203791-BlockChain_Module5[1].pdf",
+    "status": "Fake",
+    "similarity": "0%",
+    "matchedOriginal": null,
+    "date": "2025-10-15T17:43:23.889Z"
+  },
+  {
+    "type": "upload",
+    "user": "guest",
+    "fileName": "BlockChain_QuestionBank3.pdf",
+    "storedAs": "1760552273630-BlockChain_QuestionBank3.pdf",
+    "hash": "726a02f729e3c364661c295579e616ea3cd19acea8bf5b096b39e0c14fe00673",
+    "url": "http://localhost:5000/uploads/originals/1760552273630-BlockChain_QuestionBank3.pdf",
+    "date": "2025-10-15T18:17:53.835Z"
+  },
+  {
+    "type": "verify",
+    "user": "guest",
+    "fileName": "BlockChain_Module4.pdf",
+    "storedAs": "1760552279343-BlockChain_Module4.pdf",
+    "url": "http://localhost:5000/uploads/verify/1760552279343-BlockChain_Module4.pdf",
+    "status": "Fake",
+    "similarity": "0%",
+    "matchedOriginal": null,
+    "date": "2025-10-15T18:17:59.579Z"
+  },
+  {
+    "type": "upload",
+    "user": "guest",
+    "fileName": "BlockChain_QuestionBank3.pdf",
+    "storedAs": "1760552383490-BlockChain_QuestionBank3.pdf",
+    "hash": "726a02f729e3c364661c295579e616ea3cd19acea8bf5b096b39e0c14fe00673",
+    "url": "http://localhost:5000/uploads/originals/1760552383490-BlockChain_QuestionBank3.pdf",
+    "date": "2025-10-15T18:19:43.690Z"
+  },
+  {
+    "type": "verify",
+    "user": "guest",
+    "fileName": "BlockChain_Module2.pdf",
+    "storedAs": "1760552390880-BlockChain_Module2.pdf",
+    "url": "http://localhost:5000/uploads/verify/1760552390880-BlockChain_Module2.pdf",
+    "status": "Fake",
+    "similarity": "0%",
+    "matchedOriginal": null,
+    "date": "2025-10-15T18:19:51.052Z"
+  },
+  {
+    "type": "upload",
+    "user": "guest",
+    "fileName": "1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "storedAs": "1761755714609-1-7eb1fd61-d636-4964-b6a7-1de045b266ba_(1)_(1).pdf",
+    "hash": "3a49acb67626bfb6c0133c93aa7044c69ec9e62f24e7b34d89b6c7a838f44422",
+    "url": "http://localhost:5000/uploads/guest/originals/1761755714609-1-7eb1fd61-d636-4964-b6a7-1de045b266ba_(1)_(1).pdf",
+    "date": "2025-10-29T16:35:14.711Z"
+  },
+  {
+    "type": "verify",
+    "user": "guest",
+    "fileName": "WhatsApp Image 2025-03-20 at 14.17.59_7086d112.jpg",
+    "storedAs": "1761755734772-WhatsApp_Image_2025-03-20_at_14.17.59_7086d112.jpg",
+    "url": "http://localhost:5000/uploads/guest/verify/1761755734772-WhatsApp_Image_2025-03-20_at_14.17.59_7086d112.jpg",
+    "status": "Original",
+    "similarity": "100",
+    "matchedOriginal": "http://localhost:5000/uploads/guest/originals/1760547682141-WhatsApp%20Image%202025-03-20%20at%2014.17.59_7086d112.jpg",
+    "date": "2025-10-29T16:35:34.799Z"
+  },
+  {
+    "type": "upload",
+    "user": "guest",
+    "fileName": "1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "storedAs": "1761756604408-1-7eb1fd61-d636-4964-b6a7-1de045b266ba_(1)_(1).pdf",
+    "hash": "3a49acb67626bfb6c0133c93aa7044c69ec9e62f24e7b34d89b6c7a838f44422",
+    "url": "http://localhost:5000/uploads/guest/originals/1761756604408-1-7eb1fd61-d636-4964-b6a7-1de045b266ba_(1)_(1).pdf",
+    "date": "2025-10-29T16:50:04.488Z"
+  },
+  {
+    "type": "verify",
+    "user": "guest",
+    "fileName": "WhatsApp Image 2025-03-20 at 13.40.25_76679c3d.jpg",
+    "storedAs": "1761756614127-WhatsApp_Image_2025-03-20_at_13.40.25_76679c3d.jpg",
+    "url": "http://localhost:5000/uploads/guest/verify/1761756614127-WhatsApp_Image_2025-03-20_at_13.40.25_76679c3d.jpg",
+    "status": "Fake",
+    "similarity": "0",
+    "matchedOriginal": null,
+    "date": "2025-10-29T16:50:14.156Z"
+  },
+  {
+    "type": "verify",
+    "user": "guest",
+    "fileName": "1-9fbd3cdc-9489-403e-9e65-25c11229af40 (1) (1).pdf",
+    "storedAs": "1761756621275-1-9fbd3cdc-9489-403e-9e65-25c11229af40_(1)_(1).pdf",
+    "url": "http://localhost:5000/uploads/guest/verify/1761756621275-1-9fbd3cdc-9489-403e-9e65-25c11229af40_(1)_(1).pdf",
+    "status": "Fake",
+    "similarity": "0",
+    "matchedOriginal": null,
+    "date": "2025-10-29T16:50:21.308Z"
+  },
+  {
+    "type": "verify",
+    "user": "guest",
+    "fileName": "WhatsApp Image 2025-03-20 at 14.17.59_7086d112.jpg",
+    "storedAs": "1761756636693-WhatsApp_Image_2025-03-20_at_14.17.59_7086d112.jpg",
+    "url": "http://localhost:5000/uploads/guest/verify/1761756636693-WhatsApp_Image_2025-03-20_at_14.17.59_7086d112.jpg",
+    "status": "Original",
+    "similarity": "100",
+    "matchedOriginal": "http://localhost:5000/uploads/guest/originals/1760547682141-WhatsApp%20Image%202025-03-20%20at%2014.17.59_7086d112.jpg",
+    "date": "2025-10-29T16:50:36.722Z"
+  },
+  {
+    "type": "upload",
+    "user": "guest",
+    "fileName": "1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "storedAs": "1761756727805-1-7eb1fd61-d636-4964-b6a7-1de045b266ba_(1)_(1).pdf",
+    "hash": "3a49acb67626bfb6c0133c93aa7044c69ec9e62f24e7b34d89b6c7a838f44422",
+    "url": "http://localhost:5000/uploads/guest/originals/1761756727805-1-7eb1fd61-d636-4964-b6a7-1de045b266ba_(1)_(1).pdf",
+    "date": "2025-10-29T16:52:07.847Z"
+  },
+  {
+    "type": "verify",
+    "user": "guest",
+    "fileName": "WhatsApp Image 2025-03-20 at 13.40.25_76679c3d.jpg",
+    "storedAs": "1761756733716-WhatsApp_Image_2025-03-20_at_13.40.25_76679c3d.jpg",
+    "url": "http://localhost:5000/uploads/guest/verify/1761756733716-WhatsApp_Image_2025-03-20_at_13.40.25_76679c3d.jpg",
+    "status": "Fake",
+    "similarity": "0",
+    "matchedOriginal": null,
+    "date": "2025-10-29T16:52:13.756Z"
+  },
+  {
+    "type": "upload",
+    "user": "guest",
+    "fileName": "1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "storedAs": "1761845532306-1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "hash": "3a49acb67626bfb6c0133c93aa7044c69ec9e62f24e7b34d89b6c7a838f44422",
+    "url": "http://localhost:5000/uploads/guest/originals/1761845532306-1-7eb1fd61-d636-4964-b6a7-1de045b266ba%20(1)%20(1).pdf",
+    "date": "2025-10-30T17:32:12.379Z"
+  },
+  {
+    "type": "verify",
+    "user": "guest",
+    "fileName": "WhatsApp Image 2025-03-20 at 13.40.25_76679c3d.jpg",
+    "storedAs": "1761845539270-WhatsApp Image 2025-03-20 at 13.40.25_76679c3d.jpg",
+    "url": "http://localhost:5000/uploads/guest/verify/1761845539270-WhatsApp%20Image%202025-03-20%20at%2013.40.25_76679c3d.jpg",
+    "status": "Fake",
+    "similarity": "0%",
+    "matchedOriginal": null,
+    "date": "2025-10-30T17:32:19.303Z"
+  },
+  {
+    "type": "upload",
+    "user": "guest",
+    "fileName": "1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "storedAs": "1761934499493-1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "hash": "3a49acb67626bfb6c0133c93aa7044c69ec9e62f24e7b34d89b6c7a838f44422",
+    "url": "http://localhost:5000/uploads/guest/originals/1761934499493-1-7eb1fd61-d636-4964-b6a7-1de045b266ba%20(1)%20(1).pdf",
+    "date": "2025-10-31T18:14:59.570Z"
+  },
+  {
+    "type": "verify",
+    "user": "guest",
+    "fileName": "WhatsApp Image 2025-03-20 at 13.40.25_76679c3d.jpg",
+    "storedAs": "1761934507265-WhatsApp Image 2025-03-20 at 13.40.25_76679c3d.jpg",
+    "url": "http://localhost:5000/uploads/guest/verify/1761934507265-WhatsApp%20Image%202025-03-20%20at%2013.40.25_76679c3d.jpg",
+    "status": "Fake",
+    "similarity": "0%",
+    "matchedOriginal": null,
+    "date": "2025-10-31T18:15:07.344Z"
+  },
+  {
+    "type": "upload",
+    "user": "guest",
+    "fileName": "1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "storedAs": "1761973077971-1-7eb1fd61-d636-4964-b6a7-1de045b266ba (1) (1).pdf",
+    "hash": "3a49acb67626bfb6c0133c93aa7044c69ec9e62f24e7b34d89b6c7a838f44422",
+    "url": "http://localhost:5000/uploads/guest/originals/1761973077971-1-7eb1fd61-d636-4964-b6a7-1de045b266ba%20(1)%20(1).pdf",
+    "date": "2025-11-01T04:57:58.021Z"
+  },
+  {
+    "type": "verify",
+    "user": "guest",
+    "fileName": "WhatsApp Image 2025-03-20 at 13.40.25_76679c3d.jpg",
+    "storedAs": "1761973086934-WhatsApp Image 2025-03-20 at 13.40.25_76679c3d.jpg",
+    "url": "http://localhost:5000/uploads/guest/verify/1761973086934-WhatsApp%20Image%202025-03-20%20at%2013.40.25_76679c3d.jpg",
+    "status": "Fake",
+    "similarity": "0%",
+    "matchedOriginal": null,
+    "date": "2025-11-01T04:58:06.968Z"
+  }
+]

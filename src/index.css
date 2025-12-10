@@ -1,0 +1,37 @@
+/* ===== Custom Enhancements for HomePage ===== */
+
+/* Smooth transitions for all links & buttons */
+a, button {
+  @apply transition-all duration-200 ease-in-out;
+}
+
+/* Primary button (blue) */
+.btn-primary {
+  @apply bg-blue-600 text-white font-semibold px-6 py-3 rounded-lg shadow-md hover:bg-blue-700 hover:shadow-lg;
+}
+
+/* Secondary button (gray) */
+.btn-secondary {
+  @apply bg-gray-200 text-gray-900 font-semibold px-6 py-3 rounded-lg shadow-md hover:bg-gray-300 hover:shadow-lg;
+}
+
+/* Card styles */
+.card {
+  @apply p-6 border border-gray-200 rounded-lg bg-white shadow-sm hover:shadow-xl transition-all duration-300;
+}
+
+/* Hero Section background overlay */
+.hero-bg::before {
+  content: "";
+  @apply absolute inset-0 bg-black opacity-20;
+}
+
+/* Section titles */
+.section-title {
+  @apply text-3xl font-bold text-neutral-900 mb-4;
+}
+
+/* Section subtitles */
+.section-subtitle {
+  @apply text-lg text-neutral-600 max-w-3xl mx-auto;
+}
