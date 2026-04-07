@@ -107,7 +107,7 @@ const HomePage = () => {
           {/* Analyze button based on login */}
           {isLoggedIn ? (
             <Link
-              style={{ fontSize: "20px", color: "red" }}
+              style={{ fontSize: "20px", color: "white" }}
               to="/upload"
               className="btn btn-primary"
             >

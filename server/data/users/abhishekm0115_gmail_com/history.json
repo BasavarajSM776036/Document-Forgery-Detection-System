@@ -1,0 +1,3788 @@
+[
+  {
+    "type": "upload",
+    "user": "abhishekm0115@gmail.com",
+    "fileName": "Database And SQL.pdf",
+    "storedAs": "1767854004080-Database And SQL.pdf",
+    "hash": "3a49acb67626bfb6c0133c93aa7044c69ec9e62f24e7b34d89b6c7a838f44422",
+    "url": "http://localhost:5000/uploads/abhishekm0115_gmail_com/originals/1767854004080-Database%20And%20SQL.pdf",
+    "date": "2026-01-08T06:33:24.148Z"
+  },
+  {
+    "type": "verify",
+    "user": "abhishekm0115@gmail.com",
+    "fileName": "sample images .pdf",
+    "storedAs": "1767854035765-sample images .pdf",
+    "url": "http://localhost:5000/uploads/abhishekm0115_gmail_com/verify/1767854035765-sample%20images%20.pdf",
+    "status": "Modified",
+    "similarity": "85.10%",
+    "matchedOriginal": "http://localhost:5000/uploads/abhishekm0115_gmail_com/originals/1767854004080-Database%20And%20SQL.pdf",
+    "analysis": {
+      "lineAnalysis": [
+        {
+          "originalLine": 1,
+          "originalText": "The certificate is awarded to",
+          "type": "match",
+          "verifyLine": 1,
+          "verifyText": "The certificate is awarded to"
+        },
+        {
+          "originalLine": 2,
+          "originalText": "Basavaraj Maneppagol",
+          "type": "match",
+          "verifyLine": 2,
+          "verifyText": "Basavaraj Maneppagol"
+        },
+        {
+          "originalLine": 3,
+          "originalText": "for successfully completing the course",
+          "type": "match",
+          "verifyLine": 3,
+          "verifyText": "for successfully completing the course"
+        },
+        {
+          "originalLine": 4,
+          "originalText": "Database and SQL",
+          "type": "modified",
+          "verifyLine": 4,
+          "verifyText": "Database & SQL",
+          "wordDiff": {
+            "added": [
+              "&"
+            ],
+            "removed": [
+              "and"
+            ]
+          }
+        },
+        {
+          "originalLine": 5,
+          "originalText": "on June 3, 2024",
+          "type": "match",
+          "verifyLine": 5,
+          "verifyText": "on June 3, 2024"
+        },
+        {
+          "originalLine": 6,
+          "originalText": "Issued on: Monday, June 3, 2024",
+          "type": "match",
+          "verifyLine": 6,
+          "verifyText": "Issued on: Monday, June 3, 2024"
+        },
+        {
+          "originalLine": 7,
+          "originalText": "To verify, scan the QR code at https://verify.onwingspan.com",
+          "type": "modified",
+          "verifyLine": 7,
+          "verifyText": "To verify, scan the QR code at https://vify .oningspan.com",
+          "wordDiff": {
+            "added": [
+              "https://vify .oningspan.com"
+            ],
+            "removed": [
+              "https://verify.onwingspan.com"
+            ]
+          }
+        }
+      ],
+      "model": "tfidf-cosine",
+      "similarity": 85.1,
+      "summary": {
+        "added": 0,
+        "matches": 5,
+        "modified": 2,
+        "removed": 0,
+        "totalOriginalLines": 7,
+        "totalVerifyLines": 7
+      },
+      "textStats": {
+        "originalCharacters": 223,
+        "originalLines": 7,
+        "verifyCharacters": 270,
+        "verifyLines": 7
+      },
+      "truncated": false
+    },
+    "date": "2026-01-08T06:33:56.220Z"
+  },
+  {
+    "type": "upload",
+    "user": "abhishekm0115@gmail.com",
+    "fileName": "Internet of Things.pdf",
+    "storedAs": "1767854110748-Internet of Things.pdf",
+    "hash": "528977c0b7c087fb53b54a169918d296f20690439bd94b6286a32c00e4a042ce",
+    "url": "http://localhost:5000/uploads/abhishekm0115_gmail_com/originals/1767854110748-Internet%20of%20Things.pdf",
+    "date": "2026-01-08T06:35:10.864Z"
+  },
+  {
+    "type": "verify",
+    "user": "abhishekm0115@gmail.com",
+    "fileName": "Internet of Things.pdf",
+    "storedAs": "1767854127325-Internet of Things.pdf",
+    "url": "http://localhost:5000/uploads/abhishekm0115_gmail_com/verify/1767854127325-Internet%20of%20Things.pdf",
+    "status": "Original",
+    "similarity": "100.00%",
+    "matchedOriginal": "http://localhost:5000/uploads/abhishekm0115_gmail_com/originals/1767854110748-Internet%20of%20Things.pdf",
+    "analysis": {
+      "lineAnalysis": [
+        {
+          "originalLine": 1,
+          "originalText": "The certificate is awarded to",
+          "type": "match",
+          "verifyLine": 1,
+          "verifyText": "The certificate is awarded to"
+        },
+        {
+          "originalLine": 2,
+          "originalText": "Basavaraj Maneppagol",
+          "type": "match",
+          "verifyLine": 2,
+          "verifyText": "Basavaraj Maneppagol"
+        },
+        {
+          "originalLine": 3,
+          "originalText": "for successfully completing the program",
+          "type": "match",
+          "verifyLine": 3,
+          "verifyText": "for successfully completing the program"
+        },
+        {
+          "originalLine": 4,
+          "originalText": "Internet of Things",
+          "type": "match",
+          "verifyLine": 4,
+          "verifyText": "Internet of Things"
+        },
+        {
+          "originalLine": 5,
+          "originalText": "on November 24, 2025",
+          "type": "match",
+          "verifyLine": 5,
+          "verifyText": "on November 24, 2025"
+        },
+        {
+          "originalLine": 6,
+          "originalText": "Issued on: Monday, November 24, 2025",
+          "type": "match",
+          "verifyLine": 6,
+          "verifyText": "Issued on: Monday, November 24, 2025"
+        },
+        {
+          "originalLine": 7,
+          "originalText": "To verify, scan the QR code at https://verify.onwingspan.com",
+          "type": "match",
+          "verifyLine": 7,
+          "verifyText": "To verify, scan the QR code at https://verify.onwingspan.com"
+        }
+      ],
+      "model": "tfidf-cosine",
+      "similarity": 100,
+      "summary": {
+        "added": 0,
+        "matches": 7,
+        "modified": 0,
+        "removed": 0,
+        "totalOriginalLines": 7,
+        "totalVerifyLines": 7
+      },
+      "textStats": {
+        "originalCharacters": 235,
+        "originalLines": 7,
+        "verifyCharacters": 235,
+        "verifyLines": 7
+      },
+      "truncated": false
+    },
+    "date": "2026-01-08T06:35:28.366Z"
+  },
+  {
+    "type": "upload",
+    "user": "abhishekm0115@gmail.com",
+    "fileName": "IMG_20250514_203316.jpg",
+    "storedAs": "1767854549333-IMG_20250514_203316.jpg",
+    "hash": "75b49805e5d74d8df68d12e4cea401f37cc14cddb7375b01649706f49e2bd269",
+    "url": "http://localhost:5000/uploads/abhishekm0115_gmail_com/originals/1767854549333-IMG_20250514_203316.jpg",
+    "date": "2026-01-08T06:42:29.726Z"
+  },
+  {
+    "type": "verify",
+    "user": "abhishekm0115@gmail.com",
+    "fileName": "IMG_20250514_203327.jpg",
+    "storedAs": "1767854560527-IMG_20250514_203327.jpg",
+    "url": "http://localhost:5000/uploads/abhishekm0115_gmail_com/verify/1767854560527-IMG_20250514_203327.jpg",
+    "status": "Modified",
+    "similarity": "91.70%",
+    "matchedOriginal": "http://localhost:5000/uploads/abhishekm0115_gmail_com/originals/1767854549333-IMG_20250514_203316.jpg",
+    "analysis": {
+      "lineAnalysis": [
+        {
+          "originalLine": 1,
+          "originalText": "$Y3}[Vg;<v\"| U# \u0005x5֗N?i?ed|̧m~\u0005k\u0002o\\ec|5d \u0015 ( y\u0017\" \"Xduڲ\u0018Xc}m/",
+          "type": "modified",
+          "verifyLine": 1,
+          "verifyText": "s@i 9f@305g?ؖ{Mje\u0013)n\u001bTϪq\u0005Ķ叚\u001a[x[c<?'u<#an>Eco",
+          "wordDiff": {
+            "added": [
+              "s@i 9f@305g?ؖ{Mje\u0013)n\u001bTϪq\u0005Ķ叚\u001a[x[c<?'u<#an>Eco"
+            ],
+            "removed": [
+              "$Y3}[Vg;<v\"| U# \u0005x5֗N?i?ed|̧m~\u0005k\u0002o\\ec|5d \u0015 ( y\u0017\" \"Xduڲ\u0018Xc}m/"
+            ]
+          }
+        },
+        {
+          "originalLine": 2,
+          "originalText": "(NC,W?<pGLW \u0007t<&$B\\K$E 3wk3 ͯ C",
+          "type": "modified",
+          "verifyLine": 2,
+          "verifyText": "/ٷ]k-<9Ko`sZ[R\u0015|^+ust;\u000f؈h=N;M",
+          "wordDiff": {
+            "added": [
+              "/ٷ]k-<9Ko`sZ[R\u0015|^+ust;\u000f؈h=N;M"
+            ],
+            "removed": [
+              "(NC,W?<pGLW \u0007t<&$B\\K$E 3wk3 ͯ C"
+            ]
+          }
+        },
+        {
+          "originalLine": 3,
+          "originalText": "i{ ċ",
+          "type": "modified",
+          "verifyLine": 3,
+          "verifyText": "ro\u0012š#oWO%| B1*`EuZÏؿE|",
+          "wordDiff": {
+            "added": [
+              "ro\u0012š#oWO%| B1*`EuZÏؿE|"
+            ],
+            "removed": [
+              "i{ ċ"
+            ]
+          }
+        },
+        {
+          "originalLine": 4,
+          "originalText": "d#i*|P9 毁˰b\u0004`c\u0000rP~Țn\u0012uȕ_a\u0018xU(z PWUaa! #O\\%e'q,o6_R\u00007",
+          "type": "modified",
+          "verifyLine": 4,
+          "verifyText": "FZvWo4Y\u0017om[?e_ ~?>& t",
+          "wordDiff": {
+            "added": [
+              "FZvWo4Y\u0017om[?e_ ~?>& t"
+            ],
+            "removed": [
+              "d#i*|P9 毁˰b\u0004`c\u0000rP~Țn\u0012uȕ_a\u0018xU(z PWUaa! #O\\%e'q,o6_R\u00007"
+            ]
+          }
+        },
+        {
+          "originalLine": 5,
+          "originalText": "8oN\bc\u0000s|B$& >n?ߗ_aߵ< wg",
+          "type": "modified",
+          "verifyLine": 5,
+          "verifyText": "/RX)oP5iTHϙ'vyj:",
+          "wordDiff": {
+            "added": [
+              "/RX)oP5iTHϙ'vyj:"
+            ],
+            "removed": [
+              "8oN\bc\u0000s|B$& >n?ߗ_aߵ< wg"
+            ]
+          }
+        },
+        {
+          "originalLine": 6,
+          "originalText": "/0$ yuS,",
+          "type": "modified",
+          "verifyLine": 6,
+          "verifyText": "igMO<<?ln\\PyڬE5q\u001bH ֩vM+O\u0005M2-f.",
+          "wordDiff": {
+            "added": [
+              "igMO<<?ln\\PyڬE5q\u001bH ֩vM+O\u0005M2-f."
+            ],
+            "removed": [
+              "/0$ yuS,"
+            ]
+          }
+        },
+        {
+          "originalLine": 7,
+          "originalText": "%k\" 8Oޭ",
+          "type": "modified",
+          "verifyLine": 7,
+          "verifyText": "a\u0010jߵu(ZCm\u0015ռwcX]CD9eI U$1\u0001y\u0015G=x;y t?_?\"ngg{u.,CM1",
+          "wordDiff": {
+            "added": [
+              "a\u0010jߵu(ZCm\u0015ռwcX]CD9eI U$1\u0001y\u0015G=x;y t?_?\"ngg{u.,CM1"
+            ],
+            "removed": [
+              "%k\" 8Oޭ"
+            ]
+          }
+        },
+        {
+          "originalLine": 8,
+          "originalText": "fV0f:j\u0012U\\`<V_۟Hio\u0007C}-+\u0011I_K^؋\u0010Q\u0000To`H^U| \u00153\u0016q|Wmk[SFm%ahSkˉr r2$mDǵF˛o햽y{Oے",
+          "type": "modified",
+          "verifyLine": 8,
+          "verifyText": "_kh$ hzSYAw}cO,ۣZ\u0010ac",
+          "wordDiff": {
+            "added": [
+              "_kh$ hzSYAw}cO,ۣZ\u0010ac"
+            ],
+            "removed": [
+              "fV0f:j\u0012U\\`<V_۟Hio\u0007C}-+\u0011I_K^؋\u0010Q\u0000To`H^U| \u00153\u0016q|Wmk[SFm%ahSkˉr r2$mDǵF˛o햽y{Oے"
+            ]
+          }
+        },
+        {
+          "originalLine": 9,
+          "originalText": "$jYdxO Zt5ѲV>\"~6xĖ0\u0000t_MҼ",
+          "type": "modified",
+          "verifyLine": 9,
+          "verifyText": "?a2 Auq,(\u00064|d",
+          "wordDiff": {
+            "added": [
+              "?a2 Auq,(\u00064|d"
+            ],
+            "removed": [
+              "$jYdxO Zt5ѲV>\"~6xĖ0\u0000t_MҼ"
+            ]
+          }
+        },
+        {
+          "originalLine": 10,
+          "originalText": "FVd\u0016̥atӊo\\6h_S_ٻ׿ں\u000f^4˓M>.W.q)*IMpF8",
+          "type": "modified",
+          "verifyLine": 10,
+          "verifyText": "3ng\u0014~0I$mb7 ( 6hb|ğ\u000f)?",
+          "wordDiff": {
+            "added": [
+              "3ng\u0014~0I$mb7 ( 6hb|ğ\u000f)?"
+            ],
+            "removed": [
+              "FVd\u0016̥atӊo\\6h_S_ٻ׿ں\u000f^4˓M>.W.q)*IMpF8"
+            ]
+          }
+        },
+        {
+          "originalLine": 11,
+          "originalText": "x9,g\u0002df,7a",
+          "type": "modified",
+          "verifyLine": 11,
+          "verifyText": "E_ ۦѮ~ x+ \u0004)!{-au6 %ƥ%A1o EHQ{y!{oß",
+          "wordDiff": {
+            "added": [
+              "E_ ۦѮ~ x+ \u0004)!{-au6 %ƥ%A1o EHQ{y!{oß"
+            ],
+            "removed": [
+              "x9,g\u0002df,7a"
+            ]
+          }
+        },
+        {
+          "originalLine": 12,
+          "originalText": "ɣi>|f [ &_E՟Oxnl\u0015~4~TNghB+(`7f j3Lx",
+          "type": "modified",
+          "verifyLine": 12,
+          "verifyText": "r!5f\u0014{>z rrq6$sWѾ",
+          "wordDiff": {
+            "added": [
+              "r!5f\u0014{>z rrq6$sWѾ"
+            ],
+            "removed": [
+              "ɣi>|f [ &_E՟Oxnl\u0015~4~TNghB+(`7f j3Lx"
+            ]
+          }
+        },
+        {
+          "originalLine": 13,
+          "originalText": "_+O\u0004HMP޿x*]m/%ݕ4?",
+          "type": "modified",
+          "verifyLine": 13,
+          "verifyText": "ŷ:^_<M' ey\u0006i.9v梓Q\\%w=",
+          "wordDiff": {
+            "added": [
+              "ŷ:^_<M' ey\u0006i.9v梓Q\\%w="
+            ],
+            "removed": [
+              "_+O\u0004HMP޿x*]m/%ݕ4?"
+            ]
+          }
+        },
+        {
+          "originalLine": 14,
+          "originalText": ".|UKqvakyp|ۼ?=@=+LM",
+          "type": "modified",
+          "verifyLine": 14,
+          "verifyText": "L}@I+=1!.3HoB?ۓǾ\u0005>",
+          "wordDiff": {
+            "added": [
+              "L}@I+=1!.3HoB?ۓǾ\u0005>"
+            ],
+            "removed": [
+              ".|UKqvakyp|ۼ?=@=+LM"
+            ]
+          }
+        },
+        {
+          "originalLine": 15,
+          "originalText": "k\u001a厹JEŭZ@Ԋ PGalaw)s\\\u000f VxHɥ} -%KZ>\"&[X_x\u0019e g Jpq",
+          "type": "modified",
+          "verifyLine": 15,
+          "verifyText": "ЇWiޑWFM7\u001bsYS3R_ކ^ui]NߣK $a /܋\u0018ᵻբ--Φʈ*Q7IT6й*BAܲU9kφZt:m",
+          "wordDiff": {
+            "added": [
+              "ЇWiޑWFM7\u001bsYS3R_ކ^ui]NߣK $a /܋\u0018ᵻբ--Φʈ*Q7IT6й*BAܲU9kφZt:m"
+            ],
+            "removed": [
+              "k\u001a厹JEŭZ@Ԋ PGalaw)s\\\u000f VxHɥ} -%KZ>\"&[X_x\u0019e g Jpq"
+            ]
+          }
+        },
+        {
+          "originalLine": 16,
+          "originalText": "4o-$*|P 9\u00040R",
+          "type": "modified",
+          "verifyLine": 16,
+          "verifyText": "Ï*6#9PaZV\"{",
+          "wordDiff": {
+            "added": [
+              "Ï*6#9PaZV\"{"
+            ],
+            "removed": [
+              "4o-$*|P 9\u00040R"
+            ]
+          }
+        },
+        {
+          "originalLine": 17,
+          "originalText": "^ :S!DdtEvh[[[9prF+ܖ:g=,5)F mŴ\u0016=W\u0000\u0017\u0017\\G+I",
+          "type": "modified",
+          "verifyLine": 17,
+          "verifyText": "j\u001am$ˎO7 'ق?11S!>o8|/ւ,Qg]bѼݻ`ۆ\bm\beV {;!7ï\u0011*j2jzխ+",
+          "wordDiff": {
+            "added": [
+              "j\u001am$ˎO7 'ق?11S!>o8|/ւ,Qg]bѼݻ`ۆ\bm\beV {;!7ï\u0011*j2jzխ+"
+            ],
+            "removed": [
+              "^ :S!DdtEvh[[[9prF+ܖ:g=,5)F mŴ\u0016=W\u0000\u0017\u0017\\G+I"
+            ]
+          }
+        },
+        {
+          "originalLine": 18,
+          "originalText": "h*@*zu{ -\u0004s_^<Y",
+          "type": "modified",
+          "verifyLine": 18,
+          "verifyText": "/\\7W7bMsHCYn\u0017",
+          "wordDiff": {
+            "added": [
+              "/\\7W7bMsHCYn\u0017"
+            ],
+            "removed": [
+              "h*@*zu{ -\u0004s_^<Y"
+            ]
+          }
+        },
+        {
+          "originalLine": 19,
+          "originalText": "QUM!ʁ s^/m(m\"lq:ZyfT\\ģu Ж\u0007",
+          "type": "modified",
+          "verifyLine": 19,
+          "verifyText": "m.6j_4W J d! ,3895h_\u000eum7M&HȘ\u0010\"\u001bT] iid%",
+          "wordDiff": {
+            "added": [
+              "m.6j_4W J d! ,3895h_\u000eum7M&HȘ\u0010\"\u001bT] iid%"
+            ],
+            "removed": [
+              "QUM!ʁ s^/m(m\"lq:ZyfT\\ģu Ж\u0007"
+            ]
+          }
+        },
+        {
+          "originalLine": 20,
+          "originalText": "j 4MCSj+rAf}P@\u0004U;Cn T;.dw89JT5\u0015\u0017k+^ns !< c\u0012U\u0016؀:8 ,x>enH",
+          "type": "modified",
+          "verifyLine": 20,
+          "verifyText": "}^-/Z\u001a=^ XI~as",
+          "wordDiff": {
+            "added": [
+              "}^-/Z\u001a=^ XI~as"
+            ],
+            "removed": [
+              "j 4MCSj+rAf}P@\u0004U;Cn T;.dw89JT5\u0015\u0017k+^ns !< c\u0012U\u0016؀:8 ,x>enH"
+            ]
+          }
+        },
+        {
+          "originalLine": 21,
+          "originalText": "x#1[ŗw",
+          "type": "modified",
+          "verifyLine": 21,
+          "verifyText": "I(8 L/ 5c\u0000 _í6P0k[qGySJc.nRX෍I^\"*N\b'IQr֩Eйn\u001bmBJ\u0011a0wO",
+          "wordDiff": {
+            "added": [
+              "I(8 L/ 5c\u0000 _í6P0k[qGySJc.nRX෍I^\"*N\b'IQr֩Eйn\u001bmBJ\u0011a0wO"
+            ],
+            "removed": [
+              "x#1[ŗw"
+            ]
+          }
+        },
+        {
+          "originalLine": 22,
+          "originalText": "Ei$ʒHշ$D6H,]@-\u0011O@s_",
+          "type": "modified",
+          "verifyLine": 22,
+          "verifyText": "!IF- w",
+          "wordDiff": {
+            "added": [
+              "!IF- w"
+            ],
+            "removed": [
+              "Ei$ʒHշ$D6H,]@-\u0011O@s_"
+            ]
+          }
+        },
+        {
+          "originalLine": 23,
+          "originalText": "Lp 54һ ,u<׻E' \u0019ٵ\u0004Zim|8!MVCy",
+          "type": "modified",
+          "verifyLine": 23,
+          "verifyText": ":Ch6",
+          "wordDiff": {
+            "added": [
+              ":Ch6"
+            ],
+            "removed": [
+              "Lp 54һ ,u<׻E' \u0019ٵ\u0004Zim|8!MVCy"
+            ]
+          }
+        },
+        {
+          "originalLine": 24,
+          "originalText": "sVC|Ih ҮuTc\u0018e",
+          "type": "modified",
+          "verifyLine": 24,
+          "verifyText": "&xM-ŕ\u0018Nk>!$rCq P$ʼ Xo Wi \u0014|mR\u000fd",
+          "wordDiff": {
+            "added": [
+              "&xM-ŕ\u0018Nk>!$rCq P$ʼ Xo Wi \u0014|mR\u000fd"
+            ],
+            "removed": [
+              "sVC|Ih ҮuTc\u0018e"
+            ]
+          }
+        },
+        {
+          "originalLine": 25,
+          "originalText": "wo`O\u0015j:<0xĖ.u",
+          "type": "modified",
+          "verifyLine": 25,
+          "verifyText": "=xQ\\~Ě/{'#}+ vA0pN9#H'9u=ݖYPNrqRWZw~ ;Hu S[t -Y4+Í-5w\u0016nZ6XHHd|",
+          "wordDiff": {
+            "added": [
+              "=xQ\\~Ě/{'#}+ vA0pN9#H'9u=ݖYPNrqRWZw~ ;Hu S[t -Y4+Í-5w\u0016nZ6XHHd|"
+            ],
+            "removed": [
+              "wo`O\u0015j:<0xĖ.u"
+            ]
+          }
+        },
+        {
+          "originalLine": 26,
+          "originalText": "{;nbv#!B(e",
+          "type": "modified",
+          "verifyLine": 26,
+          "verifyText": "YrOb~~N16߶5,]M/thVm!q< *++׾\u001aڗ",
+          "wordDiff": {
+            "added": [
+              "YrOb~~N16߶5,]M/thVm!q< *++׾\u001aڗ"
+            ],
+            "removed": [
+              "{;nbv#!B(e"
+            ]
+          }
+        },
+        {
+          "originalLine": 27,
+          "originalText": "\u0000:t3;[\u0013i ۮ>Ծaok*_@|1",
+          "type": "modified",
+          "verifyLine": 27,
+          "verifyText": "J / \u0000ƾEz E k*kp݋ k  .8m",
+          "wordDiff": {
+            "added": [
+              "J / \u0000ƾEz E k*kp݋ k  .8m"
+            ],
+            "removed": [
+              "\u0000:t3;[\u0013i ۮ>Ծaok*_@|1"
+            ]
+          }
+        },
+        {
+          "originalLine": 28,
+          "originalText": "FtRh1V",
+          "type": "modified",
+          "verifyLine": 28,
+          "verifyText": "ի*/`ጧ\u0001jOkYifGsR&n>=",
+          "wordDiff": {
+            "added": [
+              "ի*/`ጧ\u0001jOkYifGsR&n>="
+            ],
+            "removed": [
+              "FtRh1V"
+            ]
+          }
+        },
+        {
+          "originalLine": 29,
+          "originalText": "~37:m.澵ӭ%C",
+          "type": "modified",
+          "verifyLine": 29,
+          "verifyText": "5(Mv龯SM\u0000~> a|tk/V<.#)/\u0000A!f%D#T~&\u0000@?d?>\u0000uwh\u00043xTWv:T(G ܊?",
+          "wordDiff": {
+            "added": [
+              "5(Mv龯SM\u0000~> a|tk/V<.#)/\u0000A!f%D#T~&\u0000@?d?>\u0000uwh\u00043xTWv:T(G ܊?"
+            ],
+            "removed": [
+              "~37:m.澵ӭ%C"
+            ]
+          }
+        },
+        {
+          "originalLine": 30,
+          "originalText": "D0C yyx)\u0011do\u0005v^Fo},PYL\u001a ܾ]nݷ@zt",
+          "type": "modified",
+          "verifyLine": 30,
+          "verifyText": "L |5|ul3",
+          "wordDiff": {
+            "added": [
+              "L |5|ul3"
+            ],
+            "removed": [
+              "D0C yyx)\u0011do\u0005v^Fo},PYL\u001a ܾ]nݷ@zt"
+            ]
+          }
+        },
+        {
+          "originalLine": 31,
+          "originalText": "] AyO| M\"Mq*iW/2*0TV< \u0000",
+          "type": "modified",
+          "verifyLine": 31,
+          "verifyText": "b8fxʇVYt㒤\u0019",
+          "wordDiff": {
+            "added": [
+              "b8fxʇVYt㒤\u0019"
+            ],
+            "removed": [
+              "] AyO| M\"Mq*iW/2*0TV< \u0000"
+            ]
+          }
+        },
+        {
+          "originalLine": 32,
+          "originalText": "h/}$3nurd\u0005N;",
+          "type": "modified",
+          "verifyLine": 32,
+          "verifyText": "j(gn8)^\u0013Sy? 'm",
+          "wordDiff": {
+            "added": [
+              "j(gn8)^\u0013Sy? 'm"
+            ],
+            "removed": [
+              "h/}$3nurd\u0005N;"
+            ]
+          }
+        },
+        {
+          "originalLine": 33,
+          "originalText": "e vlmyd4 { $D0r\u0000\u0018;.OfY][",
+          "type": "modified",
+          "verifyLine": 33,
+          "verifyText": "O\u0015xC^i\u000f:\u0004F[~\\($] 4C\u000fN).IuvM<.༳p+ +GnZ]5V?O_G^9/<5a/",
+          "wordDiff": {
+            "added": [
+              "O\u0015xC^i\u000f:\u0004F[~\\($] 4C\u000fN).IuvM<.༳p+ +GnZ]5V?O_G^9/<5a/"
+            ],
+            "removed": [
+              "e vlmyd4 { $D0r\u0000\u0018;.OfY]["
+            ]
+          }
+        },
+        {
+          "originalLine": 34,
+          "originalText": ";\b1MwC!{ ,zLV\bx F% -o",
+          "type": "modified",
+          "verifyLine": 34,
+          "verifyText": "X|}bNY9kn\u001aA$EFNAV\u0006E",
+          "wordDiff": {
+            "added": [
+              "X|}bNY9kn\u001aA$EFNAV\u0006E"
+            ],
+            "removed": [
+              ";\b1MwC!{ ,zLV\bx F% -o"
+            ]
+          }
+        },
+        {
+          "originalLine": 35,
+          "originalText": "Ŕ}rdlArO{0%U@ɖ\u0019cxU>ҡu<3#9\u0012]cika)f1g\u0019Xp\u0000\u000fesF1ꚻ{MAe\u0015ݷ࿎Y$$$a\u0019?K^}Fs~:\u001bP\u000fv\u0019d-0vF<`@}:?_ c 9\u0000 \u0018X\u0000jx~1~ȓ2M/\b]B9h[\\B\u000ee<zǃܺa0bӵӷޑRJ+6m \u0002dhttp://ns.adobe.com/xap/1.0/\u0000<x:xmpmeta xmlns:x=\"adobe:ns:meta/\" x:xmptk=\"Adobe XMP Core 5.1.0-jc003\">",
+          "type": "modified",
+          "verifyLine": 35,
+          "verifyText": "9┮]4oEwg ?b/x ǿ",
+          "wordDiff": {
+            "added": [
+              "9┮]4oEwg ?b/x ǿ"
+            ],
+            "removed": [
+              "Ŕ}rdlArO{0%U@ɖ\u0019cxU>ҡu<3#9\u0012]cika)f1g\u0019Xp\u0000\u000fesF1ꚻ{MAe\u0015ݷ࿎Y$$$a\u0019?K^}Fs~:\u001bP\u000fv\u0019d-0vF<`@}:?_ c 9\u0000 \u0018X\u0000jx~1~ȓ2M/\b]B9h[\\B\u000ee<zǃܺa0bӵӷޑRJ+6m \u0002dhttp://ns.adobe.com/xap/1.0/\u0000<x:xmpmeta xmlns:x=\"adobe:ns:meta/\" x:xmptk=\"Adobe XMP Core 5.1.0-jc003\">"
+            ]
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 36,
+          "verifyText": "YZ+x\u0012) 7< vvSe&DW~! BtXA& Gڧ<|Ų8su;P w\"X\u0015mQ\u0016#",
+          "wordDiff": {
+            "added": [
+              "YZ+x\u0012) 7< vvSe&DW~! BtXA& Gڧ<|Ų8su;P w\"X\u0015mQ\u0016#"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 37,
+          "verifyText": "C|Wi\u000f/ſ XHU dԼE",
+          "wordDiff": {
+            "added": [
+              "C|Wi\u000f/ſ XHU dԼE"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 38,
+          "verifyText": "޿[ !e峏/T _6|@|\u000fo\"{2PmⵐQ 9 s__{1wk\\̈7Oλ #T\u001b[\u0015\u0011D@)ٱ,-)g:88JQw]\u0000 \u0002dhttp://ns.adobe.com/xap/1.0/\u0000<x:xmpmeta xmlns:x=\"adobe:ns:meta/\" x:xmptk=\"Adobe XMP Core 5.1.0-jc003\">",
+          "wordDiff": {
+            "added": [
+              "޿[ !e峏/T _6|@|\u000fo\"{2PmⵐQ 9 s__{1wk\\̈7Oλ #T\u001b[\u0015\u0011D@)ٱ,-)g:88JQw]\u0000 \u0002dhttp://ns.adobe.com/xap/1.0/\u0000<x:xmpmeta xmlns:x=\"adobe:ns:meta/\" x:xmptk=\"Adobe XMP Core 5.1.0-jc003\">"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": 36,
+          "originalText": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\">",
+          "type": "match",
+          "verifyLine": 39,
+          "verifyText": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\">"
+        },
+        {
+          "originalLine": 37,
+          "originalText": "<rdf:Description rdf:about=\"\"",
+          "type": "match",
+          "verifyLine": 40,
+          "verifyText": "<rdf:Description rdf:about=\"\""
+        },
+        {
+          "originalLine": 38,
+          "originalText": "xmlns:OPMedia=\"http://ns.oneplus.com/media/1.0\"",
+          "type": "match",
+          "verifyLine": 41,
+          "verifyText": "xmlns:OPMedia=\"http://ns.oneplus.com/media/1.0\""
+        },
+        {
+          "originalLine": 39,
+          "originalText": "OPMedia:CaptureMode=\"Photo\"",
+          "type": "match",
+          "verifyLine": 42,
+          "verifyText": "OPMedia:CaptureMode=\"Photo\""
+        },
+        {
+          "originalLine": 40,
+          "originalText": "OPMedia:LensFacing=\"Back\"",
+          "type": "match",
+          "verifyLine": 43,
+          "verifyText": "OPMedia:LensFacing=\"Back\""
+        },
+        {
+          "originalLine": 41,
+          "originalText": "OPMedia:SceneDetectResultIds=\"[50, 0, 0]\"",
+          "type": "match",
+          "verifyLine": 44,
+          "verifyText": "OPMedia:SceneDetectResultIds=\"[50, 0, 0]\""
+        },
+        {
+          "originalLine": 42,
+          "originalText": "OPMedia:SceneDetectResultConfidences=\"[0.8901962, 0.0, 0.0]\"",
+          "type": "match",
+          "verifyLine": 45,
+          "verifyText": "OPMedia:SceneDetectResultConfidences=\"[0.8901962, 0.0, 0.0]\""
+        },
+        {
+          "originalLine": 43,
+          "originalText": "OPMedia:Scene=\"AutoHDR\"",
+          "type": "match",
+          "verifyLine": 46,
+          "verifyText": "OPMedia:Scene=\"AutoHDR\""
+        },
+        {
+          "originalLine": 44,
+          "originalText": "OPMedia:IsHDRActive=\"False\"",
+          "type": "match",
+          "verifyLine": 47,
+          "verifyText": "OPMedia:IsHDRActive=\"False\""
+        },
+        {
+          "originalLine": 45,
+          "originalText": "OPMedia:IsNightModeActive=\"False\"",
+          "type": "match",
+          "verifyLine": 48,
+          "verifyText": "OPMedia:IsNightModeActive=\"False\""
+        },
+        {
+          "originalLine": 46,
+          "originalText": "OPMedia:IsBokehActive=\"False\"/>",
+          "type": "match",
+          "verifyLine": 49,
+          "verifyText": "OPMedia:IsBokehActive=\"False\"/>"
+        },
+        {
+          "originalLine": 47,
+          "originalText": "</rdf:RDF>",
+          "type": "match",
+          "verifyLine": 50,
+          "verifyText": "</rdf:RDF>"
+        },
+        {
+          "originalLine": 48,
+          "originalText": "</x:xmpmeta>",
+          "type": "match",
+          "verifyLine": 51,
+          "verifyText": "</x:xmpmeta>"
+        },
+        {
+          "originalLine": 49,
+          "originalText": "Jck~#Im",
+          "type": "modified",
+          "verifyLine": 52,
+          "verifyText": "\u0003/B*kh%Ԓ9>UfY6[E\u0013خ$%AWel1=O(q)}erC.9 յ5x \u0012DUI,3 J]%n]NHP3+6\u000ess uf\u0012.R\u0010C O q})t^ tT(\u0003ۼB!\u0003Xqڭ_51Kue!Y\u0014\u000f8 @ʭƗ̹V9x\u0018t \u0000:< _an䢱\u001b瓎sϭ4r]h^ Ң",
+          "wordDiff": {
+            "added": [
+              "\u0003/B*kh%Ԓ9>UfY6[E\u0013خ$%AWel1=O(q)}erC.9 յ5x \u0012DUI,3 J]%n]NHP3+6\u000ess uf\u0012.R\u0010C O q})t^ tT(\u0003ۼB!\u0003Xqڭ_51Kue!Y\u0014\u000f8 @ʭƗ̹V9x\u0018t \u0000:< _an䢱\u001b瓎sϭ4r]h^ Ң"
+            ],
+            "removed": [
+              "Jck~#Im"
+            ]
+          }
+        },
+        {
+          "originalLine": 50,
+          "originalText": "29\u0007d *{ԻRy!\u0019sn=9 hkmgs\u0004Kt\"$z8 [ m*h rQt(lƥD",
+          "type": "modified",
+          "verifyLine": 53,
+          "verifyText": "1=NOOb}*Ϳ帎yμ*8\u0007I4-ԳXks#@8`q>xOi_\\Cq'm,\bG ?*Nɒ\u001b}m",
+          "wordDiff": {
+            "added": [
+              "1=NOOb}*Ϳ帎yμ*8\u0007I4-ԳXks#@8`q>xOi_\\Cq'm,\bG ?*Nɒ\u001b}m"
+            ],
+            "removed": [
+              "29\u0007d *{ԻRy!\u0019sn=9 hkmgs\u0004Kt\"$z8 [ m*h rQt(lƥD"
+            ]
+          }
+        },
+        {
+          "originalLine": 51,
+          "originalText": "P^,M\u0018\u0019J`kӴ\"Rcp0*AQ2؀1\b#~1֥usw CnvR Lҽ\u001a0P\u0019ϙ2@\\oiL}\u0013H+(q(\u00198cwrؒj@]\u0007 jWҝѹv~]vﱚM K7wXTJ꫐>Gkk> Au RPO^x9ҩGZ]& JBC,dn|\u000fOZ5wn[刍@ l>ʚqGZh6ɲUZVI",
+          "type": "modified",
+          "verifyLine": 54,
+          "verifyText": "=r{ҧ$ ̃H!_>hA 6C\u000fN\u0000煷]M/N$( l\\cOjm4]B;O\u0012J t\u0011rHJ/=s]6mmH/]+0;D#nN9B",
+          "wordDiff": {
+            "added": [
+              "=r{ҧ$ ̃H!_>hA 6C\u000fN\u0000煷]M/N$( l\\cOjm4]B;O\u0012J t\u0011rHJ/=s]6mmH/]+0;D#nN9B"
+            ],
+            "removed": [
+              "P^,M\u0018\u0019J`kӴ\"Rcp0*AQ2؀1\b#~1֥usw CnvR Lҽ\u001a0P\u0019ϙ2@\\oiL}\u0013H+(q(\u00198cwrؒj@]\u0007 jWҝѹv~]vﱚM K7wXTJ꫐>Gkk> Au RPO^x9ҩGZ]& JBC,dn|\u000fOZ5wn[刍@ l>ʚqGZh6ɲUZVI"
+            ]
+          }
+        },
+        {
+          "originalLine": 52,
+          "originalText": "|ځݤ'EN>=jY<C\u000ee,l z\u0000x",
+          "type": "modified",
+          "verifyLine": 55,
+          "verifyText": "5 ^%fdB38Һ",
+          "wordDiff": {
+            "added": [
+              "5 ^%fdB38Һ"
+            ],
+            "removed": [
+              "|ځݤ'EN>=jY<C\u000ee,l z\u0000x"
+            ]
+          }
+        },
+        {
+          "originalLine": 53,
+          "originalText": "޵.bpH`> Z",
+          "type": "modified",
+          "verifyLine": 56,
+          "verifyText": "/p:ޟqpcYx",
+          "wordDiff": {
+            "added": [
+              "/p:ޟqpcYx"
+            ],
+            "removed": [
+              "޵.bpH`> Z"
+            ]
+          }
+        },
+        {
+          "originalLine": 54,
+          "originalText": "+?Ӛʴ\\HdQH\u0014v",
+          "type": "modified",
+          "verifyLine": 57,
+          "verifyText": "2U)>X(<g",
+          "wordDiff": {
+            "added": [
+              "2U)>X(<g"
+            ],
+            "removed": [
+              "+?Ӛʴ\\HdQH\u0014v"
+            ]
+          }
+        },
+        {
+          "originalLine": 55,
+          "originalText": "-Qb~ [W",
+          "type": "modified",
+          "verifyLine": 58,
+          "verifyText": "ci}g;I\u00111^_${G իI*H&A\"x{c",
+          "wordDiff": {
+            "added": [
+              "ci}g;I\u00111^_${G իI*H&A\"x{c"
+            ],
+            "removed": [
+              "-Qb~ [W"
+            ]
+          }
+        },
+        {
+          "originalLine": 56,
+          "originalText": "ժ\u0019O)>AxzN%&ae0Ĉ÷ N_\u000e[iEx8Wͻ! \u0010=BVt /$c\u001am\u000fر?^?:<yikN)K> YhkŨyCPyyJ~PGO\u001b",
+          "type": "modified",
+          "verifyLine": 59,
+          "verifyText": "ʍIXC",
+          "wordDiff": {
+            "added": [
+              "ʍIXC"
+            ],
+            "removed": [
+              "ժ\u0019O)>AxzN%&ae0Ĉ÷ N_\u000e[iEx8Wͻ! \u0010=BVt /$c\u001am\u000fر?^?:<yikN)K> YhkŨyCPyyJ~PGO\u001b"
+            ]
+          }
+        },
+        {
+          "originalLine": 57,
+          "originalText": "ۑex {8\u0005\u0018ܥ޹<<\u0004e Q ܧ#_9\\WN&}/NNf[*@H 3\\<kc\u0004qKX$ ґn`1jO>-6ncVǣ8=. 'MQht\u0016i",
+          "type": "modified",
+          "verifyLine": 60,
+          "verifyText": "+X|e Zc(y",
+          "wordDiff": {
+            "added": [
+              "+X|e Zc(y"
+            ],
+            "removed": [
+              "ۑex {8\u0005\u0018ܥ޹<<\u0004e Q ܧ#_9\\WN&}/NNf[*@H 3\\<kc\u0004qKX$ ґn`1jO>-6ncVǣ8=. 'MQht\u0016i"
+            ]
+          }
+        },
+        {
+          "originalLine": 58,
+          "originalText": "Oҙx+\\| 4",
+          "type": "modified",
+          "verifyLine": 61,
+          "verifyText": "1֥ZnN׺Aibev8!W@\u0015wK]ۃxX X4+p>f##SSҼ76\u0013]\\",
+          "wordDiff": {
+            "added": [
+              "1֥ZnN׺Aibev8!W@\u0015wK]ۃxX X4+p>f##SSҼ76\u0013]\\"
+            ],
+            "removed": [
+              "Oҙx+\\| 4"
+            ]
+          }
+        },
+        {
+          "originalLine": 59,
+          "originalText": "QWI$e_~+u[\u0019t/",
+          "type": "modified",
+          "verifyLine": 62,
+          "verifyText": "FW\u001aB1d5t/4bdB@ p? q4m4tN|\u0016",
+          "wordDiff": {
+            "added": [
+              "FW\u001aB1d5t/4bdB@ p? q4m4tN|\u0016"
+            ],
+            "removed": [
+              "QWI$e_~+u[\u0019t/"
+            ]
+          }
+        },
+        {
+          "originalLine": 60,
+          "originalText": "mnmesQ OdxĶ:C RH98 yk<km\u001bY 79,fiC;ŷ;}>ޕW\u0017Z\\_(\u0019S; Dsu\u001aZ=3Zw o\u0019 {WuM>K\u0017\u0016Ӏ\u0005s\u000e88 [|ShZayQ޹^A,v*\u0014-u\u0018<sPB\u0016ŗ:ͽ:Uͽ`A]׆Η?H!:\u0015Z..5%\u000fz珧_cX\u001bŶfObR?L\u000fڜ]$ٳ+ 4\u001b; ҥ|'F1o\u0000qs m ~M n̍m\"=ˀ\u0003?O ?\u0006Gr5h$\u0012M\u0000 G׭aXxLӮo|#ynUՎSsߊrnu \u0013|\u0003/\u0007Ɩ>!g^M&T4Hyb˜\u0018+? 0k%ȕȵX* _ְ> irMN6f{L垣p\u000f^1^ \u001b \\h 嶪8'M4Ҷx Ƿz坾≯-cp8\u0018I\u0003[^+<] CfM OSD'w F3\u0005M9$[ɮ-aU&H)a\u0015D:mK\u0014>-^\u0000k'׿CDƒGf$zD 8˱\u0016u\u0018$<\u0015 }'^U0C d}ޝ{c^M V \u0015F<1\u0007ONnw'Sa\u0018.Ȅ.@zkb[h-ncKxr~ҭq pO& ~ W.M!8\u0000v(S=3i\\xOT\u0012WSq d \u00129889ӼEu/Ieb$xd",
+          "type": "modified",
+          "verifyLine": 63,
+          "verifyText": "|>-A[,oQV\u0012$Gg<",
+          "wordDiff": {
+            "added": [
+              "|>-A[,oQV\u0012$Gg<"
+            ],
+            "removed": [
+              "mnmesQ OdxĶ:C RH98 yk<km\u001bY 79,fiC;ŷ;}>ޕW\u0017Z\\_(\u0019S; Dsu\u001aZ=3Zw o\u0019 {WuM>K\u0017\u0016Ӏ\u0005s\u000e88 [|ShZayQ޹^A,v*\u0014-u\u0018<sPB\u0016ŗ:ͽ:Uͽ`A]׆Η?H!:\u0015Z..5%\u000fz珧_cX\u001bŶfObR?L\u000fڜ]$ٳ+ 4\u001b; ҥ|'F1o\u0000qs m ~M n̍m\"=ˀ\u0003?O ?\u0006Gr5h$\u0012M\u0000 G׭aXxLӮo|#ynUՎSsߊrnu \u0013|\u0003/\u0007Ɩ>!g^M&T4Hyb˜\u0018+? 0k%ȕȵX* _ְ> irMN6f{L垣p\u000f^1^ \u001b \\h 嶪8'M4Ҷx Ƿz坾≯-cp8\u0018I\u0003[^+<] CfM OSD'w F3\u0005M9$[ɮ-aU&H)a\u0015D:mK\u0014>-^\u0000k'׿CDƒGf$zD 8˱\u0016u\u0018$<\u0015 }'^U0C d}ޝ{c^M V \u0015F<1\u0007ONnw'Sa\u0018.Ȅ.@zkb[h-ncKxr~ҭq pO& ~ W.M!8\u0000v(S=3i\\xOT\u0012WSq d \u00129889ӼEu/Ieb$xd"
+            ]
+          }
+        },
+        {
+          "originalLine": 61,
+          "originalText": "XϹ5=ygt.d{:'8N \u0005X\u00038Ԧ <b",
+          "type": "modified",
+          "verifyLine": 64,
+          "verifyText": "e<'M\u0006Rf CEnY koN|[͎\u0014M.\" r SLJJ+Su",
+          "wordDiff": {
+            "added": [
+              "e<'M\u0006Rf CEnY koN|[͎\u0014M.\" r SLJJ+Su"
+            ],
+            "removed": [
+              "XϹ5=ygt.d{:'8N \u0005X\u00038Ԧ <b"
+            ]
+          }
+        },
+        {
+          "originalLine": 62,
+          "originalText": "ORӬץ|",
+          "type": "modified",
+          "verifyLine": 65,
+          "verifyText": "(S[ڔ9tWҵGOV",
+          "wordDiff": {
+            "added": [
+              "(S[ڔ9tWҵGOV"
+            ],
+            "removed": [
+              "ORӬץ|"
+            ]
+          }
+        },
+        {
+          "originalLine": 63,
+          "originalText": "]꺀\u0000{ŗ/,QXmn9?N",
+          "type": "modified",
+          "verifyLine": 66,
+          "verifyText": "1ӸB9ۂ\u0018kֵ_r",
+          "wordDiff": {
+            "added": [
+              "1ӸB9ۂ\u0018kֵ_r"
+            ],
+            "removed": [
+              "]꺀\u0000{ŗ/,QXmn9?N"
+            ]
+          }
+        },
+        {
+          "originalLine": 64,
+          "originalText": "+[<\u001a ] \\ k52yC&iگ :=\u0010&%~p?(R\\kj.-dcQ%?\"O=}1M(r)KB{wuc\u000e,ZZfb3j\u0006=T\u0013FVF;1\u0018ֳon5A{.srڈvM\u0001Ѹ{ֳkzᡧ#O#,*\u0000 P\bщ>PC\\sy0\\@;\u0000=*݅̚ڞ8vH= 6:$t{?Mw+v\u0003=\u000f",
+          "type": "modified",
+          "verifyLine": 67,
+          "verifyText": "iŮf%mQLFQ+=}ZQ\u000e.46!\u0014",
+          "wordDiff": {
+            "added": [
+              "iŮf%mQLFQ+=}ZQ\u000e.46!\u0014"
+            ],
+            "removed": [
+              "+[<\u001a ] \\ k52yC&iگ :=\u0010&%~p?(R\\kj.-dcQ%?\"O=}1M(r)KB{wuc\u000e,ZZfb3j\u0006=T\u0013FVF;1\u0018ֳon5A{.srڈvM\u0001Ѹ{ֳkzᡧ#O#,*\u0000 P\bщ>PC\\sy0\\@;\u0000=*݅̚ڞ8vH= 6:$t{?Mw+v\u0003=\u000f"
+            ]
+          }
+        },
+        {
+          "originalLine": 65,
+          "originalText": "\u001a>ʂmb4`9ڧ<usI\u001a%tf{\\'9%Pg 7ƙ\u001b{C qȐu 3N@s18XDڼ+\u000f셝=>)ٽ",
+          "type": "modified",
+          "verifyLine": 68,
+          "verifyText": "hq\u0007Ui{{<J}yF_ WӎX-Y7H3\u0007nޕIMs\u0017RwkxUfѦƝglw\u0012z_oz{Z 6",
+          "wordDiff": {
+            "added": [
+              "hq\u0007Ui{{<J}yF_ WӎX-Y7H3\u0007nޕIMs\u0017RwkxUfѦƝglw\u0012z_oz{Z 6"
+            ],
+            "removed": [
+              "\u001a>ʂmb4`9ڧ<usI\u001a%tf{\\'9%Pg 7ƙ\u001b{C qȐu 3N@s18XDڼ+\u000f셝=>)ٽ"
+            ]
+          }
+        },
+        {
+          "originalLine": 66,
+          "originalText": "%;x[+ak",
+          "type": "modified",
+          "verifyLine": 69,
+          "verifyText": "I#55\u0015P7<Ӡ?JxK[l縺n\u0017wjGߎ[&;K-",
+          "wordDiff": {
+            "added": [
+              "I#55\u0015P7<Ӡ?JxK[l縺n\u0017wjGߎ[&;K-"
+            ],
+            "removed": [
+              "%;x[+ak"
+            ]
+          }
+        },
+        {
+          "originalLine": 67,
+          "originalText": "\u001a;\\,~ tS96qt7sN\\",
+          "type": "modified",
+          "verifyLine": 70,
+          "verifyText": "!\\>}լdof\u0011B!W20;y$s60'𯍴\bǪA[Cf.yP\u0003NPs8 sM|kū\u001bxIk8\u0019waq<wI~8k+m嗆>\b۪ kx",
+          "wordDiff": {
+            "added": [
+              "!\\>}լdof\u0011B!W20;y$s60'𯍴\bǪA[Cf.yP\u0003NPs8 sM|kū\u001bxIk8\u0019waq<wI~8k+m嗆>\b۪ kx"
+            ],
+            "removed": [
+              "\u001a;\\,~ tS96qt7sN\\"
+            ]
+          }
+        },
+        {
+          "originalLine": 68,
+          "originalText": "\"ķ/n0Yc$})[}8m֋*a`qm/U@Y\u0019\\ ߍSo",
+          "type": "modified",
+          "verifyLine": 71,
+          "verifyText": "+Ժ{A&cɍ#2O$~U^(Shw7-x=d\u0011 ! zkVk \u0014&Z\u0014 %rO\u0007^Yڷ4 ɦ\\[6#@Dw'?s#8oz|܇x_; \u0014/\u000eqÖ1 W]մ=-|9iSn\u0018Xh>Bn=\u0017",
+          "wordDiff": {
+            "added": [
+              "+Ժ{A&cɍ#2O$~U^(Shw7-x=d\u0011 ! zkVk \u0014&Z\u0014 %rO\u0007^Yڷ4 ɦ\\[6#@Dw'?s#8oz|܇x_; \u0014/\u000eqÖ1 W]մ=-|9iSn\u0018Xh>Bn=\u0017"
+            ],
+            "removed": [
+              "\"ķ/n0Yc$})[}8m֋*a`qm/U@Y\u0019\\ ߍSo"
+            ]
+          }
+        },
+        {
+          "originalLine": 69,
+          "originalText": "J)\u0007׍_ʗ&/@tM.kkȤtĊ$68mmkksĤ#G}\u0001\u0000",
+          "type": "modified",
+          "verifyLine": 72,
+          "verifyText": "RH} CgGCV9jӶq\u0004\u0011kkN͵Y<1b\u0004s$FzF32kQcO",
+          "wordDiff": {
+            "added": [
+              "RH} CgGCV9jӶq\u0004\u0011kkN͵Y<1b\u0004s$FzF32kQcO"
+            ],
+            "removed": [
+              "J)\u0007׍_ʗ&/@tM.kkȤtĊ$68mmkksĤ#G}\u0001\u0000"
+            ]
+          }
+        },
+        {
+          "originalLine": 70,
+          "originalText": "yt*\u0001a k AJ'k&\u00140YX.~O JC{eiYK) \\uz~7.$\u0011[:+&9M\u0011[^-\u0004J",
+          "type": "modified",
+          "verifyLine": 73,
+          "verifyText": ".ɏȿϨk\u0003Jm0H",
+          "wordDiff": {
+            "added": [
+              ".ɏȿϨk\u0003Jm0H"
+            ],
+            "removed": [
+              "yt*\u0001a k AJ'k&\u00140YX.~O JC{eiYK) \\uz~7.$\u0011[:+&9M\u0011[^-\u0004J"
+            ]
+          }
+        },
+        {
+          "originalLine": 71,
+          "originalText": "d-Kr",
+          "type": "modified",
+          "verifyLine": 74,
+          "verifyText": "wԳ\u0014w.\"Kp q԰$",
+          "wordDiff": {
+            "added": [
+              "wԳ\u0014w.\"Kp q԰$"
+            ],
+            "removed": [
+              "d-Kr"
+            ]
+          }
+        },
+        {
+          "originalLine": 72,
+          "originalText": "[A$Pfd&KV,]> k",
+          "type": "modified",
+          "verifyLine": 75,
+          "verifyText": "kiu{7\u00129*H2",
+          "wordDiff": {
+            "added": [
+              "kiu{7\u00129*H2"
+            ],
+            "removed": [
+              "[A$Pfd&KV,]> k"
+            ]
+          }
+        },
+        {
+          "originalLine": 73,
+          "originalText": "ŝ/45b\u0015ҍPj+\"L\u0007anx<jM/Q2!\" q sGЛ@G/ =\u0014f*<Ð=s4",
+          "type": "modified",
+          "verifyLine": 76,
+          "verifyText": "{c#1F%q}q\u0007culw*gĒʨ!A 9}&\u0000PԤ\"-V,a#E RI=qS\u000143G0gیk)GiIzIi&{-nf T=Fs?:Ձ\u0011\" \u001b \u0019}QjxOe\u0005.",
+          "wordDiff": {
+            "added": [
+              "{c#1F%q}q\u0007culw*gĒʨ!A 9}&\u0000PԤ\"-V,a#E RI=qS\u000143G0gیk)GiIzIi&{-nf T=Fs?:Ձ\u0011\" \u001b \u0019}QjxOe\u0005."
+            ],
+            "removed": [
+              "ŝ/45b\u0015ҍPj+\"L\u0007anx<jM/Q2!\" q sGЛ@G/ =\u0014f*<Ð=s4"
+            ]
+          }
+        },
+        {
+          "originalLine": 74,
+          "originalText": "I4ֺ񒘐+\u001baAiq6",
+          "type": "modified",
+          "verifyLine": 77,
+          "verifyText": "iVg_(+xs ~5xK5\u001b",
+          "wordDiff": {
+            "added": [
+              "iVg_(+xs ~5xK5\u001b"
+            ],
+            "removed": [
+              "I4ֺ񒘐+\u001baAiq6"
+            ]
+          }
+        },
+        {
+          "originalLine": 75,
+          "originalText": "ôywpG|<tϷRvt7 $HRFt\u000eHʔ?5",
+          "type": "modified",
+          "verifyLine": 78,
+          "verifyText": "n\u001b;w, 1{^{]]7whܪ-ڮs\\[;wKwt)L1Ͳ)\u0000ydy?P})ݦRYi \u0019 7ܼM",
+          "wordDiff": {
+            "added": [
+              "n\u001b;w, 1{^{]]7whܪ-ڮs\\[;wKwt)L1Ͳ)\u0000ydy?P})ݦRYi \u0019 7ܼM"
+            ],
+            "removed": [
+              "ôywpG|<tϷRvt7 $HRFt\u000eHʔ?5"
+            ]
+          }
+        },
+        {
+          "originalLine": 76,
+          "originalText": "[)D}ryG${ H\u000ft;􍥹h",
+          "type": "modified",
+          "verifyLine": 79,
+          "verifyText": "BM\u001bC[-Zг?g[zuk",
+          "wordDiff": {
+            "added": [
+              "BM\u001bC[-Zг?g[zuk"
+            ],
+            "removed": [
+              "[)D}ryG${ H\u000ft;􍥹h"
+            ]
+          }
+        },
+        {
+          "originalLine": 77,
+          "originalText": "w%鰳0x' Nj^\u0012F",
+          "type": "modified",
+          "verifyLine": 80,
+          "verifyText": ")6,rs >Q>bQL\u0019Lݾ7MLs LȦ]?\u0000w*\u0000,d>r 戨",
+          "wordDiff": {
+            "added": [
+              ")6,rs >Q>bQL\u0019Lݾ7MLs LȦ]?\u0000w*\u0000,d>r 戨"
+            ],
+            "removed": [
+              "w%鰳0x' Nj^\u0012F"
+            ]
+          }
+        },
+        {
+          "originalLine": 78,
+          "originalText": "<LQR",
+          "type": "modified",
+          "verifyLine": 81,
+          "verifyText": "<\u0013X=͆[\\A. Lzg*76vْ4|\u0018%}9X0٥4 Y6\u0004޼ʕ]ZmƁd}",
+          "wordDiff": {
+            "added": [
+              "<\u0013X=͆[\\A. Lzg*76vْ4|\u0018%}9X0٥4 Y6\u0004޼ʕ]ZmƁd}"
+            ],
+            "removed": [
+              "<LQR"
+            ]
+          }
+        },
+        {
+          "originalLine": 79,
+          "originalText": "kU\u0016vb --ݖ-̷",
+          "type": "modified",
+          "verifyLine": 82,
+          "verifyText": ".GDH",
+          "wordDiff": {
+            "added": [
+              ".GDH"
+            ],
+            "removed": [
+              "kU\u0016vb --ݖ-̷"
+            ]
+          }
+        },
+        {
+          "originalLine": 80,
+          "originalText": " t|cx0",
+          "type": "modified",
+          "verifyLine": 83,
+          "verifyText": "GsjejW6`\u0005@h^Ҽׇ0懢]*N <\u0011d`Tπ>+ו虗\u000ee.2\u0007B:{VГFRZO?|ms \"",
+          "wordDiff": {
+            "added": [
+              "GsjejW6`\u0005@h^Ҽׇ0懢]*N <\u0011d`Tπ>+ו虗\u000ee.2\u0007B:{VГFRZO?|ms \""
+            ],
+            "removed": [
+              " t|cx0"
+            ]
+          }
+        },
+        {
+          "originalLine": 81,
+          "originalText": "Wx`=yǧ\u0015P>#Ǩ?ZEˬvP(|rx\u0003y\\տˤ){w$/,}3xǵ \u0019",
+          "type": "modified",
+          "verifyLine": 84,
+          "verifyText": "-Ig",
+          "wordDiff": {
+            "added": [
+              "-Ig"
+            ],
+            "removed": [
+              "Wx`=yǧ\u0015P>#Ǩ?ZEˬvP(|rx\u0003y\\տˤ){w$/,}3xǵ \u0019"
+            ]
+          }
+        },
+        {
+          "originalLine": 82,
+          "originalText": "nyύ\u0000\u0011zu)g9Md~oN*΃Xfmgľ I\u001a8lrW_",
+          "type": "modified",
+          "verifyLine": 85,
+          "verifyText": "Ι\u00110Fz֨-Ο9VN",
+          "wordDiff": {
+            "added": [
+              "Ι\u00110Fz֨-Ο9VN"
+            ],
+            "removed": [
+              "nyύ\u0000\u0011zu)g9Md~oN*΃Xfmgľ I\u001a8lrW_"
+            ]
+          }
+        },
+        {
+          "originalLine": 83,
+          "originalText": "ӝ?|=yq: M qz (5, \\K.`xʐ\u0007Q\u0007\u0019\u000e5 v LP\u00066Z͵lچ6^t8\u00160R ϯOzk~*/#ړ*(* 0C]|\u0015Z+e",
+          "type": "modified",
+          "verifyLine": 86,
+          "verifyText": "瓟ZuƢzhV^P\u0012̑::",
+          "wordDiff": {
+            "added": [
+              "瓟ZuƢzhV^P\u0012̑::"
+            ],
+            "removed": [
+              "ӝ?|=yq: M qz (5, \\K.`xʐ\u0007Q\u0007\u0019\u000e5 v LP\u00066Z͵lچ6^t8\u00160R ϯOzk~*/#ړ*(* 0C]|\u0015Z+e"
+            ]
+          }
+        },
+        {
+          "originalLine": 84,
+          "originalText": "u-G\u0014-u{}oZX#|ghҹ_5,u",
+          "type": "modified",
+          "verifyLine": 87,
+          "verifyText": "\u0013)m4SFyQix.Xg\u0007:r*-ZZS",
+          "wordDiff": {
+            "added": [
+              "\u0013)m4SFyQix.Xg\u0007:r*-ZZS"
+            ],
+            "removed": [
+              "u-G\u0014-u{}oZX#|ghҹ_5,u"
+            ]
+          }
+        },
+        {
+          "originalLine": 85,
+          "originalText": "KEH -mÎ9>w UC]}CFPKb\u0003",
+          "type": "modified",
+          "verifyLine": 88,
+          "verifyText": "䁗 ڨxJo|WiYFַPF遐\u0000\u00009ǮAXzzFm4v'$FkNi?2凐!^;E",
+          "wordDiff": {
+            "added": [
+              "䁗 ڨxJo|WiYFַPF遐\u0000\u00009ǮAXzzFm4v'$FkNi?2凐!^;E"
+            ],
+            "removed": [
+              "KEH -mÎ9>w UC]}CFPKb\u0003"
+            ]
+          }
+        },
+        {
+          "originalLine": 86,
+          "originalText": "-<A;o",
+          "type": "modified",
+          "verifyLine": 89,
+          "verifyText": "ҷ.m ^",
+          "wordDiff": {
+            "added": [
+              "ҷ.m ^"
+            ],
+            "removed": [
+              "-<A;o"
+            ]
+          }
+        },
+        {
+          "originalLine": 87,
+          "originalText": "6w@\u0007S\u0010s]/=\u000fZ\u0010Y#t '==z!^on Iua<{ ԪsJ 4$(>/Id\u001b8FR<\u0002;g?ҶoCy#D\u000f!~I^]?+=rĶVi\u0019%qֶQЯta $%\u0000 BnPOC C{Y@4q \u0002XF-6;NH",
+          "type": "modified",
+          "verifyLine": 90,
+          "verifyText": "z$m}",
+          "wordDiff": {
+            "added": [
+              "z$m}"
+            ],
+            "removed": [
+              "6w@\u0007S\u0010s]/=\u000fZ\u0010Y#t '==z!^on Iua<{ ԪsJ 4$(>/Id\u001b8FR<\u0002;g?ҶoCy#D\u000f!~I^]?+=rĶVi\u0019%qֶQЯta $%\u0000 BnPOC C{Y@4q \u0002XF-6;NH"
+            ]
+          }
+        },
+        {
+          "originalLine": 88,
+          "originalText": "k\u0005U}xOi i.E$",
+          "type": "modified",
+          "verifyLine": 91,
+          "verifyText": "xgC\u001aǌ5 x 8<{ ~?",
+          "wordDiff": {
+            "added": [
+              "xgC\u001aǌ5 x 8<{ ~?"
+            ],
+            "removed": [
+              "k\u0005U}xOi i.E$"
+            ]
+          }
+        },
+        {
+          "originalLine": 89,
+          "originalText": "eYG\u001b1.C OoJ)|",
+          "type": "modified",
+          "verifyLine": 92,
+          "verifyText": "ga\u0004sC#I<Ԇ,8A]*Ú^%x݃ m\u0002+:<>ܢ$ˌ6:皩kjƣkky\u0011",
+          "wordDiff": {
+            "added": [
+              "ga\u0004sC#I<Ԇ,8A]*Ú^%x݃ m\u0002+:<>ܢ$ˌ6:皩kjƣkky\u0011"
+            ],
+            "removed": [
+              "eYG\u001b1.C OoJ)|"
+            ]
+          }
+        },
+        {
+          "originalLine": 90,
+          "originalText": "%(s0c r3?^i\\|^\"mEl\u0001",
+          "type": "modified",
+          "verifyLine": 93,
+          "verifyText": "\u0007dx#v+BdG\u001b0{ucڬKS֬f\"pWO* <\u0018 zw !",
+          "wordDiff": {
+            "added": [
+              "\u0007dx#v+BdG\u001b0{ucڬKS֬f\"pWO* <\u0018 zw !"
+            ],
+            "removed": [
+              "%(s0c r3?^i\\|^\"mEl\u0001"
+            ]
+          }
+        },
+        {
+          "originalLine": 91,
+          "originalText": "-5WmrQ",
+          "type": "modified",
+          "verifyLine": 94,
+          "verifyText": "?w\u0004cz}=i[B{",
+          "wordDiff": {
+            "added": [
+              "?w\u0004cz}=i[B{"
+            ],
+            "removed": [
+              "-5WmrQ"
+            ]
+          }
+        },
+        {
+          "originalLine": 92,
+          "originalText": "˓zŹKu-\u0004cM>_ kS%p",
+          "type": "modified",
+          "verifyLine": 95,
+          "verifyText": "o& $ 2\bo,",
+          "wordDiff": {
+            "added": [
+              "o& $ 2\bo,"
+            ],
+            "removed": [
+              "˓zŹKu-\u0004cM>_ kS%p"
+            ]
+          }
+        },
+        {
+          "originalLine": 93,
+          "originalText": "a &\\p~+\u0017pdC<Jl d޻_ =|W04",
+          "type": "modified",
+          "verifyLine": 96,
+          "verifyText": ".aF֖`z X\u001aΛuw 6C$\u0017 =\u0000E.j:jwFK2.~q J\u001b] 7((",
+          "wordDiff": {
+            "added": [
+              ".aF֖`z X\u001aΛuw 6C$\u0017 =\u0000E.j:jwFK2.~q J\u001b] 7(("
+            ],
+            "removed": [
+              "a &\\p~+\u0017pdC<Jl d޻_ =|W04"
+            ]
+          }
+        },
+        {
+          "originalLine": 94,
+          "originalText": "~=G*hqǴTʄ|:ʻtCy\u0000pƮ4\u001a%ԋ[Ne}i3Z U$\u0015T\u000eG?*=u$@X[0p7bh B \u0006?",
+          "type": "modified",
+          "verifyLine": 97,
+          "verifyText": "y`#F S>\u0019V 9#\u0001\"c9}Hz+\\8]cZlwQFcREnXI}St_ |3KRd:lSsgֻ]?Sқr\u0000ۼW s ǭ:+\u0018 \"%xTr9\u0003=2:E=\u001agjF<O\u0000zsךx >\u0007ٝ w4m MoȷIZR-^;\u0005SX<K} gq2\u0011 O L",
+          "wordDiff": {
+            "added": [
+              "y`#F S>\u0019V 9#\u0001\"c9}Hz+\\8]cZlwQFcREnXI}St_ |3KRd:lSsgֻ]?Sқr\u0000ۼW s ǭ:+\u0018 \"%xTr9\u0003=2:E=\u001agjF<O\u0000zsךx >\u0007ٝ w4m MoȷIZR-^;\u0005SX<K} gq2\u0011 O L"
+            ],
+            "removed": [
+              "~=G*hqǴTʄ|:ʻtCy\u0000pƮ4\u001a%ԋ[Ne}i3Z U$\u0015T\u000eG?*=u$@X[0p7bh B \u0006?"
+            ]
+          }
+        },
+        {
+          "originalLine": 95,
+          "originalText": "Zl<!^3\\ZJe^$ >?\u0002x)Ǣ\u0002|t;@ǥ s\u0002}I\u0019+Vh`R\u0017r:Ջk;Ȍ8*˜~U|:׮2]i)\u000epC3D",
+          "type": "modified",
+          "verifyLine": 98,
+          "verifyText": "ic>v ]19[$ujyFsW^k)\u0002Ap@\u0004 ڍqkڵ Qh䌆+\u0000 +v",
+          "wordDiff": {
+            "added": [
+              "ic>v ]19[$ujyFsW^k)\u0002Ap@\u0004 ڍqkڵ Qh䌆+\u0000 +v"
+            ],
+            "removed": [
+              "Zl<!^3\\ZJe^$ >?\u0002x)Ǣ\u0002|t;@ǥ s\u0002}I\u0019+Vh`R\u0017r:Ջk;Ȍ8*˜~U|:׮2]i)\u000epC3D"
+            ]
+          }
+        },
+        {
+          "originalLine": 96,
+          "originalText": "ޡw\u0000?+?uZoxY,",
+          "type": "modified",
+          "verifyLine": 99,
+          "verifyText": "6Lx \u0015Ĩ%`F䍾5-Υ",
+          "wordDiff": {
+            "added": [
+              "6Lx \u0015Ĩ%`F䍾5-Υ"
+            ],
+            "removed": [
+              "ޡw\u0000?+?uZoxY,"
+            ]
+          }
+        },
+        {
+          "originalLine": 97,
+          "originalText": "j-VLJ[j<X@;6im[cIP\u0000\u00074ۏ",
+          "type": "modified",
+          "verifyLine": 100,
+          "verifyText": "N܂{ ]wnss υ`忭h%]+",
+          "wordDiff": {
+            "added": [
+              "N܂{ ]wnss υ`忭h%]+"
+            ],
+            "removed": [
+              "j-VLJ[j<X@;6im[cIP\u0000\u00074ۏ"
+            ]
+          }
+        },
+        {
+          "originalLine": 98,
+          "originalText": "pI%Gs",
+          "type": "modified",
+          "verifyLine": 101,
+          "verifyText": "X m`e",
+          "wordDiff": {
+            "added": [
+              "X m`e"
+            ],
+            "removed": [
+              "pI%Gs"
+            ]
+          }
+        },
+        {
+          "originalLine": 99,
+          "originalText": "ǿ_kk/",
+          "type": "modified",
+          "verifyLine": 102,
+          "verifyText": "ֲ\u0005a BGJIXm< a\u0019t 3j3N",
+          "wordDiff": {
+            "added": [
+              "ֲ\u0005a BGJIXm< a\u0019t 3j3N"
+            ],
+            "removed": [
+              "ǿ_kk/"
+            ]
+          }
+        },
+        {
+          "originalLine": 100,
+          "originalText": "<Be{zcxI/VNo-۽1)(\u0014rƟ˥i_d",
+          "type": "modified",
+          "verifyLine": 103,
+          "verifyText": "0;յNE'",
+          "wordDiff": {
+            "added": [
+              "0;յNE'"
+            ],
+            "removed": [
+              "<Be{zcxI/VNo-۽1)(\u0014rƟ˥i_d"
+            ]
+          }
+        },
+        {
+          "originalLine": 101,
+          "originalText": "',ź\\_FIWR '==Ȭs [ $\u000329q^!",
+          "type": "modified",
+          "verifyLine": 104,
+          "verifyText": "x\\k\u0016Wk[bQ`1mϸ?",
+          "wordDiff": {
+            "added": [
+              "x\\k\u0016Wk[bQ`1mϸ?"
+            ],
+            "removed": [
+              "',ź\\_FIWR '==Ȭs [ $\u000329q^!"
+            ]
+          }
+        },
+        {
+          "originalLine": 102,
+          "originalText": "b\u0010\u0010KJ ϴ2| +r ps^\u00029#8+K)PIU9KԻ",
+          "type": "modified",
+          "verifyLine": 105,
+          "verifyText": "8 ZЛOT\u0002<ۻp 2",
+          "wordDiff": {
+            "added": [
+              "8 ZЛOT\u0002<ۻp 2"
+            ],
+            "removed": [
+              "b\u0010\u0010KJ ϴ2| +r ps^\u00029#8+K)PIU9KԻ"
+            ]
+          }
+        },
+        {
+          "originalLine": 103,
+          "originalText": "&OY4BT䤜z",
+          "type": "modified",
+          "verifyLine": 106,
+          "verifyText": ".R+Ka^",
+          "wordDiff": {
+            "added": [
+              ".R+Ka^"
+            ],
+            "removed": [
+              "&OY4BT䤜z"
+            ]
+          }
+        },
+        {
+          "originalLine": 104,
+          "originalText": "0X 1xXƳU1\u0013$Ш8`PU",
+          "type": "modified",
+          "verifyLine": 107,
+          "verifyText": "rTEls",
+          "wordDiff": {
+            "added": [
+              "rTEls"
+            ],
+            "removed": [
+              "0X 1xXƳU1\u0013$Ш8`PU"
+            ]
+          }
+        },
+        {
+          "originalLine": 105,
+          "originalText": "h2\u0003@0sVh pUcM",
+          "type": "modified",
+          "verifyLine": 108,
+          "verifyText": "rCkۂ$E8M7 uM 6\bm 7",
+          "wordDiff": {
+            "added": [
+              "rCkۂ$E8M7 uM 6\bm 7"
+            ],
+            "removed": [
+              "h2\u0003@0sVh pUcM"
+            ]
+          }
+        },
+        {
+          "originalLine": 106,
+          "originalText": "~UQ<&Ҥ4bO=A:qOð¦e\u00066ao\u0000]/g\"y.4/ (t\u0003 y hk",
+          "type": "modified",
+          "verifyLine": 109,
+          "verifyText": "z9<A*qq",
+          "wordDiff": {
+            "added": [
+              "z9<A*qq"
+            ],
+            "removed": [
+              "~UQ<&Ҥ4bO=A:qOð¦e\u00066ao\u0000]/g\"y.4/ (t\u0003 y hk"
+            ]
+          }
+        },
+        {
+          "originalLine": 107,
+          "originalText": "@M XFrw\u0011e 2\u0006E t I ` Fk[",
+          "type": "modified",
+          "verifyLine": 110,
+          "verifyText": "G[,W\u0006 ?̓\u0000d\u0000q}pE_o +FXѭoUb^+Y|N*#t]JI\u000e㾏 b;t",
+          "wordDiff": {
+            "added": [
+              "G[,W\u0006 ?̓\u0000d\u0000q}pE_o +FXѭoUb^+Y|N*#t]JI\u000e㾏 b;t"
+            ],
+            "removed": [
+              "@M XFrw\u0011e 2\u0006E t I ` Fk["
+            ]
+          }
+        },
+        {
+          "originalLine": 108,
+          "originalText": "iഷ.Y!A\u0004m>?",
+          "type": "modified",
+          "verifyLine": 111,
+          "verifyText": "9\u00004&oO5֣I8",
+          "wordDiff": {
+            "added": [
+              "9\u00004&oO5֣I8"
+            ],
+            "removed": [
+              "iഷ.Y!A\u0004m>?"
+            ]
+          }
+        },
+        {
+          "originalLine": 109,
+          "originalText": "K,E",
+          "type": "modified",
+          "verifyLine": 112,
+          "verifyText": "+K`w {\b93Q-Ԟ",
+          "wordDiff": {
+            "added": [
+              "+K`w {\b93Q-Ԟ"
+            ],
+            "removed": [
+              "K,E"
+            ]
+          }
+        },
+        {
+          "originalLine": 110,
+          "originalText": "Xg\u0012 G[\u0007VN4g۶ ?$vTs=CLn̷'X>JulVVv",
+          "type": "modified",
+          "verifyLine": 113,
+          "verifyText": "|WFf#(%Y~",
+          "wordDiff": {
+            "added": [
+              "|WFf#(%Y~"
+            ],
+            "removed": [
+              "Xg\u0012 G[\u0007VN4g۶ ?$vTs=CLn̷'X>JulVVv"
+            ]
+          }
+        },
+        {
+          "originalLine": 111,
+          "originalText": "rq܎t 4W",
+          "type": "modified",
+          "verifyLine": 114,
+          "verifyText": "1S,xq+ .ԉC,HTG ^=)c>\u0015тMY\u0014\u001b$iq86v>!%Q5\u0019I\\{s? j 9.\b!\u0012˂Nps\\ǉͲ%",
+          "wordDiff": {
+            "added": [
+              "1S,xq+ .ԉC,HTG ^=)c>\u0015тMY\u0014\u001b$iq86v>!%Q5\u0019I\\{s? j 9.\b!\u0012˂Nps\\ǉͲ%"
+            ],
+            "removed": [
+              "rq܎t 4W"
+            ]
+          }
+        },
+        {
+          "originalLine": 112,
+          "originalText": "kƲG",
+          "type": "modified",
+          "verifyLine": 115,
+          "verifyText": "촋tј+¥\u0011!HL*'<Hh$9(#p} \u000eT t{oa?v2\u0000 #փL.lחb.I G8\u0000\"Fy",
+          "wordDiff": {
+            "added": [
+              "촋tј+¥\u0011!HL*'<Hh$9(#p} \u000eT t{oa?v2\u0000 #փL.lחb.I G8\u0000\"Fy"
+            ],
+            "removed": [
+              "kƲG"
+            ]
+          }
+        },
+        {
+          "originalLine": 113,
+          "originalText": "N߅C%%M6ped^\u000f",
+          "type": "modified",
+          "verifyLine": 116,
+          "verifyText": "ǮI#TYIլNU\u0000",
+          "wordDiff": {
+            "added": [
+              "ǮI#TYIլNU\u0000"
+            ],
+            "removed": [
+              "N߅C%%M6ped^\u000f"
+            ]
+          }
+        },
+        {
+          "originalLine": 114,
+          "originalText": "]XZhZNl\u0002(<G 2Ƌ;",
+          "type": "modified",
+          "verifyLine": 117,
+          "verifyText": "qql\u00010 ݸ#' vLWhtw-\\`tɎӏjz-&]L{\u0000?JWa:C]^=dDS/Gpx\u0000>ºEj6põ&c!\u0006Dl`b3wwsi7Q\u0005P1ȏ,?.",
+          "wordDiff": {
+            "added": [
+              "qql\u00010 ݸ#' vLWhtw-\\`tɎӏjz-&]L{\u0000?JWa:C]^=dDS/Gpx\u0000>ºEj6põ&c!\u0006Dl`b3wwsi7Q\u0005P1ȏ,?."
+            ],
+            "removed": [
+              "]XZhZNl\u0002(<G 2Ƌ;"
+            ]
+          }
+        },
+        {
+          "originalLine": 115,
+          "originalText": "4BO",
+          "type": "modified",
+          "verifyLine": 118,
+          "verifyText": "k@Hв7*\u000erI\u0013~.*i:**ƦDp\b9SzSrHE8ƕt;hʬNLq_joU %XՀ?\u0003>Vx\u0014I5H2Kg4 h'\u00198<W75xGRPV\u0007",
+          "wordDiff": {
+            "added": [
+              "k@Hв7*\u000erI\u0013~.*i:**ƦDp\b9SzSrHE8ƕt;hʬNLq_joU %XՀ?\u0003>Vx\u0014I5H2Kg4 h'\u00198<W75xGRPV\u0007"
+            ],
+            "removed": [
+              "4BO"
+            ]
+          }
+        },
+        {
+          "originalLine": 116,
+          "originalText": "io 9ـ",
+          "type": "modified",
+          "verifyLine": 119,
+          "verifyText": "ZHMh- ]ԴӛZ4{;Y#+u\u0000S\\\u0007ts)k\u001bw/îOuf",
+          "wordDiff": {
+            "added": [
+              "ZHMh- ]ԴӛZ4{;Y#+u\u0000S\\\u0007ts)k\u001bw/îOuf"
+            ],
+            "removed": [
+              "io 9ـ"
+            ]
+          }
+        },
+        {
+          "originalLine": 117,
+          "originalText": "kki}\\ݳ*K",
+          "type": "modified",
+          "verifyLine": 120,
+          "verifyText": "5<;f2y&xU\u001b\u0019e uZZu[ +&F 4",
+          "wordDiff": {
+            "added": [
+              "5<;f2y&xU\u001b\u0019e uZZu[ +&F 4"
+            ],
+            "removed": [
+              "kki}\\ݳ*K"
+            ]
+          }
+        }
+      ],
+      "model": "tfidf-cosine",
+      "similarity": 91.7,
+      "summary": {
+        "added": 0,
+        "matches": 13,
+        "modified": 2303,
+        "removed": 0,
+        "totalOriginalLines": 2293,
+        "totalVerifyLines": 2316
+      },
+      "textStats": {
+        "originalCharacters": 2049464,
+        "originalLines": 2293,
+        "verifyCharacters": 2074887,
+        "verifyLines": 2316
+      },
+      "truncated": true
+    },
+    "date": "2026-01-08T06:43:27.954Z"
+  },
+  {
+    "type": "upload",
+    "user": "abhishekm0115@gmail.com",
+    "fileName": "CamScanner_0801122119.pdf",
+    "storedAs": "1767855191147-CamScanner_0801122119.pdf",
+    "hash": "4abde5ef45c169014c57a3b4033fa653dd21955e3c413e9a9f61486efc5bf614",
+    "url": "http://localhost:5000/uploads/abhishekm0115_gmail_com/originals/1767855191147-CamScanner_0801122119.pdf",
+    "date": "2026-01-08T06:53:11.220Z"
+  },
+  {
+    "type": "verify",
+    "user": "abhishekm0115@gmail.com",
+    "fileName": "CamScanner_0801122043.pdf",
+    "storedAs": "1767855202068-CamScanner_0801122043.pdf",
+    "url": "http://localhost:5000/uploads/abhishekm0115_gmail_com/verify/1767855202068-CamScanner_0801122043.pdf",
+    "status": "Fake",
+    "similarity": "0.00%",
+    "matchedOriginal": null,
+    "analysis": null,
+    "date": "2026-01-08T06:53:32.690Z"
+  },
+  {
+    "type": "upload",
+    "user": "abhishekm0115@gmail.com",
+    "fileName": "Abhimarkscard.pdf",
+    "storedAs": "1767855577136-Abhimarkscard.pdf",
+    "hash": "aad1e0f74277d0e3ed8994b15024613787407346c51e1f3568d3564d25929c12",
+    "url": "http://localhost:5000/uploads/abhishekm0115_gmail_com/originals/1767855577136-Abhimarkscard.pdf",
+    "date": "2026-01-08T06:59:37.230Z"
+  },
+  {
+    "type": "verify",
+    "user": "abhishekm0115@gmail.com",
+    "fileName": "abhiforgery.pdf",
+    "storedAs": "1767855584934-abhiforgery.pdf",
+    "url": "http://localhost:5000/uploads/abhishekm0115_gmail_com/verify/1767855584934-abhiforgery.pdf",
+    "status": "Fake",
+    "similarity": "0.00%",
+    "matchedOriginal": null,
+    "analysis": null,
+    "date": "2026-01-08T06:59:54.513Z"
+  },
+  {
+    "type": "upload",
+    "user": "abhishekm0115@gmail.com",
+    "fileName": "Abhimarkscard.pdf",
+    "storedAs": "1767856233985-Abhimarkscard.pdf",
+    "hash": "aad1e0f74277d0e3ed8994b15024613787407346c51e1f3568d3564d25929c12",
+    "url": "http://localhost:5000/uploads/abhishekm0115_gmail_com/originals/1767856233985-Abhimarkscard.pdf",
+    "date": "2026-01-08T07:10:34.114Z"
+  },
+  {
+    "type": "verify",
+    "user": "abhishekm0115@gmail.com",
+    "fileName": "abhiforgery2.pdf",
+    "storedAs": "1767856241004-abhiforgery2.pdf",
+    "url": "http://localhost:5000/uploads/abhishekm0115_gmail_com/verify/1767856241004-abhiforgery2.pdf",
+    "status": "Fake",
+    "similarity": "0.00%",
+    "matchedOriginal": null,
+    "analysis": null,
+    "date": "2026-01-08T07:10:51.137Z"
+  },
+  {
+    "type": "verify",
+    "user": "abhishekm0115@gmail.com",
+    "fileName": "PDFGallery_20260108_124310.pdf",
+    "storedAs": "1767856468173-PDFGallery_20260108_124310.pdf",
+    "url": "http://localhost:5000/uploads/abhishekm0115_gmail_com/verify/1767856468173-PDFGallery_20260108_124310.pdf",
+    "status": "Fake",
+    "similarity": "0.00%",
+    "matchedOriginal": null,
+    "analysis": null,
+    "date": "2026-01-08T07:14:38.999Z"
+  },
+  {
+    "type": "upload",
+    "user": "abhishekm0115@gmail.com",
+    "fileName": "Abhimarkscard.pdf",
+    "storedAs": "1767856701764-Abhimarkscard.pdf",
+    "hash": "aad1e0f74277d0e3ed8994b15024613787407346c51e1f3568d3564d25929c12",
+    "url": "http://localhost:5000/uploads/abhishekm0115_gmail_com/originals/1767856701764-Abhimarkscard.pdf",
+    "date": "2026-01-08T07:18:21.896Z"
+  },
+  {
+    "type": "upload",
+    "user": "abhishekm0115@gmail.com",
+    "fileName": "PDFGallery_20260108_124310.pdf",
+    "storedAs": "1767856734270-PDFGallery_20260108_124310.pdf",
+    "hash": "18f0293a71fb9e18df9ffad2f881efc2d2e869981fdbb6c3bfa064e0386962c6",
+    "url": "http://localhost:5000/uploads/abhishekm0115_gmail_com/originals/1767856734270-PDFGallery_20260108_124310.pdf",
+    "date": "2026-01-08T07:18:54.403Z"
+  },
+  {
+    "type": "verify",
+    "user": "abhishekm0115@gmail.com",
+    "fileName": "abhi1234.pdf",
+    "storedAs": "1767856755034-abhi1234.pdf",
+    "url": "http://localhost:5000/uploads/abhishekm0115_gmail_com/verify/1767856755034-abhi1234.pdf",
+    "status": "Fake",
+    "similarity": "0.00%",
+    "matchedOriginal": null,
+    "analysis": null,
+    "date": "2026-01-08T07:19:28.028Z"
+  },
+  {
+    "type": "verify",
+    "user": "abhishekm0115@gmail.com",
+    "fileName": "PDFGallery_20260108_124310.pdf",
+    "storedAs": "1767856808441-PDFGallery_20260108_124310.pdf",
+    "url": "http://localhost:5000/uploads/abhishekm0115_gmail_com/verify/1767856808441-PDFGallery_20260108_124310.pdf",
+    "status": "Original",
+    "similarity": "100.00%",
+    "matchedOriginal": "http://localhost:5000/uploads/abhishekm0115_gmail_com/originals/1767856734270-PDFGallery_20260108_124310.pdf",
+    "analysis": null,
+    "date": "2026-01-08T07:20:08.911Z"
+  },
+  {
+    "type": "verify",
+    "user": "abhishekm0115@gmail.com",
+    "fileName": "abhi1234.pdf",
+    "storedAs": "1767856839517-abhi1234.pdf",
+    "url": "http://localhost:5000/uploads/abhishekm0115_gmail_com/verify/1767856839517-abhi1234.pdf",
+    "status": "Fake",
+    "similarity": "0.00%",
+    "matchedOriginal": null,
+    "analysis": null,
+    "date": "2026-01-08T07:20:52.162Z"
+  },
+  {
+    "type": "upload",
+    "user": "abhishekm0115@gmail.com",
+    "fileName": "CamScanner_0801122119.pdf",
+    "storedAs": "1767857843588-CamScanner_0801122119.pdf",
+    "hash": "4abde5ef45c169014c57a3b4033fa653dd21955e3c413e9a9f61486efc5bf614",
+    "url": "http://localhost:5000/uploads/abhishekm0115_gmail_com/originals/1767857843588-CamScanner_0801122119.pdf",
+    "date": "2026-01-08T07:37:23.638Z"
+  },
+  {
+    "type": "verify",
+    "user": "abhishekm0115@gmail.com",
+    "fileName": "CamScanner_0801122043.pdf",
+    "storedAs": "1767857871839-CamScanner_0801122043.pdf",
+    "url": "http://localhost:5000/uploads/abhishekm0115_gmail_com/verify/1767857871839-CamScanner_0801122043.pdf",
+    "status": "Fake",
+    "similarity": "0.00%",
+    "matchedOriginal": null,
+    "analysis": null,
+    "date": "2026-01-08T07:38:02.916Z"
+  },
+  {
+    "type": "upload",
+    "user": "abhishekm0115@gmail.com",
+    "fileName": "PDFGallery_20260108_124310.pdf",
+    "storedAs": "1767857938959-PDFGallery_20260108_124310.pdf",
+    "hash": "18f0293a71fb9e18df9ffad2f881efc2d2e869981fdbb6c3bfa064e0386962c6",
+    "url": "http://localhost:5000/uploads/abhishekm0115_gmail_com/originals/1767857938959-PDFGallery_20260108_124310.pdf",
+    "date": "2026-01-08T07:38:59.043Z"
+  },
+  {
+    "type": "verify",
+    "user": "abhishekm0115@gmail.com",
+    "fileName": "abhi1234.pdf",
+    "storedAs": "1767857948775-abhi1234.pdf",
+    "url": "http://localhost:5000/uploads/abhishekm0115_gmail_com/verify/1767857948775-abhi1234.pdf",
+    "status": "Fake",
+    "similarity": "0.00%",
+    "matchedOriginal": null,
+    "analysis": null,
+    "date": "2026-01-08T07:39:19.464Z"
+  },
+  {
+    "type": "upload",
+    "user": "abhishekm0115@gmail.com",
+    "fileName": "resume.pdf",
+    "storedAs": "1771841962353-resume.pdf",
+    "hash": "733031517224de0c3fc327f845bfd9c1c0d57c6e0969c18223b4674e5f0343ea",
+    "url": "http://localhost:5000/uploads/abhishekm0115_gmail_com/originals/1771841962353-resume.pdf",
+    "date": "2026-02-23T10:19:22.541Z"
+  },
+  {
+    "type": "verify",
+    "user": "abhishekm0115@gmail.com",
+    "fileName": "resume-2.pdf",
+    "storedAs": "1771841974308-resume-2.pdf",
+    "url": "http://localhost:5000/uploads/abhishekm0115_gmail_com/verify/1771841974308-resume-2.pdf",
+    "status": "Fake",
+    "similarity": "64.85%",
+    "matchedOriginal": "http://localhost:5000/uploads/abhishekm0115_gmail_com/originals/1771841962353-resume.pdf",
+    "analysis": {
+      "lineAnalysis": [
+        {
+          "originalLine": 1,
+          "originalText": "BASAVARAJ SATTEPPA MANEPPAGOL",
+          "type": "modified",
+          "verifyLine": 1,
+          "verifyText": "BASAVARAJ",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "SATTEPPA MANEPPAGOL"
+            ]
+          }
+        },
+        {
+          "originalLine": 2,
+          "originalText": "Engineer | SDM INSTITUTE OF TECHNOLOGY UJIRE(DK)",
+          "type": "modified",
+          "verifyLine": 2,
+          "verifyText": "SATTEPPA",
+          "wordDiff": {
+            "added": [
+              "SATTEPPA"
+            ],
+            "removed": [
+              "Engineer | SDM INSTITUTE OF TECHNOLOGY UJIRE(DK)"
+            ]
+          }
+        },
+        {
+          "originalLine": 3,
+          "originalText": "+91 7760369208 basavarajmaneppagol7760@gmail.com LinkedIn GitHub",
+          "type": "modified",
+          "verifyLine": 3,
+          "verifyText": "MANEP-",
+          "wordDiff": {
+            "added": [
+              "MANEP-"
+            ],
+            "removed": [
+              "+91 7760369208 basavarajmaneppagol7760@gmail.com LinkedIn GitHub"
+            ]
+          }
+        },
+        {
+          "originalLine": 4,
+          "originalText": "Motivated and adaptable engineering student with a strong foundation in frontend development using HTML,",
+          "type": "modified",
+          "verifyLine": 4,
+          "verifyText": "PAGOL",
+          "wordDiff": {
+            "added": [
+              "PAGOL"
+            ],
+            "removed": [
+              "Motivated and adaptable engineering student with a strong foundation in frontend development using HTML,"
+            ]
+          }
+        },
+        {
+          "originalLine": 5,
+          "originalText": "CSS, Node.js, and React. Eager to apply technical knowledge and problem-solving skills in a challenging",
+          "type": "modified",
+          "verifyLine": 5,
+          "verifyText": "Engineer",
+          "wordDiff": {
+            "added": [
+              "Engineer"
+            ],
+            "removed": [
+              "CSS, Node.js, and React. Eager to apply technical knowledge and problem-solving skills in a challenging"
+            ]
+          }
+        },
+        {
+          "originalLine": 6,
+          "originalText": "corporate role, while continuously learning and contributing to organizational success",
+          "type": "modified",
+          "verifyLine": 6,
+          "verifyText": "Contact",
+          "wordDiff": {
+            "added": [
+              "Contact"
+            ],
+            "removed": [
+              "corporate role, while continuously learning and contributing to organizational success"
+            ]
+          }
+        },
+        {
+          "originalLine": 7,
+          "originalText": "EDUCATION",
+          "type": "modified",
+          "verifyLine": 7,
+          "verifyText": "basavarajmanep-",
+          "wordDiff": {
+            "added": [
+              "basavarajmanep-"
+            ],
+            "removed": [
+              "EDUCATION"
+            ]
+          }
+        },
+        {
+          "originalLine": 8,
+          "originalText": "SDM INSTITUTE OF TECHNOLOGY UJIRE(DK) — ENGINEERING",
+          "type": "modified",
+          "verifyLine": 8,
+          "verifyText": "pagol7760@gmail.com",
+          "wordDiff": {
+            "added": [
+              "pagol7760@gmail.com"
+            ],
+            "removed": [
+              "SDM INSTITUTE OF TECHNOLOGY UJIRE(DK) — ENGINEERING"
+            ]
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 9,
+          "verifyText": "LinkedIn",
+          "wordDiff": {
+            "added": [
+              "LinkedIn"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 10,
+          "verifyText": "GitHub",
+          "wordDiff": {
+            "added": [
+              "GitHub"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 11,
+          "verifyText": "Skills",
+          "wordDiff": {
+            "added": [
+              "Skills"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 12,
+          "verifyText": "HTML5",
+          "wordDiff": {
+            "added": [
+              "HTML5"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 13,
+          "verifyText": "CSS3",
+          "wordDiff": {
+            "added": [
+              "CSS3"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 14,
+          "verifyText": "JavaScript",
+          "wordDiff": {
+            "added": [
+              "JavaScript"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 15,
+          "verifyText": "Java",
+          "wordDiff": {
+            "added": [
+              "Java"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 16,
+          "verifyText": "Certifications",
+          "wordDiff": {
+            "added": [
+              "Certifications"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 17,
+          "verifyText": "Internet of Things",
+          "wordDiff": {
+            "added": [
+              "Internet of Things"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 18,
+          "verifyText": "INFOSYS",
+          "wordDiff": {
+            "added": [
+              "INFOSYS"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 19,
+          "verifyText": "The Complete Web Devel-",
+          "wordDiff": {
+            "added": [
+              "The Complete Web Devel-"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 20,
+          "verifyText": "opment Training Courses |",
+          "wordDiff": {
+            "added": [
+              "opment Training Courses |"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 21,
+          "verifyText": "Web Design Courses",
+          "wordDiff": {
+            "added": [
+              "Web Design Courses"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 22,
+          "verifyText": "INFOSYS",
+          "wordDiff": {
+            "added": [
+              "INFOSYS"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 23,
+          "verifyText": "Build your own Generative",
+          "wordDiff": {
+            "added": [
+              "Build your own Generative"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 24,
+          "verifyText": "AI Model",
+          "wordDiff": {
+            "added": [
+              "AI Model"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 25,
+          "verifyText": "NXT WAVE",
+          "wordDiff": {
+            "added": [
+              "NXT WAVE"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 26,
+          "verifyText": "Data Structures and Algo-",
+          "wordDiff": {
+            "added": [
+              "Data Structures and Algo-"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 27,
+          "verifyText": "rithms using Java",
+          "wordDiff": {
+            "added": [
+              "rithms using Java"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 28,
+          "verifyText": "INFOSYS",
+          "wordDiff": {
+            "added": [
+              "INFOSYS"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 29,
+          "verifyText": "Database and SQL",
+          "wordDiff": {
+            "added": [
+              "Database and SQL"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 30,
+          "verifyText": "INFOSYS",
+          "wordDiff": {
+            "added": [
+              "INFOSYS"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 31,
+          "verifyText": "About Me",
+          "wordDiff": {
+            "added": [
+              "About Me"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 32,
+          "verifyText": "Motivated and adaptable engineering student with a strong foundation in frontend",
+          "wordDiff": {
+            "added": [
+              "Motivated and adaptable engineering student with a strong foundation in frontend"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 33,
+          "verifyText": "development using HTML, CSS, Node.js, and React. Eager to apply technical",
+          "wordDiff": {
+            "added": [
+              "development using HTML, CSS, Node.js, and React. Eager to apply technical"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 34,
+          "verifyText": "knowledge and problem-solving skills in a challenging corporate role, while con-",
+          "wordDiff": {
+            "added": [
+              "knowledge and problem-solving skills in a challenging corporate role, while con-"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 35,
+          "verifyText": "tinuously learning and contributing to organizational success",
+          "wordDiff": {
+            "added": [
+              "tinuously learning and contributing to organizational success"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 36,
+          "verifyText": "Experience",
+          "wordDiff": {
+            "added": [
+              "Experience"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 37,
+          "verifyText": "MERN Stack (internship) | Vtricks",
+          "wordDiff": {
+            "added": [
+              "MERN Stack (internship) | Vtricks"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 38,
+          "verifyText": "Feb 2026 – Present, Vijaynagar, Bangalore",
+          "wordDiff": {
+            "added": [
+              "Feb 2026 – Present, Vijaynagar, Bangalore"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 39,
+          "verifyText": "• Working as a MERN Stack Intern at Vtricks, learning and developing web",
+          "wordDiff": {
+            "added": [
+              "• Working as a MERN Stack Intern at Vtricks, learning and developing web"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 40,
+          "verifyText": "applications using MongoDB, Express.js, React, and Node.js. Gaining hands-on",
+          "wordDiff": {
+            "added": [
+              "applications using MongoDB, Express.js, React, and Node.js. Gaining hands-on"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 41,
+          "verifyText": "experience in frontend design, backend development, and database integration.",
+          "wordDiff": {
+            "added": [
+              "experience in frontend design, backend development, and database integration."
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 42,
+          "verifyText": "Education",
+          "wordDiff": {
+            "added": [
+              "Education"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 43,
+          "verifyText": "ENGINEERING",
+          "wordDiff": {
+            "added": [
+              "ENGINEERING"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 44,
+          "verifyText": "12TH/PUC",
+          "wordDiff": {
+            "added": [
+              "12TH/PUC"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 45,
+          "verifyText": "Ramdurg",
+          "wordDiff": {
+            "added": [
+              "Ramdurg"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 46,
+          "verifyText": "10TH",
+          "wordDiff": {
+            "added": [
+              "10TH"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 47,
+          "verifyText": "Ramdurga",
+          "wordDiff": {
+            "added": [
+              "Ramdurga"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 48,
+          "verifyText": "Projects",
+          "wordDiff": {
+            "added": [
+              "Projects"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": 9,
+          "originalText": "Aug 2022 – Present",
+          "type": "match",
+          "verifyLine": 49,
+          "verifyText": "Aug 2022 – Present"
+        },
+        {
+          "originalLine": 10,
+          "originalText": "SPDCL Comp Res PU College K,chandargi — 12TH/PUC",
+          "type": "removed",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": null
+        },
+        {
+          "originalLine": 11,
+          "originalText": "Ramdurg",
+          "type": "removed",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": null
+        },
+        {
+          "originalLine": 12,
+          "originalText": "composite Sports English Medium H S chandargi — 10TH",
+          "type": "removed",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": null
+        },
+        {
+          "originalLine": 13,
+          "originalText": "Ramdurga",
+          "type": "removed",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": null
+        },
+        {
+          "originalLine": 14,
+          "originalText": "Jun 2020 – Apr 2022",
+          "type": "match",
+          "verifyLine": 50,
+          "verifyText": "Jun 2020 – Apr 2022"
+        },
+        {
+          "originalLine": 15,
+          "originalText": "Jun 2019 – Jun 2020",
+          "type": "match",
+          "verifyLine": 51,
+          "verifyText": "Jun 2019 – Jun 2020"
+        },
+        {
+          "originalLine": 16,
+          "originalText": "SKILLS",
+          "type": "modified",
+          "verifyLine": 52,
+          "verifyText": "Spotify clone",
+          "wordDiff": {
+            "added": [
+              "Spotify clone"
+            ],
+            "removed": [
+              "SKILLS"
+            ]
+          }
+        },
+        {
+          "originalLine": 17,
+          "originalText": "• HTML5",
+          "type": "modified",
+          "verifyLine": 53,
+          "verifyText": "Building a Spotify-style music streaming app. Currently working on the frontend UI",
+          "wordDiff": {
+            "added": [
+              "Building a Spotify-style music streaming app. Currently working on the frontend UI"
+            ],
+            "removed": [
+              "• HTML5"
+            ]
+          }
+        },
+        {
+          "originalLine": 18,
+          "originalText": "• CSS3",
+          "type": "modified",
+          "verifyLine": 54,
+          "verifyText": "using React and Tailwind. Core pages like home, playlists, and music player are in",
+          "wordDiff": {
+            "added": [
+              "using React and Tailwind. Core pages like home, playlists, and music player are in"
+            ],
+            "removed": [
+              "• CSS3"
+            ]
+          }
+        },
+        {
+          "originalLine": 19,
+          "originalText": "PROJECTS",
+          "type": "modified",
+          "verifyLine": 55,
+          "verifyText": "progress.",
+          "wordDiff": {
+            "added": [
+              "progress."
+            ],
+            "removed": [
+              "PROJECTS"
+            ]
+          }
+        },
+        {
+          "originalLine": 20,
+          "originalText": "• C",
+          "type": "modified",
+          "verifyLine": 56,
+          "verifyText": "UltraEdit clone",
+          "wordDiff": {
+            "added": [
+              "UltraEdit clone"
+            ],
+            "removed": [
+              "• C"
+            ]
+          }
+        },
+        {
+          "originalLine": 21,
+          "originalText": "• JavaScript",
+          "type": "modified",
+          "verifyLine": 57,
+          "verifyText": "Created a frontend clone of the UltraEdit for Windows website using HTML, CSS,",
+          "wordDiff": {
+            "added": [
+              "Created a frontend clone of the UltraEdit for Windows website using HTML, CSS,"
+            ],
+            "removed": [
+              "• JavaScript"
+            ]
+          }
+        },
+        {
+          "originalLine": 22,
+          "originalText": "• Java",
+          "type": "modified",
+          "verifyLine": 58,
+          "verifyText": "replicating its design and interface to strengthen UI development skills.",
+          "wordDiff": {
+            "added": [
+              "replicating its design and interface to strengthen UI development skills."
+            ],
+            "removed": [
+              "• Java"
+            ]
+          }
+        },
+        {
+          "originalLine": 23,
+          "originalText": "SDM Institute of technology — Spotify clone",
+          "type": "modified",
+          "verifyLine": 59,
+          "verifyText": "Document forgery detection",
+          "wordDiff": {
+            "added": [
+              "Document forgery detection"
+            ],
+            "removed": [
+              "SDM Institute of technology — Spotify clone"
+            ]
+          }
+        },
+        {
+          "originalLine": 24,
+          "originalText": "Ujire",
+          "type": "modified",
+          "verifyLine": 60,
+          "verifyText": "Developed a Document Forgery Detection system with React frontend and Node.js",
+          "wordDiff": {
+            "added": [
+              "Developed a Document Forgery Detection system with React frontend and Node.js"
+            ],
+            "removed": [
+              "Ujire"
+            ]
+          }
+        },
+        {
+          "originalLine": 25,
+          "originalText": "Nov 2025 – Present",
+          "type": "modified",
+          "verifyLine": 61,
+          "verifyText": "Express server, implementing user authentication (login/signup with localStorage)",
+          "wordDiff": {
+            "added": [
+              "Express server, implementing user authentication (login/signup with localStorage)"
+            ],
+            "removed": [
+              "Nov 2025 – Present"
+            ]
+          }
+        },
+        {
+          "originalLine": 26,
+          "originalText": "• Building a Spotify-style music streaming app. Currently working on the frontend UI using React and",
+          "type": "modified",
+          "verifyLine": 62,
+          "verifyText": "and protected upload functionality as the foundation for forgery analysis.",
+          "wordDiff": {
+            "added": [
+              "and protected upload functionality as",
+              "foundation for forgery analysis."
+            ],
+            "removed": [
+              "• Building a Spotify-style music streaming app. Currently working on",
+              "frontend UI using React and"
+            ]
+          }
+        },
+        {
+          "originalLine": 27,
+          "originalText": "Tailwind. Core pages like home, playlists, and music player are in progress.",
+          "type": "modified",
+          "verifyLine": 63,
+          "verifyText": "Netflix clone",
+          "wordDiff": {
+            "added": [
+              "Netflix clone"
+            ],
+            "removed": [
+              "Tailwind. Core pages like home, playlists, and music player are in progress."
+            ]
+          }
+        },
+        {
+          "originalLine": 28,
+          "originalText": "SDM Institute of technology — UltraEdit clone",
+          "type": "modified",
+          "verifyLine": 64,
+          "verifyText": "• Created a Netflix frontend clone using Html and CSS, replicating the UI and",
+          "wordDiff": {
+            "added": [
+              "• Created a Netflix frontend",
+              "using Html and CSS, replicating the UI and"
+            ],
+            "removed": [
+              "SDM Institute of technology — UltraEdit"
+            ]
+          }
+        },
+        {
+          "originalLine": 29,
+          "originalText": "Ujire",
+          "type": "modified",
+          "verifyLine": 65,
+          "verifyText": "improving skills in modern",
+          "wordDiff": {
+            "added": [
+              "improving skills in modern"
+            ],
+            "removed": [
+              "Ujire"
+            ]
+          }
+        },
+        {
+          "originalLine": 30,
+          "originalText": "Aug 2025 – Present",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "Aug 2025 – Present"
+            ]
+          }
+        },
+        {
+          "originalLine": 31,
+          "originalText": "• Created a frontend clone of the UltraEdit for Windows website using HTML, CSS, replicating its design",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "• Created a frontend clone of the UltraEdit for Windows website using HTML, CSS, replicating its design"
+            ]
+          }
+        },
+        {
+          "originalLine": 32,
+          "originalText": "and interface to strengthen UI development skills.",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "and interface to strengthen UI development skills."
+            ]
+          }
+        },
+        {
+          "originalLine": 33,
+          "originalText": "SDM Institute of technology — Document forgery detection",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "SDM Institute of technology — Document forgery detection"
+            ]
+          }
+        },
+        {
+          "originalLine": 34,
+          "originalText": "Ujire",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "Ujire"
+            ]
+          }
+        },
+        {
+          "originalLine": 35,
+          "originalText": "Feb 2025 – Jan 2026",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "Feb 2025 – Jan 2026"
+            ]
+          }
+        },
+        {
+          "originalLine": 36,
+          "originalText": "• Developed a Document Forgery Detection system with React frontend and Node.js Express server,",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "• Developed a Document Forgery Detection system with React frontend and Node.js Express server,"
+            ]
+          }
+        },
+        {
+          "originalLine": 37,
+          "originalText": "implementing user authentication (login/signup with localStorage) and protected upload functionality",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "implementing user authentication (login/signup with localStorage) and protected upload functionality"
+            ]
+          }
+        },
+        {
+          "originalLine": 38,
+          "originalText": "as the foundation for forgery analysis.",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "as the foundation for forgery analysis."
+            ]
+          }
+        },
+        {
+          "originalLine": 39,
+          "originalText": "SDM Institute of technology — Netflix clone",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "SDM Institute of technology — Netflix clone"
+            ]
+          }
+        },
+        {
+          "originalLine": 40,
+          "originalText": "Ujire",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "Ujire"
+            ]
+          }
+        },
+        {
+          "originalLine": 41,
+          "originalText": "Jan 2025 – Sep 2025",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "Jan 2025 – Sep 2025"
+            ]
+          }
+        },
+        {
+          "originalLine": 42,
+          "originalText": "• Created a Netflix frontend clone using Html and CSS, replicating the UI and improving skills in modern",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "• Created a Netflix frontend clone using Html and CSS, replicating the UI and improving skills in modern"
+            ]
+          }
+        },
+        {
+          "originalLine": 43,
+          "originalText": "• web development",
+          "type": "match",
+          "verifyLine": 66,
+          "verifyText": "• web development"
+        },
+        {
+          "originalLine": 44,
+          "originalText": "SDM Institute of technology — Face detection",
+          "type": "modified",
+          "verifyLine": 67,
+          "verifyText": "Face detection",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "SDM Institute of technology —"
+            ]
+          }
+        },
+        {
+          "originalLine": 45,
+          "originalText": "Ujire",
+          "type": "modified",
+          "verifyLine": 68,
+          "verifyText": "• Implemented a face detection system using computer vision techniques to",
+          "wordDiff": {
+            "added": [
+              "• Implemented a face detection system using computer vision techniques to"
+            ],
+            "removed": [
+              "Ujire"
+            ]
+          }
+        },
+        {
+          "originalLine": 46,
+          "originalText": "Oct 2024 – Aug 2025",
+          "type": "modified",
+          "verifyLine": 69,
+          "verifyText": "accurately identify and",
+          "wordDiff": {
+            "added": [
+              "accurately identify and"
+            ],
+            "removed": [
+              "Oct 2024 – Aug 2025"
+            ]
+          }
+        },
+        {
+          "originalLine": 47,
+          "originalText": "• Implemented a face detection system using computer vision techniques to accurately identify and",
+          "type": "modified",
+          "verifyLine": 70,
+          "verifyText": "• localize human faces in images/videos. Applied OpenCV and deep learning",
+          "wordDiff": {
+            "added": [
+              "localize human faces in images/videos. Applied OpenCV",
+              "deep learning"
+            ],
+            "removed": [
+              "Implemented a face detection system using computer vision techniques to accurately identify"
+            ]
+          }
+        },
+        {
+          "originalLine": 48,
+          "originalText": "• localize human faces in images/videos. Applied OpenCV and deep learning models to improve detec-",
+          "type": "modified",
+          "verifyLine": 71,
+          "verifyText": "models to improve detection",
+          "wordDiff": {
+            "added": [
+              "detection"
+            ],
+            "removed": [
+              "• localize human faces in images/videos. Applied OpenCV and deep learning",
+              "detec-"
+            ]
+          }
+        },
+        {
+          "originalLine": 49,
+          "originalText": "tion",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "tion"
+            ]
+          }
+        },
+        {
+          "originalLine": 50,
+          "originalText": "• accuracy and efficiency",
+          "type": "match",
+          "verifyLine": 72,
+          "verifyText": "• accuracy and efficiency"
+        },
+        {
+          "originalLine": 51,
+          "originalText": "WORK EXPERIENCE",
+          "type": "modified",
+          "verifyLine": 73,
+          "verifyText": "Powered by Xcelerator",
+          "wordDiff": {
+            "added": [
+              "Powered by Xcelerator"
+            ],
+            "removed": [
+              "WORK EXPERIENCE"
+            ]
+          }
+        },
+        {
+          "originalLine": 52,
+          "originalText": "Vtricks — MERN Stack (internship)",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "Vtricks — MERN Stack (internship)"
+            ]
+          }
+        },
+        {
+          "originalLine": 53,
+          "originalText": "Vijaynagar, Bangalore",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "Vijaynagar, Bangalore"
+            ]
+          }
+        },
+        {
+          "originalLine": 54,
+          "originalText": "Feb 2026 – Present",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "Feb 2026 – Present"
+            ]
+          }
+        },
+        {
+          "originalLine": 55,
+          "originalText": "• Working as a MERN Stack Intern at Vtricks, learning and developing web applications using MongoDB,",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "• Working as a MERN Stack Intern at Vtricks, learning and developing web applications using MongoDB,"
+            ]
+          }
+        },
+        {
+          "originalLine": 56,
+          "originalText": "Express.js, React, and Node.js. Gaining hands-on experience in frontend design, backend develop-",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "Express.js, React, and Node.js. Gaining hands-on experience in frontend design, backend develop-"
+            ]
+          }
+        },
+        {
+          "originalLine": 57,
+          "originalText": "ment, and database integration.",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "ment, and database integration."
+            ]
+          }
+        },
+        {
+          "originalLine": 58,
+          "originalText": "CERTIFICATIONS",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "CERTIFICATIONS"
+            ]
+          }
+        },
+        {
+          "originalLine": 59,
+          "originalText": "Internet of Things — INFOSYS",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "Internet of Things — INFOSYS"
+            ]
+          }
+        },
+        {
+          "originalLine": 60,
+          "originalText": "Remote",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "Remote"
+            ]
+          }
+        },
+        {
+          "originalLine": 61,
+          "originalText": "Aug 2025 – Nov 2025",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "Aug 2025 – Nov 2025"
+            ]
+          }
+        },
+        {
+          "originalLine": 62,
+          "originalText": "The Complete Web Development Training Courses | Web Design Courses —",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "The Complete Web Development Training Courses | Web Design Courses —"
+            ]
+          }
+        },
+        {
+          "originalLine": 63,
+          "originalText": "INFOSYS",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "INFOSYS"
+            ]
+          }
+        },
+        {
+          "originalLine": 64,
+          "originalText": "Remote",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "Remote"
+            ]
+          }
+        },
+        {
+          "originalLine": 65,
+          "originalText": "Nov 2024 – Dec 2024",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "Nov 2024 – Dec 2024"
+            ]
+          }
+        },
+        {
+          "originalLine": 66,
+          "originalText": "Build your own Generative AI Model — NXT WAVE",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "Build your own Generative AI Model — NXT WAVE"
+            ]
+          }
+        },
+        {
+          "originalLine": 67,
+          "originalText": "Remote",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "Remote"
+            ]
+          }
+        },
+        {
+          "originalLine": 68,
+          "originalText": "Data Structures and Algorithms using Java — INFOSYS",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "Data Structures and Algorithms using Java — INFOSYS"
+            ]
+          }
+        },
+        {
+          "originalLine": 69,
+          "originalText": "Remote",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "Remote"
+            ]
+          }
+        },
+        {
+          "originalLine": 70,
+          "originalText": "Database and SQL — INFOSYS",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "Database and SQL — INFOSYS"
+            ]
+          }
+        },
+        {
+          "originalLine": 71,
+          "originalText": "Remote",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "Remote"
+            ]
+          }
+        },
+        {
+          "originalLine": 72,
+          "originalText": "Oct 2024 – Oct 2024",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "Oct 2024 – Oct 2024"
+            ]
+          }
+        },
+        {
+          "originalLine": 73,
+          "originalText": "Jun 2024 – Jul 2024",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "Jun 2024 – Jul 2024"
+            ]
+          }
+        },
+        {
+          "originalLine": 74,
+          "originalText": "May 2024 – Jun 2024",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "May 2024 – Jun 2024"
+            ]
+          }
+        },
+        {
+          "originalLine": 75,
+          "originalText": "Powered by xcelerator",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "Powered by xcelerator"
+            ]
+          }
+        }
+      ],
+      "model": "tfidf-cosine",
+      "similarity": 64.85,
+      "summary": {
+        "added": 0,
+        "matches": 5,
+        "modified": 106,
+        "removed": 4,
+        "totalOriginalLines": 75,
+        "totalVerifyLines": 73
+      },
+      "textStats": {
+        "originalCharacters": 2821,
+        "originalLines": 75,
+        "verifyCharacters": 2224,
+        "verifyLines": 73
+      },
+      "truncated": false
+    },
+    "date": "2026-02-23T10:20:00.939Z"
+  },
+  {
+    "type": "upload",
+    "user": "abhishekm0115@gmail.com",
+    "fileName": "Web Development.pdf",
+    "storedAs": "1771950444430-Web Development.pdf",
+    "hash": "529356e903ef08b2bbd1c226d167fa6dacd712f124e818cea3a562c416f50e6a",
+    "url": "http://localhost:5000/uploads/abhishekm0115_gmail_com/originals/1771950444430-Web%20Development.pdf",
+    "date": "2026-02-24T16:27:24.535Z"
+  },
+  {
+    "type": "verify",
+    "user": "abhishekm0115@gmail.com",
+    "fileName": "abhiforgery2.pdf",
+    "storedAs": "1771950452313-abhiforgery2.pdf",
+    "url": "http://localhost:5000/uploads/abhishekm0115_gmail_com/verify/1771950452313-abhiforgery2.pdf",
+    "status": "Fake",
+    "similarity": "0.00%",
+    "matchedOriginal": null,
+    "analysis": null,
+    "date": "2026-02-24T16:27:42.153Z"
+  },
+  {
+    "type": "upload",
+    "user": "abhishekm0115@gmail.com",
+    "fileName": "Web Development.pdf",
+    "storedAs": "1771950475884-Web Development.pdf",
+    "hash": "529356e903ef08b2bbd1c226d167fa6dacd712f124e818cea3a562c416f50e6a",
+    "url": "http://localhost:5000/uploads/abhishekm0115_gmail_com/originals/1771950475884-Web%20Development.pdf",
+    "date": "2026-02-24T16:27:55.935Z"
+  },
+  {
+    "type": "verify",
+    "user": "abhishekm0115@gmail.com",
+    "fileName": "DataStructure and Algorithm.pdf",
+    "storedAs": "1771950484026-DataStructure and Algorithm.pdf",
+    "url": "http://localhost:5000/uploads/abhishekm0115_gmail_com/verify/1771950484026-DataStructure%20and%20Algorithm.pdf",
+    "status": "Fake",
+    "similarity": "53.22%",
+    "matchedOriginal": "http://localhost:5000/uploads/abhishekm0115_gmail_com/originals/1767854004080-Database%20And%20SQL.pdf",
+    "analysis": {
+      "lineAnalysis": [
+        {
+          "originalLine": 1,
+          "originalText": "The certificate is awarded to",
+          "type": "modified",
+          "verifyLine": 1,
+          "verifyText": "The certi\u0000cate is awarded to",
+          "wordDiff": {
+            "added": [
+              "certi\u0000cate"
+            ],
+            "removed": [
+              "certificate"
+            ]
+          }
+        },
+        {
+          "originalLine": 2,
+          "originalText": "Basavaraj Maneppagol",
+          "type": "match",
+          "verifyLine": 2,
+          "verifyText": "Basavaraj Maneppagol"
+        },
+        {
+          "originalLine": 3,
+          "originalText": "for successfully completing the course",
+          "type": "match",
+          "verifyLine": 3,
+          "verifyText": "for successfully completing the course"
+        },
+        {
+          "originalLine": 4,
+          "originalText": "Database and SQL",
+          "type": "modified",
+          "verifyLine": 4,
+          "verifyText": "Data Structures and Algorithms using Java",
+          "wordDiff": {
+            "added": [
+              "Data Structures",
+              "Algorithms using Java"
+            ],
+            "removed": [
+              "Database",
+              "SQL"
+            ]
+          }
+        },
+        {
+          "originalLine": 5,
+          "originalText": "on June 3, 2024",
+          "type": "modified",
+          "verifyLine": 5,
+          "verifyText": "on July 27, 2024",
+          "wordDiff": {
+            "added": [
+              "July 27,"
+            ],
+            "removed": [
+              "June 3,"
+            ]
+          }
+        },
+        {
+          "originalLine": 6,
+          "originalText": "Issued on: Monday, June 3, 2024",
+          "type": "modified",
+          "verifyLine": 6,
+          "verifyText": "Issued on: Saturday, July 27, 2024",
+          "wordDiff": {
+            "added": [
+              "Saturday, July 27,"
+            ],
+            "removed": [
+              "Monday, June 3,"
+            ]
+          }
+        },
+        {
+          "originalLine": 7,
+          "originalText": "To verify, scan the QR code at https://verify.onwingspan.com",
+          "type": "match",
+          "verifyLine": 7,
+          "verifyText": "To verify, scan the QR code at https://verify.onwingspan.com"
+        }
+      ],
+      "model": "tfidf-cosine",
+      "similarity": 53.22,
+      "summary": {
+        "added": 0,
+        "matches": 3,
+        "modified": 4,
+        "removed": 0,
+        "totalOriginalLines": 7,
+        "totalVerifyLines": 7
+      },
+      "textStats": {
+        "originalCharacters": 223,
+        "originalLines": 7,
+        "verifyCharacters": 251,
+        "verifyLines": 7
+      },
+      "truncated": false
+    },
+    "date": "2026-02-24T16:28:13.669Z"
+  }
+]

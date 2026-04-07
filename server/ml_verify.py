@@ -71,22 +71,22 @@ def is_meaningful_text(text: str) -> bool:
     if not text or len(text.strip()) < 3:
         return False
     
-    # Check for excessive non-printable or control characters
+    
     printable_ratio = sum(1 for c in text if c.isprintable() or c.isspace()) / len(text)
     if printable_ratio < 0.7:
         return False
     
-    # Filter out lines that are mostly special characters or binary-like
+ 
     special_char_ratio = sum(1 for c in text if not (c.isalnum() or c.isspace() or c in ".,!?;:-'\"()[]{}")) / len(text)
     if special_char_ratio > 0.6:
         return False
     
-    # Filter out lines that look like binary data (too many control chars)
+   
     control_chars = sum(1 for c in text if ord(c) < 32 and c not in "\n\r\t")
     if control_chars > len(text) * 0.1:
         return False
     
-    # Must have at least some alphabetic characters
+   
     if not any(c.isalpha() for c in text):
         return False
     
@@ -98,7 +98,7 @@ def normalize_lines(text: str) -> List[str]:
     lines: List[str] = []
     for raw in cleaned.split("\n"):
         normalized = re.sub(r"\s+", " ", raw).strip()
-        # Only include meaningful text lines
+     
         if normalized and is_meaningful_text(normalized):
             lines.append(normalized)
     return lines

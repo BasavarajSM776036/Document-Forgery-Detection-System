@@ -1,0 +1,446 @@
+[
+  {
+    "type": "upload",
+    "user": "basavarajsm",
+    "fileName": "Database And SQL.pdf",
+    "storedAs": "1767711798326-Database And SQL.pdf",
+    "hash": "3a49acb67626bfb6c0133c93aa7044c69ec9e62f24e7b34d89b6c7a838f44422",
+    "url": "http://localhost:5000/uploads/basavarajsm/originals/1767711798326-Database%20And%20SQL.pdf",
+    "date": "2026-01-06T15:03:18.591Z"
+  },
+  {
+    "type": "verify",
+    "user": "basavarajsm",
+    "fileName": "DataStructure and Algorithm.pdf",
+    "storedAs": "1767711826104-DataStructure and Algorithm.pdf",
+    "url": "http://localhost:5000/uploads/basavarajsm/verify/1767711826104-DataStructure%20and%20Algorithm.pdf",
+    "status": "Fake",
+    "similarity": "53.22%",
+    "matchedOriginal": "http://localhost:5000/uploads/basavarajsm/originals/1767711798326-Database%20And%20SQL.pdf",
+    "analysis": {
+      "lineAnalysis": [
+        {
+          "originalLine": 1,
+          "originalText": "The certificate is awarded to",
+          "type": "modified",
+          "verifyLine": 1,
+          "verifyText": "The certi\u0000cate is awarded to",
+          "wordDiff": {
+            "added": [
+              "certi\u0000cate"
+            ],
+            "removed": [
+              "certificate"
+            ]
+          }
+        },
+        {
+          "originalLine": 2,
+          "originalText": "Basavaraj Maneppagol",
+          "type": "match",
+          "verifyLine": 2,
+          "verifyText": "Basavaraj Maneppagol"
+        },
+        {
+          "originalLine": 3,
+          "originalText": "for successfully completing the course",
+          "type": "match",
+          "verifyLine": 3,
+          "verifyText": "for successfully completing the course"
+        },
+        {
+          "originalLine": 4,
+          "originalText": "Database and SQL",
+          "type": "modified",
+          "verifyLine": 4,
+          "verifyText": "Data Structures and Algorithms using Java",
+          "wordDiff": {
+            "added": [
+              "Data Structures",
+              "Algorithms using Java"
+            ],
+            "removed": [
+              "Database",
+              "SQL"
+            ]
+          }
+        },
+        {
+          "originalLine": 5,
+          "originalText": "on June 3, 2024",
+          "type": "modified",
+          "verifyLine": 5,
+          "verifyText": "on July 27, 2024",
+          "wordDiff": {
+            "added": [
+              "July 27,"
+            ],
+            "removed": [
+              "June 3,"
+            ]
+          }
+        },
+        {
+          "originalLine": 6,
+          "originalText": "Issued on: Monday, June 3, 2024",
+          "type": "modified",
+          "verifyLine": 6,
+          "verifyText": "Issued on: Saturday, July 27, 2024",
+          "wordDiff": {
+            "added": [
+              "Saturday, July 27,"
+            ],
+            "removed": [
+              "Monday, June 3,"
+            ]
+          }
+        },
+        {
+          "originalLine": 7,
+          "originalText": "To verify, scan the QR code at https://verify.onwingspan.com",
+          "type": "match",
+          "verifyLine": 7,
+          "verifyText": "To verify, scan the QR code at https://verify.onwingspan.com"
+        }
+      ],
+      "model": "tfidf-cosine",
+      "similarity": 53.22,
+      "summary": {
+        "added": 0,
+        "matches": 3,
+        "modified": 4,
+        "removed": 0,
+        "totalOriginalLines": 7,
+        "totalVerifyLines": 7
+      },
+      "textStats": {
+        "originalCharacters": 223,
+        "originalLines": 7,
+        "verifyCharacters": 251,
+        "verifyLines": 7
+      },
+      "truncated": false
+    },
+    "date": "2026-01-06T15:03:48.585Z"
+  },
+  {
+    "type": "upload",
+    "user": "basavarajsm",
+    "fileName": "Internet of Things.pdf",
+    "storedAs": "1767711898468-Internet of Things.pdf",
+    "hash": "528977c0b7c087fb53b54a169918d296f20690439bd94b6286a32c00e4a042ce",
+    "url": "http://localhost:5000/uploads/basavarajsm/originals/1767711898468-Internet%20of%20Things.pdf",
+    "date": "2026-01-06T15:04:58.605Z"
+  },
+  {
+    "type": "verify",
+    "user": "basavarajsm",
+    "fileName": "Internet of Things.pdf",
+    "storedAs": "1767711917895-Internet of Things.pdf",
+    "url": "http://localhost:5000/uploads/basavarajsm/verify/1767711917895-Internet%20of%20Things.pdf",
+    "status": "Original",
+    "similarity": "100.00%",
+    "matchedOriginal": "http://localhost:5000/uploads/basavarajsm/originals/1767711898468-Internet%20of%20Things.pdf",
+    "analysis": {
+      "lineAnalysis": [
+        {
+          "originalLine": 1,
+          "originalText": "The certificate is awarded to",
+          "type": "match",
+          "verifyLine": 1,
+          "verifyText": "The certificate is awarded to"
+        },
+        {
+          "originalLine": 2,
+          "originalText": "Basavaraj Maneppagol",
+          "type": "match",
+          "verifyLine": 2,
+          "verifyText": "Basavaraj Maneppagol"
+        },
+        {
+          "originalLine": 3,
+          "originalText": "for successfully completing the program",
+          "type": "match",
+          "verifyLine": 3,
+          "verifyText": "for successfully completing the program"
+        },
+        {
+          "originalLine": 4,
+          "originalText": "Internet of Things",
+          "type": "match",
+          "verifyLine": 4,
+          "verifyText": "Internet of Things"
+        },
+        {
+          "originalLine": 5,
+          "originalText": "on November 24, 2025",
+          "type": "match",
+          "verifyLine": 5,
+          "verifyText": "on November 24, 2025"
+        },
+        {
+          "originalLine": 6,
+          "originalText": "Issued on: Monday, November 24, 2025",
+          "type": "match",
+          "verifyLine": 6,
+          "verifyText": "Issued on: Monday, November 24, 2025"
+        },
+        {
+          "originalLine": 7,
+          "originalText": "To verify, scan the QR code at https://verify.onwingspan.com",
+          "type": "match",
+          "verifyLine": 7,
+          "verifyText": "To verify, scan the QR code at https://verify.onwingspan.com"
+        }
+      ],
+      "model": "tfidf-cosine",
+      "similarity": 100,
+      "summary": {
+        "added": 0,
+        "matches": 7,
+        "modified": 0,
+        "removed": 0,
+        "totalOriginalLines": 7,
+        "totalVerifyLines": 7
+      },
+      "textStats": {
+        "originalCharacters": 235,
+        "originalLines": 7,
+        "verifyCharacters": 235,
+        "verifyLines": 7
+      },
+      "truncated": false
+    },
+    "date": "2026-01-06T15:05:21.129Z"
+  },
+  {
+    "type": "upload",
+    "user": "basavarajsm",
+    "fileName": "Database And SQL.pdf",
+    "storedAs": "1767803939702-Database And SQL.pdf",
+    "hash": "3a49acb67626bfb6c0133c93aa7044c69ec9e62f24e7b34d89b6c7a838f44422",
+    "url": "http://localhost:5000/uploads/basavarajsm/originals/1767803939702-Database%20And%20SQL.pdf",
+    "date": "2026-01-07T16:38:59.813Z"
+  },
+  {
+    "type": "verify",
+    "user": "basavarajsm",
+    "fileName": "sample images .pdf",
+    "storedAs": "1767803963923-sample images .pdf",
+    "url": "http://localhost:5000/uploads/basavarajsm/verify/1767803963923-sample%20images%20.pdf",
+    "status": "Modified",
+    "similarity": "85.10%",
+    "matchedOriginal": "http://localhost:5000/uploads/basavarajsm/originals/1767711798326-Database%20And%20SQL.pdf",
+    "analysis": {
+      "lineAnalysis": [
+        {
+          "originalLine": 1,
+          "originalText": "The certificate is awarded to",
+          "type": "match",
+          "verifyLine": 1,
+          "verifyText": "The certificate is awarded to"
+        },
+        {
+          "originalLine": 2,
+          "originalText": "Basavaraj Maneppagol",
+          "type": "match",
+          "verifyLine": 2,
+          "verifyText": "Basavaraj Maneppagol"
+        },
+        {
+          "originalLine": 3,
+          "originalText": "for successfully completing the course",
+          "type": "match",
+          "verifyLine": 3,
+          "verifyText": "for successfully completing the course"
+        },
+        {
+          "originalLine": 4,
+          "originalText": "Database and SQL",
+          "type": "modified",
+          "verifyLine": 4,
+          "verifyText": "Database & SQL",
+          "wordDiff": {
+            "added": [
+              "&"
+            ],
+            "removed": [
+              "and"
+            ]
+          }
+        },
+        {
+          "originalLine": 5,
+          "originalText": "on June 3, 2024",
+          "type": "match",
+          "verifyLine": 5,
+          "verifyText": "on June 3, 2024"
+        },
+        {
+          "originalLine": 6,
+          "originalText": "Issued on: Monday, June 3, 2024",
+          "type": "match",
+          "verifyLine": 6,
+          "verifyText": "Issued on: Monday, June 3, 2024"
+        },
+        {
+          "originalLine": 7,
+          "originalText": "To verify, scan the QR code at https://verify.onwingspan.com",
+          "type": "modified",
+          "verifyLine": 7,
+          "verifyText": "To verify, scan the QR code at https://vify .oningspan.com",
+          "wordDiff": {
+            "added": [
+              "https://vify .oningspan.com"
+            ],
+            "removed": [
+              "https://verify.onwingspan.com"
+            ]
+          }
+        }
+      ],
+      "model": "tfidf-cosine",
+      "similarity": 85.1,
+      "summary": {
+        "added": 0,
+        "matches": 5,
+        "modified": 2,
+        "removed": 0,
+        "totalOriginalLines": 7,
+        "totalVerifyLines": 7
+      },
+      "textStats": {
+        "originalCharacters": 223,
+        "originalLines": 7,
+        "verifyCharacters": 270,
+        "verifyLines": 7
+      },
+      "truncated": false
+    },
+    "date": "2026-01-07T16:39:25.353Z"
+  },
+  {
+    "type": "upload",
+    "user": "basavarajsm",
+    "fileName": "Database And SQL.pdf",
+    "storedAs": "1767853440435-Database And SQL.pdf",
+    "hash": "3a49acb67626bfb6c0133c93aa7044c69ec9e62f24e7b34d89b6c7a838f44422",
+    "url": "http://localhost:5000/uploads/basavarajsm/originals/1767853440435-Database%20And%20SQL.pdf",
+    "date": "2026-01-08T06:24:00.516Z"
+  },
+  {
+    "type": "verify",
+    "user": "basavarajsm",
+    "fileName": "DataStructure and Algorithm.pdf",
+    "storedAs": "1767853450101-DataStructure and Algorithm.pdf",
+    "url": "http://localhost:5000/uploads/basavarajsm/verify/1767853450101-DataStructure%20and%20Algorithm.pdf",
+    "status": "Fake",
+    "similarity": "53.22%",
+    "matchedOriginal": "http://localhost:5000/uploads/basavarajsm/originals/1767711798326-Database%20And%20SQL.pdf",
+    "analysis": {
+      "lineAnalysis": [
+        {
+          "originalLine": 1,
+          "originalText": "The certificate is awarded to",
+          "type": "modified",
+          "verifyLine": 1,
+          "verifyText": "The certi\u0000cate is awarded to",
+          "wordDiff": {
+            "added": [
+              "certi\u0000cate"
+            ],
+            "removed": [
+              "certificate"
+            ]
+          }
+        },
+        {
+          "originalLine": 2,
+          "originalText": "Basavaraj Maneppagol",
+          "type": "match",
+          "verifyLine": 2,
+          "verifyText": "Basavaraj Maneppagol"
+        },
+        {
+          "originalLine": 3,
+          "originalText": "for successfully completing the course",
+          "type": "match",
+          "verifyLine": 3,
+          "verifyText": "for successfully completing the course"
+        },
+        {
+          "originalLine": 4,
+          "originalText": "Database and SQL",
+          "type": "modified",
+          "verifyLine": 4,
+          "verifyText": "Data Structures and Algorithms using Java",
+          "wordDiff": {
+            "added": [
+              "Data Structures",
+              "Algorithms using Java"
+            ],
+            "removed": [
+              "Database",
+              "SQL"
+            ]
+          }
+        },
+        {
+          "originalLine": 5,
+          "originalText": "on June 3, 2024",
+          "type": "modified",
+          "verifyLine": 5,
+          "verifyText": "on July 27, 2024",
+          "wordDiff": {
+            "added": [
+              "July 27,"
+            ],
+            "removed": [
+              "June 3,"
+            ]
+          }
+        },
+        {
+          "originalLine": 6,
+          "originalText": "Issued on: Monday, June 3, 2024",
+          "type": "modified",
+          "verifyLine": 6,
+          "verifyText": "Issued on: Saturday, July 27, 2024",
+          "wordDiff": {
+            "added": [
+              "Saturday, July 27,"
+            ],
+            "removed": [
+              "Monday, June 3,"
+            ]
+          }
+        },
+        {
+          "originalLine": 7,
+          "originalText": "To verify, scan the QR code at https://verify.onwingspan.com",
+          "type": "match",
+          "verifyLine": 7,
+          "verifyText": "To verify, scan the QR code at https://verify.onwingspan.com"
+        }
+      ],
+      "model": "tfidf-cosine",
+      "similarity": 53.22,
+      "summary": {
+        "added": 0,
+        "matches": 3,
+        "modified": 4,
+        "removed": 0,
+        "totalOriginalLines": 7,
+        "totalVerifyLines": 7
+      },
+      "textStats": {
+        "originalCharacters": 223,
+        "originalLines": 7,
+        "verifyCharacters": 251,
+        "verifyLines": 7
+      },
+      "truncated": false
+    },
+    "date": "2026-01-08T06:24:11.660Z"
+  }
+]

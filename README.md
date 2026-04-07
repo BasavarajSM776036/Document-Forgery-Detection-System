@@ -1,48 +1,114 @@
+# Document Forgery Detection System
 
-# Document Forgery Detection
+A web application that detects if documents are genuine or forged by comparing them with original documents.
 
-Full-stack project that lets users upload trusted originals, then verify later versions using cryptographic hashes plus machine-learning text analysis.
+## Prerequisites
 
-## What's inside
+Install these before starting:
 
-- **React + Vite** front-end (`src/`) with Auth context and dual upload cards.
-- **Node/Express** API (`server/index.js`) for storing originals, hashing, history, and verification orchestration.
-- **Python Flask ML service** (`server/ml_verify.py`) that extracts text from PDFs/images/text files (OCR via Tesseract + `pdfminer`) and compares them using TF‑IDF cosine similarity with line and word level diffs.
+1. **Node.js** - Download from [nodejs.org](https://nodejs.org/)
+2. **Python** - Download from [python.org](https://www.python.org/downloads/)
+3. **Tesseract OCR** 
+   - Windows: Download from [GitHub Tesseract](https://github.com/UB-Mannheim/tesseract/wiki) and add to PATH
+   - Mac: `brew install tesseract`
+   - Linux: `sudo apt-get install tesseract-ocr`
 
-## Getting started
+## Installation
 
-1. **Install dependencies**
-   ```bash
-   cd document-forgery
-   npm install
-   cd server
-   npm install
-   python -m pip install -r requirements.txt  # create this from the notes below if it doesn't exist yet
-   ```
+### 1. Install Frontend Dependencies
 
-   Python service needs `flask`, `pytesseract`, `pdfminer.six`, `Pillow`, and `scikit-learn`. Make sure the Tesseract OCR engine is installed locally and accessible on your PATH (the repo already includes `eng.traineddata`).
+```bash
+cd document-forgery
+npm install
+```
 
-2. **Run the ML service**
-   ```bash
-   cd server
-   python ml_verify.py
-   ```
-   This hosts `POST /compare` on `http://127.0.0.1:5001` which the Node API calls for line-by-line analysis.
+### 2. Install Backend Dependencies
 
-3. **Start the Node API**
-   ```bash
-   cd server
-   npm run dev
-   ```
+```bash
+cd server
+npm install
+```
 
-4. **Start the Vite dev server**
-   ```bash
-   cd document-forgery
-   npm run dev
-   ```
+### 3. Install Python Dependencies
 
-Point your browser to the Vite URL (usually `http://localhost:5173`). Upload an original document, then upload a version to verify—results now show ML-driven similarity plus line/word level insights without adding extra UI buttons.  
+```bash
+# Still in server directory
+pip install -r requirements.txt
+```
 
-# Document-Forgery-Detection-System
-A full-stack application that detects whether a document is genuine or forged by comparing the uploaded file with the original. Built using React (frontend), Node.js/Express (backend), and Python (OpenCV-based ML) for pixel-level document comparison.
+## How to Run
 
+Open **3 separate terminal windows**:
+
+### Terminal 1 - Python ML Service
+```bash
+cd server
+python ml_verify.py
+```
+Wait for: `Running on http://127.0.0.1:5001`
+
+### Terminal 2 - Node.js Backend
+```bash
+cd server
+node index.js
+```
+Wait for: `Server running on http://localhost:5000`
+
+### Terminal 3 - React Frontend
+```bash
+cd document-forgery
+npm run dev
+```
+Wait for: `Local: http://localhost:5173/`
+
+### Open Browser
+
+Go to: **http://localhost:5173**
+
+## Quick Start Guide
+
+1. **Login/Register** - Create an account or login
+2. **Upload Original** - Upload the original document you want to verify against
+3. **Verify Document** - Upload a document to check if it matches the original
+4. **View Results** - See the verification results with similarity scores
+
+## Troubleshooting
+
+### Port Already in Use
+- Kill the process using that port or change the port number in the code
+
+### Tesseract Not Found
+- Make sure Tesseract is installed and added to your system PATH
+- Restart your terminal after installing
+
+### Python Modules Not Found
+```bash
+pip install -r requirements.txt
+```
+
+### Node Modules Issues
+```bash
+rm -rf node_modules package-lock.json
+npm install
+```
+
+## Project Structure
+
+```
+document-forgery/
+├── src/              # React frontend code
+├── server/           # Backend code
+│   ├── index.js      # Node.js API server
+│   └── ml_verify.py  # Python ML service
+└── package.json      # Frontend dependencies
+```
+
+## Important Notes
+
+- All 3 services must be running at the same time
+- Make sure all dependencies are installed before running
+- Check that Tesseract OCR is properly installed
+
+---
+
+That's it! Follow these steps and your application should be up and running.

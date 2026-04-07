@@ -203,5 +203,1009 @@
       "truncated": false
     },
     "date": "2025-12-10T15:27:28.729Z"
+  },
+  {
+    "type": "upload",
+    "user": "basavarajmaneppagol7760@gmail.com",
+    "fileName": "Database And SQL.pdf",
+    "storedAs": "1765477275054-Database And SQL.pdf",
+    "hash": "3a49acb67626bfb6c0133c93aa7044c69ec9e62f24e7b34d89b6c7a838f44422",
+    "url": "http://localhost:5000/uploads/basavarajmaneppagol7760_gmail_com/originals/1765477275054-Database%20And%20SQL.pdf",
+    "date": "2025-12-11T18:21:15.188Z"
+  },
+  {
+    "type": "verify",
+    "user": "basavarajmaneppagol7760@gmail.com",
+    "fileName": "WhatsApp Image 2025-03-20 at 14.17.59_7086d112.jpg",
+    "storedAs": "1765477282776-WhatsApp Image 2025-03-20 at 14.17.59_7086d112.jpg",
+    "url": "http://localhost:5000/uploads/basavarajmaneppagol7760_gmail_com/verify/1765477282776-WhatsApp%20Image%202025-03-20%20at%2014.17.59_7086d112.jpg",
+    "status": "Fake",
+    "similarity": "0.50%",
+    "matchedOriginal": "http://localhost:5000/uploads/basavarajmaneppagol7760_gmail_com/originals/1765380065925-Database%20And%20SQL.pdf",
+    "analysis": {
+      "lineAnalysis": [
+        {
+          "originalLine": 1,
+          "originalText": "The certificate is awarded to",
+          "type": "modified",
+          "verifyLine": 1,
+          "verifyText": "5753-J.Wqvv|w",
+          "wordDiff": {
+            "added": [
+              "5753-J.Wqvv|w"
+            ],
+            "removed": [
+              "The certificate is awarded to"
+            ]
+          }
+        },
+        {
+          "originalLine": 2,
+          "originalText": "Basavaraj Maneppagol",
+          "type": "modified",
+          "verifyLine": 2,
+          "verifyText": "$ |֬*Q9ǜ+]R~4Wta3?=\u0012tݿd-`p ]\u0013k",
+          "wordDiff": {
+            "added": [
+              "$ |֬*Q9ǜ+]R~4Wta3?=\u0012tݿd-`p ]\u0013k"
+            ],
+            "removed": [
+              "Basavaraj Maneppagol"
+            ]
+          }
+        },
+        {
+          "originalLine": 3,
+          "originalText": "for successfully completing the course",
+          "type": "modified",
+          "verifyLine": 3,
+          "verifyText": "\u0001cNy&mNik)1as#",
+          "wordDiff": {
+            "added": [
+              "\u0001cNy&mNik)1as#"
+            ],
+            "removed": [
+              "for successfully completing the course"
+            ]
+          }
+        },
+        {
+          "originalLine": 4,
+          "originalText": "Database and SQL",
+          "type": "modified",
+          "verifyLine": 4,
+          "verifyText": "ZId뵛",
+          "wordDiff": {
+            "added": [
+              "ZId뵛"
+            ],
+            "removed": [
+              "Database and SQL"
+            ]
+          }
+        },
+        {
+          "originalLine": 5,
+          "originalText": "on June 3, 2024",
+          "type": "modified",
+          "verifyLine": 5,
+          "verifyText": ",Ę$<v~/\u0014o?ՆRj8G8󝼩$lqIUsI]\\\u0011\u00000\u0010I\u0000,&QaFG:SsN@֝b41Ӻ7dOaX=t΢Vdŧ\u0000 -Û",
+          "wordDiff": {
+            "added": [
+              ",Ę$<v~/\u0014o?ՆRj8G8󝼩$lqIUsI]\\\u0011\u00000\u0010I\u0000,&QaFG:SsN@֝b41Ӻ7dOaX=t΢Vdŧ\u0000 -Û"
+            ],
+            "removed": [
+              "on June 3, 2024"
+            ]
+          }
+        },
+        {
+          "originalLine": 6,
+          "originalText": "Issued on: Monday, June 3, 2024",
+          "type": "modified",
+          "verifyLine": 6,
+          "verifyText": "7Z`:ƪ:׷.#(dѵ7\u0004+\u0017WWWWZzwNؚq~}U$wyqw4w~^鷹OЃjOv[?()}{5O&|",
+          "wordDiff": {
+            "added": [
+              "7Z`:ƪ:׷.#(dѵ7\u0004+\u0017WWWWZzwNؚq~}U$wyqw4w~^鷹OЃjOv[?()}{5O&|"
+            ],
+            "removed": [
+              "Issued on: Monday, June 3, 2024"
+            ]
+          }
+        },
+        {
+          "originalLine": 7,
+          "originalText": "To verify, scan the QR code at https://verify.onwingspan.com",
+          "type": "modified",
+          "verifyLine": 7,
+          "verifyText": "!]]]]_U\\-%S*u\u0006",
+          "wordDiff": {
+            "added": [
+              "!]]]]_U\\-%S*u\u0006"
+            ],
+            "removed": [
+              "To verify, scan the QR code at https://verify.onwingspan.com"
+            ]
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 8,
+          "verifyText": "Tpu w >.+ Yor\u0007F`Ƽv]Q,N~\bn\"lЦ斛 Z\"h\b$8)S}9Ѫ\u0006m:\u0001|\"I$`",
+          "wordDiff": {
+            "added": [
+              "Tpu w >.+ Yor\u0007F`Ƽv]Q,N~\bn\"lЦ斛 Z\"h\b$8)S}9Ѫ\u0006m:\u0001|\"I$`"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 9,
+          "verifyText": "ZPIvNJx\u001a O0u\u0004&ÁWW}US C`\u0017 Li{U ckhy{a",
+          "wordDiff": {
+            "added": [
+              "ZPIvNJx\u001a O0u\u0004&ÁWW}US C`\u0017 Li{U ckhy{a"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 10,
+          "verifyText": "Z\"~ԇ0*F-p!i",
+          "wordDiff": {
+            "added": [
+              "Z\"~ԇ0*F-p!i"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 11,
+          "verifyText": "7R͇@Ң>*X mFG QvoĜ\u0015IBȇy48X##'#\u0000ܒJ|av\u0016\u000e)nJtA\u0001d[98.3B",
+          "wordDiff": {
+            "added": [
+              "7R͇@Ң>*X mFG QvoĜ\u0015IBȇy48X##'#\u0000ܒJ|av\u0016\u000e)nJtA\u0001d[98.3B"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 12,
+          "verifyText": "Í: rMSa",
+          "wordDiff": {
+            "added": [
+              "Í: rMSa"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 13,
+          "verifyText": "ս+٩",
+          "wordDiff": {
+            "added": [
+              "ս+٩"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 14,
+          "verifyText": "ֿp~lAg E\u0011*",
+          "wordDiff": {
+            "added": [
+              "ֿp~lAg E\u0011*"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 15,
+          "verifyText": "'%d\u0018ؼ G#b~?qA3\u0014\\Tj{Vrm( *g\u00136cb)(",
+          "wordDiff": {
+            "added": [
+              "'%d\u0018ؼ G#b~?qA3\u0014\\Tj{Vrm( *g\u00136cb)("
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 16,
+          "verifyText": "k-6!{3E\\p",
+          "wordDiff": {
+            "added": [
+              "k-6!{3E\\p"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 17,
+          "verifyText": "Wk3hev raTp(td3 Qs\u0006\u0007т",
+          "wordDiff": {
+            "added": [
+              "Wk3hev raTp(td3 Qs\u0006\u0007т"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 18,
+          "verifyText": "E9; XhR(5\u0007}8",
+          "wordDiff": {
+            "added": [
+              "E9; XhR(5\u0007}8"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 19,
+          "verifyText": "^q¥(2@bj\\ɠ=.",
+          "wordDiff": {
+            "added": [
+              "^q¥(2@bj\\ɠ=."
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 20,
+          "verifyText": "k\u001aLK%URji\u0016sKz\\}/!LrIl5 iD Kɿ0z ˎ蔳`gWΚ\"a\u0013R\u000f*XE,|ؓ\u0004P",
+          "wordDiff": {
+            "added": [
+              "k\u001aLK%URji\u0016sKz\\}/!LrIl5 iD Kɿ0z ˎ蔳`gWΚ\"a\u0013R\u000f*XE,|ؓ\u0004P"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 21,
+          "verifyText": "[Ua",
+          "wordDiff": {
+            "added": [
+              "[Ua"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 22,
+          "verifyText": "|hC)Zj Yͧ",
+          "wordDiff": {
+            "added": [
+              "|hC)Zj Yͧ"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 23,
+          "verifyText": "߱&E\"Q\u000f<)%$dbnX˹Oz\u0012JH \"Rd>~A\u00006836}e<0p&\u0012y",
+          "wordDiff": {
+            "added": [
+              "߱&E\"Q\u000f<)%$dbnX˹Oz\u0012JH \"Rd>~A\u00006836}e<0p&\u0012y"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 24,
+          "verifyText": "e }\u001bCo$j *F*rUktLL6QZ",
+          "wordDiff": {
+            "added": [
+              "e }\u001bCo$j *F*rUktLL6QZ"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 25,
+          "verifyText": "~URm0T)UktLL6z",
+          "wordDiff": {
+            "added": [
+              "~URm0T)UktLL6z"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 26,
+          "verifyText": "HlIa\\l\u000e|دCh.8",
+          "wordDiff": {
+            "added": [
+              "HlIa\\l\u000e|دCh.8"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 27,
+          "verifyText": "\u0013>\u0011:bSu)H;E'\u0000x&W13ƽ-Hk؇%mTҊ#,<%J_]_Z2o8MY֋JQ\u0019213,\u0010M\u001440ĝ!qQ\"P",
+          "wordDiff": {
+            "added": [
+              "\u0013>\u0011:bSu)H;E'\u0000x&W13ƽ-Hk؇%mTҊ#,<%J_]_Z2o8MY֋JQ\u0019213,\u0010M\u001440ĝ!qQ\"P"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 28,
+          "verifyText": "ncF[d\\3FE",
+          "wordDiff": {
+            "added": [
+              "ncF[d\\3FE"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 29,
+          "verifyText": "ϲj ZRo\u0007t;04p&%i",
+          "wordDiff": {
+            "added": [
+              "ϲj ZRo\u0007t;04p&%i"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 30,
+          "verifyText": "[ V",
+          "wordDiff": {
+            "added": [
+              "[ V"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 31,
+          "verifyText": "e|ӠE?`_zat2̴\u0019",
+          "wordDiff": {
+            "added": [
+              "e|ӠE?`_zat2̴\u0019"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 32,
+          "verifyText": "ĽU>֭ `D.]AкSnQW F]ЪI̩\\vzS\u00011R%iE\u00185_H4B",
+          "wordDiff": {
+            "added": [
+              "ĽU>֭ `D.]AкSnQW F]ЪI̩\\vzS\u00011R%iE\u00185_H4B"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 33,
+          "verifyText": "$T\u000f 9q}j+PIR]jq*&Ă3kER5gî",
+          "wordDiff": {
+            "added": [
+              "$T\u000f 9q}j+PIR]jq*&Ă3kER5gî"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 34,
+          "verifyText": "W \\yT份J&",
+          "wordDiff": {
+            "added": [
+              "W \\yT份J&"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 35,
+          "verifyText": "%77xFֻ2iԸ\u0010XYĲ~U$_1дUoK R\u0010 ~JQN\\q",
+          "wordDiff": {
+            "added": [
+              "%77xFֻ2iԸ\u0010XYĲ~U$_1дUoK R\u0010 ~JQN\\q"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 36,
+          "verifyText": "Fdz",
+          "wordDiff": {
+            "added": [
+              "Fdz"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 37,
+          "verifyText": ";0DĳSjT",
+          "wordDiff": {
+            "added": [
+              ";0DĳSjT"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 38,
+          "verifyText": "C]:",
+          "wordDiff": {
+            "added": [
+              "C]:"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 39,
+          "verifyText": "@\u0015&/'.Nq۠]x\u0003ҥ+\bio-bVmBIUz5ZAګu`\u0018ba.ۧq0U#`Eq",
+          "wordDiff": {
+            "added": [
+              "@\u0015&/'.Nq۠]x\u0003ҥ+\bio-bVmBIUz5ZAګu`\u0018ba.ۧq0U#`Eq"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 40,
+          "verifyText": "8vXirւMs/-ӓWQ\"Y*kt\u0003t57ikwMb",
+          "wordDiff": {
+            "added": [
+              "8vXirւMs/-ӓWQ\"Y*kt\u0003t57ikwMb"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 41,
+          "verifyText": "T eFd%w Uz$i\u001bM*z",
+          "wordDiff": {
+            "added": [
+              "T eFd%w Uz$i\u001bM*z"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 42,
+          "verifyText": "Ev]@z&V}=0IK m(^ FG8u o8R$ '/=XM=",
+          "wordDiff": {
+            "added": [
+              "Ev]@z&V}=0IK m(^ FG8u o8R$ '/=XM="
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 43,
+          "verifyText": "a\u000eg+Hmw0E )*mp_5?owCfe\u0014",
+          "wordDiff": {
+            "added": [
+              "a\u000eg+Hmw0E )*mp_5?owCfe\u0014"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 44,
+          "verifyText": "˰pJ{mn!Ch",
+          "wordDiff": {
+            "added": [
+              "˰pJ{mn!Ch"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 45,
+          "verifyText": "{)r.;^",
+          "wordDiff": {
+            "added": [
+              "{)r.;^"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 46,
+          "verifyText": ";0i",
+          "wordDiff": {
+            "added": [
+              ";0i"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 47,
+          "verifyText": "Ԏ4Axɺ~_YwG^:>K\bLYUE{@\u0001,K\u0019iid",
+          "wordDiff": {
+            "added": [
+              "Ԏ4Axɺ~_YwG^:>K\bLYUE{@\u0001,K\u0019iid"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 48,
+          "verifyText": "Xml3mݞ/ٶu@Χub\u000e!KeLս)(++oqqٚ\u0015|gcJؾb%ț^oAWӤ1%פ\"@v&x&R۟\u0003Gum>i+>`} KTe\u000e<GdOVoM~_FZxl!\bB$x92II\u0005X\u0012ǁc\u000e \"(s",
+          "wordDiff": {
+            "added": [
+              "Xml3mݞ/ٶu@Χub\u000e!KeLս)(++oqqٚ\u0015|gcJؾb%ț^oAWӤ1%פ\"@v&x&R۟\u0003Gum>i+>`} KTe\u000e<GdOVoM~_FZxl!\bB$x92II\u0005X\u0012ǁc\u000e \"(s"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 49,
+          "verifyText": "eeNM:S3i",
+          "wordDiff": {
+            "added": [
+              "eeNM:S3i"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 50,
+          "verifyText": "dQx",
+          "wordDiff": {
+            "added": [
+              "dQx"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 51,
+          "verifyText": "<5c}6-bSg\u001b,7`Q",
+          "wordDiff": {
+            "added": [
+              "<5c}6-bSg\u001b,7`Q"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 52,
+          "verifyText": ";_hHBC@U",
+          "wordDiff": {
+            "added": [
+              ";_hHBC@U"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 53,
+          "verifyText": ">]T\u0006U |\u001b} ) zi@g q6}HƠ(>X0*h{0UsxݼJQZsS¤t=p8dq{C=\u0014C\u0013|F\u0001X\"\u0007 ;:}f/;\u00133Mv֪#gp1=X<O1D<$22ŏZ>\u0017.",
+          "wordDiff": {
+            "added": [
+              ">]T\u0006U |\u001b} ) zi@g q6}HƠ(>X0*h{0UsxݼJQZsS¤t=p8dq{C=\u0014C\u0013|F\u0001X\"\u0007 ;:}f/;\u00133Mv֪#gp1=X<O1D<$22ŏZ>\u0017."
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 54,
+          "verifyText": ";\u000fx'Ƨ6SR5I",
+          "wordDiff": {
+            "added": [
+              ";\u000fx'Ƨ6SR5I"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 55,
+          "verifyText": "e._([H",
+          "wordDiff": {
+            "added": [
+              "e._([H"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 56,
+          "verifyText": "^5: ֢>󃣴z",
+          "wordDiff": {
+            "added": [
+              "^5: ֢>󃣴z"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 57,
+          "verifyText": "7=#=Nנ\u0015q_D",
+          "wordDiff": {
+            "added": [
+              "7=#=Nנ\u0015q_D"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 58,
+          "verifyText": "/]CޘB7o_|/[g} l;P^+ ejn5S.a|\\hi^",
+          "wordDiff": {
+            "added": [
+              "/]CޘB7o_|/[g} l;P^+ ejn5S.a|\\hi^"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 59,
+          "verifyText": "ȗJ08qx1AҰJ",
+          "wordDiff": {
+            "added": [
+              "ȗJ08qx1AҰJ"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 60,
+          "verifyText": "k\u0019[\\Btd{6RN͹@e{2\u0019 \u00102L 27~aI/R,y{E3OF ̄voWjҐؒyOa",
+          "wordDiff": {
+            "added": [
+              "k\u0019[\\Btd{6RN͹@e{2\u0019 \u00102L 27~aI/R,y{E3OF ̄voWjҐؒyOa"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 61,
+          "verifyText": ",Hy@؟ \u0007'dC<IIl1Φm,w;\u0019",
+          "wordDiff": {
+            "added": [
+              ",Hy@؟ \u0007'dC<IIl1Φm,w;\u0019"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 62,
+          "verifyText": "\u000fY\u0016?XgݮoXEG2q|\"WB{SJ5w\u000f>)5Il4XV[Kq6u;]hf",
+          "wordDiff": {
+            "added": [
+              "\u000fY\u0016?XgݮoXEG2q|\"WB{SJ5w\u000f>)5Il4XV[Kq6u;]hf"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 63,
+          "verifyText": "سZs ǝMQl|jGр \u000eڛ} 6u13\u0006=\u0006мB=7bZiGD+'\u0003| z",
+          "wordDiff": {
+            "added": [
+              "سZs ǝMQl|jGр \u000eڛ} 6u13\u0006=\u0006мB=7bZiGD+'\u0003| z"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 64,
+          "verifyText": "\u00060n$ \u0005e\u001a_\u0015-ExZGB<VX讌)㡷@ConcG=!\u0017Grsp܄܋X ɴOsn| ?2\\N2U˥x~",
+          "wordDiff": {
+            "added": [
+              "\u00060n$ \u0005e\u001a_\u0015-ExZGB<VX讌)㡷@ConcG=!\u0017Grsp܄܋X ɴOsn| ?2\\N2U˥x~"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 65,
+          "verifyText": "(\b䲝n_EʉYe. >鰇'\u0019=M7\u0007ϩ249[XI \u0019)k[uw.1˨G.wn;u?T<\\4ʻĪF0 s&8 ]\u0011bc\u0000\u0000PA:~)'e[t(\u0018۬bX\u0011ylSr̤D!|zD\u0014C|?Yw1aTy@Be^6",
+          "wordDiff": {
+            "added": [
+              "(\b䲝n_EʉYe. >鰇'\u0019=M7\u0007ϩ249[XI \u0019)k[uw.1˨G.wn;u?T<\\4ʻĪF0 s&8 ]\u0011bc\u0000\u0000PA:~)'e[t(\u0018۬bX\u0011ylSr̤D!|zD\u0014C|?Yw1aTy@Be^6"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 66,
+          "verifyText": "wM\u0017.ގOG'+z ιo6#УB%ߕ<",
+          "wordDiff": {
+            "added": [
+              "wM\u0017.ގOG'+z ιo6#УB%ߕ<"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 67,
+          "verifyText": "} 2 .i++",
+          "wordDiff": {
+            "added": [
+              "} 2 .i++"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 68,
+          "verifyText": "oPCc",
+          "wordDiff": {
+            "added": [
+              "oPCc"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 69,
+          "verifyText": "uc/a",
+          "wordDiff": {
+            "added": [
+              "uc/a"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 70,
+          "verifyText": "Ӹ>OJyɳ6Mw|",
+          "wordDiff": {
+            "added": [
+              "Ӹ>OJyɳ6Mw|"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 71,
+          "verifyText": "K\u0016nhB_nƣ`*d<{Q 1 \"\u0018٦ .Cf hJُy1AZ\u0005Wl",
+          "wordDiff": {
+            "added": [
+              "K\u0016nhB_nƣ`*d<{Q 1 \"\u0018٦ .Cf hJُy1AZ\u0005Wl"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 72,
+          "verifyText": "IL@z",
+          "wordDiff": {
+            "added": [
+              "IL@z"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 73,
+          "verifyText": "\",JH",
+          "wordDiff": {
+            "added": [
+              "\",JH"
+            ],
+            "removed": []
+          }
+        }
+      ],
+      "model": "tfidf-cosine",
+      "similarity": 0.5,
+      "summary": {
+        "added": 0,
+        "matches": 0,
+        "modified": 73,
+        "removed": 0,
+        "totalOriginalLines": 7,
+        "totalVerifyLines": 73
+      },
+      "textStats": {
+        "originalCharacters": 223,
+        "originalLines": 7,
+        "verifyCharacters": 41378,
+        "verifyLines": 73
+      },
+      "truncated": false
+    },
+    "date": "2025-12-11T18:21:25.000Z"
   }
 ]

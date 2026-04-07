@@ -70,10 +70,10 @@ export default function Dashboard() {
 
   return (
     <div className="dashboard-page">
-      {/* 🧭 Navbar */}
+     
       
 
-      {/* 🧾 Dashboard content */}
+      
       <div className="dashboard-container">
         <h2>
           {user

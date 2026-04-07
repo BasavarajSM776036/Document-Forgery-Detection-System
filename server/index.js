@@ -18,9 +18,7 @@ app.use(express.json());
 const PORT = 5000;
 const SERVER_URL = `http://localhost:${PORT}`;
 
-// ---------------------
-// Directory Setup
-// ---------------------
+
 const uploadsDir = path.join(__dirname, "uploads");
 const dataDir = path.join(__dirname, "data");
 fs.mkdirSync(uploadsDir, { recursive: true });
@@ -28,7 +26,7 @@ fs.mkdirSync(dataDir, { recursive: true });
 
 app.use("/uploads", express.static(uploadsDir));
 
-// Helper functions
+
 function safeName(str) {
   return String(str || "guest").replace(/[^a-z0-9]/gi, "_").toLowerCase();
 }
@@ -133,9 +131,9 @@ function saveUserHash(username, storedFileName, hash) {
   saveJSON(hashFile, hashes);
 }
 
-// ----------------------
-// UPLOAD ORIGINAL
-// ----------------------
+
+
+
 app.post("/upload-original", (req, res) => {
   const upload = uploadOriginal.single("file");
   upload(req, res, async (err) => {
@@ -170,9 +168,8 @@ app.post("/upload-original", (req, res) => {
   });
 });
 
-// ----------------------
-// VERIFY ROUTE (ML + HASH)
-// ----------------------
+
+
 app.post("/verify", (req, res) => {
   const upload = uploadVerify.single("file");
   upload(req, res, async (err) => {
@@ -194,7 +191,7 @@ app.post("/verify", (req, res) => {
       const safeUser = safeName(username);
       const originalsFolder = path.join(uploadsDir, safeUser, "originals");
 
-      // Step 1: Exact hash check
+      
       for (const [name, h] of Object.entries(hashes)) {
         if (h !== verifyHash) continue;
 
@@ -209,7 +206,7 @@ app.post("/verify", (req, res) => {
         break;
       }
 
-      // Step 2: ML similarity if hash fails
+     
       if (!matchedFile) {
         for (const origName of Object.keys(hashes)) {
           const origPath = path.join(originalsFolder, origName);
@@ -235,7 +232,7 @@ app.post("/verify", (req, res) => {
         }
       }
 
-      // Step 3: Decide status
+      
       let status = "Fake";
       if (bestScore >= 95) status = "Original";
       else if (bestScore >= 70) status = "Modified";
@@ -266,9 +263,9 @@ app.post("/verify", (req, res) => {
   });
 });
 
-// ----------------------
-// HISTORY ROUTE
-// ----------------------
+
+
+
 app.get("/history", (req, res) => {
   const username = req.query.username;
   if (!username) return res.status(400).json({ error: "Missing username" });
@@ -278,9 +275,9 @@ app.get("/history", (req, res) => {
   res.json(history.reverse());
 });
 
-// ----------------------
-// START SERVER
-// ----------------------
+
+
+
 app.listen(PORT, () => {
   console.log(`✅ Server running on ${SERVER_URL}`);
   console.log(`📁 Uploads stored at: ${uploadsDir}`);
