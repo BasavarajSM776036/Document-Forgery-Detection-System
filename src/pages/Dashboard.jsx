@@ -3,8 +3,7 @@ import React, { useEffect, useState, useContext } from "react";
 import axios from "axios";
 import "../styles/Dashboard.css";
 import { AuthContext } from "../context/AuthContext";
-
-const SERVER = "http://localhost:5000";
+import { getApiUrl } from "../config/api";
 
 export default function Dashboard() {
   const [records, setRecords] = useState([]);
@@ -18,26 +17,26 @@ export default function Dashboard() {
   // ✅ Fetch history for this specific user
   const fetchRecords = async (username) => {
     try {
-      const res = await axios.get(`${SERVER}/history`, {
+      const res = await axios.get(getApiUrl("/history"), {
         params: { username },
       });
 
-      // ✅ Fix all URLs by adding SERVER prefix
+      // Ensure relative URLs become absolute using configured API base URL.
       const fixedRecords = res.data.map((r) => ({
         ...r,
         url: r.url?.startsWith("http")
           ? r.url
-          : `${SERVER}${r.url}`,
+          : getApiUrl(r.url),
         matchedOriginal: r.matchedOriginal
           ? r.matchedOriginal.startsWith("http")
             ? r.matchedOriginal
-            : `${SERVER}${r.matchedOriginal}`
+            : getApiUrl(r.matchedOriginal)
           : null,
       }));
 
       setRecords(fixedRecords);
     } catch (err) {
-      console.error("Failed to fetch history:", err);
+      console.log("Failed to fetch history:", err);
     } finally {
       setLoading(false);
     }

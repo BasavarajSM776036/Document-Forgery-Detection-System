@@ -4,7 +4,9 @@
   padding: 0;
   min-height: calc(100vh - 64px);
   color: #1d1d1d;
-  background: url("./background.png") no-repeat center center fixed;
+  background:
+    linear-gradient(rgba(255, 245, 245, 0.86), rgba(255, 245, 245, 0.86)),
+    url("/background.svg") no-repeat center center fixed;
   background-size: cover;
   overflow-x: hidden;
   position: relative;

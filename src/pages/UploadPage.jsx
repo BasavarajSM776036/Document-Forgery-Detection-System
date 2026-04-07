@@ -2,8 +2,8 @@ import React, { useState, useEffect, useContext } from "react";
 import axios from "axios";
 import "../styles/UploadPage.css";
 import { AuthContext } from "../context/AuthContext";
+import { getApiUrl } from "../config/api";
 
-const SERVER = "http://localhost:5000";
 const MAX_ANALYSIS_ROWS = 20;
 
 export default function UploadPage() {
@@ -59,13 +59,17 @@ export default function UploadPage() {
       fd.append("file", file);
 
       const endpoint = type === "original" ? "/upload-original" : "/verify";
-      const res = await axios.post(`${SERVER}${endpoint}`, fd);
+      const res = await axios.post(getApiUrl(endpoint), fd, {
+        headers: { "Content-Type": "multipart/form-data" },
+      });
 
       if (type === "original") setOriginalResult(res.data);
       else setVerifyResult(res.data);
     } catch (err) {
-      console.error(err);
-      alert(`Failed to process ${type} document.`);
+      console.log(err);
+      const serverMessage =
+        err?.response?.data?.error || err?.message || "Unknown error";
+      alert(`Failed to process ${type} document: ${serverMessage}`);
     } finally {
       if (type === "original") setLoadingOriginal(false);
       else setLoadingVerify(false);
