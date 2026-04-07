@@ -58,7 +58,7 @@ export default function UploadPage() {
       fd.append("username", user.username);
       fd.append("file", file);
 
-      const endpoint = type === "original" ? "/upload-original" : "/verify";
+      const endpoint = type === "original" ? "/upload" : "/verify";
       const res = await axios.post(getApiUrl(endpoint), fd, {
         headers: { "Content-Type": "multipart/form-data" },
       });

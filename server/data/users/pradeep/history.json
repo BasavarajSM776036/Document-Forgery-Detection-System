@@ -2298,5 +2298,1620 @@
       "truncated": true
     },
     "date": "2026-04-07T18:15:14.873Z"
+  },
+  {
+    "type": "upload",
+    "user": "pradeep",
+    "fileName": "resume-2.pdf",
+    "storedAs": "1775594807457-resume-2.pdf",
+    "hash": "b645aca1260dda23ba411d6b8b39e13ae577bba2a3b641267ded5e7b41eaef4c",
+    "url": "http://localhost:5000/uploads/pradeep/originals/1775594807457-resume-2.pdf",
+    "date": "2026-04-07T20:46:47.680Z"
+  },
+  {
+    "type": "verify",
+    "user": "pradeep",
+    "fileName": "raj_resume.pdf",
+    "storedAs": "1775594817856-raj_resume.pdf",
+    "url": "http://localhost:5000/uploads/pradeep/verify/1775594817856-raj_resume.pdf",
+    "status": "Fake",
+    "similarity": "59.66%",
+    "matchedOriginal": "http://localhost:5000/uploads/pradeep/originals/1775585686131-resume-2.pdf",
+    "analysis": {
+      "lineAnalysis": [
+        {
+          "originalLine": 1,
+          "originalText": "BASAVARAJ",
+          "type": "modified",
+          "verifyLine": 1,
+          "verifyText": "BASAVARAJ SATTEPPA MANEPPAGOL",
+          "wordDiff": {
+            "added": [
+              "SATTEPPA MANEPPAGOL"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": 2,
+          "originalText": "SATTEPPA",
+          "type": "modified",
+          "verifyLine": 2,
+          "verifyText": "Engineer | SDM INSTITUTE OF TECHNOLOGY UJIRE(DK)",
+          "wordDiff": {
+            "added": [
+              "Engineer | SDM INSTITUTE OF TECHNOLOGY UJIRE(DK)"
+            ],
+            "removed": [
+              "SATTEPPA"
+            ]
+          }
+        },
+        {
+          "originalLine": 3,
+          "originalText": "MANEP-",
+          "type": "modified",
+          "verifyLine": 3,
+          "verifyText": "+91 7760369208 basavarajmaneppagol7760@gmail.com LinkedIn GitHub",
+          "wordDiff": {
+            "added": [
+              "+91 7760369208 basavarajmaneppagol7760@gmail.com LinkedIn GitHub"
+            ],
+            "removed": [
+              "MANEP-"
+            ]
+          }
+        },
+        {
+          "originalLine": 4,
+          "originalText": "PAGOL",
+          "type": "modified",
+          "verifyLine": 4,
+          "verifyText": "Motivated and adaptable engineering student with a strong foundation in frontend development using HTML,",
+          "wordDiff": {
+            "added": [
+              "Motivated and adaptable engineering student with a strong foundation in frontend development using HTML,"
+            ],
+            "removed": [
+              "PAGOL"
+            ]
+          }
+        },
+        {
+          "originalLine": 5,
+          "originalText": "Engineer",
+          "type": "modified",
+          "verifyLine": 5,
+          "verifyText": "CSS, Node.js, and React. Eager to apply technical knowledge and problem-solving skills in a challenging",
+          "wordDiff": {
+            "added": [
+              "CSS, Node.js, and React. Eager to apply technical knowledge and problem-solving skills in a challenging"
+            ],
+            "removed": [
+              "Engineer"
+            ]
+          }
+        },
+        {
+          "originalLine": 6,
+          "originalText": "Contact",
+          "type": "modified",
+          "verifyLine": 6,
+          "verifyText": "corporate role, while continuously learning and contributing to organizational success",
+          "wordDiff": {
+            "added": [
+              "corporate role, while continuously learning and contributing to organizational success"
+            ],
+            "removed": [
+              "Contact"
+            ]
+          }
+        },
+        {
+          "originalLine": 7,
+          "originalText": "basavarajmanep-",
+          "type": "modified",
+          "verifyLine": 7,
+          "verifyText": "EDUCATION",
+          "wordDiff": {
+            "added": [
+              "EDUCATION"
+            ],
+            "removed": [
+              "basavarajmanep-"
+            ]
+          }
+        },
+        {
+          "originalLine": 8,
+          "originalText": "pagol7760@gmail.com",
+          "type": "modified",
+          "verifyLine": 8,
+          "verifyText": "SDM INSTITUTE OF TECHNOLOGY UJIRE(DK) — ENGINEERING",
+          "wordDiff": {
+            "added": [
+              "SDM INSTITUTE OF TECHNOLOGY UJIRE(DK) — ENGINEERING"
+            ],
+            "removed": [
+              "pagol7760@gmail.com"
+            ]
+          }
+        },
+        {
+          "originalLine": 9,
+          "originalText": "LinkedIn",
+          "type": "modified",
+          "verifyLine": 9,
+          "verifyText": "Aug 2022 – Present",
+          "wordDiff": {
+            "added": [
+              "Aug 2022 – Present"
+            ],
+            "removed": [
+              "LinkedIn"
+            ]
+          }
+        },
+        {
+          "originalLine": 10,
+          "originalText": "GitHub",
+          "type": "modified",
+          "verifyLine": 10,
+          "verifyText": "SPDCL Comp Res PU College K,chandargi — 12TH/PUC",
+          "wordDiff": {
+            "added": [
+              "SPDCL Comp Res PU College K,chandargi — 12TH/PUC"
+            ],
+            "removed": [
+              "GitHub"
+            ]
+          }
+        },
+        {
+          "originalLine": 11,
+          "originalText": "Skills",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "Skills"
+            ]
+          }
+        },
+        {
+          "originalLine": 12,
+          "originalText": "HTML5",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "HTML5"
+            ]
+          }
+        },
+        {
+          "originalLine": 13,
+          "originalText": "CSS3",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "CSS3"
+            ]
+          }
+        },
+        {
+          "originalLine": 14,
+          "originalText": "JavaScript",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "JavaScript"
+            ]
+          }
+        },
+        {
+          "originalLine": 15,
+          "originalText": "Java",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "Java"
+            ]
+          }
+        },
+        {
+          "originalLine": 16,
+          "originalText": "Certifications",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "Certifications"
+            ]
+          }
+        },
+        {
+          "originalLine": 17,
+          "originalText": "Internet of Things",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "Internet of Things"
+            ]
+          }
+        },
+        {
+          "originalLine": 18,
+          "originalText": "INFOSYS",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "INFOSYS"
+            ]
+          }
+        },
+        {
+          "originalLine": 19,
+          "originalText": "The Complete Web Devel-",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "The Complete Web Devel-"
+            ]
+          }
+        },
+        {
+          "originalLine": 20,
+          "originalText": "opment Training Courses |",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "opment Training Courses |"
+            ]
+          }
+        },
+        {
+          "originalLine": 21,
+          "originalText": "Web Design Courses",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "Web Design Courses"
+            ]
+          }
+        },
+        {
+          "originalLine": 22,
+          "originalText": "INFOSYS",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "INFOSYS"
+            ]
+          }
+        },
+        {
+          "originalLine": 23,
+          "originalText": "Build your own Generative",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "Build your own Generative"
+            ]
+          }
+        },
+        {
+          "originalLine": 24,
+          "originalText": "AI Model",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "AI Model"
+            ]
+          }
+        },
+        {
+          "originalLine": 25,
+          "originalText": "NXT WAVE",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "NXT WAVE"
+            ]
+          }
+        },
+        {
+          "originalLine": 26,
+          "originalText": "Data Structures and Algo-",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "Data Structures and Algo-"
+            ]
+          }
+        },
+        {
+          "originalLine": 27,
+          "originalText": "rithms using Java",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "rithms using Java"
+            ]
+          }
+        },
+        {
+          "originalLine": 28,
+          "originalText": "INFOSYS",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "INFOSYS"
+            ]
+          }
+        },
+        {
+          "originalLine": 29,
+          "originalText": "Database and SQL",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "Database and SQL"
+            ]
+          }
+        },
+        {
+          "originalLine": 30,
+          "originalText": "INFOSYS",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "INFOSYS"
+            ]
+          }
+        },
+        {
+          "originalLine": 31,
+          "originalText": "About Me",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "About Me"
+            ]
+          }
+        },
+        {
+          "originalLine": 32,
+          "originalText": "Motivated and adaptable engineering student with a strong foundation in frontend",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "Motivated and adaptable engineering student with a strong foundation in frontend"
+            ]
+          }
+        },
+        {
+          "originalLine": 33,
+          "originalText": "development using HTML, CSS, Node.js, and React. Eager to apply technical",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "development using HTML, CSS, Node.js, and React. Eager to apply technical"
+            ]
+          }
+        },
+        {
+          "originalLine": 34,
+          "originalText": "knowledge and problem-solving skills in a challenging corporate role, while con-",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "knowledge and problem-solving skills in a challenging corporate role, while con-"
+            ]
+          }
+        },
+        {
+          "originalLine": 35,
+          "originalText": "tinuously learning and contributing to organizational success",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "tinuously learning and contributing to organizational success"
+            ]
+          }
+        },
+        {
+          "originalLine": 36,
+          "originalText": "Experience",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "Experience"
+            ]
+          }
+        },
+        {
+          "originalLine": 37,
+          "originalText": "MERN Stack (internship) | Vtricks",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "MERN Stack (internship) | Vtricks"
+            ]
+          }
+        },
+        {
+          "originalLine": 38,
+          "originalText": "Feb 2026 – Present, Vijaynagar, Bangalore",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "Feb 2026 – Present, Vijaynagar, Bangalore"
+            ]
+          }
+        },
+        {
+          "originalLine": 39,
+          "originalText": "• Working as a MERN Stack Intern at Vtricks, learning and developing web",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "• Working as a MERN Stack Intern at Vtricks, learning and developing web"
+            ]
+          }
+        },
+        {
+          "originalLine": 40,
+          "originalText": "applications using MongoDB, Express.js, React, and Node.js. Gaining hands-on",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "applications using MongoDB, Express.js, React, and Node.js. Gaining hands-on"
+            ]
+          }
+        },
+        {
+          "originalLine": 41,
+          "originalText": "experience in frontend design, backend development, and database integration.",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "experience in frontend design, backend development, and database integration."
+            ]
+          }
+        },
+        {
+          "originalLine": 42,
+          "originalText": "Education",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "Education"
+            ]
+          }
+        },
+        {
+          "originalLine": 43,
+          "originalText": "ENGINEERING",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "ENGINEERING"
+            ]
+          }
+        },
+        {
+          "originalLine": 44,
+          "originalText": "12TH/PUC",
+          "type": "modified",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": {
+            "added": [],
+            "removed": [
+              "12TH/PUC"
+            ]
+          }
+        },
+        {
+          "originalLine": 45,
+          "originalText": "Ramdurg",
+          "type": "match",
+          "verifyLine": 11,
+          "verifyText": "Ramdurg"
+        },
+        {
+          "originalLine": 46,
+          "originalText": "10TH",
+          "type": "modified",
+          "verifyLine": 12,
+          "verifyText": "composite Sports English Medium H S chandargi — 10TH",
+          "wordDiff": {
+            "added": [
+              "composite Sports English Medium H S chandargi —"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": 47,
+          "originalText": "Ramdurga",
+          "type": "match",
+          "verifyLine": 13,
+          "verifyText": "Ramdurga"
+        },
+        {
+          "originalLine": 48,
+          "originalText": "Projects",
+          "type": "removed",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": null
+        },
+        {
+          "originalLine": 49,
+          "originalText": "Aug 2022 – Present",
+          "type": "removed",
+          "verifyLine": null,
+          "verifyText": "",
+          "wordDiff": null
+        },
+        {
+          "originalLine": 50,
+          "originalText": "Jun 2020 – Apr 2022",
+          "type": "match",
+          "verifyLine": 14,
+          "verifyText": "Jun 2020 – Apr 2022"
+        },
+        {
+          "originalLine": 51,
+          "originalText": "Jun 2019 – Jun 2020",
+          "type": "match",
+          "verifyLine": 15,
+          "verifyText": "Jun 2019 – Jun 2020"
+        },
+        {
+          "originalLine": 52,
+          "originalText": "Spotify clone",
+          "type": "modified",
+          "verifyLine": 16,
+          "verifyText": "SKILLS",
+          "wordDiff": {
+            "added": [
+              "SKILLS"
+            ],
+            "removed": [
+              "Spotify clone"
+            ]
+          }
+        },
+        {
+          "originalLine": 53,
+          "originalText": "Building a Spotify-style music streaming app. Currently working on the frontend UI",
+          "type": "modified",
+          "verifyLine": 17,
+          "verifyText": "• HTML5",
+          "wordDiff": {
+            "added": [
+              "• HTML5"
+            ],
+            "removed": [
+              "Building a Spotify-style music streaming app. Currently working on the frontend UI"
+            ]
+          }
+        },
+        {
+          "originalLine": 54,
+          "originalText": "using React and Tailwind. Core pages like home, playlists, and music player are in",
+          "type": "modified",
+          "verifyLine": 18,
+          "verifyText": "• CSS3",
+          "wordDiff": {
+            "added": [
+              "• CSS3"
+            ],
+            "removed": [
+              "using React and Tailwind. Core pages like home, playlists, and music player are in"
+            ]
+          }
+        },
+        {
+          "originalLine": 55,
+          "originalText": "progress.",
+          "type": "modified",
+          "verifyLine": 19,
+          "verifyText": "PROJECTS",
+          "wordDiff": {
+            "added": [
+              "PROJECTS"
+            ],
+            "removed": [
+              "progress."
+            ]
+          }
+        },
+        {
+          "originalLine": 56,
+          "originalText": "UltraEdit clone",
+          "type": "modified",
+          "verifyLine": 20,
+          "verifyText": "• JavaScript",
+          "wordDiff": {
+            "added": [
+              "• JavaScript"
+            ],
+            "removed": [
+              "UltraEdit clone"
+            ]
+          }
+        },
+        {
+          "originalLine": 57,
+          "originalText": "Created a frontend clone of the UltraEdit for Windows website using HTML, CSS,",
+          "type": "modified",
+          "verifyLine": 21,
+          "verifyText": "• Java",
+          "wordDiff": {
+            "added": [
+              "• Java"
+            ],
+            "removed": [
+              "Created a frontend clone of the UltraEdit for Windows website using HTML, CSS,"
+            ]
+          }
+        },
+        {
+          "originalLine": 58,
+          "originalText": "replicating its design and interface to strengthen UI development skills.",
+          "type": "modified",
+          "verifyLine": 22,
+          "verifyText": "• SQL",
+          "wordDiff": {
+            "added": [
+              "• SQL"
+            ],
+            "removed": [
+              "replicating its design and interface to strengthen UI development skills."
+            ]
+          }
+        },
+        {
+          "originalLine": 59,
+          "originalText": "Document forgery detection",
+          "type": "modified",
+          "verifyLine": 23,
+          "verifyText": "• C",
+          "wordDiff": {
+            "added": [
+              "• C"
+            ],
+            "removed": [
+              "Document forgery detection"
+            ]
+          }
+        },
+        {
+          "originalLine": 60,
+          "originalText": "Developed a Document Forgery Detection system with React frontend and Node.js",
+          "type": "modified",
+          "verifyLine": 24,
+          "verifyText": "SDM Institute of technology — Spotify clone",
+          "wordDiff": {
+            "added": [
+              "SDM Institute of technology — Spotify clone"
+            ],
+            "removed": [
+              "Developed a Document Forgery Detection system with React frontend and Node.js"
+            ]
+          }
+        },
+        {
+          "originalLine": 61,
+          "originalText": "Express server, implementing user authentication (login/signup with localStorage)",
+          "type": "modified",
+          "verifyLine": 25,
+          "verifyText": "Ujire",
+          "wordDiff": {
+            "added": [
+              "Ujire"
+            ],
+            "removed": [
+              "Express server, implementing user authentication (login/signup with localStorage)"
+            ]
+          }
+        },
+        {
+          "originalLine": 62,
+          "originalText": "and protected upload functionality as the foundation for forgery analysis.",
+          "type": "modified",
+          "verifyLine": 26,
+          "verifyText": "Nov 2025 – Present",
+          "wordDiff": {
+            "added": [
+              "Nov 2025 – Present"
+            ],
+            "removed": [
+              "and protected upload functionality as the foundation for forgery analysis."
+            ]
+          }
+        },
+        {
+          "originalLine": 63,
+          "originalText": "Netflix clone",
+          "type": "modified",
+          "verifyLine": 27,
+          "verifyText": "• Building a Spotify-style music streaming app. Currently working on the frontend UI using React and",
+          "wordDiff": {
+            "added": [
+              "• Building a Spotify-style music streaming app. Currently working on the frontend UI using React and"
+            ],
+            "removed": [
+              "Netflix clone"
+            ]
+          }
+        },
+        {
+          "originalLine": 64,
+          "originalText": "• Created a Netflix frontend clone using Html and CSS, replicating the UI and",
+          "type": "modified",
+          "verifyLine": 28,
+          "verifyText": "Tailwind. Core pages like home, playlists, and music player are in progress.",
+          "wordDiff": {
+            "added": [
+              "Tailwind. Core pages like home, playlists,",
+              "music player are in progress."
+            ],
+            "removed": [
+              "• Created a Netflix frontend clone using Html",
+              "CSS, replicating the UI and"
+            ]
+          }
+        },
+        {
+          "originalLine": 65,
+          "originalText": "improving skills in modern",
+          "type": "modified",
+          "verifyLine": 29,
+          "verifyText": "SDM Institute of technology — UltraEdit clone",
+          "wordDiff": {
+            "added": [
+              "SDM Institute of technology — UltraEdit clone"
+            ],
+            "removed": [
+              "improving skills in modern"
+            ]
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 30,
+          "verifyText": "Ujire",
+          "wordDiff": {
+            "added": [
+              "Ujire"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 31,
+          "verifyText": "Aug 2025 – Present",
+          "wordDiff": {
+            "added": [
+              "Aug 2025 – Present"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 32,
+          "verifyText": "• Created a frontend clone of the UltraEdit for Windows website using HTML, CSS, ,replicating its design",
+          "wordDiff": {
+            "added": [
+              "• Created a frontend clone of the UltraEdit for Windows website using HTML, CSS, ,replicating its design"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 33,
+          "verifyText": "and interface to strengthen UI development skills.",
+          "wordDiff": {
+            "added": [
+              "and interface to strengthen UI development skills."
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 34,
+          "verifyText": "SDM Institute of technology — UltraEdit clone",
+          "wordDiff": {
+            "added": [
+              "SDM Institute of technology — UltraEdit clone"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 35,
+          "verifyText": "Ujire",
+          "wordDiff": {
+            "added": [
+              "Ujire"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 36,
+          "verifyText": "Aug 2025 – Present",
+          "wordDiff": {
+            "added": [
+              "Aug 2025 – Present"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 37,
+          "verifyText": "• Created a frontend clone of the UltraEdit for Windows website using HTML, CSS, replicating its design",
+          "wordDiff": {
+            "added": [
+              "• Created a frontend clone of the UltraEdit for Windows website using HTML, CSS, replicating its design"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 38,
+          "verifyText": "and interface to strengthen UI development skills.",
+          "wordDiff": {
+            "added": [
+              "and interface to strengthen UI development skills."
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 39,
+          "verifyText": "SDM Institute of technology — Document forgery detection",
+          "wordDiff": {
+            "added": [
+              "SDM Institute of technology — Document forgery detection"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 40,
+          "verifyText": "Ujire",
+          "wordDiff": {
+            "added": [
+              "Ujire"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 41,
+          "verifyText": "Feb 2025 – Present",
+          "wordDiff": {
+            "added": [
+              "Feb 2025 – Present"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 42,
+          "verifyText": "• Developed a Document Forgery Detection system with React frontend and Node.js Express server,",
+          "wordDiff": {
+            "added": [
+              "• Developed a Document Forgery Detection system with React frontend and Node.js Express server,"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 43,
+          "verifyText": "implementing user authentication (login/signup with localStorage) and protected upload functionality",
+          "wordDiff": {
+            "added": [
+              "implementing user authentication (login/signup with localStorage) and protected upload functionality"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 44,
+          "verifyText": "as the foundation for forgery analysis.",
+          "wordDiff": {
+            "added": [
+              "as the foundation for forgery analysis."
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 45,
+          "verifyText": "SDM Institute of technology — Netflix clone",
+          "wordDiff": {
+            "added": [
+              "SDM Institute of technology — Netflix clone"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 46,
+          "verifyText": "Ujire",
+          "wordDiff": {
+            "added": [
+              "Ujire"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 47,
+          "verifyText": "Jan 2025 – Sep 2025",
+          "wordDiff": {
+            "added": [
+              "Jan 2025 – Sep 2025"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 48,
+          "verifyText": "• Created a Netflix frontend clone using Html and CSS, replicating the UI and improving skills in modern",
+          "wordDiff": {
+            "added": [
+              "• Created a Netflix frontend clone using Html and CSS, replicating the UI and improving skills in modern"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": 66,
+          "originalText": "• web development",
+          "type": "match",
+          "verifyLine": 49,
+          "verifyText": "• web development"
+        },
+        {
+          "originalLine": 67,
+          "originalText": "Face detection",
+          "type": "modified",
+          "verifyLine": 50,
+          "verifyText": "SDM Institute of technology — Face detection",
+          "wordDiff": {
+            "added": [
+              "SDM Institute of technology —"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": 68,
+          "originalText": "• Implemented a face detection system using computer vision techniques to",
+          "type": "modified",
+          "verifyLine": 51,
+          "verifyText": "Ujire",
+          "wordDiff": {
+            "added": [
+              "Ujire"
+            ],
+            "removed": [
+              "• Implemented a face detection system using computer vision techniques to"
+            ]
+          }
+        },
+        {
+          "originalLine": 69,
+          "originalText": "accurately identify and",
+          "type": "modified",
+          "verifyLine": 52,
+          "verifyText": "Oct 2024 – Aug 2025",
+          "wordDiff": {
+            "added": [
+              "Oct 2024 – Aug 2025"
+            ],
+            "removed": [
+              "accurately identify and"
+            ]
+          }
+        },
+        {
+          "originalLine": 70,
+          "originalText": "• localize human faces in images/videos. Applied OpenCV and deep learning",
+          "type": "modified",
+          "verifyLine": 53,
+          "verifyText": "• Implemented a face detection system using computer vision techniques to accurately identify and",
+          "wordDiff": {
+            "added": [
+              "Implemented a face detection system using computer vision techniques to accurately identify"
+            ],
+            "removed": [
+              "localize human faces in images/videos. Applied OpenCV",
+              "deep learning"
+            ]
+          }
+        },
+        {
+          "originalLine": 71,
+          "originalText": "models to improve detection",
+          "type": "modified",
+          "verifyLine": 54,
+          "verifyText": "• localize human faces in images/videos. Applied OpenCV and deep learning models to improve detec-",
+          "wordDiff": {
+            "added": [
+              "• localize human faces in images/videos. Applied OpenCV and deep learning",
+              "detec-"
+            ],
+            "removed": [
+              "detection"
+            ]
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 55,
+          "verifyText": "tion",
+          "wordDiff": {
+            "added": [
+              "tion"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": 72,
+          "originalText": "• accuracy and efficiency",
+          "type": "match",
+          "verifyLine": 56,
+          "verifyText": "• accuracy and efficiency"
+        },
+        {
+          "originalLine": 73,
+          "originalText": "Powered by Xcelerator",
+          "type": "modified",
+          "verifyLine": 57,
+          "verifyText": "— whatsapp secure and reliable Clone",
+          "wordDiff": {
+            "added": [
+              "— whatsapp secure and reliable Clone"
+            ],
+            "removed": [
+              "Powered by Xcelerator"
+            ]
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 58,
+          "verifyText": "Banglore",
+          "wordDiff": {
+            "added": [
+              "Banglore"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 59,
+          "verifyText": "Feb 2026 – Mar 2026",
+          "wordDiff": {
+            "added": [
+              "Feb 2026 – Mar 2026"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 60,
+          "verifyText": "• Developed a WhatsApp Secure and Reliable Clone using HTML and CSS with a responsive layout,",
+          "wordDiff": {
+            "added": [
+              "• Developed a WhatsApp Secure and Reliable Clone using HTML and CSS with a responsive layout,"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 61,
+          "verifyText": "smooth animations, and transitions to replicate the original WhatsApp user interface.",
+          "wordDiff": {
+            "added": [
+              "smooth animations, and transitions to replicate the original WhatsApp user interface."
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 62,
+          "verifyText": "— Get Youtube Prime Page Clone",
+          "wordDiff": {
+            "added": [
+              "— Get Youtube Prime Page Clone"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 63,
+          "verifyText": "Banglore",
+          "wordDiff": {
+            "added": [
+              "Banglore"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 64,
+          "verifyText": "Feb 2026 – Mar 2026",
+          "wordDiff": {
+            "added": [
+              "Feb 2026 – Mar 2026"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 65,
+          "verifyText": "• Developed a YouTube Prime Page Clone using HTML and CSS, featuring a responsive layout, modern",
+          "wordDiff": {
+            "added": [
+              "• Developed a YouTube Prime Page Clone using HTML and CSS, featuring a responsive layout, modern"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 66,
+          "verifyText": "UI design, and smooth transitions similar to the original YouTube interface.",
+          "wordDiff": {
+            "added": [
+              "UI design, and smooth transitions similar to the original YouTube interface."
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 67,
+          "verifyText": "CERTIFICATIONS",
+          "wordDiff": {
+            "added": [
+              "CERTIFICATIONS"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 68,
+          "verifyText": "Internet of Things — INFOSYS",
+          "wordDiff": {
+            "added": [
+              "Internet of Things — INFOSYS"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 69,
+          "verifyText": "Remote",
+          "wordDiff": {
+            "added": [
+              "Remote"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 70,
+          "verifyText": "Aug 2025 – Nov 2025",
+          "wordDiff": {
+            "added": [
+              "Aug 2025 – Nov 2025"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 71,
+          "verifyText": "The Complete Web Development Training Courses | Web Design Courses —",
+          "wordDiff": {
+            "added": [
+              "The Complete Web Development Training Courses | Web Design Courses —"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 72,
+          "verifyText": "INFOSYS",
+          "wordDiff": {
+            "added": [
+              "INFOSYS"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 73,
+          "verifyText": "Remote",
+          "wordDiff": {
+            "added": [
+              "Remote"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 74,
+          "verifyText": "Nov 2024 – Dec 2024",
+          "wordDiff": {
+            "added": [
+              "Nov 2024 – Dec 2024"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 75,
+          "verifyText": "Build your own Generative AI Model — NXT WAVE",
+          "wordDiff": {
+            "added": [
+              "Build your own Generative AI Model — NXT WAVE"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 76,
+          "verifyText": "Remote",
+          "wordDiff": {
+            "added": [
+              "Remote"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 77,
+          "verifyText": "Data Structures and Algorithms using Java — INFOSYS",
+          "wordDiff": {
+            "added": [
+              "Data Structures and Algorithms using Java — INFOSYS"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 78,
+          "verifyText": "Remote",
+          "wordDiff": {
+            "added": [
+              "Remote"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 79,
+          "verifyText": "Database and SQL — INFOSYS",
+          "wordDiff": {
+            "added": [
+              "Database and SQL — INFOSYS"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 80,
+          "verifyText": "Remote",
+          "wordDiff": {
+            "added": [
+              "Remote"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 81,
+          "verifyText": "Oct 2024 – Oct 2024",
+          "wordDiff": {
+            "added": [
+              "Oct 2024 – Oct 2024"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 82,
+          "verifyText": "Jun 2024 – Jul 2024",
+          "wordDiff": {
+            "added": [
+              "Jun 2024 – Jul 2024"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 83,
+          "verifyText": "May 2024 – Jun 2024",
+          "wordDiff": {
+            "added": [
+              "May 2024 – Jun 2024"
+            ],
+            "removed": []
+          }
+        },
+        {
+          "originalLine": null,
+          "originalText": "",
+          "type": "modified",
+          "verifyLine": 84,
+          "verifyText": "Powered by xcelerator",
+          "wordDiff": {
+            "added": [
+              "Powered by xcelerator"
+            ],
+            "removed": []
+          }
+        }
+      ],
+      "model": "tfidf-cosine",
+      "similarity": 59.66,
+      "summary": {
+        "added": 0,
+        "matches": 6,
+        "modified": 112,
+        "removed": 2,
+        "totalOriginalLines": 73,
+        "totalVerifyLines": 84
+      },
+      "textStats": {
+        "originalCharacters": 2224,
+        "originalLines": 73,
+        "verifyCharacters": 3225,
+        "verifyLines": 84
+      },
+      "truncated": true
+    },
+    "date": "2026-04-07T20:47:04.767Z"
   }
 ]

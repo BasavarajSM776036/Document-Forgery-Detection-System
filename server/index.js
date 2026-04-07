@@ -134,7 +134,7 @@ function saveUserHash(username, storedFileName, hash) {
 
 
 
-app.post("/upload-original", (req, res) => {
+const handleOriginalUpload = (req, res) => {
   const upload = uploadOriginal.single("file");
   upload(req, res, async (err) => {
     if (err) return res.status(500).json({ error: err.message });
@@ -163,10 +163,14 @@ app.post("/upload-original", (req, res) => {
       saveUserHistory(username, record);
       res.json({ message: "✅ Original document uploaded", ...record });
     } catch (e) {
+      console.log(e);
       res.status(500).json({ error: "Failed to upload file" });
     }
   });
-});
+};
+
+app.post("/upload-original", handleOriginalUpload);
+app.post("/upload", handleOriginalUpload);
 
 
 
