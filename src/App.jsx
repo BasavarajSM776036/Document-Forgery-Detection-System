@@ -1,8 +1,8 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import HomePage from "./pages/Homepage";
-import UploadPage from "./pages/UploadPage";
-import LoginPage from "./pages/LoginPage";
+import Homepage from "./pages/Homepage.jsx";
+import UploadPage from "./pages/UploadPage.jsx";
+import LoginPage from "./pages/LoginPage.jsx";
 import Dashboard from "./pages/Dashboard";
 import Navbar from "./components/Navbar";
 import LearnMore from "./pages/LearnMore";  // ✅ NEW
@@ -28,7 +28,7 @@ function App() {
         <Navbar /> {/* Always visible */}
         <Routes>
           {/* Public pages */}
-          <Route path="/" element={<HomePage />} />
+          <Route path="/" element={<Homepage />} />
           <Route path="/learn-more" element={<LearnMore />} />   {/* ✅ Added */}
           <Route path="/login" element={<LoginPage />} />
 

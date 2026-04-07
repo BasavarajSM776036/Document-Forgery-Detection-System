@@ -1,5 +1,3 @@
-
-
 import React, { useState, useEffect, useContext } from "react";
 import axios from "axios";
 import "../styles/UploadPage.css";
@@ -60,8 +58,7 @@ export default function UploadPage() {
       fd.append("username", user.username);
       fd.append("file", file);
 
-      const endpoint =
-        type === "original" ? "/upload-original" : "/verify";
+      const endpoint = type === "original" ? "/upload-original" : "/verify";
       const res = await axios.post(`${SERVER}${endpoint}`, fd);
 
       if (type === "original") setOriginalResult(res.data);
@@ -84,7 +81,10 @@ export default function UploadPage() {
           {/* Original Upload */}
           <div className="upload-card">
             <h3>📄 Upload Original Document</h3>
-            <input type="file" onChange={(e) => handleFileSelect("original", e)} />
+            <input
+              type="file"
+              onChange={(e) => handleFileSelect("original", e)}
+            />
             {originalPreview && (
               <img src={originalPreview} alt="Preview" className="preview-img" />
             )}
@@ -101,8 +101,12 @@ export default function UploadPage() {
 
             {originalResult && (
               <div className="result-box success">
-                <p><b>Stored as:</b> {originalResult.storedAs}</p>
-                <p><b>Hash:</b> {originalResult.hash}</p>
+                <p>
+                  <b>Stored as:</b> {originalResult.storedAs}
+                </p>
+                <p>
+                  <b>Hash:</b> {originalResult.hash}
+                </p>
                 <p>
                   <b>View:</b>{" "}
                   <a href={originalResult.url} target="_blank" rel="noreferrer">
@@ -113,10 +117,12 @@ export default function UploadPage() {
             )}
           </div>
 
-         
           <div className="upload-card">
             <h3>🔍 Verify Document Authenticity</h3>
-            <input type="file" onChange={(e) => handleFileSelect("verify", e)} />
+            <input
+              type="file"
+              onChange={(e) => handleFileSelect("verify", e)}
+            />
             {verifyPreview && (
               <img src={verifyPreview} alt="Preview" className="preview-img" />
             )}
@@ -137,8 +143,12 @@ export default function UploadPage() {
                   verifyResult.status === "Original" ? "success" : "danger"
                 }`}
               >
-                <p><b>Result:</b> {verifyResult.status}</p>
-                <p><b>Similarity:</b> {verifyResult.similarity || "—"}</p>
+                <p>
+                  <b>Result:</b> {verifyResult.status}
+                </p>
+                <p>
+                  <b>Similarity:</b> {verifyResult.similarity || "—"}
+                </p>
                 <p>
                   <b>Uploaded file:</b>{" "}
                   <a href={verifyResult.url} target="_blank" rel="noreferrer">
@@ -148,7 +158,11 @@ export default function UploadPage() {
                 {verifyResult.matchedOriginal && (
                   <p>
                     <b>Matched original:</b>{" "}
-                    <a href={verifyResult.matchedOriginal} target="_blank" rel="noreferrer">
+                    <a
+                      href={verifyResult.matchedOriginal}
+                      target="_blank"
+                      rel="noreferrer"
+                    >
                       Open
                     </a>
                   </p>
@@ -187,11 +201,10 @@ export default function UploadPage() {
                       <div className="line-diff-list">
                         {limitedLineAnalysis
                           .filter((line) => {
-                            
                             const hasReadableText = (text) => {
                               if (!text || text.length < 3) return false;
                               const alphaCount = (text.match(/[a-zA-Z]/g) || []).length;
-                              return alphaCount >= text.length * 0.3; 
+                              return alphaCount >= text.length * 0.3;
                             };
                             return (
                               hasReadableText(line.originalText) ||
@@ -205,7 +218,9 @@ export default function UploadPage() {
                             >
                               <div className="line-diff-header">
                                 <div className="line-content">
-                                  <small className="line-label">Original #{line.originalLine ?? "—"}</small>
+                                  <small className="line-label">
+                                    Original #{line.originalLine ?? "—"}
+                                  </small>
                                   <p className="line-text original">
                                     {line.originalText && line.originalText.length > 150
                                       ? `${line.originalText.substring(0, 150)}...`
@@ -213,7 +228,9 @@ export default function UploadPage() {
                                   </p>
                                 </div>
                                 <div className="line-content">
-                                  <small className="line-label">Verified #{line.verifyLine ?? "—"}</small>
+                                  <small className="line-label">
+                                    Verified #{line.verifyLine ?? "—"}
+                                  </small>
                                   <p className="line-text verify">
                                     {line.verifyText && line.verifyText.length > 150
                                       ? `${line.verifyText.substring(0, 150)}...`
@@ -250,7 +267,9 @@ export default function UploadPage() {
                           ))}
                       </div>
                     ) : (
-                      <p className="analysis-empty">No meaningful textual differences detected.</p>
+                      <p className="analysis-empty">
+                        No meaningful textual differences detected.
+                      </p>
                     )}
                     {lineAnalysis.length > MAX_ANALYSIS_ROWS && (
                       <p className="analysis-note">

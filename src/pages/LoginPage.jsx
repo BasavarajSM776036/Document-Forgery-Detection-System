@@ -28,7 +28,7 @@ const LoginPage = () => {
     );
 
     if (foundUser) {
-      login(username); 
+      login(username);
       navigate("/upload");
     } else {
       alert("Invalid credentials! Please try again.");

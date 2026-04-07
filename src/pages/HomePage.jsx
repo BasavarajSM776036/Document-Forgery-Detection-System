@@ -89,7 +89,7 @@ import { Link } from "react-router-dom";
 import { useAuth } from "../context/AuthContext"; 
  import "../styles/home.css";
 
-const HomePage = () => {
+const Homepage = () => {
   const { isLoggedIn } = useAuth(); 
 
   return (
@@ -170,4 +170,4 @@ const HomePage = () => {
   );
 };
 
-export default HomePage;
+export default Homepage;
