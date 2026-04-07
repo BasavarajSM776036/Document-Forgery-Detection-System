@@ -1,6 +1,6 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import Homepage from "./pages/Homepage.jsx";
+import HomePage from "./pages/HomePage.jsx";
 import UploadPage from "./pages/UploadPage.jsx";
 import LoginPage from "./pages/LoginPage.jsx";
 import Dashboard from "./pages/Dashboard";
@@ -28,7 +28,7 @@ function App() {
         <Navbar /> {/* Always visible */}
         <Routes>
           {/* Public pages */}
-          <Route path="/" element={<Homepage />} />
+          <Route path="/" element={<HomePage />} />
           <Route path="/learn-more" element={<LearnMore />} />   {/* ✅ Added */}
           <Route path="/login" element={<LoginPage />} />
 
